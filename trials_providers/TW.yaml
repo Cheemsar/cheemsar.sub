@@ -17,6 +17,11 @@ proxies:
 - {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 0d20d492-f0ed-4ac0-ab36-75791627171e, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 0d20d492-f0ed-4ac0-ab36-75791627171e, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 0d20d492-f0ed-4ac0-ab36-75791627171e, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17629, type: trojan, password: 392a2e9a-01d3-322e-95dc-488f70bdd1a6, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 59021, type: trojan, password: 392a2e9a-01d3-322e-95dc-488f70bdd1a6, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 21247, type: trojan, password: 392a2e9a-01d3-322e-95dc-488f70bdd1a6, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 33323, type: trojan, password: 392a2e9a-01d3-322e-95dc-488f70bdd1a6, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 36821, type: trojan, password: 392a2e9a-01d3-322e-95dc-488f70bdd1a6, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gzdx.jcnode.top, port: 42001, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gzdx01.jcnode.top, port: 42001, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-05 - FastFly, server: gzdx.jcnode.top, port: 42000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}

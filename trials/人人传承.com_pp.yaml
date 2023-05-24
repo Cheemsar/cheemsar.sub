@@ -28,37 +28,14 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 🇭🇰 香港1 - OverWall
-  - 🇭🇰 香港2 - OverWall
-  - 🇭🇰 香港3 - OverWall
-  - 🇭🇰 香港4 - OverWall
-  - 🇭🇰 香港5 - OverWall
-  - 🇹🇼 台湾直连 - OverWall
-  - 🇹🇼 台湾1 - OverWall
-  - 🇹🇼 台湾2 - OverWall
-  - 🇸🇬 新加坡1 - OverWall
-  - 🇸🇬 新加坡2 - OverWall
-  - 🇸🇬 新加坡3 - OverWall
-  - 🇸🇬 新加坡4 - OverWall
-  - 🇸🇬 新加坡5 - OverWall
-  - 🇯🇵 日本1 - OverWall
-  - 🇯🇵 日本2 - OverWall
-  - 🇯🇵 日本3 - OverWall
-  - 🇺🇸 美国1 - OverWall
-  - 🇺🇸 美国2 - OverWall
-  - 🇺🇸 美国3 - OverWall
-  - 🇺🇸 美国4 - OverWall
-  - 🇺🇸 美国5 - OverWall
-  - 🇰🇷 韩国1 - OverWall
-  - 🇬🇧 英国 - OverWall
-  - 🇷🇺 俄罗斯 - OverWall
-  - 🇮🇳 印度 - OverWall
-  - 🇹🇷 土耳其 - OverWall
-  - 🇦🇷 阿根廷 - OverWall
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -107,133 +84,119 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id002
-  - 🇭🇰 香港1 - OverWall
-  - 🇭🇰 香港2 - OverWall
-  - 🇭🇰 香港3 - OverWall
-  - 🇭🇰 香港4 - OverWall
-  - 🇭🇰 香港5 - OverWall
+  use: &id002
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id003
-  - 🇹🇼 台湾直连 - OverWall
-  - 🇹🇼 台湾1 - OverWall
-  - 🇹🇼 台湾2 - OverWall
+  use: &id003
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id004
-  - 🇭🇰 香港1 - OverWall
-  - 🇭🇰 香港2 - OverWall
-  - 🇭🇰 香港3 - OverWall
-  - 🇭🇰 香港4 - OverWall
-  - 🇭🇰 香港5 - OverWall
-  - 🇹🇼 台湾直连 - OverWall
-  - 🇹🇼 台湾1 - OverWall
-  - 🇹🇼 台湾2 - OverWall
+  use: &id004
+  - HK
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id005
-  - 🇸🇬 新加坡1 - OverWall
-  - 🇸🇬 新加坡2 - OverWall
-  - 🇸🇬 新加坡3 - OverWall
-  - 🇸🇬 新加坡4 - OverWall
-  - 🇸🇬 新加坡5 - OverWall
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id006
-  - 🇯🇵 日本1 - OverWall
-  - 🇯🇵 日本2 - OverWall
-  - 🇯🇵 日本3 - OverWall
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id007
-  - 🇺🇸 美国1 - OverWall
-  - 🇺🇸 美国2 - OverWall
-  - 🇺🇸 美国3 - OverWall
-  - 🇺🇸 美国4 - OverWall
-  - 🇺🇸 美国5 - OverWall
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id008
-  - 🇰🇷 韩国1 - OverWall
-  - 🇬🇧 英国 - OverWall
-  - 🇷🇺 俄罗斯 - OverWall
-  - 🇮🇳 印度 - OverWall
-  - 🇹🇷 土耳其 - OverWall
-  - 🇦🇷 阿根廷 - OverWall
+  use: &id008
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id004
+  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: 🇹🇼 台湾直连 - OverWall, server: twmoe.overw.cc, port: 20050, type: vmess, uuid: 19364ece-2adb-4afe-9349-6ce61a0c53b3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /tttwww, headers: {Host: twmoe.overw.cc}}, udp: true}
-- {name: 🇭🇰 香港1 - OverWall, server: gd.ooww.pw, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇭🇰 香港2 - OverWall, server: gd.ooww.pw, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇭🇰 香港3 - OverWall, server: gd.ooww.pw, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇭🇰 香港4 - OverWall, server: gd.ooww.pw, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇭🇰 香港5 - OverWall, server: gd.ooww.pw, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇹🇼 台湾1 - OverWall, server: sh.ooww.pw, port: 10061, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇹🇼 台湾2 - OverWall, server: sh.ooww.pw, port: 10062, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇯🇵 日本1 - OverWall, server: sh.ooww.pw, port: 20055, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇯🇵 日本2 - OverWall, server: sh.ooww.pw, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇯🇵 日本3 - OverWall, server: sh.ooww.pw, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇰🇷 韩国1 - OverWall, server: gd.ooww.pw, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇸🇬 新加坡1 - OverWall, server: gd.ooww.pw, port: 10081, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇸🇬 新加坡2 - OverWall, server: gd.ooww.pw, port: 10082, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇸🇬 新加坡3 - OverWall, server: gd.ooww.pw, port: 10083, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇸🇬 新加坡4 - OverWall, server: gd.ooww.pw, port: 10084, type: ss, cipher: aes-128-gcm, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇸🇬 新加坡5 - OverWall, server: gd.ooww.pw, port: 10085, type: ss, cipher: aes-128-gcm, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇺🇸 美国1 - OverWall, server: gd.ooww.pw, port: 20056, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇺🇸 美国2 - OverWall, server: gd.ooww.pw, port: 20054, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇺🇸 美国3 - OverWall, server: gd.ooww.pw, port: 20059, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇺🇸 美国4 - OverWall, server: gd.ooww.pw, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇺🇸 美国5 - OverWall, server: gd.ooww.pw, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇬🇧 英国 - OverWall, server: gd.ooww.pw, port: 20057, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇷🇺 俄罗斯 - OverWall, server: gd.ooww.pw, port: 20058, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇮🇳 印度 - OverWall, server: gd.ooww.pw, port: 10020, type: ss, cipher: aes-128-gcm, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇹🇷 土耳其 - OverWall, server: gd.ooww.pw, port: 10091, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇦🇷 阿根廷 - OverWall, server: gd.ooww.pw, port: 10100, type: ss, cipher: aes-128-gcm, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/HK.yaml
+    interval: 180
+    path: trials_providers/人人传承.com/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/TW.yaml
+    interval: 180
+    path: trials_providers/人人传承.com/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/SG.yaml
+    interval: 180
+    path: trials_providers/人人传承.com/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/JP.yaml
+    interval: 180
+    path: trials_providers/人人传承.com/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/US.yaml
+    interval: 180
+    path: trials_providers/人人传承.com/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/Other.yaml
+    interval: 180
+    path: trials_providers/人人传承.com/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
