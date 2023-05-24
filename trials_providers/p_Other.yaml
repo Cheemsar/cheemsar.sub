@@ -1,11 +1,12 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 距离下次重置剩余：30 天 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🌎 官网：overwall.run - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 📢 提示：使用前请更新订阅 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 246a3dac-180f-335a-be36-6c2ca1812b44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 246a3dac-180f-335a-be36-6c2ca1812b44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.tv - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：7 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：6 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}

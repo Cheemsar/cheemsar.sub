@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 距离下次重置剩余：30 天 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🌎 官网：overwall.run - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 📢 提示：使用前请更新订阅 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
