@@ -30,43 +30,12 @@ proxy-groups:
   type: url-test
   tolerance: 50
   use: &id001
-  - p_All_HK_CN
-  - p_All_TW_CN
-  - p_All_JP
-  - p_All_SG
-  - p_All_US
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
   - p_All_Other
-  - p_All_All_All_JP_JP_JP
-  - p_All_All_All_JP_JP_JP
-  - p_All_All_All_JP_JP_JP
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_SG_SG_SG
-  - p_All_All_All_SG_SG_SG
-  - p_All_All_All_SG_SG_SG
-  - p_All_All_All_US_US_US
-  - p_All_All_All_US_US_US
-  - p_All_All_All_US_US_US
-  - p_All_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_US_US
-  - p_All_All_US_US
-  - p_All_All_JP_JP
-  - p_All_All_JP_JP
-  - p_All_All_SG_SG
-  - p_All_All_SG_SG
-  - p_All_All_Other_Other
-  - p_All_All_Other_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -117,84 +86,38 @@ proxy-groups:
   type: url-test
   tolerance: 50
   use: &id002
-  - p_All_HK_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
   tolerance: 50
   use: &id003
-  - p_All_TW_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
   tolerance: 50
   use: &id004
-  - p_All_HK_CN
-  - p_All_TW_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_All_All_TW_TW_TW_CN_CN_CN
-  - p_All_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
+  - HK
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
   tolerance: 50
   use: &id005
-  - p_All_SG
-  - p_All_All_All_SG_SG_SG
-  - p_All_All_All_SG_SG_SG
-  - p_All_All_All_SG_SG_SG
-  - p_All_All_SG_SG
-  - p_All_All_SG_SG
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
   tolerance: 50
   use: &id006
-  - p_All_JP
-  - p_All_All_All_JP_JP_JP
-  - p_All_All_All_JP_JP_JP
-  - p_All_All_All_JP_JP_JP
-  - p_All_All_JP_JP
-  - p_All_All_JP_JP
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 50
   use: &id007
-  - p_All_US
-  - p_All_All_All_US_US_US
-  - p_All_All_All_US_US_US
-  - p_All_All_All_US_US_US
-  - p_All_All_US_US
-  - p_All_All_US_US
+  - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 50
   use: &id008
   - p_All_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_Other_Other
-  - p_All_All_Other_Other
-  - p_Other_Other_Other
-  - p_Other_Other_Other
-  - p_Other_Other_Other
-  - p_Other_Other
-  - p_Other_Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -220,191 +143,56 @@ proxy-groups:
   type: select
   use: *id008
 proxy-providers:
-  p_All_HK_CN:
+  HK:
     type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_HK_CN.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/HK.yaml
     interval: 180
-    path: trials_providers/p_All_HK_CN.yaml
+    path: trials_providers/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_TW_CN:
+  TW:
     type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_TW_CN.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/TW.yaml
     interval: 180
-    path: trials_providers/p_All_TW_CN.yaml
+    path: trials_providers/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_JP:
+  SG:
     type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_JP.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/SG.yaml
     interval: 180
-    path: trials_providers/p_All_JP.yaml
+    path: trials_providers/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_SG:
+  JP:
     type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_SG.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/JP.yaml
     interval: 180
-    path: trials_providers/p_All_SG.yaml
+    path: trials_providers/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_US:
+  US:
     type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_US.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/US.yaml
     interval: 180
-    path: trials_providers/p_All_US.yaml
+    path: trials_providers/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_Other.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/p_All_Other.yaml
     interval: 180
     path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_JP_JP_JP:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_All_JP_JP_JP.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_JP_JP_JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_HK_HK_HK_CN_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_All_HK_HK_HK_CN_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_HK_HK_HK_CN_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_TW_TW_TW_CN_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_All_TW_TW_TW_CN_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_TW_TW_TW_CN_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_All_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_Other_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_SG_SG_SG:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_All_SG_SG_SG.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_SG_SG_SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_US_US_US:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_All_US_US_US.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_US_US_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_CN:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_HK_HK_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_HK_HK_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_HK_HK_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_TW_TW_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_TW_TW_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_TW_TW_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_US_US:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_US_US.yaml
-    interval: 180
-    path: trials_providers/p_All_All_US_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_JP_JP:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_JP_JP.yaml
-    interval: 180
-    path: trials_providers/p_All_All_JP_JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_SG_SG:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_SG_SG.yaml
-    interval: 180
-    path: trials_providers/p_All_All_SG_SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_All_All_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_Other_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/appengine1995/sub1/main/trials_providers/p_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_Other_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -7250,6 +7038,8 @@ rules:
 - IP-CIDR,119.235.236.0/23,✈️ ‍起飞,no-resolve
 - IP-CIDR,147.92.128.0/17,✈️ ‍起飞,no-resolve
 - IP-CIDR,203.104.128.0/19,✈️ ‍起飞,no-resolve
+- DOMAIN,cloud.oracle.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,oraclecloud.com,✈️ ‍起飞
 - DOMAIN-KEYWORD,1drv,✈️ ‍起飞
 - DOMAIN-KEYWORD,onedrive,✈️ ‍起飞
 - DOMAIN-KEYWORD,skydrive,✈️ ‍起飞
@@ -7598,36 +7388,101 @@ rules:
 - DOMAIN-KEYWORD,announce,🛩️ ‍墙内
 - DOMAIN-KEYWORD,torrent,🛩️ ‍墙内
 - DOMAIN-KEYWORD,tracker,🛩️ ‍墙内
+- DOMAIN-SUFFIX,52pt.site,🛩️ ‍墙内
+- DOMAIN-SUFFIX,aidoru-online.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,alpharatio.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,animebytes.tv,🛩️ ‍墙内
+- DOMAIN-SUFFIX,anthelion.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,asiancinema.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,audiences.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,avgv.cc,🛩️ ‍墙内
+- DOMAIN-SUFFIX,avistaz.to,🛩️ ‍墙内
 - DOMAIN-SUFFIX,awesome-hd.me,🛩️ ‍墙内
 - DOMAIN-SUFFIX,beitai.pt,🛩️ ‍墙内
+- DOMAIN-SUFFIX,beyond-hd.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,bibliotik.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,blutopia.xyz,🛩️ ‍墙内
 - DOMAIN-SUFFIX,broadcasthe.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,btschool.club,🛩️ ‍墙内
+- DOMAIN-SUFFIX,byr.pt,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ccfbits.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,cgpeers.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,chdbits.co,🛩️ ‍墙内
+- DOMAIN-SUFFIX,cinemageddon.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,cinematik.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,cinemaz.to,🛩️ ‍墙内
+- DOMAIN-SUFFIX,concertos.live,🛩️ ‍墙内
+- DOMAIN-SUFFIX,dicmusic.club,🛩️ ‍墙内
+- DOMAIN-SUFFIX,discfan.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,dxdhd.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,eastgame.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,et8.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,exoticaz.to,🛩️ ‍墙内
+- DOMAIN-SUFFIX,filelist.io,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gainbound.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,gazellegames.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gfxpeers.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hd-space.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hd4.xyz,🛩️ ‍墙内
 - DOMAIN-SUFFIX,hd4fans.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdarea.co,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdatmos.club,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdbits.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,hdchina.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdcity.city,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hddolby.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdfans.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,hdhome.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdpost.top,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdroute.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,hdsky.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdstreet.club,🛩️ ‍墙内
 - DOMAIN-SUFFIX,hdtime.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hdupt.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,hdzone.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hhanclub.top,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hitpt.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,hitpt.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,j99.info,🛩️ ‍墙内
+- DOMAIN-SUFFIX,joyhd.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,karagarga.in,🛩️ ‍墙内
 - DOMAIN-SUFFIX,keepfrds.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,landof.tv,🛩️ ‍墙内
 - DOMAIN-SUFFIX,leaguehd.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,lemonhd.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,lztr.me,🛩️ ‍墙内
 - DOMAIN-SUFFIX,m-team.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,madsrevolution.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,moecat.best,🛩️ ‍墙内
+- DOMAIN-SUFFIX,morethan.tv,🛩️ ‍墙内
 - DOMAIN-SUFFIX,msg.vg,🛩️ ‍墙内
+- DOMAIN-SUFFIX,myanonamouse.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,nanyangpt.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ncore.cc,🛩️ ‍墙内
+- DOMAIN-SUFFIX,nebulance.io,🛩️ ‍墙内
+- DOMAIN-SUFFIX,nicept.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,npupt.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,open.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppaiti.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,orpheus.network,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ourbits.club,🛩️ ‍墙内
 - DOMAIN-SUFFIX,passthepopcorn.me,🛩️ ‍墙内
 - DOMAIN-SUFFIX,privatehd.to,🛩️ ‍墙内
+- DOMAIN-SUFFIX,pterclub.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,pthome.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ptsbao.club,🛩️ ‍墙内
+- DOMAIN-SUFFIX,pttime.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,redacted.ch,🛩️ ‍墙内
+- DOMAIN-SUFFIX,sdbits.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,sharkpt.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,skyey2.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,soulvoice.club,🛩️ ‍墙内
 - DOMAIN-SUFFIX,springsunday.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,tjupt.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,tju.pt,🛩️ ‍墙内
+- DOMAIN-SUFFIX,tjupt.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,totheglory.im,🛩️ ‍墙内
 - DOMAIN-SUFFIX,trontv.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,uhdbits.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,teamviewer.com,🛩️ ‍墙内
 - IP-CIDR,139.220.243.27/32,🛩️ ‍墙内,no-resolve
 - IP-CIDR,185.188.32.1/28,🛩️ ‍墙内,no-resolve

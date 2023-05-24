@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 43000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 43000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 43002, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 43002, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}

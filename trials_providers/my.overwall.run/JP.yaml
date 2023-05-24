@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本1 - OverWall, server: sh.ooww.pw, port: 20055, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇯🇵 日本2 - OverWall, server: sh.ooww.pw, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇯🇵 日本3 - OverWall, server: sh.ooww.pw, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}

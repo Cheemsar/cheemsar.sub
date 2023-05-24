@@ -1,0 +1,71 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: dcec933e-a439-30d9-b701-238f84b1b56d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: dcec933e-a439-30d9-b701-238f84b1b56d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph1.netflix6.com, port: 31245, type: vmess, uuid: dcec933e-a439-30d9-b701-238f84b1b56d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.netflix6.com}}, udp: true}
+- {name: 🇰🇷 韩国1 - OverWall, server: gd.ooww.pw, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇬🇧 英国 - OverWall, server: gd.ooww.pw, port: 20057, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇷🇺 俄罗斯 - OverWall, server: gd.ooww.pw, port: 20058, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇮🇳 印度 - OverWall, server: gd.ooww.pw, port: 10020, type: ss, cipher: aes-128-gcm, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇹🇷 土耳其 - OverWall, server: gd.ooww.pw, port: 10091, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇦🇷 阿根廷 - OverWall, server: gd.ooww.pw, port: 10100, type: ss, cipher: aes-128-gcm, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: rlYaWkvs5DzO98Cb, udp: true}
+- {name: 🇲🇳 【I】蒙古 普通 A - MN - SockBoom, server: n170.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 782976:4PE9Rv, obfs-param: download.windowsupdate.com, udp: true}
+- {name: 🇰🇷 韩国 | 直连 - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5201, type: trojan, password: 1e213963-c692-4226-b077-61c28767685e, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国 | 直连2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5203, type: trojan, password: 1e213963-c692-4226-b077-61c28767685e, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|直连SS - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: 1e213963-c692-4226-b077-61c28767685e, udp: true}
+- {name: 🇰🇷 韩国|直连SS2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 1e213963-c692-4226-b077-61c28767685e, udp: true}
+- {name: 🇰🇷 韩国|高速2SS（会员） - BIUBIU FAST, server: 40f6e5ff910e16ecf0329dc3d124765600427269.szcu2.lele233.top, port: 26332, type: ss, cipher: chacha20-ietf-poly1305, password: 1e213963-c692-4226-b077-61c28767685e, udp: true}
+- {name: 🇰🇷 韩国 | 高速2（会员） - BIUBIU FAST, server: 40f6e5ff910e16ecf0329dc3d124765600427269.szcu2.lele233.top, port: 26331, type: trojan, password: 1e213963-c692-4226-b077-61c28767685e, sni: hg6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 10443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 20443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 30443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 40443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 50443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇬🇧 英国 101 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 10443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 102 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 20443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 103 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 30443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 104 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 40443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 105 - 墙了个墙, server: ukvip101.qlgq1.pw, port: 50443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: ukvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇦🇪 迪拜 001 - 墙了个墙, server: duvip001.qlgq1.pw, port: 10443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
+- {name: 🇦🇪 迪拜 002 - 墙了个墙, server: duvip001.qlgq1.pw, port: 20443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
+- {name: 🇦🇪 迪拜 003 - 墙了个墙, server: duvip001.qlgq1.pw, port: 30443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
+- {name: 🇰🇷 vip1 韩国-01 - FastFly, server: gzdx.jcnode.top, port: 44001, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 49003, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 vip2 越南-02 - FastFly, server: gzyd.jcnode.top, port: 49003, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 vip1 印度-01 - FastFly, server: gzdx.jcnode.top, port: 49000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 vip1 澳大利亚-01 - FastFly, server: gzdx.jcnode.top, port: 49001, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 vip1 德国-01 - FastFly, server: gzdx.jcnode.top, port: 49004, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 vip1 德国-02 - FastFly, server: de01.ckcloud.info, port: 21912, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 vip1 英国-03 - FastFly, server: gzdx.jcnode.top, port: 47000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 vip1 英国-04 - FastFly, server: gzyd.jcnode.top, port: 47000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: a6286676-7b25-4eb0-aa9b-944aaeba7074, udp: true}
+- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: a6286676-7b25-4eb0-aa9b-944aaeba7074, udp: true}
+- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: a6286676-7b25-4eb0-aa9b-944aaeba7074, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: a6286676-7b25-4eb0-aa9b-944aaeba7074, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: GER-1 - 小白云, server: ger1.iepl.cooc.icu, port: 47103, type: ss, cipher: aes-256-gcm, password: a6286676-7b25-4eb0-aa9b-944aaeba7074, udp: true}
+- {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: a6286676-7b25-4eb0-aa9b-944aaeba7074, udp: true}
+- {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: a6286676-7b25-4eb0-aa9b-944aaeba7074, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: a6286676-7b25-4eb0-aa9b-944aaeba7074, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22000, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 22000, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 27000, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 27000, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 25001, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 25001, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 26000, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 26000, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 29500, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 29500, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 29200, type: trojan, password: de2639d1-c459-49ba-9f40-030c0b676e5a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
