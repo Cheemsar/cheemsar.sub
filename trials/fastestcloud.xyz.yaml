@@ -65,7 +65,6 @@ proxy-groups:
   - 🇺🇸 vip1 美国-11 - FastFly
   - 🇺🇸 vip1 美国-14 - FastFly
   - 🇺🇸 vip1 美国-15 - FastFly
-  - 🇰🇷 vip1 韩国-01 - FastFly
   - 🇻🇳 vip1 越南-01 - FastFly
   - 🇻🇳 vip2 越南-02 - FastFly
   - 🇮🇳 vip1 印度-01 - FastFly
@@ -213,7 +212,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id008
-  - 🇰🇷 vip1 韩国-01 - FastFly
   - 🇻🇳 vip1 越南-01 - FastFly
   - 🇻🇳 vip2 越南-02 - FastFly
   - 🇮🇳 vip1 印度-01 - FastFly
@@ -247,7 +245,6 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇰🇷 vip1 韩国-01 - FastFly, server: gzdx.jcnode.top, port: 44001, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 49003, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip2 越南-02 - FastFly, server: gzyd.jcnode.top, port: 49003, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: gzdx.jcnode.top, port: 40004, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}

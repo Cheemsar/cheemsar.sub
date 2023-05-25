@@ -446,7 +446,6 @@ proxy-groups:
   - 🇦🇪 迪拜 001 - 墙了个墙
   - 🇦🇪 迪拜 002 - 墙了个墙
   - 🇦🇪 迪拜 003 - 墙了个墙
-  - 🇰🇷 vip1 韩国-01 - FastFly
   - 🇻🇳 vip1 越南-01 - FastFly
   - 🇻🇳 vip2 越南-02 - FastFly
   - 🇮🇳 vip1 印度-01 - FastFly
@@ -1186,7 +1185,6 @@ proxy-groups:
   - 🇦🇪 迪拜 001 - 墙了个墙
   - 🇦🇪 迪拜 002 - 墙了个墙
   - 🇦🇪 迪拜 003 - 墙了个墙
-  - 🇰🇷 vip1 韩国-01 - FastFly
   - 🇻🇳 vip1 越南-01 - FastFly
   - 🇻🇳 vip2 越南-02 - FastFly
   - 🇮🇳 vip1 印度-01 - FastFly
@@ -1548,7 +1546,6 @@ proxies:
 - {name: 🇭🇰 香港 108 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 30443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
 - {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 40443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
 - {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip103.qlgq1.pw, port: 50443, type: trojan, password: bb6a0924-8723-3641-a16b-1b6d20781b06, sni: hkvip103.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 🇰🇷 vip1 韩国-01 - FastFly, server: gzdx.jcnode.top, port: 44001, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 49003, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip2 越南-02 - FastFly, server: gzyd.jcnode.top, port: 49003, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: gzdx.jcnode.top, port: 40004, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}

@@ -2,7 +2,6 @@
 ---
 proxies:
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 vip1 韩国-01 - FastFly, server: gzdx.jcnode.top, port: 44001, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 49003, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip2 越南-02 - FastFly, server: gzyd.jcnode.top, port: 49003, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 vip1 印度-01 - FastFly, server: gzdx.jcnode.top, port: 49000, type: trojan, password: c08af86e-a747-4160-bf29-acca9a55d144, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
