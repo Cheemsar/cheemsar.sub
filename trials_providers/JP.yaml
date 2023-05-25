@@ -12,7 +12,7 @@ proxies:
 - {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: kOvSRBBAgLG1Top8, udp: true}
 - {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: kOvSRBBAgLG1Top8, udp: true}
 - {name: 🇯🇵 日本05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: kOvSRBBAgLG1Top8, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 265d845c-984a-491a-ab07-44bf37bfaf39, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 7c9dde4f-5bbf-4b96-8916-cbf6a0e69ad1, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom, server: jp1.boom.skin, port: 30000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 784061:VccDt1, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom, server: jp2.boom.skin, port: 31000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 784061:VccDt1, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom, server: jp3.boom.skin, port: 32000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 784061:VccDt1, obfs-param: download.windowsupdate.com, udp: true}
