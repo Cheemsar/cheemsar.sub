@@ -11,8 +11,8 @@ proxies:
 - {name: 🇹🇼 台湾直连 - OverWall, server: twmoe.overw.cc, port: 20050, type: vmess, uuid: 19364ece-2adb-4afe-9349-6ce61a0c53b3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /tttwww, headers: {Host: twmoe.overw.cc}}, udp: true}
 - {name: 🇹🇼 台湾1 - OverWall, server: sh.ooww.pw, port: 10061, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇹🇼 台湾2 - OverWall, server: sh.ooww.pw, port: 10062, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: KgAvQOSZPaCTnuUS, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: KgAvQOSZPaCTnuUS, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 9HZjJAbM0jZpbzR1, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 9HZjJAbM0jZpbzR1, udp: true}
 - {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: d0a91640-ec1d-4cf5-8a40-6ee0195e2331, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: d0a91640-ec1d-4cf5-8a40-6ee0195e2331, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: d0a91640-ec1d-4cf5-8a40-6ee0195e2331, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
