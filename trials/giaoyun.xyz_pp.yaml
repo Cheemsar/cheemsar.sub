@@ -15,12 +15,14 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -30,6 +32,7 @@ proxy-groups:
   - TW
   - SG
   - JP
+  - US
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -57,6 +60,8 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 👆🏻🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -98,6 +103,11 @@ proxy-groups:
   tolerance: 50
   use: &id006
   - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 50
+  use: &id007
+  - US
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -116,6 +126,9 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id007
 proxy-providers:
   HK:
     type: http
@@ -149,6 +162,15 @@ proxy-providers:
     url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/giaoyun.xyz/JP.yaml
     interval: 180
     path: trials_providers/giaoyun.xyz/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/giaoyun.xyz/US.yaml
+    interval: 180
+    path: trials_providers/giaoyun.xyz/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

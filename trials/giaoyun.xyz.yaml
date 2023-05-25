@@ -15,12 +15,14 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -42,6 +44,7 @@ proxy-groups:
   - 🇹🇼 台湾3 - giao云
   - 🇸🇬 新加坡8 - giao云
   - 🇯🇵 日本 - giao云
+  - 🇺🇸 美国 - giao云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -69,6 +72,8 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 👆🏻🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -140,6 +145,13 @@ proxy-groups:
   tolerance: 50
   proxies: &id006
   - 🇯🇵 日本 - giao云
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id007
+  - 🇺🇸 美国 - giao云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -158,9 +170,13 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
 proxies:
 - {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 443, type: trojan, password: 7c9dde4f-5bbf-4b96-8916-cbf6a0e69ad1, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡8 - giao云, server: 518uhddk.tfzhc.top, port: 443, type: trojan, password: 7c9dde4f-5bbf-4b96-8916-cbf6a0e69ad1, sni: 518uhddk.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 7c9dde4f-5bbf-4b96-8916-cbf6a0e69ad1, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港7 - giao云, server: 51hk.mgmg.club, port: 44339, type: trojan, password: 7c9dde4f-5bbf-4b96-8916-cbf6a0e69ad1, sni: 51hk.mgmg.club, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 26437, type: trojan, password: 7c9dde4f-5bbf-4b96-8916-cbf6a0e69ad1, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港6 - giao云, server: 428hk.mgmg.club, port: 4433, type: trojan, password: 7c9dde4f-5bbf-4b96-8916-cbf6a0e69ad1, sni: 428hk.mgmg.club, skip-cert-verify: true, udp: true}
