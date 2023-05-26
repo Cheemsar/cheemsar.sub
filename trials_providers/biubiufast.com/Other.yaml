@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国 | 直连 - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5201, type: trojan, password: f5ecf586-f5d7-4c7a-afa1-1fee0e19abe9, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国 | 直连2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5203, type: trojan, password: f5ecf586-f5d7-4c7a-afa1-1fee0e19abe9, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国|直连SS - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: f5ecf586-f5d7-4c7a-afa1-1fee0e19abe9, udp: true}
-- {name: 🇰🇷 韩国|直连SS2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: f5ecf586-f5d7-4c7a-afa1-1fee0e19abe9, udp: true}
-- {name: 🇰🇷 韩国|高速2SS（会员） - BIUBIU FAST, server: 62fbe7efee57a2f0839b5656b721655c67b68027.szcu1.zzcloud.top, port: 26332, type: ss, cipher: chacha20-ietf-poly1305, password: f5ecf586-f5d7-4c7a-afa1-1fee0e19abe9, udp: true}
-- {name: 🇰🇷 韩国 | 高速2（会员） - BIUBIU FAST, server: 62fbe7efee57a2f0839b5656b721655c67b68027.szcu1.zzcloud.top, port: 26331, type: trojan, password: f5ecf586-f5d7-4c7a-afa1-1fee0e19abe9, sni: hg6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国 | 直连 - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5201, type: trojan, password: f39f0fd6-8d13-4596-adf3-20df10f232f9, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国 | 直连2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5203, type: trojan, password: f39f0fd6-8d13-4596-adf3-20df10f232f9, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|直连SS - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: f39f0fd6-8d13-4596-adf3-20df10f232f9, udp: true}
+- {name: 🇰🇷 韩国|直连SS2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: f39f0fd6-8d13-4596-adf3-20df10f232f9, udp: true}
+- {name: 🇰🇷 韩国|高速2SS（会员） - BIUBIU FAST, server: 62fbe7efee57a2f0839b5656b721655c67b68027.szcu1.zzcloud.top, port: 26332, type: ss, cipher: chacha20-ietf-poly1305, password: f39f0fd6-8d13-4596-adf3-20df10f232f9, udp: true}
+- {name: 🇰🇷 韩国 | 高速2（会员） - BIUBIU FAST, server: 62fbe7efee57a2f0839b5656b721655c67b68027.szcu1.zzcloud.top, port: 26331, type: trojan, password: f39f0fd6-8d13-4596-adf3-20df10f232f9, sni: hg6.biubiufast.quest, skip-cert-verify: true, udp: true}

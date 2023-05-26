@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 41002, type: trojan, password: e2ccc2a3-5418-4c35-87f9-1c10a1294efb, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 41002, type: trojan, password: e2ccc2a3-5418-4c35-87f9-1c10a1294efb, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip3 日本-04 - FastFly, server: gzyd02.jcnode.top, port: 41002, type: trojan, password: e2ccc2a3-5418-4c35-87f9-1c10a1294efb, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-05 - FastFly, server: gzdx.jcnode.top, port: 41003, type: trojan, password: e2ccc2a3-5418-4c35-87f9-1c10a1294efb, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: gzyd.jcnode.top, port: 41003, type: trojan, password: e2ccc2a3-5418-4c35-87f9-1c10a1294efb, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 41002, type: trojan, password: a4a140e6-541b-42c2-ac5c-35082e44f48f, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 41002, type: trojan, password: a4a140e6-541b-42c2-ac5c-35082e44f48f, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip3 日本-04 - FastFly, server: gzyd02.jcnode.top, port: 41002, type: trojan, password: a4a140e6-541b-42c2-ac5c-35082e44f48f, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-05 - FastFly, server: gzdx.jcnode.top, port: 41003, type: trojan, password: a4a140e6-541b-42c2-ac5c-35082e44f48f, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: gzyd.jcnode.top, port: 41003, type: trojan, password: a4a140e6-541b-42c2-ac5c-35082e44f48f, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
