@@ -12,10 +12,10 @@ proxies:
 - {name: 🇺🇸 美国3 - OverWall, server: gd.ooww.pw, port: 20059, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇺🇸 美国4 - OverWall, server: gd.ooww.pw, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇺🇸 美国5 - OverWall, server: gd.ooww.pw, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 9HZjJAbM0jZpbzR1, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 9HZjJAbM0jZpbzR1, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 9HZjJAbM0jZpbzR1, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 9HZjJAbM0jZpbzR1, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: RRn65ZlcXIUrvZ8A, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: RRn65ZlcXIUrvZ8A, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: RRn65ZlcXIUrvZ8A, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: RRn65ZlcXIUrvZ8A, udp: true}
 - {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 54fe26aa-979e-4296-831f-0628f49b2127, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 【C】美国 普通 1 - CC - SockBoom, server: us1.edge.boom.skin, port: 40000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 784061:VccDt1, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 784061:VccDt1, obfs-param: download.windowsupdate.com, udp: true}
