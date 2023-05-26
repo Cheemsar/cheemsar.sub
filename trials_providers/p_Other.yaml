@@ -4,8 +4,8 @@ proxies:
 - {name: 距离下次重置剩余：28 天 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🌎 官网：overwall.run - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 📢 提示：使用前请更新订阅 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 0e3b6161-77d6-328f-a499-6517f85d5d44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 0e3b6161-77d6-328f-a499-6517f85d5d44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 72f7b925-3374-36cd-a858-fb7b891380d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 72f7b925-3374-36cd-a858-fb7b891380d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.tv - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: a4a140e6-541b-42c2-ac5c-35082e44f48f, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：4 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: dbf2c71d-c07c-404c-95a9-c961ecb0027b, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
