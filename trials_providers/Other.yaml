@@ -4,7 +4,7 @@ proxies:
 - {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: 4e63a779-f8e2-33eb-8a55-0fea0aca175d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: 4e63a779-f8e2-33eb-8a55-0fea0aca175d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph1.netflix6.com, port: 31245, type: vmess, uuid: 4e63a779-f8e2-33eb-8a55-0fea0aca175d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.netflix6.com}}, udp: true}
-- {name: 距离下次重置剩余：29 天 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 距离下次重置剩余：28 天 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🌎 官网：overwall.run - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 📢 提示：使用前请更新订阅 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇰🇷 韩国1 - OverWall, server: gd.ooww.pw, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
@@ -103,7 +103,7 @@ proxies:
 - {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, udp: true}
 - {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：5 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: dbf2c71d-c07c-404c-95a9-c961ecb0027b, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：4 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: dbf2c71d-c07c-404c-95a9-c961ecb0027b, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: dbf2c71d-c07c-404c-95a9-c961ecb0027b, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22000, type: trojan, password: dbf2c71d-c07c-404c-95a9-c961ecb0027b, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 22000, type: trojan, password: dbf2c71d-c07c-404c-95a9-c961ecb0027b, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
