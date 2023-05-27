@@ -11,11 +11,13 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -33,6 +35,8 @@ proxy-groups:
   - 🇭🇰 高速香港 | 高速香港（会员） - BIUBIU FAST
   - 🇭🇰 高速香港 | 高速香港4（会员） - BIUBIU FAST
   - 🇭🇰 高速香港 | 高速香港2（会员） - BIUBIU FAST
+  - 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST
+  - 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST
   - 🇯🇵 日本 | 直连 - BIUBIU FAST
   - 🇯🇵 日本 | 直连2 - BIUBIU FAST
   - 🇯🇵 日本|直连SS - BIUBIU FAST
@@ -47,6 +51,8 @@ proxy-groups:
   - 🇺🇸 美国 | 直连2 - BIUBIU FAST
   - 🇺🇸 美国|直连SS - BIUBIU FAST
   - 🇺🇸 美国|直连SS2 - BIUBIU FAST
+  - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST
+  - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST
   - 🇰🇷 韩国 | 直连 - BIUBIU FAST
   - 🇰🇷 韩国 | 直连2 - BIUBIU FAST
   - 🇰🇷 韩国|直连SS - BIUBIU FAST
@@ -78,8 +84,10 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -102,12 +110,20 @@ proxy-groups:
   - 🇭🇰 高速香港 | 高速香港（会员） - BIUBIU FAST
   - 🇭🇰 高速香港 | 高速香港4（会员） - BIUBIU FAST
   - 🇭🇰 高速香港 | 高速香港2（会员） - BIUBIU FAST
-- name: 🇯🇵 ‍日本
+- name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
+  - 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST
+  - 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
   - 🇯🇵 日本 | 直连 - BIUBIU FAST
   - 🇯🇵 日本 | 直连2 - BIUBIU FAST
   - 🇯🇵 日本|直连SS - BIUBIU FAST
@@ -123,17 +139,19 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
+  proxies: &id005
   - 🇺🇸 美国 | 直连 - BIUBIU FAST
   - 🇺🇸 美国 | 直连2 - BIUBIU FAST
   - 🇺🇸 美国|直连SS - BIUBIU FAST
   - 🇺🇸 美国|直连SS2 - BIUBIU FAST
+  - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST
+  - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id006
   - 🇰🇷 韩国 | 直连 - BIUBIU FAST
   - 🇰🇷 韩国 | 直连2 - BIUBIU FAST
   - 🇰🇷 韩国|直连SS - BIUBIU FAST
@@ -144,15 +162,18 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id004
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
 - {name: 🇰🇷 韩国 | 直连 - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5201, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国 | 直连2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5203, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, skip-cert-verify: true, udp: true}
@@ -174,8 +195,12 @@ proxies:
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 33236, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇯🇵 日本|高速日本SS4（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 42324, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇯🇵 日本|高速日本SS2（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 33332, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
+- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21332, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36332, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇭🇰 高速香港 | 高速香港（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 43241, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: hk5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 高速日本3（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 42321, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: jp4.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21331, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36331, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 高速香港 | 高速香港4（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 42333, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: hk6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 高速香港 | 高速香港2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 43243, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: hk6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本| 高速日本2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 42323, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: jp6.biubiufast.quest, skip-cert-verify: true, udp: true}
