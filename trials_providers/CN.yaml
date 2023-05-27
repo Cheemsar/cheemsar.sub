@@ -19,7 +19,7 @@ proxies:
 - {name: 🇭🇰 香港3 - OverWall, server: gd.ooww.pw, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇭🇰 香港4 - OverWall, server: gd.ooww.pw, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇭🇰 香港5 - OverWall, server: gd.ooww.pw, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇹🇼 台湾1 - OverWall, server: sh.ooww.pw, port: 10061, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
+- {name: 🇹🇼 台湾1 - OverWall, server: gd.ooww.pw, port: 10061, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇹🇼 台湾2 - OverWall, server: sh.ooww.pw, port: 10062, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇭🇰 香港01 - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: ioaq65ojar4QyRX3, udp: true}
 - {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: ioaq65ojar4QyRX3, udp: true}
