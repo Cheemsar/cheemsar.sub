@@ -285,12 +285,15 @@ proxy-groups:
   - 🇯🇵 【N】日本 普通 5 - Nerocloud - SockBoom
   - 🇯🇵 日本 | 直连 - BIUBIU FAST
   - 🇯🇵 日本 | 直连2 - BIUBIU FAST
+  - 🇯🇵 日本 | 直连3 - BIUBIU FAST
   - 🇯🇵 日本|直连SS - BIUBIU FAST
   - 🇯🇵 日本|直连SS2 - BIUBIU FAST
+  - 🇯🇵 日本|直连SS3 - BIUBIU FAST
   - 🇯🇵 日本|高速日本SS（会员） - BIUBIU FAST
   - 🇯🇵 日本|日本高速SS3（会员） - BIUBIU FAST
   - 🇯🇵 日本|高速日本SS4（会员） - BIUBIU FAST
   - 🇯🇵 日本|高速日本SS2（会员） - BIUBIU FAST
+  - 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST
   - 🇯🇵 日本 | 高速日本3（会员） - BIUBIU FAST
   - 🇯🇵 日本| 高速日本2（会员） - BIUBIU FAST
   - 🇯🇵 日本•软银260•高速 - 飞翔吧
@@ -1023,12 +1026,15 @@ proxy-groups:
   - 🇯🇵 【N】日本 普通 5 - Nerocloud - SockBoom
   - 🇯🇵 日本 | 直连 - BIUBIU FAST
   - 🇯🇵 日本 | 直连2 - BIUBIU FAST
+  - 🇯🇵 日本 | 直连3 - BIUBIU FAST
   - 🇯🇵 日本|直连SS - BIUBIU FAST
   - 🇯🇵 日本|直连SS2 - BIUBIU FAST
+  - 🇯🇵 日本|直连SS3 - BIUBIU FAST
   - 🇯🇵 日本|高速日本SS（会员） - BIUBIU FAST
   - 🇯🇵 日本|日本高速SS3（会员） - BIUBIU FAST
   - 🇯🇵 日本|高速日本SS4（会员） - BIUBIU FAST
   - 🇯🇵 日本|高速日本SS2（会员） - BIUBIU FAST
+  - 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST
   - 🇯🇵 日本 | 高速日本3（会员） - BIUBIU FAST
   - 🇯🇵 日本| 高速日本2（会员） - BIUBIU FAST
   - 🇯🇵 日本•软银260•高速 - 飞翔吧
@@ -1451,11 +1457,13 @@ proxies:
 - {name: 🇭🇰 香港| 直连 - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5203, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连 - BIUBIU FAST, server: jp4.biubiufast.quest, port: 5203, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连2 - BIUBIU FAST, server: jp6.biubiufast.quest, port: 5203, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 | 直连 - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5201, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 | 直连2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5203, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港|直连SS - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇯🇵 日本|直连SS - BIUBIU FAST, server: jp4.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇯🇵 日本|直连SS2 - BIUBIU FAST, server: jp6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇺🇸 美国|直连SS - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇺🇸 美国|直连SS2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇰🇷 韩国|直连SS - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
@@ -1469,6 +1477,7 @@ proxies:
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21332, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇭🇰 香港|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10222, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36332, type: ss, cipher: chacha20-ietf-poly1305, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10321, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 高速香港 | 高速香港（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 43241, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: hk5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 高速日本3（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 42321, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: jp4.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21331, type: trojan, password: 80ec935b-58d4-4cc2-9236-86c322b4151c, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
