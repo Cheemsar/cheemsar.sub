@@ -15,7 +15,7 @@ proxies:
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: b4yZtMQTQinLkxky, udp: true}
 - {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: b4yZtMQTQinLkxky, udp: true}
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: b4yZtMQTQinLkxky, udp: true}
-- {name: 🇸🇬 新加坡8 - giao云, server: 518uhddk.tfzhc.top, port: 443, type: trojan, password: 07a2a244-cfb3-4902-a342-df5ea444c170, sni: 518uhddk.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡8 - giao云, server: 518uhddk.tfzhc.top, port: 443, type: trojan, password: 5d7ae5e3-8974-436c-8366-9100d4d8f582, sni: 518uhddk.tfzhc.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 1 - DO - SockBoom, server: nk8.boom.skin, port: 18000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 786158:esLXMp, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 2 - DO - SockBoom, server: nk9.boom.skin, port: 19000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 786158:esLXMp, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 3 - DO - SockBoom, server: nka.boom.skin, port: 20000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 786158:esLXMp, obfs-param: download.windowsupdate.com, udp: true}
