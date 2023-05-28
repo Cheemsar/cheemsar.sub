@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36009, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36010, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36021, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.netflix6.com, port: 2443, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.netflix6.com}}, udp: true}
-- {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.netflix6.com, port: 443, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.netflix6.com}}, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36009, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36010, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36021, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.netflix6.com, port: 2443, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.netflix6.com}}, udp: true}
+- {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.netflix6.com, port: 443, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.netflix6.com}}, udp: true}

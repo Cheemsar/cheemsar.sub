@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36011, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: 42.7.24.12, port: 36012, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: 42.7.24.12, port: 36013, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36011, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: 42.7.24.12, port: 36012, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: 42.7.24.12, port: 36013, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本1 - OverWall, server: sh.ooww.pw, port: 20055, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇯🇵 日本2 - OverWall, server: sh.ooww.pw, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇯🇵 日本3 - OverWall, server: sh.ooww.pw, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
@@ -12,7 +12,7 @@ proxies:
 - {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: NazCZ4epFrtmie03, udp: true}
 - {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: NazCZ4epFrtmie03, udp: true}
 - {name: 🇯🇵 日本05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: NazCZ4epFrtmie03, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 708cc8b5-4e16-4889-b723-f4e2886a4812, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: fdfa04b0-15c0-4c4d-b63e-649a5dc2f655, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom, server: jp1.boom.skin, port: 30000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 787292:91KdiZ, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom, server: jp2.boom.skin, port: 31000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 787292:91KdiZ, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom, server: jp3.boom.skin, port: 32000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 787292:91KdiZ, obfs-param: download.windowsupdate.com, udp: true}

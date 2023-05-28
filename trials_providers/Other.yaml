@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph1.netflix6.com, port: 31245, type: vmess, uuid: b14a55f4-59f7-3a34-97f0-426b2a300127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.netflix6.com}}, udp: true}
+- {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph1.netflix6.com, port: 31245, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.netflix6.com}}, udp: true}
 - {name: 距离下次重置剩余：27 天 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🌎 官网：overwall.run - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 📢 提示：使用前请更新订阅 - OverWall, server: localhost, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
