@@ -86,14 +86,14 @@ proxies:
 - {name: 🇨🇦 Web 加拿大 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 924, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: bd1f179564.download.windowsupdate.com}, udp: true}
 - {name: 🇦🇺 Web 澳大利亚 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: bd1f179564.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: bd1f179564.download.windowsupdate.com}, udp: true}
-- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, udp: true}
-- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, udp: true}
-- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: GER-1 - 小白云, server: ger1.iepl.cooc.icu, port: 47103, type: ss, cipher: aes-256-gcm, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, udp: true}
-- {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, udp: true}
-- {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: 3bbc0215-8a8c-407f-9b47-4ec792c1b9dc, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, udp: true}
+- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, udp: true}
+- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: GER-1 - 小白云, server: ger1.iepl.cooc.icu, port: 47103, type: ss, cipher: aes-256-gcm, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, udp: true}
+- {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, udp: true}
+- {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22000, type: trojan, password: ea5c38cc-7625-468d-bc47-1cb129404d49, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 22000, type: trojan, password: ea5c38cc-7625-468d-bc47-1cb129404d49, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 27000, type: trojan, password: ea5c38cc-7625-468d-bc47-1cb129404d49, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
