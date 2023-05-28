@@ -7,6 +7,6 @@ proxies:
 - {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 3e98978e-b82c-3e31-a95a-7c88fc0a0f4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 3e98978e-b82c-3e31-a95a-7c88fc0a0f4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.tv - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
-- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 95455709-aab3-4160-9987-8838786c70e2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：3 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: db262a0b-c74b-45c3-9d01-d1f72d680c07, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: db262a0b-c74b-45c3-9d01-d1f72d680c07, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 3fac9b60-ba25-41c0-bfdd-734aed6fb1a5, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：3 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: ea5c38cc-7625-468d-bc47-1cb129404d49, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: ea5c38cc-7625-468d-bc47-1cb129404d49, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
