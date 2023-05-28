@@ -17,14 +17,14 @@ proxies:
 - {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: vMF4BOk8RcRRWORY, udp: true}
 - {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: vMF4BOk8RcRRWORY, udp: true}
 - {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: vMF4BOk8RcRRWORY, udp: true}
-- {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 443, type: trojan, password: d49ba299-3023-482c-8d5b-d981ed6ea836, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港7 - giao云, server: 51hk.mgmg.club, port: 44339, type: trojan, password: d49ba299-3023-482c-8d5b-d981ed6ea836, sni: 51hk.mgmg.club, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 26437, type: trojan, password: d49ba299-3023-482c-8d5b-d981ed6ea836, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港6 - giao云, server: 428hk.mgmg.club, port: 4433, type: trojan, password: d49ba299-3023-482c-8d5b-d981ed6ea836, sni: 428hk.mgmg.club, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: d49ba299-3023-482c-8d5b-d981ed6ea836, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: d49ba299-3023-482c-8d5b-d981ed6ea836, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 330sg02.ljydw.top, port: 55636, type: trojan, password: d49ba299-3023-482c-8d5b-d981ed6ea836, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: d49ba299-3023-482c-8d5b-d981ed6ea836, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 443, type: trojan, password: 109d5abf-a9ab-4897-9af5-64cb71cd00d3, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港7 - giao云, server: 51hk.mgmg.club, port: 44339, type: trojan, password: 109d5abf-a9ab-4897-9af5-64cb71cd00d3, sni: 51hk.mgmg.club, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 26437, type: trojan, password: 109d5abf-a9ab-4897-9af5-64cb71cd00d3, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港6 - giao云, server: 428hk.mgmg.club, port: 4433, type: trojan, password: 109d5abf-a9ab-4897-9af5-64cb71cd00d3, sni: 428hk.mgmg.club, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 109d5abf-a9ab-4897-9af5-64cb71cd00d3, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 109d5abf-a9ab-4897-9af5-64cb71cd00d3, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 330sg02.ljydw.top, port: 55636, type: trojan, password: 109d5abf-a9ab-4897-9af5-64cb71cd00d3, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 109d5abf-a9ab-4897-9af5-64cb71cd00d3, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom, server: ntemp15.boom.skin, port: 19000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 787054:3a41H5, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom, server: ntemp10.boom.skin, port: 20000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 787054:3a41H5, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 【A】香港 普通 B - Nearoute - SockBoom, server: ntemp16.boom.skin, port: 21000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 787054:3a41H5, obfs-param: download.windowsupdate.com, udp: true}
