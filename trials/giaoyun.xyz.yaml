@@ -43,6 +43,7 @@ proxy-groups:
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
   - 🇸🇬 新加坡8 - giao云
+  - 🇯🇵 日本77 - giao云
   - 🇯🇵 日本88 - giao云
   - 🇯🇵 日本 - giao云
   - 🇺🇸 美国 - giao云
@@ -145,6 +146,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id006
+  - 🇯🇵 日本77 - giao云
   - 🇯🇵 日本88 - giao云
   - 🇯🇵 日本 - giao云
 - name: 🇺🇸 ‍美国
@@ -176,6 +178,7 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
+- {name: 🇯🇵 日本77 - giao云, server: 529jp7.ljydw.top, port: 443, type: vmess, uuid: ab98d6ed-54fd-4b85-8aa5-5038af4d9af3, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bayu, headers: {Host: 529jp7.ljydw.top}}, udp: true}
 - {name: 🇯🇵 日本88 - giao云, server: 529jp.ljydw.top, port: 443, type: vmess, uuid: ab98d6ed-54fd-4b85-8aa5-5038af4d9af3, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bayu, headers: {Host: 529jp.ljydw.top}}, udp: true}
 - {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 443, type: trojan, password: ab98d6ed-54fd-4b85-8aa5-5038af4d9af3, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡8 - giao云, server: 518uhddk.tfzhc.top, port: 443, type: trojan, password: ab98d6ed-54fd-4b85-8aa5-5038af4d9af3, sni: 518uhddk.tfzhc.top, skip-cert-verify: true, udp: true}
