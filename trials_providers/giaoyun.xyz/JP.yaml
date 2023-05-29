@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本77 - giao云, server: 529jp7.ljydw.top, port: 443, type: vmess, uuid: ab98d6ed-54fd-4b85-8aa5-5038af4d9af3, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bayu, headers: {Host: 529jp7.ljydw.top}}, udp: true}
-- {name: 🇯🇵 日本88 - giao云, server: 529jp.ljydw.top, port: 443, type: vmess, uuid: ab98d6ed-54fd-4b85-8aa5-5038af4d9af3, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bayu, headers: {Host: 529jp.ljydw.top}}, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: ab98d6ed-54fd-4b85-8aa5-5038af4d9af3, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本77 - giao云, server: 529jp7.ljydw.top, port: 443, type: vmess, uuid: 3825cedf-f776-476e-af66-a8f15dbd4875, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bayu, headers: {Host: 529jp7.ljydw.top}}, udp: true}
+- {name: 🇯🇵 日本88 - giao云, server: 529jp.ljydw.top, port: 443, type: vmess, uuid: 3825cedf-f776-476e-af66-a8f15dbd4875, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bayu, headers: {Host: 529jp.ljydw.top}}, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 3825cedf-f776-476e-af66-a8f15dbd4875, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
