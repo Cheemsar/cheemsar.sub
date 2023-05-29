@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 直连1 - 爱猫论坛, server: sg1.netflix6.com, port: 443, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg1.netflix6.com}}, udp: true}
-- {name: 🇸🇬 新加坡 直连2 - 爱猫论坛, server: sg2.netflix6.com, port: 443, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg2.netflix6.com}}, udp: true}
-- {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36007, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36008, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36022, type: vmess, uuid: 1a8587ad-6863-3878-a666-fcdea6f2e84a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 直连1 - 爱猫论坛, server: sg1.netflix6.com, port: 443, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg1.netflix6.com}}, udp: true}
+- {name: 🇸🇬 新加坡 直连2 - 爱猫论坛, server: sg2.netflix6.com, port: 443, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg2.netflix6.com}}, udp: true}
+- {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36007, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36008, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36022, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡1 - OverWall, server: gd.ooww.pw, port: 10081, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇸🇬 新加坡2 - OverWall, server: gd.ooww.pw, port: 10082, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
 - {name: 🇸🇬 新加坡3 - OverWall, server: gd.ooww.pw, port: 10083, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
