@@ -92,7 +92,7 @@ proxies:
 - {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, udp: true}
 - {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: da65d76b-c0b9-499c-91fc-e8a5d3aa0756, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：2 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: cee5e3e6-86bb-45db-95d3-73a589aa8d2d, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：1 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: cee5e3e6-86bb-45db-95d3-73a589aa8d2d, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: cee5e3e6-86bb-45db-95d3-73a589aa8d2d, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22000, type: trojan, password: cee5e3e6-86bb-45db-95d3-73a589aa8d2d, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 22000, type: trojan, password: cee5e3e6-86bb-45db-95d3-73a589aa8d2d, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
