@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇰🇷 韩国1 - OverWall, server: gd.ooww.pw, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇬🇧 英国 - OverWall, server: gd.ooww.pw, port: 20057, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇷🇺 俄罗斯 - OverWall, server: gd.ooww.pw, port: 20058, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇮🇳 印度 - OverWall, server: gd.ooww.pw, port: 10020, type: ss, cipher: aes-128-gcm, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇹🇷 土耳其 - OverWall, server: gd.ooww.pw, port: 10091, type: ss, cipher: chacha20-ietf-poly1305, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
-- {name: 🇦🇷 阿根廷 - OverWall, server: gd.ooww.pw, port: 10100, type: ss, cipher: aes-128-gcm, password: 19364ece-2adb-4afe-9349-6ce61a0c53b3, udp: true}
