@@ -7,10 +7,10 @@ proxies:
 - {name: 🇺🇸 美国 直连2 - 爱猫论坛, server: us2.netflix6.com, port: 443, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us2.netflix6.com}}, udp: true}
 - {name: 🇺🇸 美国 直连3 - 爱猫论坛, server: us3.netflix6.com, port: 31235, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: us3.netflix6.com}}, udp: true}
 - {name: 🇺🇸 美国 直连4 - 爱猫论坛, server: us4.netflix6.com, port: 31235, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: us4.netflix6.com}}, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: zZMTR90nehtpAItj, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: zZMTR90nehtpAItj, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: zZMTR90nehtpAItj, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: zZMTR90nehtpAItj, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: PMeCl9hUzPheFbv4, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: PMeCl9hUzPheFbv4, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: PMeCl9hUzPheFbv4, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: PMeCl9hUzPheFbv4, udp: true}
 - {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 3825cedf-f776-476e-af66-a8f15dbd4875, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 【C】美国 普通 1 - CC - SockBoom, server: us1.edge.boom.skin, port: 40000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 788193:uU0GJH, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 788193:uU0GJH, obfs-param: download.windowsupdate.com, udp: true}
