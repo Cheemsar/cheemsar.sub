@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: 8d0a4102-52fd-42bc-84c7-0011334dede2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32331, type: vmess, uuid: 8d0a4102-52fd-42bc-84c7-0011334dede2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: 8d0a4102-52fd-42bc-84c7-0011334dede2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: 13ef8305-1a0f-4c06-962c-ab6408da6c4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32331, type: vmess, uuid: 13ef8305-1a0f-4c06-962c-ab6408da6c4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: 13ef8305-1a0f-4c06-962c-ab6408da6c4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36018, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36019, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36020, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -11,8 +11,8 @@ proxies:
 - {name: 🇹🇼 台湾 直连2 - 爱猫论坛, server: tw3.594888.xyz, port: 31235, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw3.594888.xyz}}, udp: true}
 - {name: 🇹🇼 台湾 直连3 - 爱猫论坛, server: tw4.594888.xyz, port: 31235, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw4.594888.xyz}}, udp: true}
 - {name: 🇹🇼 台湾 直连4 - 爱猫论坛, server: tw5.594888.xyz, port: 31235, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw5.594888.xyz}}, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
 - {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}

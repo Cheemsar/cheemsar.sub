@@ -1,19 +1,19 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 日本A🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34650, type: vmess, uuid: 8d0a4102-52fd-42bc-84c7-0011334dede2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 日本B🇯🇵 - 探索者, server: 603diyb.donghui.tech, port: 32328, type: vmess, uuid: 8d0a4102-52fd-42bc-84c7-0011334dede2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: 8d0a4102-52fd-42bc-84c7-0011334dede2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本005🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: 8d0a4102-52fd-42bc-84c7-0011334dede2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本006🇯🇵—5Gbps - 探索者, server: ydgy.fosi.hk, port: 19891, type: vmess, uuid: 8d0a4102-52fd-42bc-84c7-0011334dede2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ydgy.fosi.hk}}, udp: true}
+- {name: 日本A🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34650, type: vmess, uuid: 13ef8305-1a0f-4c06-962c-ab6408da6c4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 日本B🇯🇵 - 探索者, server: 603diyb.donghui.tech, port: 32328, type: vmess, uuid: 13ef8305-1a0f-4c06-962c-ab6408da6c4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: 13ef8305-1a0f-4c06-962c-ab6408da6c4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 极速｜日本005🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: 13ef8305-1a0f-4c06-962c-ab6408da6c4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 极速｜日本006🇯🇵—5Gbps - 探索者, server: ydgy.fosi.hk, port: 19891, type: vmess, uuid: 13ef8305-1a0f-4c06-962c-ab6408da6c4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ydgy.fosi.hk}}, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36011, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: 42.7.24.12, port: 36012, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: 42.7.24.12, port: 36013, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
-- {name: 🇯🇵 日本05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
+- {name: 🇯🇵 日本05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
