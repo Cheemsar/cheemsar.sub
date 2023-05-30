@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 本站网址：www.cryxr1.xyz - 探索者, server: 603diya.donghui.tech, port: 34652, type: vmess, uuid: 9a38888f-ac8b-4479-8f07-fbbc6a1b9074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr2.xyz - 探索者, server: 603diya.donghui.tech, port: 34653, type: vmess, uuid: 9a38888f-ac8b-4479-8f07-fbbc6a1b9074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr3.xyz - 探索者, server: 603diya.donghui.tech, port: 34640, type: vmess, uuid: 9a38888f-ac8b-4479-8f07-fbbc6a1b9074, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr1.xyz - 探索者, server: 603diya.donghui.tech, port: 34652, type: vmess, uuid: a207db01-1ceb-40c7-98f8-2f845dbde215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr2.xyz - 探索者, server: 603diya.donghui.tech, port: 34653, type: vmess, uuid: a207db01-1ceb-40c7-98f8-2f845dbde215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr3.xyz - 探索者, server: 603diya.donghui.tech, port: 34640, type: vmess, uuid: a207db01-1ceb-40c7-98f8-2f845dbde215, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph1.netflix6.com, port: 31245, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.netflix6.com}}, udp: true}
