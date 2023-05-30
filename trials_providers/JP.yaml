@@ -4,11 +4,11 @@ proxies:
 - {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36011, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: 42.7.24.12, port: 36012, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: 42.7.24.12, port: 36013, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: blvuXtc9O1K093mF, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: blvuXtc9O1K093mF, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: blvuXtc9O1K093mF, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: blvuXtc9O1K093mF, udp: true}
-- {name: 🇯🇵 日本05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: blvuXtc9O1K093mF, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
+- {name: 🇯🇵 日本05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
 - {name: 🇯🇵 日本77 - giao云, server: 529jp7.ljydw.top, port: 443, type: vmess, uuid: ad4e3c50-f96e-4cfa-ac01-83c2f1e5d422, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bayu, headers: {Host: 529jp7.ljydw.top}}, udp: true}
 - {name: 🇯🇵 日本88 - giao云, server: 529jp.ljydw.top, port: 443, type: vmess, uuid: ad4e3c50-f96e-4cfa-ac01-83c2f1e5d422, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bayu, headers: {Host: 529jp.ljydw.top}}, udp: true}
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: ad4e3c50-f96e-4cfa-ac01-83c2f1e5d422, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
