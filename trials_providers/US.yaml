@@ -11,7 +11,7 @@ proxies:
 - {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: blvuXtc9O1K093mF, udp: true}
 - {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: blvuXtc9O1K093mF, udp: true}
 - {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: blvuXtc9O1K093mF, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: c5a81782-768a-4731-aeef-d4046489bd7f, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: ad4e3c50-f96e-4cfa-ac01-83c2f1e5d422, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 【C】美国 普通 1 - CC - SockBoom, server: us1.edge.boom.skin, port: 40000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 788193:uU0GJH, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 788193:uU0GJH, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 3 - CC - SockBoom, server: us3.edge.boom.skin, port: 42001, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 788193:uU0GJH, obfs-param: download.windowsupdate.com, udp: true}
