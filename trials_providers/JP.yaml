@@ -14,8 +14,9 @@ proxies:
 - {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
 - {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
 - {name: 🇯🇵 日本05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: fd4339b0-97f0-4bb9-b5c2-0b6a2284a193, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 443, type: trojan, password: fd4339b0-97f0-4bb9-b5c2-0b6a2284a193, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom, server: jp1.boom.skin, port: 30000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 789126:8NTtfY, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom, server: jp2.boom.skin, port: 31000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 789126:8NTtfY, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 3 - Nerocloud - SockBoom, server: jp3.boom.skin, port: 32000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 789126:8NTtfY, obfs-param: download.windowsupdate.com, udp: true}

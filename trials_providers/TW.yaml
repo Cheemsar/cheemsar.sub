@@ -13,10 +13,10 @@ proxies:
 - {name: 🇹🇼 台湾 直连4 - 爱猫论坛, server: tw5.594888.xyz, port: 31235, type: vmess, uuid: a4c6cac9-aa79-30ee-b852-713cb524ab40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw5.594888.xyz}}, udp: true}
 - {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
 - {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: wBuFkC7NSZbQtZnW, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: fd4339b0-97f0-4bb9-b5c2-0b6a2284a193, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: fd4339b0-97f0-4bb9-b5c2-0b6a2284a193, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: fd4339b0-97f0-4bb9-b5c2-0b6a2284a193, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: fd4339b0-97f0-4bb9-b5c2-0b6a2284a193, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17629, type: trojan, password: 5f632f2f-8d86-347b-befe-9824c4002fa5, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 59021, type: trojan, password: 5f632f2f-8d86-347b-befe-9824c4002fa5, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 21247, type: trojan, password: 5f632f2f-8d86-347b-befe-9824c4002fa5, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
