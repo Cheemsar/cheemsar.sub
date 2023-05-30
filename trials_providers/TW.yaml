@@ -11,8 +11,8 @@ proxies:
 - {name: 🇹🇼 台湾 直连2 - 爱猫论坛, server: tw3.594888.xyz, port: 31235, type: vmess, uuid: fa40ad25-3369-321e-b8df-6315526c432c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw3.594888.xyz}}, udp: true}
 - {name: 🇹🇼 台湾 直连3 - 爱猫论坛, server: tw4.594888.xyz, port: 31235, type: vmess, uuid: fa40ad25-3369-321e-b8df-6315526c432c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw4.594888.xyz}}, udp: true}
 - {name: 🇹🇼 台湾 直连4 - 爱猫论坛, server: tw5.594888.xyz, port: 31235, type: vmess, uuid: fa40ad25-3369-321e-b8df-6315526c432c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw5.594888.xyz}}, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: JxFDxz4CCUd5mpFl, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: OR0kpGlPTu9zJgLi, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: OR0kpGlPTu9zJgLi, udp: true}
 - {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 51191a16-43e1-46f7-9823-2182e7978484, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 51191a16-43e1-46f7-9823-2182e7978484, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 51191a16-43e1-46f7-9823-2182e7978484, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
