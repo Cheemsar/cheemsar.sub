@@ -197,7 +197,7 @@ proxies:
 - {name: 🇯🇵 日本|直连SS - BIUBIU FAST, server: jp4.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 33b22c08-7341-46ef-8110-b88dbdf5a28c, udp: true}
 - {name: 🇯🇵 日本|直连SS2 - BIUBIU FAST, server: jp6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 33b22c08-7341-46ef-8110-b88dbdf5a28c, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 33b22c08-7341-46ef-8110-b88dbdf5a28c, udp: true}
-- {name: 🇺🇸 美国|直连SS - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: 33b22c08-7341-46ef-8110-b88dbdf5a28c, udp: true}
+- {name: 🇺🇸 美国|直连SS - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 33b22c08-7341-46ef-8110-b88dbdf5a28c, udp: true}
 - {name: 🇺🇸 美国|直连SS2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 33b22c08-7341-46ef-8110-b88dbdf5a28c, udp: true}
 - {name: 🇰🇷 韩国|直连SS - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: 33b22c08-7341-46ef-8110-b88dbdf5a28c, udp: true}
 - {name: 🇰🇷 韩国|直连SS2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 33b22c08-7341-46ef-8110-b88dbdf5a28c, udp: true}
