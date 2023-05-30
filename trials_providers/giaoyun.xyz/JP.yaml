@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 443, type: trojan, password: 11c77608-0466-41e0-b1ab-09b22fb6d1c9, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 51191a16-43e1-46f7-9823-2182e7978484, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 443, type: trojan, password: 51191a16-43e1-46f7-9823-2182e7978484, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 443, type: trojan, password: 51191a16-43e1-46f7-9823-2182e7978484, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
