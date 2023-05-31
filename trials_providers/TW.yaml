@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: c6a695d4-7e36-4591-ba83-88d1d0934c01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32331, type: vmess, uuid: c6a695d4-7e36-4591-ba83-88d1d0934c01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: c6a695d4-7e36-4591-ba83-88d1d0934c01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: a7312fd0-a7ab-473b-8005-cc3f6069cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32331, type: vmess, uuid: a7312fd0-a7ab-473b-8005-cc3f6069cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: a7312fd0-a7ab-473b-8005-cc3f6069cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36018, type: vmess, uuid: 633d8b95-9fc8-342e-9df1-5bdd9ffbce09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36019, type: vmess, uuid: 633d8b95-9fc8-342e-9df1-5bdd9ffbce09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36020, type: vmess, uuid: 633d8b95-9fc8-342e-9df1-5bdd9ffbce09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
