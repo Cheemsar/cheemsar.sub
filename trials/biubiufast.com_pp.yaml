@@ -14,13 +14,11 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -30,7 +28,6 @@ proxy-groups:
   - SG
   - JP
   - US
-  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -55,9 +52,7 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
@@ -91,11 +86,6 @@ proxy-groups:
   tolerance: 50
   use: &id005
   - US
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 50
-  use: &id006
-  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -111,9 +101,6 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id005
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id006
 proxy-providers:
   HK:
     type: http
@@ -147,15 +134,6 @@ proxy-providers:
     url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/biubiufast.com/US.yaml
     interval: 180
     path: trials_providers/biubiufast.com/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/biubiufast.com/Other.yaml
-    interval: 180
-    path: trials_providers/biubiufast.com/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
