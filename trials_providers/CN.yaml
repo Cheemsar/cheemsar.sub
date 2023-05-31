@@ -31,16 +31,16 @@ proxies:
 - {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: Eodk8B0quPF0xTmx, udp: true}
 - {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: Eodk8B0quPF0xTmx, udp: true}
 - {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: Eodk8B0quPF0xTmx, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 15286, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 26489, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 4433, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 90b6e636-72ad-461b-a902-b823ef79a490, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 15286, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 26489, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 4433, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 4c65bda5-aeab-4aaf-be03-5f99825a5288, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 IEPL  | 香港A 免登录NF | 1.5* - 主页 | 逗猫 - 探索新的世界, server: bgp.hofhasharon.org, port: 37002, type: ss, cipher: aes-256-gcm, password: 98a95144-8dc2-4794-b6d2-cb1f6fc9e4e0, udp: true}
 - {name: 🇭🇰 IEPL  | 香港B | 1.5* - 主页 | 逗猫 - 探索新的世界, server: bgp.hofhasharon.org, port: 37003, type: ss, cipher: aes-256-gcm, password: 98a95144-8dc2-4794-b6d2-cb1f6fc9e4e0, udp: true}
 - {name: 🇭🇰 IEPL  | 香港C 免登录NF | 1.5* - 主页 | 逗猫 - 探索新的世界, server: bgp.hofhasharon.org, port: 37004, type: ss, cipher: aes-256-gcm, password: 98a95144-8dc2-4794-b6d2-cb1f6fc9e4e0, udp: true}
@@ -92,8 +92,6 @@ proxies:
 - {name: 🇭🇰 【O】香港 普通 7 - Leaseweb - SockBoom, server: opt17.boom.skin, port: 27000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 790184:ddnroi, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 【O】香港 普通 8 - Leaseweb - SockBoom, server: opt18.boom.skin, port: 28000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 790184:ddnroi, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom, server: opt19.boom.skin, port: 29000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 790184:ddnroi, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港| 直连 - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5201, type: trojan, password: 8f960291-d38c-48e7-848c-defc6aacaf77, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|直连SS - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10222, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
 - {name: 🇭🇰 高速香港 | 高速香港（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 22901, type: trojan, password: 8f960291-d38c-48e7-848c-defc6aacaf77, sni: hk5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10221, type: trojan, password: 8f960291-d38c-48e7-848c-defc6aacaf77, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
