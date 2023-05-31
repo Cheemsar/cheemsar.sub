@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇩🇪 德国 | 直连 - BIUBIU FAST, server: dg5.biubiufast.quest, port: 5203, type: trojan, password: 8f960291-d38c-48e7-848c-defc6aacaf77, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港| 直连 - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5201, type: trojan, password: 8f960291-d38c-48e7-848c-defc6aacaf77, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 8f960291-d38c-48e7-848c-defc6aacaf77, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 | 直连 - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5203, type: trojan, password: 8f960291-d38c-48e7-848c-defc6aacaf77, skip-cert-verify: true, udp: true}
@@ -9,6 +10,7 @@ proxies:
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
 - {name: 🇺🇸 美国|直连SS - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
 - {name: 🇺🇸 美国|直连SS2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
+- {name: 🇩🇪 德国|直连SS - BIUBIU FAST, server: dg1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21332, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10222, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
 - {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36332, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
