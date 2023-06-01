@@ -9,7 +9,58 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id001
+  - 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛
+  - 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛
+  - 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛
+  - 🇭🇰 香港 直连1 - 爱猫论坛
+  - 🇭🇰 香港 直连2 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛
+  - 🇹🇼 台湾 直连1 - 爱猫论坛
+  - 🇹🇼 台湾 直连2 - 爱猫论坛
+  - 🇹🇼 台湾 直连3 - 爱猫论坛
+  - 🇹🇼 台湾 直连4 - 爱猫论坛
+  - 🇸🇬 新加坡 直连1 - 爱猫论坛
+  - 🇸🇬 新加坡 直连2 - 爱猫论坛
+  - 🇸🇬 新加坡｜隧道 01 - 爱猫论坛
+  - 🇸🇬 新加坡｜隧道 02 - 爱猫论坛
+  - 🇸🇬 新加坡｜隧道 03 - 爱猫论坛
+  - 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛
+  - 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛
+  - 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛
+  - 🇺🇸 美国 洛杉矶｜隧道 01 - 爱猫论坛
+  - 🇺🇸 美国 洛杉矶｜隧道 02 - 爱猫论坛
+  - 🇺🇸 美国 直连1 - 爱猫论坛
+  - 🇺🇸 美国 直连2 - 爱猫论坛
+  - 🇺🇸 美国 直连3 - 爱猫论坛
+  - 🇺🇸 美国 直连4 - 爱猫论坛
+  - 🇩🇪 德国｜隧道 01 - 爱猫论坛
+  - 🇬🇧 英国｜隧道 01 - 爱猫论坛
+  - 🇵🇭 菲律宾 直连 - 爱猫论坛
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -25,11 +76,29 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -38,36 +107,143 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id002
+  - 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛
+  - 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛
+  - 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛
+  - 🇭🇰 香港 直连1 - 爱猫论坛
+  - 🇭🇰 香港 直连2 - 爱猫论坛
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id003
+  - 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛
+  - 🇹🇼 台湾 直连1 - 爱猫论坛
+  - 🇹🇼 台湾 直连2 - 爱猫论坛
+  - 🇹🇼 台湾 直连3 - 爱猫论坛
+  - 🇹🇼 台湾 直连4 - 爱猫论坛
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
+  - 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛
+  - 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛
+  - 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛
+  - 🇭🇰 香港 直连1 - 爱猫论坛
+  - 🇭🇰 香港 直连2 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛
+  - 🇹🇼 台湾 直连1 - 爱猫论坛
+  - 🇹🇼 台湾 直连2 - 爱猫论坛
+  - 🇹🇼 台湾 直连3 - 爱猫论坛
+  - 🇹🇼 台湾 直连4 - 爱猫论坛
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id005
+  - 🇸🇬 新加坡 直连1 - 爱猫论坛
+  - 🇸🇬 新加坡 直连2 - 爱猫论坛
+  - 🇸🇬 新加坡｜隧道 01 - 爱猫论坛
+  - 🇸🇬 新加坡｜隧道 02 - 爱猫论坛
+  - 🇸🇬 新加坡｜隧道 03 - 爱猫论坛
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id006
+  - 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛
+  - 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛
+  - 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id007
+  - 🇺🇸 美国 洛杉矶｜隧道 01 - 爱猫论坛
+  - 🇺🇸 美国 洛杉矶｜隧道 02 - 爱猫论坛
+  - 🇺🇸 美国 直连1 - 爱猫论坛
+  - 🇺🇸 美国 直连2 - 爱猫论坛
+  - 🇺🇸 美国 直连3 - 爱猫论坛
+  - 🇺🇸 美国 直连4 - 爱猫论坛
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id008
+  - 🇩🇪 德国｜隧道 01 - 爱猫论坛
+  - 🇬🇧 英国｜隧道 01 - 爱猫论坛
+  - 🇵🇭 菲律宾 直连 - 爱猫论坛
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 台湾 HINET｜隧道 01 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36018, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 台湾 HINET｜隧道 02 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36019, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 台湾 HINET｜隧道 03 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36020, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 台湾 直连1 - 爱猫论坛, server: tw2.594888.xyz, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw2.594888.xyz}}, udp: true}
-- {name: 台湾 直连2 - 爱猫论坛, server: tw3.594888.xyz, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw3.594888.xyz}}, udp: true}
-- {name: 台湾 直连3 - 爱猫论坛, server: tw4.594888.xyz, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw4.594888.xyz}}, udp: true}
-- {name: 台湾 直连4 - 爱猫论坛, server: tw5.594888.xyz, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw5.594888.xyz}}, udp: true}
-- {name: 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 新加坡 直连1 - 爱猫论坛, server: sg1.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg1.netflix6.com}}, udp: true}
-- {name: 新加坡 直连2 - 爱猫论坛, server: sg2.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg2.netflix6.com}}, udp: true}
-- {name: 新加坡｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36007, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 新加坡｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36008, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 新加坡｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36022, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 日本 东京｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36011, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 日本 东京｜隧道 02 GBT - 爱猫论坛, server: 42.7.24.12, port: 36012, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 日本 东京｜隧道 03 GBT - 爱猫论坛, server: 42.7.24.12, port: 36013, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 美国 洛杉矶｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36014, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 美国 洛杉矶｜隧道 02 - 爱猫论坛, server: 42.7.24.12, port: 36015, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 美国 直连1 - 爱猫论坛, server: us1.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us1.netflix6.com}}, udp: true}
-- {name: 美国 直连2 - 爱猫论坛, server: us2.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us2.netflix6.com}}, udp: true}
-- {name: 美国 直连3 - 爱猫论坛, server: us3.netflix6.com, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: us3.netflix6.com}}, udp: true}
-- {name: 美国 直连4 - 爱猫论坛, server: us4.netflix6.com, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: us4.netflix6.com}}, udp: true}
-- {name: 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 菲律宾 直连 - 爱猫论坛, server: ph1.netflix6.com, port: 31245, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.netflix6.com}}, udp: true}
-- {name: 香港 HKT｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36009, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36010, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36021, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 香港 直连1 - 爱猫论坛, server: hk1.netflix6.com, port: 2443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.netflix6.com}}, udp: true}
-- {name: 香港 直连2 - 爱猫论坛, server: hk2.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.netflix6.com}}, udp: true}
+- {name: 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36018, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36019, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛, server: cmxuzhou.netflix6.com, port: 36020, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 直连1 - 爱猫论坛, server: tw2.594888.xyz, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw2.594888.xyz}}, udp: true}
+- {name: 🇹🇼 台湾 直连2 - 爱猫论坛, server: tw3.594888.xyz, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw3.594888.xyz}}, udp: true}
+- {name: 🇹🇼 台湾 直连3 - 爱猫论坛, server: tw4.594888.xyz, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw4.594888.xyz}}, udp: true}
+- {name: 🇹🇼 台湾 直连4 - 爱猫论坛, server: tw5.594888.xyz, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw5.594888.xyz}}, udp: true}
+- {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 直连1 - 爱猫论坛, server: sg1.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg1.netflix6.com}}, udp: true}
+- {name: 🇸🇬 新加坡 直连2 - 爱猫论坛, server: sg2.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg2.netflix6.com}}, udp: true}
+- {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36007, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36008, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36022, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36011, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: 42.7.24.12, port: 36012, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: 42.7.24.12, port: 36013, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 洛杉矶｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36014, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 洛杉矶｜隧道 02 - 爱猫论坛, server: 42.7.24.12, port: 36015, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 直连1 - 爱猫论坛, server: us1.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us1.netflix6.com}}, udp: true}
+- {name: 🇺🇸 美国 直连2 - 爱猫论坛, server: us2.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us2.netflix6.com}}, udp: true}
+- {name: 🇺🇸 美国 直连3 - 爱猫论坛, server: us3.netflix6.com, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: us3.netflix6.com}}, udp: true}
+- {name: 🇺🇸 美国 直连4 - 爱猫论坛, server: us4.netflix6.com, port: 31235, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: us4.netflix6.com}}, udp: true}
+- {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph1.netflix6.com, port: 31245, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.netflix6.com}}, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36009, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36010, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36021, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.netflix6.com, port: 2443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.netflix6.com}}, udp: true}
+- {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.netflix6.com, port: 443, type: vmess, uuid: 5c28e233-a2c6-3302-b4ab-2c5492e11675, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.netflix6.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
