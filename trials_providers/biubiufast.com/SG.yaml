@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21332, type: ss, cipher: chacha20-ietf-poly1305, password: 8f960291-d38c-48e7-848c-defc6aacaf77, udp: true}
-- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21331, type: trojan, password: 8f960291-d38c-48e7-848c-defc6aacaf77, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21332, type: ss, cipher: chacha20-ietf-poly1305, password: b33cf548-b87e-4a6d-a22d-0897db1c5456, udp: true}
+- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 21331, type: trojan, password: b33cf548-b87e-4a6d-a22d-0897db1c5456, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
