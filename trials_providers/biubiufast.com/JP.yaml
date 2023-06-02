@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: b33cf548-b87e-4a6d-a22d-0897db1c5456, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: b33cf548-b87e-4a6d-a22d-0897db1c5456, udp: true}
-- {name: 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10321, type: trojan, password: b33cf548-b87e-4a6d-a22d-0897db1c5456, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: a7371455-011a-4b9d-a6c3-21a7f04849cd, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: a7371455-011a-4b9d-a6c3-21a7f04849cd, udp: true}
+- {name: 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10321, type: trojan, password: a7371455-011a-4b9d-a6c3-21a7f04849cd, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
