@@ -52,6 +52,7 @@ proxy-groups:
   - 🇺🇸 美国02 - Cyanmori
   - 🇺🇸 美国03 - Cyanmori
   - 🇺🇸 美国04 - Cyanmori
+  - 🇺🇸 美国05 - Cyanmori
   - 🇮🇳 印度01 - Cyanmori
   - 🇮🇳 印度02 - Cyanmori
   - 🇰🇷 韩国01 - Cyanmori
@@ -172,6 +173,7 @@ proxy-groups:
   - 🇺🇸 美国02 - Cyanmori
   - 🇺🇸 美国03 - Cyanmori
   - 🇺🇸 美国04 - Cyanmori
+  - 🇺🇸 美国05 - Cyanmori
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -233,6 +235,7 @@ proxies:
 - {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: qi2t9HBwxZBcg5Ea, udp: true}
 - {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: qi2t9HBwxZBcg5Ea, udp: true}
 - {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: qi2t9HBwxZBcg5Ea, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: qi2t9HBwxZBcg5Ea, udp: true}
 - {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: qi2t9HBwxZBcg5Ea, udp: true}
 - {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: qi2t9HBwxZBcg5Ea, udp: true}
 - {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: qi2t9HBwxZBcg5Ea, udp: true}
