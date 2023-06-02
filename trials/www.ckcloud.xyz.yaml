@@ -56,8 +56,6 @@ proxy-groups:
   - 🇯🇵 JCBB_日本01【vip1】 - JCBB
   - 🇯🇵 JCBB_日本02【vip1】 - JCBB
   - 🇯🇵 JCBB_日本03【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本01【vip3】 - JCBB
-  - 🇯🇵 JCBB_日本02【vip3】 - JCBB
   - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
   - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
   - 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB
@@ -190,8 +188,6 @@ proxy-groups:
   - 🇯🇵 JCBB_日本01【vip1】 - JCBB
   - 🇯🇵 JCBB_日本02【vip1】 - JCBB
   - 🇯🇵 JCBB_日本03【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本01【vip3】 - JCBB
-  - 🇯🇵 JCBB_日本02【vip3】 - JCBB
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -267,8 +263,6 @@ proxies:
 - {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 21000, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 21001, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 21001, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本01【vip3】 - JCBB, server: zjcu-imey1r.zzcloud.top, port: 48154, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本02【vip3】 - JCBB, server: zjcu-imey1r.zzcloud.top, port: 19334, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24002, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24002, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24001, type: vmess, uuid: 2ef0e524-4743-47bc-87cc-fb49f15b2134, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
