@@ -2,8 +2,6 @@
 ---
 proxies:
 - {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20002, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港01_临时线路【vip1】 - JCBB, server: szct-xugmmd.zzcloud.top, port: 13118, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港_04_1_临时【vip1】 - JCBB, server: szct-xugmmd.zzcloud.top, port: 30630, type: vmess, uuid: 2ef0e524-4743-47bc-87cc-fb49f15b2134, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: szct-xugmmd.zzcloud.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20002, type: trojan, password: 2ef0e524-4743-47bc-87cc-fb49f15b2134, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港01_1【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20000, type: vmess, uuid: 2ef0e524-4743-47bc-87cc-fb49f15b2134, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港02_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20000, type: vmess, uuid: 2ef0e524-4743-47bc-87cc-fb49f15b2134, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
