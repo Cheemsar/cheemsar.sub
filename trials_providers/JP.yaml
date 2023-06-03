@@ -49,7 +49,7 @@ proxies:
 - {name: 🇯🇵 Video 日本 B-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 813, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Video 日本 C-原生 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 4321, type: ss, cipher: aes-128-gcm, password: ay232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Web 日本 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9051, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: gz.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
 - {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
 - {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
 - {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
