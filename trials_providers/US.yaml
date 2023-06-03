@@ -44,11 +44,11 @@ proxies:
 - {name: 🇺🇸 Web 美国 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国 II-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国 III-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
 - {name: 🇺🇸 美国 凤凰城101 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 10443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
 - {name: 🇺🇸 美国 凤凰城102 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 20443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
 - {name: 🇺🇸 美国 凤凰城103 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 30443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
