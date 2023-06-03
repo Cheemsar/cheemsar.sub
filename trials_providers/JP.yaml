@@ -10,8 +10,8 @@ proxies:
 - {name: 🇯🇵 vip1 日本-05 - FastFly, server: gzdx.jcnode.top, port: 41003, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: gzyd.jcnode.top, port: 41003, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 2baf94ce-6e39-4009-84d8-098443e87044, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 80, type: trojan, password: 2baf94ce-6e39-4009-84d8-098443e87044, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 80, type: trojan, password: 2baf94ce-6e39-4009-84d8-098443e87044, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 8080, type: trojan, password: 2baf94ce-6e39-4009-84d8-098443e87044, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 8080, type: trojan, password: 2baf94ce-6e39-4009-84d8-098443e87044, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP-IEPL-A-1 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇯🇵 JP-IEPL-A-2 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇯🇵 JP-IEPL-B-3 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
