@@ -11,7 +11,7 @@ proxies:
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd.jcnode.top, port: 48004, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: af9b1617-f55b-4e62-9234-68d2bcebe503, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 88d990db-a059-4d5d-952b-c418400fbca4, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
@@ -44,11 +44,11 @@ proxies:
 - {name: 🇺🇸 Web 美国 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国 II-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国 III-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
 - {name: 🇺🇸 美国 凤凰城101 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 10443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
 - {name: 🇺🇸 美国 凤凰城102 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 20443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
 - {name: 🇺🇸 美国 凤凰城103 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 30443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}

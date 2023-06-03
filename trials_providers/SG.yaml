@@ -10,7 +10,7 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 43000, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 43002, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 43002, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 443, type: trojan, password: af9b1617-f55b-4e62-9234-68d2bcebe503, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 443, type: trojan, password: 88d990db-a059-4d5d-952b-c418400fbca4, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG-1 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇸🇬 SG-2 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇸🇬 SG-3 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
@@ -28,10 +28,10 @@ proxies:
 - {name: 🇸🇬 Video 新加坡 B-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 19999, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Video 新加坡 A-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 9038, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Web 新加坡 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 30443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}

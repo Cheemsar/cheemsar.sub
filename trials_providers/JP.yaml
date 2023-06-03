@@ -9,9 +9,9 @@ proxies:
 - {name: 🇯🇵 vip3 日本-04 - FastFly, server: gzyd02.jcnode.top, port: 41002, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: jp001.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-05 - FastFly, server: gzdx.jcnode.top, port: 41003, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: gzyd.jcnode.top, port: 41003, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: af9b1617-f55b-4e62-9234-68d2bcebe503, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 80, type: trojan, password: af9b1617-f55b-4e62-9234-68d2bcebe503, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 80, type: trojan, password: af9b1617-f55b-4e62-9234-68d2bcebe503, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 88d990db-a059-4d5d-952b-c418400fbca4, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 80, type: trojan, password: 88d990db-a059-4d5d-952b-c418400fbca4, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 80, type: trojan, password: 88d990db-a059-4d5d-952b-c418400fbca4, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP-IEPL-A-1 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇯🇵 JP-IEPL-A-2 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇯🇵 JP-IEPL-B-3 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
@@ -49,10 +49,10 @@ proxies:
 - {name: 🇯🇵 Video 日本 B-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 813, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Video 日本 C-原生 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 4321, type: ss, cipher: aes-128-gcm, password: ay232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Web 日本 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9051, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: SLUpAUzKF8PiXL7Q, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: oBfXM4m195eQQTOY, udp: true}
 - {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 10443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 20443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 30443, type: trojan, password: 217db90a-aec0-3992-9da7-8edf6d61bdc4, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
