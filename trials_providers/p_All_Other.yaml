@@ -22,14 +22,14 @@ proxies:
 - {name: 🇩🇪 vip1 德国-02 - FastFly, server: de01.ckcloud.info, port: 21912, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-03 - FastFly, server: gzdx.jcnode.top, port: 47000, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-04 - FastFly, server: gzyd.jcnode.top, port: 47000, type: trojan, password: 1933e96c-c358-451c-ac03-80af01fddb37, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: ba889a50-9823-45da-b02c-4aaff4c937c7, udp: true}
-- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: ba889a50-9823-45da-b02c-4aaff4c937c7, udp: true}
-- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: ba889a50-9823-45da-b02c-4aaff4c937c7, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: ba889a50-9823-45da-b02c-4aaff4c937c7, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: GER-1 - 小白云, server: ger1.iepl.cooc.icu, port: 47103, type: ss, cipher: aes-256-gcm, password: ba889a50-9823-45da-b02c-4aaff4c937c7, udp: true}
-- {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: ba889a50-9823-45da-b02c-4aaff4c937c7, udp: true}
-- {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: ba889a50-9823-45da-b02c-4aaff4c937c7, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: ba889a50-9823-45da-b02c-4aaff4c937c7, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
+- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
+- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: GER-1 - 小白云, server: ger1.iepl.cooc.icu, port: 47103, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
+- {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
+- {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 29322, type: ss, cipher: chacha20-ietf-poly1305, password: 12ff1f78-1bc1-453e-b6d1-dacff982b53d, udp: true}
 - {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 29321, type: trojan, password: 12ff1f78-1bc1-453e-b6d1-dacff982b53d, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 aga韩国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16386, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6387:BRM001, obfs-param: c31666387.download.windowsupdate.com, udp: true}

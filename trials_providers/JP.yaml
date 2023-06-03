@@ -12,11 +12,11 @@ proxies:
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 8b365987-4fb9-44f5-b6ce-9112eefad193, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 80, type: trojan, password: 8b365987-4fb9-44f5-b6ce-9112eefad193, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 80, type: trojan, password: 8b365987-4fb9-44f5-b6ce-9112eefad193, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP-IEPL-A-1 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: ba889a50-9823-45da-b02c-4aaff4c937c7, udp: true}
-- {name: 🇯🇵 JP-IEPL-A-2 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: ba889a50-9823-45da-b02c-4aaff4c937c7, udp: true}
-- {name: 🇯🇵 JP-IEPL-B-3 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: ba889a50-9823-45da-b02c-4aaff4c937c7, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP-IEPL-B-4 - 小白云, server: jp4.iepl.cooc.icu, port: 18881, type: trojan, password: ba889a50-9823-45da-b02c-4aaff4c937c7, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP-IEPL-A-5 - 小白云, server: jp5.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: ba889a50-9823-45da-b02c-4aaff4c937c7, udp: true}
+- {name: 🇯🇵 JP-IEPL-A-1 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
+- {name: 🇯🇵 JP-IEPL-A-2 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
+- {name: 🇯🇵 JP-IEPL-B-3 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP-IEPL-B-4 - 小白云, server: jp4.iepl.cooc.icu, port: 18881, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP-IEPL-A-5 - 小白云, server: jp5.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 12ff1f78-1bc1-453e-b6d1-dacff982b53d, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 12ff1f78-1bc1-453e-b6d1-dacff982b53d, udp: true}
 - {name: 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10321, type: trojan, password: 12ff1f78-1bc1-453e-b6d1-dacff982b53d, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
@@ -49,7 +49,7 @@ proxies:
 - {name: 🇯🇵 Video 日本 B-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 813, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Video 日本 C-原生 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 4321, type: ss, cipher: aes-128-gcm, password: ay232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Web 日本 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9051, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 74f1e79767.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: gz.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
 - {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
 - {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
 - {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: CWeo4lL3a8BiQ7iN, udp: true}
