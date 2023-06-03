@@ -11,7 +11,7 @@ proxies:
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: a41a3b84-e7b4-4881-8e6e-50b8250960f5, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: a41a3b84-e7b4-4881-8e6e-50b8250960f5, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd.jcnode.top, port: 48004, type: trojan, password: a41a3b84-e7b4-4881-8e6e-50b8250960f5, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 6c3d562c-9719-4dd1-af7c-68314c47a949, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 88d01274-6416-44ca-a8b5-393911f1855b, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
