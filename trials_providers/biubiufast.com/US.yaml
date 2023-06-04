@@ -1,8 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国|直连SS - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, udp: true}
-- {name: 🇺🇸 美国|直连SS2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, udp: true}
 - {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36332, type: ss, cipher: chacha20-ietf-poly1305, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36334, type: ss, cipher: chacha20-ietf-poly1305, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, udp: true}
 - {name: 🇺🇸 美国 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36331, type: trojan, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, sni: sfo4.biubiufast.quest, skip-cert-verify: true, udp: true}
