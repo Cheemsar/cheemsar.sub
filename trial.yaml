@@ -229,7 +229,6 @@ proxy-groups:
   - 🇸🇬 SG-2 - 小白云
   - 🇸🇬 SG-3 - 小白云
   - 🇸🇬 SG-4 - 小白云
-  - 🇸🇬 新加坡 | 直连 - BIUBIU FAST
   - 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST
   - 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
@@ -965,7 +964,6 @@ proxy-groups:
   - 🇸🇬 SG-2 - 小白云
   - 🇸🇬 SG-3 - 小白云
   - 🇸🇬 SG-4 - 小白云
-  - 🇸🇬 新加坡 | 直连 - BIUBIU FAST
   - 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST
   - 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
@@ -1432,12 +1430,11 @@ proxies:
 - {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36333, type: trojan, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10222, type: ss, cipher: chacha20-ietf-poly1305, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, udp: true}
 - {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10221, type: trojan, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 | 直连 - BIUBIU FAST, server: xj6.biubiufast.quest, port: 5202, type: trojan, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, udp: true}
-- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 40232, type: ss, cipher: chacha20-ietf-poly1305, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, udp: true}
+- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 37132, type: ss, cipher: chacha20-ietf-poly1305, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, udp: true}
 - {name: 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10321, type: trojan, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 18131, type: trojan, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 37131, type: trojan, password: 2174fb7f-91f6-4ebd-acf2-60b292f681e8, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 aga韩国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16386, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6402:zwItwj, obfs-param: a89706402.download.windowsupdate.com, udp: true}
 - {name: 🇦🇿 AZ01转移动-1 - cloudtu, server: yt201.jdxx1.com, port: 15985, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6402:zwItwj, obfs-param: a89706402.download.windowsupdate.com, udp: true}
 - {name: 🇦🇿 AZ01转移动-2 - cloudtu, server: tz69.jdxx1.com, port: 15986, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6402:zwItwj, obfs-param: a89706402.download.windowsupdate.com, udp: true}
