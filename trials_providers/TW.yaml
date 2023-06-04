@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24002, type: trojan, password: 62334bf5-7f77-4265-b794-04cb8ca598c9, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24002, type: trojan, password: 62334bf5-7f77-4265-b794-04cb8ca598c9, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24001, type: vmess, uuid: 62334bf5-7f77-4265-b794-04cb8ca598c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24001, type: vmess, uuid: 62334bf5-7f77-4265-b794-04cb8ca598c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 08【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24003, type: trojan, password: 62334bf5-7f77-4265-b794-04cb8ca598c9, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24002, type: trojan, password: 4ca586f6-1a0e-42ed-836c-b88d8dd52c1f, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24002, type: trojan, password: 4ca586f6-1a0e-42ed-836c-b88d8dd52c1f, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24001, type: vmess, uuid: 4ca586f6-1a0e-42ed-836c-b88d8dd52c1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24001, type: vmess, uuid: 4ca586f6-1a0e-42ed-836c-b88d8dd52c1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 08【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24003, type: trojan, password: 4ca586f6-1a0e-42ed-836c-b88d8dd52c1f, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gzdx.jcnode.top, port: 42001, type: trojan, password: a41a3b84-e7b4-4881-8e6e-50b8250960f5, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gzdx01.jcnode.top, port: 42001, type: trojan, password: a41a3b84-e7b4-4881-8e6e-50b8250960f5, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-05 - FastFly, server: gzdx.jcnode.top, port: 42000, type: trojan, password: a41a3b84-e7b4-4881-8e6e-50b8250960f5, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -18,11 +18,11 @@ proxies:
 - {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 88d01274-6416-44ca-a8b5-393911f1855b, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
 - {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 4f7a0668-2653-4ac5-9458-7582b9b744b5, udp: true}
-- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17629, type: trojan, password: 8a5b0e91-a1e8-3c8f-976f-4782c2c4a34e, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 59021, type: trojan, password: 8a5b0e91-a1e8-3c8f-976f-4782c2c4a34e, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 21247, type: trojan, password: 8a5b0e91-a1e8-3c8f-976f-4782c2c4a34e, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 33323, type: trojan, password: 8a5b0e91-a1e8-3c8f-976f-4782c2c4a34e, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 36821, type: trojan, password: 8a5b0e91-a1e8-3c8f-976f-4782c2c4a34e, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17629, type: trojan, password: b79eac1e-bc69-3bd3-a94f-4e87639bb3d7, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 59021, type: trojan, password: b79eac1e-bc69-3bd3-a94f-4e87639bb3d7, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 21247, type: trojan, password: b79eac1e-bc69-3bd3-a94f-4e87639bb3d7, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 33323, type: trojan, password: b79eac1e-bc69-3bd3-a94f-4e87639bb3d7, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 36821, type: trojan, password: b79eac1e-bc69-3bd3-a94f-4e87639bb3d7, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5a43279795.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5a43279795.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5a43279795.download.windowsupdate.com}, udp: true}
