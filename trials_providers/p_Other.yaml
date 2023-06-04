@@ -4,6 +4,6 @@ proxies:
 - {name: 距离下次重置剩余：26 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 4ca586f6-1a0e-42ed-836c-b88d8dd52c1f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 4ca586f6-1a0e-42ed-836c-b88d8dd52c1f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: a41a3b84-e7b4-4881-8e6e-50b8250960f5, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: ab65c174-5a9d-336d-a233-954df5800aa4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: ab65c174-5a9d-336d-a233-954df5800aa4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 5e70ae52-a705-3cb8-a274-8574ad97e42c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 5e70ae52-a705-3cb8-a274-8574ad97e42c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
