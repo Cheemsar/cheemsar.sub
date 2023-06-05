@@ -2,5 +2,3 @@
 ---
 proxies:
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 8080, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 8080, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}

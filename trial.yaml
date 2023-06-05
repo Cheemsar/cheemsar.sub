@@ -279,8 +279,6 @@ proxy-groups:
   - 🇯🇵 vip1 日本-05 - FastFly
   - 🇯🇵 vip1 日本-06 - FastFly
   - 🇯🇵 日本 - giao云
-  - 🇯🇵 日本1 - giao云
-  - 🇯🇵 日本2 - giao云
   - 🇯🇵 JP-IEPL-A-1 - 小白云
   - 🇯🇵 JP-IEPL-A-2 - 小白云
   - 🇯🇵 JP-IEPL-B-3 - 小白云
@@ -1038,8 +1036,6 @@ proxy-groups:
   - 🇯🇵 vip1 日本-05 - FastFly
   - 🇯🇵 vip1 日本-06 - FastFly
   - 🇯🇵 日本 - giao云
-  - 🇯🇵 日本1 - giao云
-  - 🇯🇵 日本2 - giao云
   - 🇯🇵 JP-IEPL-A-1 - 小白云
   - 🇯🇵 JP-IEPL-A-2 - 小白云
   - 🇯🇵 JP-IEPL-B-3 - 小白云
@@ -1420,8 +1416,6 @@ proxies:
 - {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 44331, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 8080, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 8080, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 98738133-3efc-4b41-915c-fb2141657d31, udp: true}
 - {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 98738133-3efc-4b41-915c-fb2141657d31, udp: true}
