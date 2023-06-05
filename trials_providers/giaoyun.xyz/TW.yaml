@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 5d89da19-b33a-452e-ad5d-3760ec192b0b, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 5d89da19-b33a-452e-ad5d-3760ec192b0b, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 5d89da19-b33a-452e-ad5d-3760ec192b0b, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 5d89da19-b33a-452e-ad5d-3760ec192b0b, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
