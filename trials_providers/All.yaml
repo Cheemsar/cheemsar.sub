@@ -9,6 +9,7 @@ proxies:
 - {name: 🇭🇰 JCBB_香港02_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20000, type: vmess, uuid: 9eda368a-a08f-47a5-b9d7-422483132015, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20005, type: trojan, password: 9eda368a-a08f-47a5-b9d7-422483132015, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20005, type: trojan, password: 9eda368a-a08f-47a5-b9d7-422483132015, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: kcdHKT - JCBB, server: kcdhkt.ddns.me, port: 3322, type: vmess, uuid: 9eda368a-a08f-47a5-b9d7-422483132015, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kcdhkt.ddns.me}}, udp: true}
 - {name: 🇭🇰 JCBB_香港_03_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20004, type: vmess, uuid: 9eda368a-a08f-47a5-b9d7-422483132015, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港_04_1【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20004, type: vmess, uuid: 9eda368a-a08f-47a5-b9d7-422483132015, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港 06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20003, type: trojan, password: 9eda368a-a08f-47a5-b9d7-422483132015, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -83,21 +84,21 @@ proxies:
 - {name: 🇩🇪 vip1 德国-02 - FastFly, server: de01.ckcloud.info, port: 21912, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-03 - FastFly, server: gzdx.jcnode.top, port: 47000, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-04 - FastFly, server: gzyd.jcnode.top, port: 47000, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 8080, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 8080, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25286, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36489, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 44331, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 9c861155-8ba6-4346-a8f0-e6b6eb44767a, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 529jp7.ljydw.top, port: 8080, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 529jp7.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本2 - giao云, server: 529jp.ljydw.top, port: 8080, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 529jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25286, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36489, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 44331, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: b952bd9b-6b4e-4148-a4cc-a6d367331697, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-1 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 98738133-3efc-4b41-915c-fb2141657d31, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-2 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 98738133-3efc-4b41-915c-fb2141657d31, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-3 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 98738133-3efc-4b41-915c-fb2141657d31, udp: true}
