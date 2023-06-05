@@ -26,8 +26,8 @@ proxies:
 - {name: 🇭🇰 vip1 香港-18 - FastFly, server: gzyd.jcnode.top, port: 40001, type: trojan, password: 9ccb2e9e-82b9-41b8-a19a-344c182631da, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip3 香港-20 - FastFly, server: whyd.jcnode.top, port: 40001, type: trojan, password: 9ccb2e9e-82b9-41b8-a19a-344c182631da, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25286, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36489, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港11 - giao云, server: 518fgfdg.tfzhc.top, port: 44331, type: trojan, password: badb91f1-bf35-4f4f-a52e-a554ecce49f0, sni: 518fgfdg.tfzhc.top, skip-cert-verify: true, udp: true}
