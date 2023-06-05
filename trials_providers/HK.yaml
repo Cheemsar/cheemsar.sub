@@ -15,6 +15,7 @@ proxies:
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: gzdx.jcnode.top, port: 40004, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: gzyd.jcnode.top, port: 40004, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip3 香港-04 - FastFly, server: gzyd02.jcnode.top, port: 40004, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 vip3 香港-04-测试 - FastFly, server: fsdx.jcnode.top, port: 40004, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-05 - FastFly, server: gzdx.jcnode.top, port: 40000, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-06 - FastFly, server: gzyd.jcnode.top, port: 40000, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-09 - FastFly, server: gzdx.jcnode.top, port: 40003, type: trojan, password: 2e217cd5-a691-42ac-8829-4f97e25149b7, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
