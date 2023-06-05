@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: a30f2fb0-8d50-4a62-9ea1-21125bf46084, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: ff9a1c86-66da-4d7a-9d02-907bd2d3aed5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
