@@ -32,10 +32,10 @@ proxies:
 - {name: 🇸🇬 Video 新加坡 B-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 19999, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: 54def79866.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Video 新加坡 A-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 9038, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54def79866.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Web 新加坡 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54def79866.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: DKzeZhDVPp9gd4TU, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: DKzeZhDVPp9gd4TU, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: DKzeZhDVPp9gd4TU, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: DKzeZhDVPp9gd4TU, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: h9wbf2LlG7VZgxfY, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: h9wbf2LlG7VZgxfY, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: h9wbf2LlG7VZgxfY, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: h9wbf2LlG7VZgxfY, udp: true}
 - {name: 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: 5f699c63-9dad-4ac0-bfab-67c4de4e8115, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: bf8854b5-ee9e-36cf-b7b6-bd4e07bfb236, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: bf8854b5-ee9e-36cf-b7b6-bd4e07bfb236, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
