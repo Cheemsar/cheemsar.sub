@@ -1,4 +1,5 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇯🇵 日本1 - giao云, server: 66jp.ljydw.top, port: 443, type: vmess, uuid: 5be91f44-d19f-493f-bbb6-15e82048c345, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /bbb, headers: {Host: 66jp.ljydw.top}}, udp: true}
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 5be91f44-d19f-493f-bbb6-15e82048c345, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
