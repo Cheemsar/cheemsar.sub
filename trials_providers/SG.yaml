@@ -10,7 +10,7 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 43000, type: trojan, password: 9ccb2e9e-82b9-41b8-a19a-344c182631da, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 43002, type: trojan, password: 9ccb2e9e-82b9-41b8-a19a-344c182631da, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 43002, type: trojan, password: 9ccb2e9e-82b9-41b8-a19a-344c182631da, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 44331, type: trojan, password: 52ec6419-29f8-4529-8cee-480976406eb1, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 44331, type: trojan, password: 5be91f44-d19f-493f-bbb6-15e82048c345, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG-1 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 98738133-3efc-4b41-915c-fb2141657d31, udp: true}
 - {name: 🇸🇬 SG-2 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 98738133-3efc-4b41-915c-fb2141657d31, udp: true}
 - {name: 🇸🇬 SG-3 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: trojan, password: 98738133-3efc-4b41-915c-fb2141657d31, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
