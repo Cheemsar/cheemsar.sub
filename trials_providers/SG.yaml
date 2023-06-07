@@ -10,7 +10,7 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 43000, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 43002, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 43002, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 44331, type: trojan, password: 308614bd-5dd3-4871-a017-9ef587159de9, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 - giao云, server: 530sg.ljydw.top, port: 44331, type: trojan, password: 3c38822b-3d86-49e5-9d20-55466664042b, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG-1 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: bfc16fee-6587-420b-bb40-3fe5f248e0a3, udp: true}
 - {name: 🇸🇬 SG-2 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: bfc16fee-6587-420b-bb40-3fe5f248e0a3, udp: true}
 - {name: 🇸🇬 SG-3 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: trojan, password: bfc16fee-6587-420b-bb40-3fe5f248e0a3, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
@@ -57,4 +57,4 @@ proxies:
 - {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36007, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36008, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36022, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 25456, type: vmess, uuid: 5dffdc21-a5c0-49f1-9749-79603e06b156, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 25456, type: vmess, uuid: 8383eeef-2cce-4657-8497-901377f5f628, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
