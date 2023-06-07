@@ -57,4 +57,4 @@ proxies:
 - {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36007, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36008, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36022, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 25456, type: vmess, uuid: 41b2b889-d7f4-4901-b308-18122b828805, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 25456, type: vmess, uuid: 0f4653d8-3ed2-4a78-ab11-a86539b48eff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
