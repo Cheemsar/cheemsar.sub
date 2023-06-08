@@ -15,10 +15,10 @@ proxies:
 - {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gzdx01.jcnode.top, port: 42000, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip2 台湾-07 - FastFly, server: gzyd.jcnode.top, port: 42000, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip3 台湾-08 - FastFly, server: gzyd02.jcnode.top, port: 42000, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 59e179aa-9978-4dde-a398-aeac76afd08c, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 59e179aa-9978-4dde-a398-aeac76afd08c, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 59e179aa-9978-4dde-a398-aeac76afd08c, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 59e179aa-9978-4dde-a398-aeac76afd08c, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 2c2928e2-102b-48aa-8cc6-fb7fd4b58dfd, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 2c2928e2-102b-48aa-8cc6-fb7fd4b58dfd, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 2c2928e2-102b-48aa-8cc6-fb7fd4b58dfd, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 2c2928e2-102b-48aa-8cc6-fb7fd4b58dfd, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: bfc16fee-6587-420b-bb40-3fe5f248e0a3, udp: true}
 - {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: bfc16fee-6587-420b-bb40-3fe5f248e0a3, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17629, type: trojan, password: f50578b4-32cb-3356-bff8-aa24e62f5db1, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -52,4 +52,4 @@ proxies:
 - {name: 🇹🇼 台湾 直连2 - 爱猫论坛, server: tw3.594888.xyz, port: 31235, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw3.594888.xyz}}, udp: true}
 - {name: 🇹🇼 台湾 直连3 - 爱猫论坛, server: tw4.594888.xyz, port: 31235, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw4.594888.xyz}}, udp: true}
 - {name: 🇹🇼 台湾 直连4 - 爱猫论坛, server: tw5.594888.xyz, port: 31235, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw5.594888.xyz}}, udp: true}
-- {name: 🇹🇼 台湾-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 25512, type: vmess, uuid: ab86faf1-4665-4e02-9633-b89ba9f2866e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇹🇼 台湾-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 25512, type: vmess, uuid: 08c0a0b2-1200-42cf-9414-82dc8394c0a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
