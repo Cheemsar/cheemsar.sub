@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: 275bea72-49c8-47b7-b201-9e35b20aa021, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: 479e982d-6818-4f21-bf03-0543a5621c49, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: e08aaaf2-efd4-39d2-bff8-f22c85069688, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: e08aaaf2-efd4-39d2-bff8-f22c85069688, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：28 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 01b1ea13-c62c-4c88-ae0b-ccb62cdb0b48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 距离下次重置剩余：22 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 647f869d-c014-46b2-b4c3-16d4f6572943, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 647f869d-c014-46b2-b4c3-16d4f6572943, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: 479e982d-6818-4f21-bf03-0543a5621c49, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 1ecaae80-4985-3c77-b9ad-fb3ed871fde1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 1ecaae80-4985-3c77-b9ad-fb3ed871fde1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: 275bea72-49c8-47b7-b201-9e35b20aa021, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
