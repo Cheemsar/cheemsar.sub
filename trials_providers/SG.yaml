@@ -16,10 +16,10 @@ proxies:
 - {name: 🇸🇬 IEPL  | 新加坡 | 2.0* - 主页 | 逗猫 - 探索新的世界, server: bgp.hofhasharon.org, port: 37008, type: ss, cipher: aes-256-gcm, password: 7dd9aa99-ffda-4ad6-a809-b72cb278c789, udp: true}
 - {name: 🇸🇬 CM  | 新加坡A | 0.6* - 主页 | 逗猫 - 探索新的世界, server: cm.hofhasharon.org, port: 37013, type: ss, cipher: aes-256-gcm, password: 7dd9aa99-ffda-4ad6-a809-b72cb278c789, udp: true}
 - {name: 🇸🇬 CM  | 新加坡B | 0.6* - 主页 | 逗猫 - 探索新的世界, server: cm.hofhasharon.org, port: 37014, type: ss, cipher: aes-256-gcm, password: 7dd9aa99-ffda-4ad6-a809-b72cb278c789, udp: true}
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 43000, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 43000, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 43002, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 43002, type: trojan, password: 8040dade-918b-4f9c-a2cc-a593b9e86c7f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 43000, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 43000, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 43002, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 43002, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sg-01.v1vip.top, port: 31011, type: trojan, password: 479e982d-6818-4f21-bf03-0543a5621c49, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.v1vip.top, port: 31012, type: trojan, password: 479e982d-6818-4f21-bf03-0543a5621c49, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sg-01.v3vip.top, port: 33011, type: vmess, uuid: 479e982d-6818-4f21-bf03-0543a5621c49, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
