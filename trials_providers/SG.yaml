@@ -36,7 +36,7 @@ proxies:
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: gFoxspO9lLJnK0Yj, udp: true}
 - {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: gFoxspO9lLJnK0Yj, udp: true}
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: gFoxspO9lLJnK0Yj, udp: true}
-- {name: 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: d67e1eae-503c-4039-9d0a-cf96212ccb59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: 275bea72-49c8-47b7-b201-9e35b20aa021, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 351c8abe-5895-3006-b83f-0d66e4a5aa46, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: 351c8abe-5895-3006-b83f-0d66e4a5aa46, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 30443, type: trojan, password: 351c8abe-5895-3006-b83f-0d66e4a5aa46, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
@@ -57,4 +57,4 @@ proxies:
 - {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36007, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36008, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36022, type: vmess, uuid: 06419383-0d80-312b-ae5b-10cc9eb6d6bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 25456, type: vmess, uuid: de03b831-a647-4a37-85ec-daa1a7c422ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 25456, type: vmess, uuid: a1560eae-10bb-44a0-b20e-a26e2c6d9f24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
