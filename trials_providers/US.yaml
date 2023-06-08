@@ -15,7 +15,7 @@ proxies:
 - {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: ZNMCRi7pBjh6AkHt, udp: true}
 - {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: ZNMCRi7pBjh6AkHt, udp: true}
 - {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: ZNMCRi7pBjh6AkHt, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 2be94d86-8d56-49a7-8841-49206f990afb, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: f1925136-66d2-4aa6-81a3-ebd3e6f8e3e3, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 CM  | 美国A | 0.6* - 主页 | 逗猫 - 探索新的世界, server: cm.hofhasharon.org, port: 37016, type: ss, cipher: aes-256-gcm, password: c30b5d9b-339b-4563-ba5a-f8bbe45d4ec9, udp: true}
 - {name: 🇺🇸 【C】美国 普通 1 - CC - SockBoom, server: us1.edge.boom.skin, port: 40000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 797009:3Fn47b, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 797009:3Fn47b, obfs-param: download.windowsupdate.com, udp: true}
@@ -79,9 +79,9 @@ proxies:
 - {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: bfc16fee-6587-420b-bb40-3fe5f248e0a3, udp: true}
 - {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: bfc16fee-6587-420b-bb40-3fe5f248e0a3, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US-IEPL-B-2 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: trojan, password: bfc16fee-6587-420b-bb40-3fe5f248e0a3, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 1413bef3-5d46-344b-8627-09a3073f6ddd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 1413bef3-5d46-344b-8627-09a3073f6ddd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 1413bef3-5d46-344b-8627-09a3073f6ddd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: e6c9fb9f-0734-3c04-956a-7d0e6b9b52bd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: e6c9fb9f-0734-3c04-956a-7d0e6b9b52bd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: e6c9fb9f-0734-3c04-956a-7d0e6b9b52bd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 aga美国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16387, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6475:B52Msm, obfs-param: 9308e6475.download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6475:B52Msm, obfs-param: 9308e6475.download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28000, type: vmess, uuid: 647f869d-c014-46b2-b4c3-16d4f6572943, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
