@@ -35,6 +35,7 @@ proxy-groups:
   - 🇯🇵 日本 | 直连3 - BIUBIU FAST
   - 🇯🇵 日本|直连SS3 - BIUBIU FAST
   - 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST
+  - 🇯🇵 日本| 高速日本2（会员） - BIUBIU FAST
   - 🇺🇸 美国|高速SS（会员） - BIUBIU FAST
   - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST
   - 🇺🇸 美国 | 高速（会员） - BIUBIU FAST
@@ -106,6 +107,7 @@ proxy-groups:
   - 🇯🇵 日本 | 直连3 - BIUBIU FAST
   - 🇯🇵 日本|直连SS3 - BIUBIU FAST
   - 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST
+  - 🇯🇵 日本| 高速日本2（会员） - BIUBIU FAST
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -156,6 +158,7 @@ proxies:
 - {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10221, type: trojan, password: 229049bd-d1a0-47f7-9075-56079c22aee8, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36331, type: trojan, password: 229049bd-d1a0-47f7-9075-56079c22aee8, sni: sfo4.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36333, type: trojan, password: 229049bd-d1a0-47f7-9075-56079c22aee8, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本| 高速日本2（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 21331, type: trojan, password: 229049bd-d1a0-47f7-9075-56079c22aee8, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
