@@ -25,12 +25,12 @@ proxies:
 - {name: 🇭🇰 vip1 香港-17 - FastFly, server: gzdx.jcnode.top, port: 40001, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-18 - FastFly, server: gzyd.jcnode.top, port: 40001, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip3 香港-20 - FastFly, server: whyd.jcnode.top, port: 40001, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 4d25ca2e-ef99-4811-a9c6-d313926fa130, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: 4d25ca2e-ef99-4811-a9c6-d313926fa130, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: 4d25ca2e-ef99-4811-a9c6-d313926fa130, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 4d25ca2e-ef99-4811-a9c6-d313926fa130, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 4d25ca2e-ef99-4811-a9c6-d313926fa130, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: 4d25ca2e-ef99-4811-a9c6-d313926fa130, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 51cc542f-3ce6-43db-b4fe-f48783e1e523, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: 51cc542f-3ce6-43db-b4fe-f48783e1e523, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: 51cc542f-3ce6-43db-b4fe-f48783e1e523, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 51cc542f-3ce6-43db-b4fe-f48783e1e523, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 51cc542f-3ce6-43db-b4fe-f48783e1e523, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: 51cc542f-3ce6-43db-b4fe-f48783e1e523, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-1 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-2 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-3 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
@@ -151,4 +151,4 @@ proxies:
 - {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36021, type: vmess, uuid: df2ab401-a3af-366f-bd7f-f9fd6cc8876a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.netflix6.com, port: 2443, type: vmess, uuid: df2ab401-a3af-366f-bd7f-f9fd6cc8876a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.netflix6.com}}, udp: true}
 - {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.netflix6.com, port: 443, type: vmess, uuid: df2ab401-a3af-366f-bd7f-f9fd6cc8876a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.netflix6.com}}, udp: true}
-- {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 25678, type: vmess, uuid: ff68c1dc-304f-4cba-8330-2e46069347d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 25678, type: vmess, uuid: a0896816-169b-49b6-8155-6e39a05cd633, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
