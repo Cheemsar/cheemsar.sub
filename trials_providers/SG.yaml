@@ -32,10 +32,10 @@ proxies:
 - {name: 🇸🇬 Video 新加坡 B-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 19999, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: e416279928.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Video 新加坡 A-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 9038, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: e416279928.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Web 新加坡 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: e416279928.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: 7T3SNvVPUgKQD6oP, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: 7T3SNvVPUgKQD6oP, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: 7T3SNvVPUgKQD6oP, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: 7T3SNvVPUgKQD6oP, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: w2klrIr8AqOwdt5w, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: w2klrIr8AqOwdt5w, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: w2klrIr8AqOwdt5w, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: w2klrIr8AqOwdt5w, udp: true}
 - {name: 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: 18649eee-a75c-429d-95d8-f4ec611f69bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: afb4d266-f43c-3f42-80ec-c4744d2936e9, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: afb4d266-f43c-3f42-80ec-c4744d2936e9, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
@@ -57,4 +57,4 @@ proxies:
 - {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: 120.195.181.81, port: 36007, type: vmess, uuid: 116c8666-efa0-3f50-8c56-03d09024bb20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: 120.195.181.81, port: 36008, type: vmess, uuid: 116c8666-efa0-3f50-8c56-03d09024bb20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36022, type: vmess, uuid: 116c8666-efa0-3f50-8c56-03d09024bb20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 25456, type: vmess, uuid: 1633fff7-9aa4-40e9-8f1a-b1c5a15df0eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 25456, type: vmess, uuid: 45881de2-d91b-4d83-9ad8-7b88dbcbc3ec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
