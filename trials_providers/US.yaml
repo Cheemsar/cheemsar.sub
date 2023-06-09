@@ -11,7 +11,7 @@ proxies:
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd.jcnode.top, port: 48004, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 2079f77e-27ca-4137-bdc3-fc8149b1ab9e, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 6b232728-bd43-401b-a893-e77c0491fb1b, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
@@ -85,6 +85,6 @@ proxies:
 - {name: 🇺🇸 美国-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26516, type: vmess, uuid: 4a45e018-d9e1-4925-9dcf-a4d50d8f6f2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇺🇸 美国-02 | 1.5X - 凌云网络, server: 183.56.223.220, port: 25337, type: vmess, uuid: 4a45e018-d9e1-4925-9dcf-a4d50d8f6f2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇺🇸 美国-03 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26517, type: vmess, uuid: 4a45e018-d9e1-4925-9dcf-a4d50d8f6f2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 0c4d45b0-3563-32b1-bf4f-89c3a3a24c3e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 0c4d45b0-3563-32b1-bf4f-89c3a3a24c3e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 0c4d45b0-3563-32b1-bf4f-89c3a3a24c3e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 9329d812-9a96-30e9-8e39-e22c1215c15b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 9329d812-9a96-30e9-8e39-e22c1215c15b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 9329d812-9a96-30e9-8e39-e22c1215c15b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}

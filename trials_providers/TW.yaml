@@ -15,10 +15,10 @@ proxies:
 - {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gzdx01.jcnode.top, port: 42000, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip2 台湾-07 - FastFly, server: gzyd.jcnode.top, port: 42000, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip3 台湾-08 - FastFly, server: gzyd02.jcnode.top, port: 42000, type: trojan, password: f7302a03-0c16-40e2-b003-9874472ab7d8, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 2079f77e-27ca-4137-bdc3-fc8149b1ab9e, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 2079f77e-27ca-4137-bdc3-fc8149b1ab9e, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 2079f77e-27ca-4137-bdc3-fc8149b1ab9e, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 2079f77e-27ca-4137-bdc3-fc8149b1ab9e, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 6b232728-bd43-401b-a893-e77c0491fb1b, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 6b232728-bd43-401b-a893-e77c0491fb1b, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 6b232728-bd43-401b-a893-e77c0491fb1b, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 6b232728-bd43-401b-a893-e77c0491fb1b, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17629, type: trojan, password: 27d7da75-b348-398e-8b8b-6b9e2234e6da, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
