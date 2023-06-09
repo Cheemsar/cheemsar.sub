@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: 5fe413f0-bfc1-4a75-9e5f-432e028d574c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: dee3ea8f-3c85-4df2-b154-fd71ae8d9d7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
