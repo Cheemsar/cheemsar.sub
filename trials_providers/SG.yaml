@@ -15,8 +15,8 @@ proxies:
 - {name: 🇸🇬 SG-2 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇸🇬 SG-3 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: trojan, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG-4 - 小白云, server: sg4.iepl.cooc.icu, port: 35108, type: trojan, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 37132, type: ss, cipher: chacha20-ietf-poly1305, password: 889bf754-0676-4bfe-8cbe-9bbc9e2df943, udp: true}
-- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 37131, type: trojan, password: 889bf754-0676-4bfe-8cbe-9bbc9e2df943, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 37132, type: ss, cipher: chacha20-ietf-poly1305, password: 3e0ff450-48ff-4101-90a8-c1bcbb37e5bb, udp: true}
+- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 37131, type: trojan, password: 3e0ff450-48ff-4101-90a8-c1bcbb37e5bb, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sg-01.v1vip.top, port: 31011, type: trojan, password: 8d3f12eb-f201-4996-8ca2-88c92a0b4c59, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.v1vip.top, port: 31012, type: trojan, password: 8d3f12eb-f201-4996-8ca2-88c92a0b4c59, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sg-01.v3vip.top, port: 33011, type: vmess, uuid: 8d3f12eb-f201-4996-8ca2-88c92a0b4c59, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
