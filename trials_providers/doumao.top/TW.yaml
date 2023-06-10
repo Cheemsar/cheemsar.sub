@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 IEPL  | 台湾 | 2.0* - 主页 | 逗猫 - 探索新的世界, server: bgp.hofhasharon.org, port: 37009, type: ss, cipher: aes-256-gcm, password: 5bac9448-5126-4426-899b-2af584282989, udp: true}
-- {name: 🇹🇼 CM  | 台湾  | 0.6* - 主页 | 逗猫 - 探索新的世界, server: cm.hofhasharon.org, port: 37025, type: ss, cipher: aes-256-gcm, password: 5bac9448-5126-4426-899b-2af584282989, udp: true}
+- {name: 🇹🇼 IEPL  | 台湾 | 2.0* - 主页 | 逗猫 - 探索新的世界, server: bgp.hofhasharon.org, port: 37009, type: ss, cipher: aes-256-gcm, password: d708cd0a-8585-40c8-adf5-b086ffdbe40c, udp: true}
+- {name: 🇹🇼 CM  | 台湾  | 0.6* - 主页 | 逗猫 - 探索新的世界, server: cm.hofhasharon.org, port: 37025, type: ss, cipher: aes-256-gcm, password: d708cd0a-8585-40c8-adf5-b086ffdbe40c, udp: true}
