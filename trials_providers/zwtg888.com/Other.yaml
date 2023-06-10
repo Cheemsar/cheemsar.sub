@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 加群不限速@zwtg888888 - IKUN机场, server: s9.zwtg888.com, port: 80, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: www.minecraft.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: www.minecraft.com}}, udp: true}
-- {name: 延迟高≠网速慢 - IKUN机场, server: a2.zwtg888.com, port: 886, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a2.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
+- {name: 延迟高≠网速慢 - IKUN机场, server: s4.zwtg888.com, port: 886, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s4.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
 - {name: 所有节点都解锁GPT - IKUN机场, server: a6.zwtg888.com, port: 21686, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a6.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
 - {name: 流媒体到官网节点列表自行查看 - IKUN机场, server: a6.zwtg888.com, port: 25486, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a6.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
 - {name: 加 @zwtg888888  领取不限速 - IKUN机场, server: a6.zwtg888.com, port: 12865, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a6.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a6.zwtg888.com}}, udp: true}
