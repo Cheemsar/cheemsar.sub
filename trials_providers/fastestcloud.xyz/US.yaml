@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 48000, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇺🇸 vip1 美国-08 - FastFly, server: gzdx.jcnode.top, port: 48001, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd.jcnode.top, port: 48004, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 48000, type: trojan, password: aa530f4d-e327-4f24-b2a6-a707b9d479e8, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: aa530f4d-e327-4f24-b2a6-a707b9d479e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇺🇸 vip1 美国-08 - FastFly, server: gzdx.jcnode.top, port: 48001, type: trojan, password: aa530f4d-e327-4f24-b2a6-a707b9d479e8, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: aa530f4d-e327-4f24-b2a6-a707b9d479e8, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: aa530f4d-e327-4f24-b2a6-a707b9d479e8, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd.jcnode.top, port: 48004, type: trojan, password: aa530f4d-e327-4f24-b2a6-a707b9d479e8, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
