@@ -2,8 +2,8 @@
 ---
 proxies:
 - {name: 距离下次重置剩余：26 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 01b1ea13-c62c-4c88-ae0b-ccb62cdb0b48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
-- {name: 距离下次重置剩余：20 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: f9f077b3-6196-48ed-94f1-175fd5340d09, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: f9f077b3-6196-48ed-94f1-175fd5340d09, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：20 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 928b376a-ed0e-45e5-89e6-1a3f471fca5a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 928b376a-ed0e-45e5-89e6-1a3f471fca5a, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: 8d3f12eb-f201-4996-8ca2-88c92a0b4c59, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 3586abf8-e7a3-3b35-b7b8-70500ee318ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
