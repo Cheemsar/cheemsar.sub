@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: C3.套餐限时9折促销(非节点勿连) - XD Cloud, server: www.xindongli138.xyz, port: 10086, type: vmess, uuid: af20e252-1fb1-3a2b-ba5d-581e43563dfd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

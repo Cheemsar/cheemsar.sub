@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 续费网站 www.yktfjsq.com - 快塔, server: 1, port: 443, type: vmess, uuid: 225a2655-2d0e-38d3-b745-fa29b12a7ccb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 续费网站 www.yktfjsq.com - 快塔, server: 1, port: 443, type: vmess, uuid: a79d9c83-d8b9-3a0e-962d-6cfb14a7f19e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

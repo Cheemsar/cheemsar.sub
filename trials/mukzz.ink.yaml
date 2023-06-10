@@ -54,8 +54,8 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: A-续费地址https://muniujiasu.top - 牧牛云, server: baiyang.io, port: 34566, type: vmess, uuid: 439350d5-0f0e-30a5-b80a-4db6973c21bd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: C-超时了请更新订阅 - 牧牛云, server: baiyang.io, port: 34566, type: vmess, uuid: 439350d5-0f0e-30a5-b80a-4db6973c21bd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: A-续费地址https://muniujiasu.top - 牧牛云, server: baiyang.io, port: 34566, type: vmess, uuid: 80e2509f-edbe-386d-93bc-6cc620d4c51f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: C-超时了请更新订阅 - 牧牛云, server: baiyang.io, port: 34566, type: vmess, uuid: 80e2509f-edbe-386d-93bc-6cc620d4c51f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
