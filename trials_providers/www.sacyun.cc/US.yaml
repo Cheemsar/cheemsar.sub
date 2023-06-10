@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-1｜流媒体｜GPT - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37007, type: vmess, uuid: 4885e1cd-f126-4668-b5b0-060ea4fe66c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36009, type: vmess, uuid: 4885e1cd-f126-4668-b5b0-060ea4fe66c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-1｜流媒体｜GPT - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37007, type: vmess, uuid: 91ba7833-512f-4c21-bd02-a764313890af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36009, type: vmess, uuid: 91ba7833-512f-4c21-bd02-a764313890af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
