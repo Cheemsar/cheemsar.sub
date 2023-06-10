@@ -21,6 +21,8 @@ proxies:
 - {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.v1vip.top, port: 31012, type: trojan, password: 40c229ee-0f45-49b4-bab3-9411c2875a7f, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sg-01.v3vip.top, port: 33011, type: vmess, uuid: 40c229ee-0f45-49b4-bab3-9411c2875a7f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
 - {name: 🇸🇬新加坡中继Ⅱ-V2ray - Proxyvip, server: sg-02.v3vip.top, port: 33012, type: vmess, uuid: 40c229ee-0f45-49b4-bab3-9411c2875a7f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-02.v4vip.top, udp: true}
+- {name: 🇸🇬 新加坡-优化1 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
+- {name: 🇸🇬 新加坡-优化2 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20299, type: trojan, password: a23eb010-3064-3efb-b04e-e5412203bceb, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17806, type: trojan, password: a23eb010-3064-3efb-b04e-e5412203bceb, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 30712, type: trojan, password: a23eb010-3064-3efb-b04e-e5412203bceb, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
