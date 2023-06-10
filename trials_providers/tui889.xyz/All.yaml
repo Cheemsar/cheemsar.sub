@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: (ms是延迟越低越快(别选-1ms或超时的点连接) - 推云, server: 111111, port: 443, type: vmess, uuid: 70339d5b-9e03-37b9-abf6-33e4ef2f85f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 0充值网https://ttww123.xyz或https://qaz55688.xyz - 推云, server: 139.180.143.189, port: 57331, type: vmess, uuid: 70339d5b-9e03-37b9-abf6-33e4ef2f85f7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 139.180.143.189}}, udp: true}

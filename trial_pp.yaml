@@ -118,8 +118,6 @@ proxy-groups:
   tolerance: 50
   use: &id008
   - p_All_Other
-  - p_Other_Other
-  - p_Other_Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -195,15 +193,6 @@ proxy-providers:
     url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/p_All_Other.yaml
     interval: 180
     path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/p_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_Other_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

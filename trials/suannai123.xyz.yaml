@@ -10,8 +10,20 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -20,8 +32,25 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - (ms是延迟越低越快(别选-1ms或超时的点连接) - 推云
-  - 0充值网https://ttww123.xyz或https://qaz55688.xyz - 推云
+  - 🇭🇰 Asia 香港02 | youtube免广告 | 1.0x | V1 - 酸奶
+  - 🇭🇰 Asia 香港03 | 隧道 | 1.0x | V1 - 酸奶
+  - 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶
+  - 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾02 | 解锁台湾流媒体 | 5.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾03 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡01 | 隧道 | 1.0 x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡05 | 1.0x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡06 | 1.0x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡07 | 解锁chatpgt | 1.0x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡08 | 解锁chatpgt | 1.0x | V1 - 酸奶
+  - 🇸🇬 SGP 新加坡 | 奈飞 | 3.0x | V1 - 酸奶
+  - 🇯🇵 JP 日本 | 隧道节点 | 3.0x | V1 - 酸奶
+  - 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶
+  - 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶
+  - chatgpt 推特 tiktok 专线 - 酸奶
+  - 🇫🇷 FR 法国 | 隧道 | 3.0x | V1 - 酸奶
+  - 🇰🇷 Korea 韩国   | 隧道 | 3.0x | V1 - 酸奶
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -37,15 +66,29 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -54,23 +97,118 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🎏 ‍其他
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id002
-  - (ms是延迟越低越快(别选-1ms或超时的点连接) - 推云
-  - 0充值网https://ttww123.xyz或https://qaz55688.xyz - 推云
+  - 🇭🇰 Asia 香港02 | youtube免广告 | 1.0x | V1 - 酸奶
+  - 🇭🇰 Asia 香港03 | 隧道 | 1.0x | V1 - 酸奶
+  - 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id003
+  - 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾02 | 解锁台湾流媒体 | 5.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾03 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
+  - 🇭🇰 Asia 香港02 | youtube免广告 | 1.0x | V1 - 酸奶
+  - 🇭🇰 Asia 香港03 | 隧道 | 1.0x | V1 - 酸奶
+  - 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶
+  - 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾02 | 解锁台湾流媒体 | 5.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾03 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id005
+  - 🇸🇬 Asia 新加坡01 | 隧道 | 1.0 x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡05 | 1.0x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡06 | 1.0x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡07 | 解锁chatpgt | 1.0x | V1 - 酸奶
+  - 🇸🇬 Asia 新加坡08 | 解锁chatpgt | 1.0x | V1 - 酸奶
+  - 🇸🇬 SGP 新加坡 | 奈飞 | 3.0x | V1 - 酸奶
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id006
+  - 🇯🇵 JP 日本 | 隧道节点 | 3.0x | V1 - 酸奶
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id007
+  - 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶
+  - 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id008
+  - chatgpt 推特 tiktok 专线 - 酸奶
+  - 🇫🇷 FR 法国 | 隧道 | 3.0x | V1 - 酸奶
+  - 🇰🇷 Korea 韩国   | 隧道 | 3.0x | V1 - 酸奶
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: (ms是延迟越低越快(别选-1ms或超时的点连接) - 推云, server: 111111, port: 443, type: vmess, uuid: 70339d5b-9e03-37b9-abf6-33e4ef2f85f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 0充值网https://ttww123.xyz或https://qaz55688.xyz - 推云, server: 139.180.143.189, port: 57331, type: vmess, uuid: 70339d5b-9e03-37b9-abf6-33e4ef2f85f7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 139.180.143.189}}, udp: true}
+- {name: 🇸🇬 Asia 新加坡01 | 隧道 | 1.0 x | V1 - 酸奶, server: zz2.shynia.top, port: 48001, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
+- {name: 🇭🇰 Asia 香港02 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe2.fmmmz1.com, port: 80, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe2.fmmmz1.com}}, udp: true}
+- {name: 🇭🇰 Asia 香港03 | 隧道 | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48003, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
+- {name: 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe4.fmmmz1.com, port: 80, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe4.fmmmz1.com}}, udp: true}
+- {name: 🇸🇬 Asia 新加坡05 | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48005, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
+- {name: 🇸🇬 Asia 新加坡06 | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48015, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
+- {name: 🇸🇬 Asia 新加坡07 | 解锁chatpgt | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48025, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
+- {name: 🇸🇬 Asia 新加坡08 | 解锁chatpgt | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48035, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
+- {name: 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 34673, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: chatgpt 推特 tiktok 专线 - 酸奶, server: zz.shynia.top, port: 47918, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇫🇷 FR 法国 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 18953, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇯🇵 JP 日本 | 隧道节点 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 47988, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇰🇷 Korea 韩国   | 隧道 | 3.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48095, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz2.shynia.top}}, udp: true}
+- {name: 🇸🇬 SGP 新加坡 | 奈飞 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 47906, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶, server: 165.154.253.74, port: 80, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
+- {name: 🇹🇼 UC 台湾02 | 解锁台湾流媒体 | 5.0x | V1 - 酸奶, server: zz.shynia.top, port: 10009, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇹🇼 UC 台湾03 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶, server: zz.shynia.top, port: 10008, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 15617, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 35673, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 续费网站 www.yktfyun.com - 快通, server: 1, port: 443, type: vmess, uuid: 044fcfa8-98eb-3a33-b4ba-1ad51e8982e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
