@@ -39,16 +39,16 @@ proxies:
 - {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gzdx01.jcnode.top, port: 42000, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip2 台湾-07 - FastFly, server: gzyd.jcnode.top, port: 42000, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip3 台湾-08 - FastFly, server: gzyd02.jcnode.top, port: 42000, type: trojan, password: 03195a5e-3699-4241-9c62-5ccbea1b5ed1, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 706beecf-8f65-4dec-8fa0-6598ff90a394, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: bdfc24cf-15d9-46b0-818e-680f04da46e6, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-1 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-2 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
 - {name: 🇭🇰 HK-IEPL-A-3 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 10f854df-6834-4ff2-9dec-1f74cab6b946, udp: true}
@@ -202,5 +202,5 @@ proxies:
 - {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.81, port: 36021, type: vmess, uuid: df2ab401-a3af-366f-bd7f-f9fd6cc8876a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.netflix6.com, port: 2443, type: vmess, uuid: df2ab401-a3af-366f-bd7f-f9fd6cc8876a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.netflix6.com}}, udp: true}
 - {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.netflix6.com, port: 443, type: vmess, uuid: df2ab401-a3af-366f-bd7f-f9fd6cc8876a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.netflix6.com}}, udp: true}
-- {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 25678, type: vmess, uuid: a5a33c94-4a34-4404-9a25-42814e37d834, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 25512, type: vmess, uuid: a5a33c94-4a34-4404-9a25-42814e37d834, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 25678, type: vmess, uuid: c844b78b-4353-4a8e-9ae0-fcee1b42469e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 25512, type: vmess, uuid: c844b78b-4353-4a8e-9ae0-fcee1b42469e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
