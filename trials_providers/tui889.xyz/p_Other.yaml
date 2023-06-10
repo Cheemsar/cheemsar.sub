@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 1-(重要)使用前请先更新定阅-更新前不要连接 - 推云, server: 139.180.143.189, port: 57331, type: vmess, uuid: 70339d5b-9e03-37b9-abf6-33e4ef2f85f7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 139.180.143.189}}, udp: true}
+- {name: 1客服qq:2759505441客服qq：532163181客服qq：1662608282客服qq：275295228 - 推云, server: 139.180.143.189, port: 57331, type: vmess, uuid: 70339d5b-9e03-37b9-abf6-33e4ef2f85f7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 139.180.143.189}}, udp: true}

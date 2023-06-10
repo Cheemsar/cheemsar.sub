@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港 1-1 九龙-直连  - IKUN机场, server: a6.zwtg888.com, port: 35523, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: a6.zwtg888.com}}, udp: true}
+- {name: 🇭🇰 香港 1-1 离岛-直连 - IKUN机场, server: a5.zwtg888.com, port: 4563, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: a5.zwtg888.com}}, udp: true}
+- {name: 🇭🇰 香港 1-2 九龙-直连 - IKUN机场, server: a6.zwtg888.com, port: 29523, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: a6.zwtg888.com}}, udp: true}
+- {name: 🇭🇰 香港 1-2 离岛-grpc - IKUN机场, server: a5.zwtg888.com, port: 25645, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a5.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
+- {name: 🇭🇰 香港 1-5 九龙-免流 - IKUN机场, server: a6.zwtg888.com, port: 12585, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a6.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a6.zwtg888.com}}, udp: true}

@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇱🇺 卢森堡DMCA 防失联|Free|海外CDN - 摸鱼云, server: lu.fishcloudcdn.top, port: 8880, type: vmess, uuid: 9f9a2cd7-3991-3460-8e8d-b3af42fd99b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /lu10gb, headers: {Host: lu.fishcloudcdn.top}}, udp: true}
+- {name: 🇩🇪 德国Unesty 防失联|Free|海外CDN - 摸鱼云, server: de-unesty.fishcloudcdn.top, port: 8880, type: vmess, uuid: 9f9a2cd7-3991-3460-8e8d-b3af42fd99b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /deUnesty, headers: {Host: de-unesty.fishcloudcdn.top}}, udp: true}
+- {name: 🇺🇲 美国1Gbps 防失联|Free|海外CDN - 摸鱼云, server: us-ddp.fishcloudcdn.top, port: 8880, type: vmess, uuid: 9f9a2cd7-3991-3460-8e8d-b3af42fd99b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /us, headers: {Host: us-ddp.fishcloudcdn.top}}, udp: true}

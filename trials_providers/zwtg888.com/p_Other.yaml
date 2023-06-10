@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 流媒体到官网节点列表自行查看 - IKUN机场, server: a6.zwtg888.com, port: 25486, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a6.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
