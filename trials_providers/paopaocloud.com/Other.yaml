@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: tg群:t.me/paopaocloud - paopaocloud, server: lting.cyou, port: 10086, type: vmess, uuid: ca46757f-d74b-3dc5-ae7c-29ba999c602c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: tg群:t.me/paopaocloud - paopaocloud, server: lting.cyou, port: 10086, type: vmess, uuid: 5368b5b2-8c37-3c63-af65-0bfeefb84773, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

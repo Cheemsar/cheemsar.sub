@@ -10,59 +10,18 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 🇭🇰 香港 Hongkong BGP-L1 - NovaCloud
-  - 🇭🇰 香港 Hongkong HKT-L1 - NovaCloud
-  - 🇭🇰 香港 Hongkong HKT-L2 - NovaCloud
-  - 🇭🇰 香港 深港IEPL1 10X-L3 - NovaCloud
-  - 🇭🇰 香港 深港IEPL2 10X-L3 - NovaCloud
-  - 🇭🇰 香港 深港IEPL3 10X-L3 - NovaCloud
-  - 🇹🇼 台湾 Taiwan-L2 - NovaCloud
-  - 🇸🇬 新加坡 Singapore-L2 - NovaCloud
-  - 🇯🇵 日本 Japan-L0 - NovaCloud
-  - 🇺🇸 美国 America(EAST)-L1 - NovaCloud
-  - 🇺🇸 美国 America(WEST)-L0 - NovaCloud
-  - 🇺🇸 美国 America-L3 - NovaCloud
-  - 🇮🇸 ★★ Our url is q88q.site ★★ - NovaCloud
-  - 🇺🇦 乌克兰 Ukraine-L0 - NovaCloud
-  - 🇷🇺 俄罗斯 Russia-L0 - NovaCloud
-  - 🇧🇬 保加利亚 Bulgaria-L1 - NovaCloud
-  - 🇨🇦 加拿大 Canada-L0 - NovaCloud
-  - 🇮🇳 印度 India-L1 - NovaCloud
-  - 🇮🇩 印度尼西亚 Indonesia-L2 - NovaCloud
-  - 🇹🇷 土耳其 Turkey-L2 - NovaCloud
-  - 🇩🇪 德国 Germany-L0 - NovaCloud
-  - 🇹🇭 泰国 Thailand-L2 - NovaCloud
-  - 🇦🇺 澳大利亚 Australia-L1 - NovaCloud
-  - 🇸🇪 瑞典 Sweden-L0 - NovaCloud
-  - 🇨🇭 瑞士 Switzerland-L1 - NovaCloud
-  - 🇬🇧 英国 England-L1 - NovaCloud
-  - 🇳🇱 荷兰 Netherlands-L2 - NovaCloud
-  - 🇵🇭 菲律宾 Philippine-L0 - NovaCloud
-  - 🇻🇳 越南 Vietnam-L2 - NovaCloud
-  - 🇰🇷 韩国 Korea-L3 - NovaCloud
-  - 🇲🇾 马来西亚 Malaysia-L1 - NovaCloud
+  use: &id001
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -78,14 +37,8 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -94,13 +47,7 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -109,142 +56,44 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 香港 Hongkong BGP-L1 - NovaCloud
-  - 🇭🇰 香港 Hongkong HKT-L1 - NovaCloud
-  - 🇭🇰 香港 Hongkong HKT-L2 - NovaCloud
-  - 🇭🇰 香港 深港IEPL1 10X-L3 - NovaCloud
-  - 🇭🇰 香港 深港IEPL2 10X-L3 - NovaCloud
-  - 🇭🇰 香港 深港IEPL3 10X-L3 - NovaCloud
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇹🇼 台湾 Taiwan-L2 - NovaCloud
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇭🇰 香港 Hongkong BGP-L1 - NovaCloud
-  - 🇭🇰 香港 Hongkong HKT-L1 - NovaCloud
-  - 🇭🇰 香港 Hongkong HKT-L2 - NovaCloud
-  - 🇭🇰 香港 深港IEPL1 10X-L3 - NovaCloud
-  - 🇭🇰 香港 深港IEPL2 10X-L3 - NovaCloud
-  - 🇭🇰 香港 深港IEPL3 10X-L3 - NovaCloud
-  - 🇹🇼 台湾 Taiwan-L2 - NovaCloud
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id005
-  - 🇸🇬 新加坡 Singapore-L2 - NovaCloud
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id006
-  - 🇯🇵 日本 Japan-L0 - NovaCloud
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id007
-  - 🇺🇸 美国 America(EAST)-L1 - NovaCloud
-  - 🇺🇸 美国 America(WEST)-L0 - NovaCloud
-  - 🇺🇸 美国 America-L3 - NovaCloud
+  use: &id002
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id008
-  - 🇮🇸 ★★ Our url is q88q.site ★★ - NovaCloud
-  - 🇺🇦 乌克兰 Ukraine-L0 - NovaCloud
-  - 🇷🇺 俄罗斯 Russia-L0 - NovaCloud
-  - 🇧🇬 保加利亚 Bulgaria-L1 - NovaCloud
-  - 🇨🇦 加拿大 Canada-L0 - NovaCloud
-  - 🇮🇳 印度 India-L1 - NovaCloud
-  - 🇮🇩 印度尼西亚 Indonesia-L2 - NovaCloud
-  - 🇹🇷 土耳其 Turkey-L2 - NovaCloud
-  - 🇩🇪 德国 Germany-L0 - NovaCloud
-  - 🇹🇭 泰国 Thailand-L2 - NovaCloud
-  - 🇦🇺 澳大利亚 Australia-L1 - NovaCloud
-  - 🇸🇪 瑞典 Sweden-L0 - NovaCloud
-  - 🇨🇭 瑞士 Switzerland-L1 - NovaCloud
-  - 🇬🇧 英国 England-L1 - NovaCloud
-  - 🇳🇱 荷兰 Netherlands-L2 - NovaCloud
-  - 🇵🇭 菲律宾 Philippine-L0 - NovaCloud
-  - 🇻🇳 越南 Vietnam-L2 - NovaCloud
-  - 🇰🇷 韩国 Korea-L3 - NovaCloud
-  - 🇲🇾 马来西亚 Malaysia-L1 - NovaCloud
+  use: &id003
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
+  use: *id001
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: 🇮🇸 ★★ Our url is q88q.site ★★ - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 15003, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇺🇦 乌克兰 Ukraine-L0 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12110, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇷🇺 俄罗斯 Russia-L0 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12103, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇧🇬 保加利亚 Bulgaria-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11102, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇨🇦 加拿大 Canada-L0 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11108, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇮🇳 印度 India-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11114, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇮🇩 印度尼西亚 Indonesia-L2 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11103, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇹🇼 台湾 Taiwan-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12105, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇹🇷 土耳其 Turkey-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12104, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇩🇪 德国 Germany-L0 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12101, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇸🇬 新加坡 Singapore-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇯🇵 日本 Japan-L0 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12107, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇹🇭 泰国 Thailand-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12109, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇦🇺 澳大利亚 Australia-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11111, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇸🇪 瑞典 Sweden-L0 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11104, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇨🇭 瑞士 Switzerland-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11116, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇺🇸 美国 America(EAST)-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11105, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇺🇸 美国 America(WEST)-L0 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11109, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇺🇸 美国 America-L3 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12108, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇬🇧 英国 England-L1 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12102, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇳🇱 荷兰 Netherlands-L2 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11117, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇵🇭 菲律宾 Philippine-L0 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11101, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇻🇳 越南 Vietnam-L2 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11107, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇰🇷 韩国 Korea-L3 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11115, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇭🇰 香港 Hongkong BGP-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇭🇰 香港 Hongkong HKT-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11113, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇭🇰 香港 Hongkong HKT-L2 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11112, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇭🇰 香港 深港IEPL1 10X-L3 - NovaCloud, server: iplc.0xnwy1fyrtlb.com, port: 13101, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇭🇰 香港 深港IEPL2 10X-L3 - NovaCloud, server: iplc.0xnwy1fyrtlb.com, port: 13102, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇭🇰 香港 深港IEPL3 10X-L3 - NovaCloud, server: iplc.0xnwy1fyrtlb.com, port: 13104, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
-- {name: 🇲🇾 马来西亚 Malaysia-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11118, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103107:ysaMBS, obfs-param: 01fee103107.baidu.com, udp: true}
+  use: *id003
+proxy-providers:
+  US:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/ziyun.cyou/US.yaml
+    interval: 180
+    path: trials_providers/ziyun.cyou/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/ziyun.cyou/Other.yaml
+    interval: 180
+    path: trials_providers/ziyun.cyou/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

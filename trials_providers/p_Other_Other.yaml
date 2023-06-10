@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: A-续费地址https://muniujiasu.top - 牧牛云, server: baiyang.io, port: 34566, type: vmess, uuid: 80e2509f-edbe-386d-93bc-6cc620d4c51f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: C-超时了请更新订阅 - 牧牛云, server: baiyang.io, port: 34566, type: vmess, uuid: 80e2509f-edbe-386d-93bc-6cc620d4c51f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: A-续费地址https://muniujiasu.top - 牧牛云, server: baiyang.io, port: 34566, type: vmess, uuid: 389b1e2f-2574-325d-8960-10b10c2bb82c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: C-超时了请更新订阅 - 牧牛云, server: baiyang.io, port: 34566, type: vmess, uuid: 389b1e2f-2574-325d-8960-10b10c2bb82c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
