@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 1bf90ce9-079e-3180-95f8-26e4db90f315, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 1bf90ce9-079e-3180-95f8-26e4db90f315, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 1bf90ce9-079e-3180-95f8-26e4db90f315, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 1a2f8594-cddc-3db8-82c6-00aa2bb1e2cb, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 1a2f8594-cddc-3db8-82c6-00aa2bb1e2cb, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 1a2f8594-cddc-3db8-82c6-00aa2bb1e2cb, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
