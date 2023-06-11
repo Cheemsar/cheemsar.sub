@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 24230946-83c8-4695-984f-cb37d5f78fb8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 24230946-83c8-4695-984f-cb37d5f78fb8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 24230946-83c8-4695-984f-cb37d5f78fb8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 00a7b355-7628-47d2-9c1f-f388c719ffd6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 00a7b355-7628-47d2-9c1f-f388c719ffd6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 00a7b355-7628-47d2-9c1f-f388c719ffd6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 距离下次重置剩余：24 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 01b1ea13-c62c-4c88-ae0b-ccb62cdb0b48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 距离下次重置剩余：18 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 427939e3-6a54-4e4b-a7e6-a6338346b68e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 427939e3-6a54-4e4b-a7e6-a6338346b68e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -12,8 +12,8 @@ proxies:
 - {name: ★★ 请先购买3元试用  Please buy a trial first.★★ - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11108, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103304:vhZeYB, obfs-param: 9ad18103304.baidu.com, udp: true}
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: 9dd57589-aad0-43e0-a2e6-aa33d1d27a7c, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：28 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 16cf5d17-1649-3eec-af42-66a724187b10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 16cf5d17-1649-3eec-af42-66a724187b10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: cb7a302f-1557-3f67-87b1-7fc59c4ad0c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: cb7a302f-1557-3f67-87b1-7fc59c4ad0c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: 7173a21c-1496-4041-b1c7-fae0e0cdc2c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 1.最新官网地址 酸奶6.com 【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 6d10d233-0ca2-3886-a7a8-59abdc92c65d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
 - {name: 2.断网超时请更新订阅【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 6d10d233-0ca2-3886-a7a8-59abdc92c65d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
