@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 368bc3c0-e6e9-427a-b2f4-a6f942e726af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 368bc3c0-e6e9-427a-b2f4-a6f942e726af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 368bc3c0-e6e9-427a-b2f4-a6f942e726af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 6a5d2ef0-6396-4b4a-9f6f-1764fa4a89be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 6a5d2ef0-6396-4b4a-9f6f-1764fa4a89be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 6a5d2ef0-6396-4b4a-9f6f-1764fa4a89be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 距离下次重置剩余：25 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 01b1ea13-c62c-4c88-ae0b-ccb62cdb0b48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 距离下次重置剩余：19 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 427939e3-6a54-4e4b-a7e6-a6338346b68e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 427939e3-6a54-4e4b-a7e6-a6338346b68e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -18,7 +18,7 @@ proxies:
 - {name: 1.最新官网地址 酸奶6.com 【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
 - {name: 2.断网超时请更新订阅【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
 - {name: 测试节点勿连 - 酸奶, server: 4.193.132.54, port: 37771, type: vmess, uuid: 0a911e6b-ffaa-3970-9776-3296bf98efee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 125302:7hb0QD, obfs-param: '401a3125302.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 125303:BL0Z4o, obfs-param: '7237f125303.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 距离下次重置剩余：2 天 - KKCloud看看云☁️, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: 7a90d7bf-43eb-4a27-8db6-4efc9a44b16b, udp: true}
 - {name: '[官网] kkcloud.xyz - KKCloud看看云☁️', server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: 7a90d7bf-43eb-4a27-8db6-4efc9a44b16b, udp: true}
