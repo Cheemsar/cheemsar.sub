@@ -35,6 +35,7 @@ proxy-groups:
   - 🇭🇰 中国香港-2｜流媒体｜IEPL - SAC CLOUD - 加速
   - 🇹🇼 中国台湾-1｜流媒体 - SAC CLOUD - 加速
   - 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速
+  - 🇸🇬 新加坡-4｜流媒体 - SAC CLOUD - 加速
   - 🇯🇵 日本-1｜流媒体 - SAC CLOUD - 加速
   - 🇺🇸 美国-1｜流媒体｜GPT - SAC CLOUD - 加速
   - 🇺🇸 美国-2｜流媒体｜IEPL - SAC CLOUD - 加速
@@ -120,6 +121,7 @@ proxy-groups:
   tolerance: 50
   proxies: &id005
   - 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速
+  - 🇸🇬 新加坡-4｜流媒体 - SAC CLOUD - 加速
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -177,6 +179,7 @@ proxies:
 - {name: 🇺🇸 美国-1｜流媒体｜GPT - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37007, type: vmess, uuid: bd380a64-e9a1-4cfc-964f-0db5cd3803c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中国香港-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36002, type: vmess, uuid: bd380a64-e9a1-4cfc-964f-0db5cd3803c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-3｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: bd380a64-e9a1-4cfc-964f-0db5cd3803c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-4｜流媒体 - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37001, type: ss, cipher: aes-256-gcm, password: bd380a64-e9a1-4cfc-964f-0db5cd3803c6, udp: true}
 - {name: 🇹🇼 中国台湾-1｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36006, type: ss, cipher: aes-256-gcm, password: bd380a64-e9a1-4cfc-964f-0db5cd3803c6, udp: true}
 - {name: 🇲🇾 马来西亚-1｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36016, type: vmess, uuid: bd380a64-e9a1-4cfc-964f-0db5cd3803c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇲🇾 马来西亚-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37013, type: vmess, uuid: bd380a64-e9a1-4cfc-964f-0db5cd3803c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
