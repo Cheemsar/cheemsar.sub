@@ -31,12 +31,12 @@ proxies:
 - {name: 🇭🇰 vip1 香港-17 - FastFly, server: gzdx.jcnode.top, port: 40001, type: trojan, password: aa530f4d-e327-4f24-b2a6-a707b9d479e8, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-18 - FastFly, server: gzyd.jcnode.top, port: 40001, type: trojan, password: aa530f4d-e327-4f24-b2a6-a707b9d479e8, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip3 香港-20 - FastFly, server: whyd.jcnode.top, port: 40001, type: trojan, password: aa530f4d-e327-4f24-b2a6-a707b9d479e8, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 7855564c-bc1d-4750-931a-4fac1d6a6b53, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: 7855564c-bc1d-4750-931a-4fac1d6a6b53, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: 7855564c-bc1d-4750-931a-4fac1d6a6b53, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 7855564c-bc1d-4750-931a-4fac1d6a6b53, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 7855564c-bc1d-4750-931a-4fac1d6a6b53, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: 7855564c-bc1d-4750-931a-4fac1d6a6b53, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: a4146d0c-e48b-4237-acc8-31b7f8a1152b, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: a4146d0c-e48b-4237-acc8-31b7f8a1152b, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: a4146d0c-e48b-4237-acc8-31b7f8a1152b, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: a4146d0c-e48b-4237-acc8-31b7f8a1152b, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: a4146d0c-e48b-4237-acc8-31b7f8a1152b, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: a4146d0c-e48b-4237-acc8-31b7f8a1152b, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 Hongkong BGP-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103234:4geJfH, obfs-param: 1bd8b103234.baidu.com, udp: true}
 - {name: 🇭🇰 香港 Hongkong HKT-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11113, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103234:4geJfH, obfs-param: 1bd8b103234.baidu.com, udp: true}
 - {name: 🇭🇰 香港 Hongkong HKT-L2 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11112, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103234:4geJfH, obfs-param: 1bd8b103234.baidu.com, udp: true}
@@ -62,7 +62,7 @@ proxies:
 - {name: 🇭🇰 HK-IEPL-B-9 - 小白云, server: hk9.iepl.cooc.icu, port: 29881, type: trojan, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, sni: hk.tro.second.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-IEPL-B-0 - 小白云, server: hk0.iepl.cooc.icu, port: 20881, type: trojan, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, sni: hk.tro.second.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: 092a7e15-e520-4a4d-b461-5e043e2eca71, udp: true}
-- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 211.139.211.41, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 092a7e15-e520-4a4d-b461-5e043e2eca71, udp: true}
+- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 39.175.1.182, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: 092a7e15-e520-4a4d-b461-5e043e2eca71, udp: true}
 - {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: 183.56.223.220, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 092a7e15-e520-4a4d-b461-5e043e2eca71, udp: true}
 - {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: 211.139.211.41, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: 092a7e15-e520-4a4d-b461-5e043e2eca71, udp: true}
 - {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: 183.56.223.220, port: 26482, type: ss, cipher: chacha20-ietf-poly1305, password: 092a7e15-e520-4a4d-b461-5e043e2eca71, udp: true}
