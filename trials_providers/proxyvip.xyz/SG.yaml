@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sg-01.v1vip.top, port: 31011, type: trojan, password: 40c229ee-0f45-49b4-bab3-9411c2875a7f, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.v1vip.top, port: 31012, type: trojan, password: 40c229ee-0f45-49b4-bab3-9411c2875a7f, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sg-01.v3vip.top, port: 33011, type: vmess, uuid: 40c229ee-0f45-49b4-bab3-9411c2875a7f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
-- {name: 🇸🇬新加坡中继Ⅱ-V2ray - Proxyvip, server: sg-02.v3vip.top, port: 33012, type: vmess, uuid: 40c229ee-0f45-49b4-bab3-9411c2875a7f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-02.v4vip.top, udp: true}
+- {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sg-01.v1vip.top, port: 31011, type: trojan, password: cc965b3c-b908-431f-8936-39442d2bd9ef, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.v1vip.top, port: 31012, type: trojan, password: cc965b3c-b908-431f-8936-39442d2bd9ef, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sg-01.v3vip.top, port: 33011, type: vmess, uuid: cc965b3c-b908-431f-8936-39442d2bd9ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
+- {name: 🇸🇬新加坡中继Ⅱ-V2ray - Proxyvip, server: sg-02.v3vip.top, port: 33012, type: vmess, uuid: cc965b3c-b908-431f-8936-39442d2bd9ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-02.v4vip.top, udp: true}
