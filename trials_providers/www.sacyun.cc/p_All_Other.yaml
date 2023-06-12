@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇷🇺 香港/俄罗斯节点不支持GPT - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37007, type: vmess, uuid: aad7acae-3710-4bda-85de-e7fb5d8f158f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇲🇾 马来西亚-1｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36016, type: vmess, uuid: aad7acae-3710-4bda-85de-e7fb5d8f158f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇲🇾 马来西亚-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37013, type: vmess, uuid: aad7acae-3710-4bda-85de-e7fb5d8f158f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-1｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36011, type: vmess, uuid: aad7acae-3710-4bda-85de-e7fb5d8f158f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36012, type: vmess, uuid: aad7acae-3710-4bda-85de-e7fb5d8f158f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南｜VN - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36001, type: ss, cipher: aes-256-gcm, password: aad7acae-3710-4bda-85de-e7fb5d8f158f, udp: true}
-- {name: 🇵🇰 巴基斯坦｜PK - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37010, type: vmess, uuid: aad7acae-3710-4bda-85de-e7fb5d8f158f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 香港/俄罗斯节点不支持GPT - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37007, type: vmess, uuid: 8492ef12-e3c1-483d-a8cc-c516257cb6ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇲🇾 马来西亚-1｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36016, type: vmess, uuid: 8492ef12-e3c1-483d-a8cc-c516257cb6ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇲🇾 马来西亚-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37013, type: vmess, uuid: 8492ef12-e3c1-483d-a8cc-c516257cb6ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-1｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36011, type: vmess, uuid: 8492ef12-e3c1-483d-a8cc-c516257cb6ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36012, type: vmess, uuid: 8492ef12-e3c1-483d-a8cc-c516257cb6ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南｜VN - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36001, type: ss, cipher: aes-256-gcm, password: 8492ef12-e3c1-483d-a8cc-c516257cb6ff, udp: true}
+- {name: 🇵🇰 巴基斯坦｜PK - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37010, type: vmess, uuid: 8492ef12-e3c1-483d-a8cc-c516257cb6ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
