@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 Lv.1 | 美国 | IEPL| 1.0× - 至云互联, server: x2.mceee.xyz, port: 21611, type: vmess, uuid: cf420cbe-410d-3884-95be-fd90166729f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 Lv.1 | 美国 | IEPL| 1.0× - 至云互联, server: x2.mceee.xyz, port: 21611, type: vmess, uuid: 3a95ccc4-1718-355c-8761-e7535f1cc29f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
