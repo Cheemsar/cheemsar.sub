@@ -62,7 +62,6 @@ proxy-groups:
   - 🇯🇵 vip1 日本-06 - FastFly
   - 🇺🇸 vip1 美国-04 - FastFly
   - 🇺🇸 vip1 美国-05 - FastFly
-  - 🇺🇸 vip1 美国-08 - FastFly
   - 🇺🇸 vip1 美国-11 - FastFly
   - 🇺🇸 vip1 美国-14 - FastFly
   - 🇺🇸 vip1 美国-15 - FastFly
@@ -206,7 +205,6 @@ proxy-groups:
   proxies: &id007
   - 🇺🇸 vip1 美国-04 - FastFly
   - 🇺🇸 vip1 美国-05 - FastFly
-  - 🇺🇸 vip1 美国-08 - FastFly
   - 🇺🇸 vip1 美国-11 - FastFly
   - 🇺🇸 vip1 美国-14 - FastFly
   - 🇺🇸 vip1 美国-15 - FastFly
@@ -283,7 +281,6 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 43002, type: trojan, password: 0711c75e-448f-43c9-a6b1-25770b08cbf7, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 48000, type: trojan, password: 0711c75e-448f-43c9-a6b1-25770b08cbf7, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: 0711c75e-448f-43c9-a6b1-25770b08cbf7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇺🇸 vip1 美国-08 - FastFly, server: gzdx.jcnode.top, port: 48001, type: trojan, password: 0711c75e-448f-43c9-a6b1-25770b08cbf7, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: 0711c75e-448f-43c9-a6b1-25770b08cbf7, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: 0711c75e-448f-43c9-a6b1-25770b08cbf7, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd.jcnode.top, port: 48004, type: trojan, password: 0711c75e-448f-43c9-a6b1-25770b08cbf7, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
