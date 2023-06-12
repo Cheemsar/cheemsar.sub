@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 36355, type: vmess, uuid: d4defca0-2d86-4788-9b56-8f429a6a5186, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇯🇵 日本-02 | 1.2X - 凌云网络, server: 139.226.136.165, port: 36374, type: vmess, uuid: d4defca0-2d86-4788-9b56-8f429a6a5186, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇯🇵 日本-03 | 1.5X - 凌云网络, server: 183.56.223.220, port: 46132, type: vmess, uuid: d4defca0-2d86-4788-9b56-8f429a6a5186, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇯🇵 日本-04 | 1.5X - 凌云网络, server: 183.56.223.220, port: 45168, type: vmess, uuid: d4defca0-2d86-4788-9b56-8f429a6a5186, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇯🇵 日本-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 36355, type: vmess, uuid: 5178d5f9-68e7-4ae7-a261-7f6054baf9a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇯🇵 日本-02 | 1.2X - 凌云网络, server: 139.226.136.165, port: 36374, type: vmess, uuid: 5178d5f9-68e7-4ae7-a261-7f6054baf9a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇯🇵 日本-03 | 1.5X - 凌云网络, server: 183.56.223.220, port: 46132, type: vmess, uuid: 5178d5f9-68e7-4ae7-a261-7f6054baf9a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇯🇵 日本-04 | 1.5X - 凌云网络, server: 183.56.223.220, port: 45168, type: vmess, uuid: 5178d5f9-68e7-4ae7-a261-7f6054baf9a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

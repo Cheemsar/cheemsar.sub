@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 Lv.1| 新加坡 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21411, type: vmess, uuid: 53ce3120-65a9-37c5-b2d3-b4d562955c92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
+- {name: 🇸🇬 Lv.1| 新加坡 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21411, type: vmess, uuid: e49cb8a7-51e2-3832-b1b5-be6ed81b3f2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
