@@ -78,7 +78,7 @@ proxies:
 - {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, udp: true}
 - {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大 5x - 湊 あくあのCrew, server: 123.6.102.115, port: 45222, type: trojan, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, sni: jnd.akua520.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大 5x - 湊 あくあのCrew, server: 123.6.102.115, port: 45222, type: trojan, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, sni: jnd.akua520.com, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 29322, type: ss, cipher: chacha20-ietf-poly1305, password: 30587eb5-d889-4070-9ad4-e605fc937a11, udp: true}
 - {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 29321, type: trojan, password: 30587eb5-d889-4070-9ad4-e605fc937a11, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: adc8feba-3abe-4093-9d4d-b7a03210d332, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}

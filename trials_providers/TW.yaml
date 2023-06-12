@@ -26,9 +26,9 @@ proxies:
 - {name: 🇹🇼 台湾 | YouTube免广告 | Tiktok  | 隧道 | 1X |  - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10014, type: vmess, uuid: 3462c76b-b631-38e8-8a76-12dc0ca490a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
 - {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, udp: true}
 - {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, udp: true}
-- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.223.220, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 211.139.211.41, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
+- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.223.220, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 211.139.211.41, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17629, type: trojan, password: aa5de43a-d119-39b4-9153-d04edbacb7ee, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 59021, type: trojan, password: aa5de43a-d119-39b4-9153-d04edbacb7ee, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 21247, type: trojan, password: aa5de43a-d119-39b4-9153-d04edbacb7ee, sni: x91.flybar.work, skip-cert-verify: true, udp: true}

@@ -2420,20 +2420,20 @@ proxies:
 - {name: 🇸🇬 SG-2 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, udp: true}
 - {name: 🇸🇬 SG-3 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: trojan, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG-4 - 小白云, server: sg4.iepl.cooc.icu, port: 35108, type: trojan, password: 2b77c066-8ad2-48fe-be39-6c94b5cfe603, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.223.220, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 211.139.211.41, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇨🇦 加拿大 5x - 湊 あくあのCrew, server: 123.6.102.115, port: 45222, type: trojan, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, sni: jnd.akua520.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: 183.56.223.220, port: 26006, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 39.175.1.182, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: 183.56.223.220, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: 39.175.1.182, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: 183.56.223.220, port: 26482, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 139.226.136.165, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: 139.226.136.165, port: 35612, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
-- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: 111.38.40.132, port: 45581, type: ss, cipher: chacha20-ietf-poly1305, password: 313d2d7e-1bec-4bee-b8c6-b9e90b0705fd, udp: true}
+- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.223.220, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 211.139.211.41, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇨🇦 加拿大 5x - 湊 あくあのCrew, server: 123.6.102.115, port: 45222, type: trojan, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, sni: jnd.akua520.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: 183.56.223.220, port: 26006, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 39.175.1.182, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: 183.56.223.220, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: 39.175.1.182, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: 183.56.223.220, port: 26482, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 139.226.136.165, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: 139.226.136.165, port: 35612, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
+- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: 111.38.40.132, port: 45581, type: ss, cipher: chacha20-ietf-poly1305, password: 53e40e9f-7023-46c2-bcfa-754308eeda41, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 29322, type: ss, cipher: chacha20-ietf-poly1305, password: 30587eb5-d889-4070-9ad4-e605fc937a11, udp: true}
 - {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 29321, type: trojan, password: 30587eb5-d889-4070-9ad4-e605fc937a11, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国|高速美国SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 23332, type: ss, cipher: chacha20-ietf-poly1305, password: 30587eb5-d889-4070-9ad4-e605fc937a11, udp: true}
@@ -3035,11 +3035,11 @@ proxies:
 - {name: 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk01.qiaqia.win, port: 8791, type: vmess, uuid: 741796a2-355d-377e-a36b-9f7a95902d55, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk01.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk02.qiaqia.win, port: 8972, type: vmess, uuid: 741796a2-355d-377e-a36b-9f7a95902d55, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk02.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk03.qiaqia.win, port: 8973, type: vmess, uuid: 741796a2-355d-377e-a36b-9f7a95902d55, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk03.qiaqia.win}}, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: a267ce82-5a1f-3f16-8b4b-6dfca0579f28, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: a267ce82-5a1f-3f16-8b4b-6dfca0579f28, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: a267ce82-5a1f-3f16-8b4b-6dfca0579f28, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: a267ce82-5a1f-3f16-8b4b-6dfca0579f28, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 3.114.7.199, port: 443, type: trojan, password: a267ce82-5a1f-3f16-8b4b-6dfca0579f28, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 7d676ed9-ea2e-347a-87dd-2a01cee92827, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 7d676ed9-ea2e-347a-87dd-2a01cee92827, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 7d676ed9-ea2e-347a-87dd-2a01cee92827, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: 7d676ed9-ea2e-347a-87dd-2a01cee92827, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 3.114.7.199, port: 443, type: trojan, password: 7d676ed9-ea2e-347a-87dd-2a01cee92827, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
