@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 Japan-L0 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12107, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103345:646WDF, obfs-param: 96a65103345.baidu.com, udp: true}
+- {name: 🇯🇵 日本 Japan-L0 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12107, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103346:yF9e9Q, obfs-param: 12495103346.baidu.com, udp: true}

@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Lv.1 | 香港 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21111, type: vmess, uuid: 5c048b7b-ada2-3868-88cf-ce423cf747b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 Lv.1 | 香港 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20111, type: vmess, uuid: 5c048b7b-ada2-3868-88cf-ce423cf747b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Lv.1 | 香港 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21111, type: vmess, uuid: ff6e045e-5a6d-3b54-b8c8-a68507a3e637, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Lv.1 | 香港 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20111, type: vmess, uuid: ff6e045e-5a6d-3b54-b8c8-a68507a3e637, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
