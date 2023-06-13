@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 中国香港-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36002, type: vmess, uuid: 0f8e17f9-cb77-476a-a51d-147631811ed8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中国香港-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36002, type: vmess, uuid: bf0edd77-fdcf-48fa-87b9-5aa4341e8c0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
