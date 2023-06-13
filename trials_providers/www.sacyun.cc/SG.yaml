@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡-3｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: 27a6ec33-faa4-4ecc-a239-103ac9c97395, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-4｜流媒体｜IEPL - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37001, type: ss, cipher: aes-256-gcm, password: 27a6ec33-faa4-4ecc-a239-103ac9c97395, udp: true}
+- {name: 🇸🇬 新加坡-3｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36015, type: vmess, uuid: 0f8e17f9-cb77-476a-a51d-147631811ed8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-4｜流媒体｜IEPL - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37001, type: ss, cipher: aes-256-gcm, password: 0f8e17f9-cb77-476a-a51d-147631811ed8, udp: true}
