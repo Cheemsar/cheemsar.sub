@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 aga美国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16387, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6522:uoOTG0, obfs-param: 210a66522.download.windowsupdate.com, udp: true}
-- {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6522:uoOTG0, obfs-param: 210a66522.download.windowsupdate.com, udp: true}
+- {name: 🇺🇸 aga美国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16387, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6526:nZ6NFD, obfs-param: 703576526.download.windowsupdate.com, udp: true}
+- {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6526:nZ6NFD, obfs-param: 703576526.download.windowsupdate.com, udp: true}
