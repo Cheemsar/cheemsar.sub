@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [Japan]日本 | Z1 - KKCloud看看云☁️', server: z1.52652601.xyz, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: 7a90d7bf-43eb-4a27-8db6-4efc9a44b16b, udp: true}
-- {name: '🇯🇵 [Japan]日本 | Z2 - KKCloud看看云☁️', server: z2.52652601.xyz, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: 7a90d7bf-43eb-4a27-8db6-4efc9a44b16b, udp: true}
-- {name: '🇯🇵 [Japan]日本 | Z3 - KKCloud看看云☁️', server: z3.52652601.xyz, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: 7a90d7bf-43eb-4a27-8db6-4efc9a44b16b, udp: true}
+- {name: '🇯🇵 [Japan]日本 | Z1 - KKCloud看看云☁️', server: z1.52652601.xyz, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: b551efb2-09dd-4b49-b0cd-43d4c3fbc8c1, udp: true}
+- {name: '🇯🇵 [Japan]日本 | Z2 - KKCloud看看云☁️', server: z2.52652601.xyz, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: b551efb2-09dd-4b49-b0cd-43d4c3fbc8c1, udp: true}
+- {name: '🇯🇵 [Japan]日本 | Z3 - KKCloud看看云☁️', server: z3.52652601.xyz, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: b551efb2-09dd-4b49-b0cd-43d4c3fbc8c1, udp: true}
