@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 流媒体到官网节点列表自行查看 - IKUN机场, server: a5.zwtg888.com, port: 4563, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: a5.zwtg888.com}}, udp: true}
