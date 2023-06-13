@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国1-1 CA -优化 - IKUN机场, server: a9.zwtg888.com, port: 8443, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a9.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a9.zwtg888.com}}, udp: true}
-- {name: 🇺🇸 美国 1-2 CA-优化 - IKUN机场, server: a9.zwtg888.com, port: 2053, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a9.zwtg888.com, network: ws, ws-opts: {path: /V2ray, headers: {Host: a9.zwtg888.com}}, udp: true}

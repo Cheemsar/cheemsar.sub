@@ -9,47 +9,7 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id001
-  - 🇭🇰 香港 HKdoll-玩偶姐姐 - IKUN机场
-  - 🇭🇰 香港 HKlcw-梁朝伟 - IKUN机场
-  - 🇸🇬 新加坡  新加坡市-grpc 2.0 - IKUN机场
-  - 🇸🇬 新加坡  新加坡市-直连 - IKUN机场
-  - 🇸🇬 新加坡 丰加北市-grpc - IKUN机场
-  - 🇸🇬 新加坡 丰加北市-直连 - IKUN机场
-  - 🇸🇬 新加坡 后港-Grpc 2.0 - IKUN机场
-  - 🇸🇬 新加坡 后港-直连  - IKUN机场
-  - 🇸🇬 新加坡 新加坡市-grpc - IKUN机场
-  - 🇯🇵 东京都 とうきょう-grpc - IKUN机场
-  - 🇯🇵 东京都 とうきょう-直连 - IKUN机场
-  - 🇯🇵 大阪弁 おおさか-grpc - IKUN机场
-  - 🇯🇵 大阪弁 おおさか-直连 - IKUN机场
-  - 🇯🇵 日本 东京都 Grpc 2.0 - IKUN机场
-  - 🇺🇸 美国1-1 CA -优化 - IKUN机场
-  - 🇺🇸 美国 1-2 CA-优化 - IKUN机场
-  - 加群不限速@zwtg888888 - IKUN机场
-  - 延迟高≠网速慢 - IKUN机场
-  - 所有节点都解锁GPT - IKUN机场
-  - 🇦🇪 阿联酋 迪拜-grpc - IKUN机场
-  - 🇰🇷 韩国 서울-grpc - IKUN机场
-  - 🇰🇷 韩国 서울-直连 - IKUN机场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -65,23 +25,11 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -90,99 +38,28 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 香港 HKdoll-玩偶姐姐 - IKUN机场
-  - 🇭🇰 香港 HKlcw-梁朝伟 - IKUN机场
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇸🇬 新加坡  新加坡市-grpc 2.0 - IKUN机场
-  - 🇸🇬 新加坡  新加坡市-直连 - IKUN机场
-  - 🇸🇬 新加坡 丰加北市-grpc - IKUN机场
-  - 🇸🇬 新加坡 丰加北市-直连 - IKUN机场
-  - 🇸🇬 新加坡 后港-Grpc 2.0 - IKUN机场
-  - 🇸🇬 新加坡 后港-直连  - IKUN机场
-  - 🇸🇬 新加坡 新加坡市-grpc - IKUN机场
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇯🇵 东京都 とうきょう-grpc - IKUN机场
-  - 🇯🇵 东京都 とうきょう-直连 - IKUN机场
-  - 🇯🇵 大阪弁 おおさか-grpc - IKUN机场
-  - 🇯🇵 大阪弁 おおさか-直连 - IKUN机场
-  - 🇯🇵 日本 东京都 Grpc 2.0 - IKUN机场
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id005
-  - 🇺🇸 美国1-1 CA -优化 - IKUN机场
-  - 🇺🇸 美国 1-2 CA-优化 - IKUN机场
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id006
-  - 加群不限速@zwtg888888 - IKUN机场
-  - 延迟高≠网速慢 - IKUN机场
-  - 所有节点都解锁GPT - IKUN机场
-  - 🇦🇪 阿联酋 迪拜-grpc - IKUN机场
-  - 🇰🇷 韩国 서울-grpc - IKUN机场
-  - 🇰🇷 韩国 서울-直连 - IKUN机场
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id004
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id005
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id006
 proxies:
-- {name: 加群不限速@zwtg888888 - IKUN机场, server: s9.zwtg888.com, port: 80, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: www.minecraft.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: www.minecraft.com}}, udp: true}
+- {name: 加群不限速@zwtg888888 - IKUN机场, server: s1.zwtg888.com, port: 12345, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s1.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
 - {name: 延迟高≠网速慢 - IKUN机场, server: s4.zwtg888.com, port: 886, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s4.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
 - {name: 所有节点都解锁GPT - IKUN机场, server: a5.zwtg888.com, port: 25645, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a5.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
-- {name: 🇺🇸 美国1-1 CA -优化 - IKUN机场, server: a9.zwtg888.com, port: 8443, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a9.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a9.zwtg888.com}}, udp: true}
-- {name: 🇺🇸 美国 1-2 CA-优化 - IKUN机场, server: a9.zwtg888.com, port: 2053, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a9.zwtg888.com, network: ws, ws-opts: {path: /V2ray, headers: {Host: a9.zwtg888.com}}, udp: true}
-- {name: 🇯🇵 东京都 とうきょう-grpc - IKUN机场, server: a1.zwtg888.com, port: 15332, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
-- {name: 🇯🇵 东京都 とうきょう-直连 - IKUN机场, server: a1.zwtg888.com, port: 363, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a1.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a1.zwtg888.com}}, udp: true}
-- {name: 🇯🇵 大阪弁 おおさか-grpc - IKUN机场, server: s2.zwtg888.com, port: 36255, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s2.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
-- {name: 🇯🇵 大阪弁 おおさか-直连 - IKUN机场, server: s2.zwtg888.com, port: 383, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: s2.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: s2.zwtg888.com}}, udp: true}
-- {name: 🇸🇬 新加坡  新加坡市-grpc 2.0 - IKUN机场, server: s5.zwtg888.com, port: 19545, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s5.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: cusifs}, udp: true}
-- {name: 🇸🇬 新加坡  新加坡市-直连 - IKUN机场, server: a2.zwtg888.com, port: 383, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: www.minecraft.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: www.minecraft.com}}, udp: true}
-- {name: 🇸🇬 新加坡 丰加北市-grpc - IKUN机场, server: s3.zwtg888.com, port: 12345, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s3.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
-- {name: 🇸🇬 新加坡 丰加北市-直连 - IKUN机场, server: s3.zwtg888.com, port: 35842, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: s3.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: s3.zwtg888.com}}, udp: true}
-- {name: 🇸🇬 新加坡 后港-Grpc 2.0 - IKUN机场, server: s6.zwtg888.com, port: 19435, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s6.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: gadsf}, udp: true}
-- {name: 🇸🇬 新加坡 后港-直连  - IKUN机场, server: s4.zwtg888.com, port: 384, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: s4.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: s4.zwtg888.com}}, udp: true}
-- {name: 🇸🇬 新加坡 新加坡市-grpc - IKUN机场, server: a2.zwtg888.com, port: 25482, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a2.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
-- {name: 🇯🇵 日本 东京都 Grpc 2.0 - IKUN机场, server: s7.zwtg888.com, port: 12845, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s7.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: iagbxa}, udp: true}
-- {name: 🇦🇪 阿联酋 迪拜-grpc - IKUN机场, server: s1.zwtg888.com, port: 12345, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s1.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
-- {name: 🇰🇷 韩国 서울-grpc - IKUN机场, server: a3.zwtg888.com, port: 25482, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a3.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
-- {name: 🇰🇷 韩国 서울-直连 - IKUN机场, server: a3.zwtg888.com, port: 383, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a3.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a3.zwtg888.com}}, udp: true}
-- {name: 🇭🇰 香港 HKdoll-玩偶姐姐 - IKUN机场, server: s8.zwtg888.com, port: 6812, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: www.minecraft.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: www.minecraft.com}}, udp: true}
-- {name: 🇭🇰 香港 HKlcw-梁朝伟 - IKUN机场, server: s8.zwtg888.com, port: 12955, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s8.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
+- {name: 美国1-1 CA -优化 - IKUN机场, server: a9.zwtg888.com, port: 8443, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a9.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a9.zwtg888.com}}, udp: true}
+- {name: 美国 1-2 CA-优化 - IKUN机场, server: a9.zwtg888.com, port: 2053, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a9.zwtg888.com, network: ws, ws-opts: {path: /V2ray, headers: {Host: a9.zwtg888.com}}, udp: true}
+- {name: 东京都 とうきょう-grpc - IKUN机场, server: a1.zwtg888.com, port: 15332, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a1.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
+- {name: 东京都 とうきょう-直连 - IKUN机场, server: a1.zwtg888.com, port: 363, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a1.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a1.zwtg888.com}}, udp: true}
+- {name: 大阪弁 おおさか-grpc - IKUN机场, server: s2.zwtg888.com, port: 36255, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s2.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
+- {name: 大阪弁 おおさか-直连 - IKUN机场, server: s2.zwtg888.com, port: 383, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: s2.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: s2.zwtg888.com}}, udp: true}
+- {name: 新加坡  新加坡市-grpc 2.0 - IKUN机场, server: s5.zwtg888.com, port: 19545, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s5.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: cusifs}, udp: true}
+- {name: 新加坡  新加坡市-直连 - IKUN机场, server: a2.zwtg888.com, port: 383, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: www.minecraft.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: www.minecraft.com}}, udp: true}
+- {name: 新加坡 丰加北市-grpc - IKUN机场, server: s3.zwtg888.com, port: 12345, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s3.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
+- {name: 新加坡 丰加北市-直连 - IKUN机场, server: s3.zwtg888.com, port: 35842, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: s3.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: s3.zwtg888.com}}, udp: true}
+- {name: 新加坡 后港-Grpc 2.0 - IKUN机场, server: s6.zwtg888.com, port: 19435, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s6.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: gadsf}, udp: true}
+- {name: 新加坡 后港-直连 - IKUN机场, server: s4.zwtg888.com, port: 39684, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: s4.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: s4.zwtg888.com}}, udp: true}
+- {name: 新加坡 新加坡市-grpc - IKUN机场, server: a2.zwtg888.com, port: 25482, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a2.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
+- {name: 日本 东京都 Grpc 2.0 - IKUN机场, server: s7.zwtg888.com, port: 19455, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s7.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: iagbxa}, udp: true}
+- {name: 韩国 서울-grpc - IKUN机场, server: a3.zwtg888.com, port: 25482, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: a3.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
+- {name: 韩国 서울-直连 - IKUN机场, server: a3.zwtg888.com, port: 383, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a3.zwtg888.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: a3.zwtg888.com}}, udp: true}
+- {name: 香港 HKdoll-玩偶姐姐 - IKUN机场, server: s8.zwtg888.com, port: 6812, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: www.minecraft.com, network: ws, ws-opts: {path: /v2ray, headers: {Host: www.minecraft.com}}, udp: true}
+- {name: 香港 HKlcw-梁朝伟 - IKUN机场, server: s8.zwtg888.com, port: 12955, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s8.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
