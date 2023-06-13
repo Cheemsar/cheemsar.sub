@@ -179,21 +179,21 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇯🇵 VIP 日本 HK - 雷云加速, server: jpn2.ijsfq.xyz, port: 47662, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: jpn2.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 VIP 新加坡 JS - 雷云加速, server: yn.ijsfq.xyz, port: 47663, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: yn.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 VIP 美国芝加哥 HK - 雷云加速, server: zjg.ijsfq.xyz, port: 47692, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: zjg.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 VIP 香港JS 解锁流媒体 1.8X - 雷云加速, server: js2.ijsfq.xyz, port: 45436, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: js.76po.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 VIP 台湾YN 解锁流媒体 1.5X - 雷云加速, server: sarz.ijsfq.xyz, port: 55667, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: sarz.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 VIP6 洛杉矶YN 解锁GPT 2X - 雷云加速, server: sarz.ijsfq.xyz, port: 47664, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: sarz.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 BGP - 雷云加速, server: 120.232.140.78, port: 47761, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 v6 BGP - 雷云加速, server: 120.232.140.78, port: 55669, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 HK - 雷云加速, server: xg2.ijsfq.xyz, port: 45437, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 JS - 雷云加速, server: tuk.ijsfq.xyz, port: 34420, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 法兰克福BGP 解锁GPT 2X - 雷云加速, server: 120.232.140.78, port: 47161, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 BJ - 雷云加速, server: jpn.ijsfq.xyz, port: 32920, type: trojan, password: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 v6 CF - 雷云加速, server: hkv6.ijsfq.xyz, port: 443, type: vmess, uuid: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkv6.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkv6.ijsfq.xyz}}, udp: true}
-- {name: 🇺🇸 美国圣何塞 CF - 雷云加速, server: ehe.ijsfq.xyz, port: 443, type: vmess, uuid: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ehe.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: ehe.ijsfq.xyz}}, udp: true}
-- {name: 🇸🇬 新加坡 轻量 CF - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: e31fd6c7-b6db-4f3e-adbf-4cdc855bdc39, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}
+- {name: 🇯🇵 VIP 日本 HK - 雷云加速, server: jpn2.ijsfq.xyz, port: 47662, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: jpn2.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 VIP 新加坡 JS - 雷云加速, server: yn.ijsfq.xyz, port: 47663, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: yn.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 VIP 美国芝加哥 HK - 雷云加速, server: zjg.ijsfq.xyz, port: 47692, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: zjg.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 VIP 香港JS 解锁流媒体 1.8X - 雷云加速, server: js2.ijsfq.xyz, port: 45436, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: js.76po.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 VIP 台湾YN 解锁流媒体 1.5X - 雷云加速, server: sarz.ijsfq.xyz, port: 55667, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: sarz.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 VIP6 洛杉矶YN 解锁GPT 2X - 雷云加速, server: sarz.ijsfq.xyz, port: 47664, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: sarz.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 BGP - 雷云加速, server: 120.232.140.78, port: 47761, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 v6 BGP - 雷云加速, server: 120.232.140.78, port: 55669, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HK - 雷云加速, server: xg2.ijsfq.xyz, port: 45437, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 JS - 雷云加速, server: tuk.ijsfq.xyz, port: 34420, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 法兰克福BGP 解锁GPT 2X - 雷云加速, server: 120.232.140.78, port: 47161, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 BJ - 雷云加速, server: jpn.ijsfq.xyz, port: 32920, type: trojan, password: f143bb25-9291-4e6e-a921-0055fe6476a5, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 v6 CF - 雷云加速, server: hkv6.ijsfq.xyz, port: 443, type: vmess, uuid: f143bb25-9291-4e6e-a921-0055fe6476a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkv6.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkv6.ijsfq.xyz}}, udp: true}
+- {name: 🇺🇸 美国圣何塞 CF - 雷云加速, server: ehe.ijsfq.xyz, port: 443, type: vmess, uuid: f143bb25-9291-4e6e-a921-0055fe6476a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ehe.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: ehe.ijsfq.xyz}}, udp: true}
+- {name: 🇸🇬 新加坡 轻量 CF - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: f143bb25-9291-4e6e-a921-0055fe6476a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
