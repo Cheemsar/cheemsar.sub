@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 Lv.1 | 台湾 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21211, type: vmess, uuid: feb2192c-6c72-362b-9f87-7c60f2e2056b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
-- {name: 🇹🇼 Lv.1 | 台湾 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20211, type: vmess, uuid: feb2192c-6c72-362b-9f87-7c60f2e2056b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: z-cn2.mceee.xyz}}, udp: true}
-- {name: 🇭🇰 Lv.1 | 香港 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21111, type: vmess, uuid: feb2192c-6c72-362b-9f87-7c60f2e2056b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 Lv.1 | 香港 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20111, type: vmess, uuid: feb2192c-6c72-362b-9f87-7c60f2e2056b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 Lv.1 | 台湾 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21211, type: vmess, uuid: 919ab20a-19c7-3450-8070-74ee63aaa641, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
+- {name: 🇹🇼 Lv.1 | 台湾 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20211, type: vmess, uuid: 919ab20a-19c7-3450-8070-74ee63aaa641, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: z-cn2.mceee.xyz}}, udp: true}
+- {name: 🇭🇰 Lv.1 | 香港 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21111, type: vmess, uuid: 919ab20a-19c7-3450-8070-74ee63aaa641, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Lv.1 | 香港 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20111, type: vmess, uuid: 919ab20a-19c7-3450-8070-74ee63aaa641, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
