@@ -14,7 +14,7 @@ proxies:
 - {name: 距离下次重置剩余：25 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 8328f21e-4f65-3d7e-be27-7f26efc6d8d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 8328f21e-4f65-3d7e-be27-7f26efc6d8d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: 4ad62c0f-dd99-41a2-8fa6-a85c82c46548, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: ff36123c-4b8b-4dce-bdab-9492023a499a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 1.最新官网地址 酸奶6.com 【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 8d48d5da-6603-3876-a619-65b1ed9470b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
 - {name: 2.断网超时请更新订阅【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 8d48d5da-6603-3876-a619-65b1ed9470b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
 - {name: 测试节点勿连 - 酸奶, server: 4.193.132.54, port: 37771, type: vmess, uuid: 8d48d5da-6603-3876-a619-65b1ed9470b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
