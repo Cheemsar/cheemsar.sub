@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 除香港节点外 均支持GPT - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37007, type: vmess, uuid: 0a1400fe-e8bd-4b3f-aabc-010ec0505c84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中国香港-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36002, type: vmess, uuid: 0a1400fe-e8bd-4b3f-aabc-010ec0505c84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 除香港节点外 均支持GPT - SAC CLOUD - 加速, server: jiangmydfca-ac.bgp.skin, port: 37007, type: vmess, uuid: 4ad62c0f-dd99-41a2-8fa6-a85c82c46548, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中国香港-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36002, type: vmess, uuid: 4ad62c0f-dd99-41a2-8fa6-a85c82c46548, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
