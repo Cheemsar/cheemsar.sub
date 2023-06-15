@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: 2f65f26a-e5f1-45be-b016-0a0befade1ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydsau-brc.bgp.skin, port: 37007, type: vmess, uuid: daa3f938-b7df-4ef2-a268-69a242b7ff05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 9389a248-370f-4bc5-944a-556a465afd95, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: 71943e6e-bbd2-4d1f-8103-ad0c25623c13, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
@@ -18,6 +18,6 @@ proxies:
 - {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 370fb561-9de7-4183-86d6-c8b8d15d2f1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 本站网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 370fb561-9de7-4183-86d6-c8b8d15d2f1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 本站网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 370fb561-9de7-4183-86d6-c8b8d15d2f1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: ★★ 请先购买3元试用  Please buy a trial first.★★ - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11108, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103873:Yr5ySD, obfs-param: 5c04a103873.baidu.com, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 125578:TEAwuW, obfs-param: '6da2d125578.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: ★★ 请先购买3元试用  Please buy a trial first.★★ - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11108, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103875:3EUNrP, obfs-param: 0c90a103875.baidu.com, udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 125579:FTStkb, obfs-param: 'be83b125579.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 流媒体到官网节点列表自行查看 - IKUN机场, server: a5.zwtg888.com, port: 4563, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: a5.zwtg888.com}}, udp: true}
