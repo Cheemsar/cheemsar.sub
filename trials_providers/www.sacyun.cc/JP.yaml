@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-1｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36008, type: vmess, uuid: 69ef06c7-c874-4512-aa3e-16c0a4803be8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-1｜流媒体 - SAC CLOUD - 加速, server: gzdxydsbol-sac.bgp.skin, port: 36008, type: vmess, uuid: 2f65f26a-e5f1-45be-b016-0a0befade1ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
