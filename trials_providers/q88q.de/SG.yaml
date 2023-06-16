@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 Singapore-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103998:6IUYA6, obfs-param: 8ee03103998.baidu.com, udp: true}
+- {name: 🇸🇬 新加坡 Singapore-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 103999:I6WXcz, obfs-param: 193b8103999.baidu.com, udp: true}
