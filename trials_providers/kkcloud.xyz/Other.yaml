@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：2 天 - KKCloud看看云☁️, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: f2b4df97-70e8-4f2a-bdcf-a70570942d87, udp: true}
+- {name: 距离下次重置剩余：1 天 - KKCloud看看云☁️, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: f2b4df97-70e8-4f2a-bdcf-a70570942d87, udp: true}
 - {name: '[官网] kkcloud.xyz - KKCloud看看云☁️', server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: f2b4df97-70e8-4f2a-bdcf-a70570942d87, udp: true}
 - {name: '🇰🇷 [Korea]韩国 | Z1 - KKCloud看看云☁️', server: z1.52652601.xyz, port: 21082, type: ss, cipher: chacha20-ietf-poly1305, password: f2b4df97-70e8-4f2a-bdcf-a70570942d87, udp: true}
 - {name: '🇩🇪 [Germany]德国 | Z1 - KKCloud看看云☁️', server: z1.52652601.xyz, port: 21049, type: ss, cipher: chacha20-ietf-poly1305, password: f2b4df97-70e8-4f2a-bdcf-a70570942d87, udp: true}
