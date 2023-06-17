@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36011, type: vmess, uuid: 1733a7b6-267a-34a7-a659-57c202c494ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: 42.7.24.12, port: 36012, type: vmess, uuid: 1733a7b6-267a-34a7-a659-57c202c494ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: 42.7.24.12, port: 36013, type: vmess, uuid: 1733a7b6-267a-34a7-a659-57c202c494ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36011, type: vmess, uuid: 4c462722-faef-356f-ac90-cc5b14d7ee1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: 42.7.24.12, port: 36012, type: vmess, uuid: 4c462722-faef-356f-ac90-cc5b14d7ee1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: 42.7.24.12, port: 36013, type: vmess, uuid: 4c462722-faef-356f-ac90-cc5b14d7ee1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
