@@ -114,12 +114,12 @@ proxies:
 - {name: 🇭🇰 VIP 香港JS 解锁流媒体 1.8X - 雷云加速, server: js2.ijsfq.xyz, port: 45436, type: trojan, password: 2676c9fe-065f-4681-9c0e-e0bdf91c4c51, sni: js.76po.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 HZ - 雷云加速, server: xg2.ijsfq.xyz, port: 45437, type: trojan, password: 2676c9fe-065f-4681-9c0e-e0bdf91c4c51, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 v6 CF - 雷云加速, server: hkv6.ijsfq.xyz, port: 443, type: vmess, uuid: 2676c9fe-065f-4681-9c0e-e0bdf91c4c51, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkv6.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkv6.ijsfq.xyz}}, udp: true}
-- {name: 🇭🇰 香港01 - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: 7VnBgPsaas75JYNW, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: 7VnBgPsaas75JYNW, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 7VnBgPsaas75JYNW, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: 7VnBgPsaas75JYNW, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: 7VnBgPsaas75JYNW, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: 7VnBgPsaas75JYNW, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: L6iIYyVrJtEwU20P, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: L6iIYyVrJtEwU20P, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: L6iIYyVrJtEwU20P, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: L6iIYyVrJtEwU20P, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: L6iIYyVrJtEwU20P, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: L6iIYyVrJtEwU20P, udp: true}
 - {name: 🇭🇰 中转•香港301•原生 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20301, type: trojan, password: 8a0f4bd9-18a0-30b1-8f8c-ccd9dfb91537, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 28678, type: trojan, password: 8a0f4bd9-18a0-30b1-8f8c-ccd9dfb91537, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 22741, type: trojan, password: 8a0f4bd9-18a0-30b1-8f8c-ccd9dfb91537, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -138,12 +138,12 @@ proxies:
 - {name: 🇭🇰 A香港06 | 隧道 | 奈飞解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10004, type: vmess, uuid: 1571e2cd-38e0-3b34-aaef-e37d8c88bb73, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
 - {name: 🇭🇰 A香港07 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10005, type: vmess, uuid: 1571e2cd-38e0-3b34-aaef-e37d8c88bb73, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
 - {name: 🇭🇰 A香港08 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10006, type: vmess, uuid: 1571e2cd-38e0-3b34-aaef-e37d8c88bb73, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 8d57a090-fe22-4772-8201-a0e0809eaf88, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: 8d57a090-fe22-4772-8201-a0e0809eaf88, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: 8d57a090-fe22-4772-8201-a0e0809eaf88, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 8d57a090-fe22-4772-8201-a0e0809eaf88, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 8d57a090-fe22-4772-8201-a0e0809eaf88, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: 8d57a090-fe22-4772-8201-a0e0809eaf88, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: c9b9f2ac-edd2-403d-a821-7eea17df5ee2, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: c9b9f2ac-edd2-403d-a821-7eea17df5ee2, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: c9b9f2ac-edd2-403d-a821-7eea17df5ee2, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: c9b9f2ac-edd2-403d-a821-7eea17df5ee2, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: c9b9f2ac-edd2-403d-a821-7eea17df5ee2, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: c9b9f2ac-edd2-403d-a821-7eea17df5ee2, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20002, type: trojan, password: 679694e3-68bb-4a0b-9571-a7b0548e7ca5, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20002, type: trojan, password: 679694e3-68bb-4a0b-9571-a7b0548e7ca5, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港01_1【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20000, type: vmess, uuid: 679694e3-68bb-4a0b-9571-a7b0548e7ca5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
