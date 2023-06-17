@@ -55,9 +55,9 @@ proxies:
 - {name: 🇮🇳 vip1 印度-01 - FastFly, server: gzdx.jcnode.top, port: 49000, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺 vip1 澳大利亚-01 - FastFly, server: gzdx.jcnode.top, port: 49001, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 vip1 德国-01 - FastFly, server: gzdx.jcnode.top, port: 49004, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 vip1 德国-02 - FastFly, server: de01.ckcloud.info, port: 21912, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 vip1 德国-02 - FastFly, server: gzyd01.jcnode.top, port: 49004, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-03 - FastFly, server: gzdx.jcnode.top, port: 47000, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 vip1 英国-04 - FastFly, server: gzyd.jcnode.top, port: 47000, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 vip1 英国-04 - FastFly, server: gzyd01.jcnode.top, port: 47000, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇷🇺 Lv.1 | 俄罗斯 |IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21911, type: vmess, uuid: a145d832-a3b1-3bc9-bc91-42e17f2a2d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇦🇷 Lv.1 | 阿根廷 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21914, type: vmess, uuid: a145d832-a3b1-3bc9-bc91-42e17f2a2d3d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: ca-01.v1vip.top, port: 31015, type: trojan, password: d1d45a5d-f87e-4324-94f9-a596353c3ca3, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
