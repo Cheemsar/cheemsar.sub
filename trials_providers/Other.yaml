@@ -263,18 +263,18 @@ proxies:
 - {name: 🇮🇳 印度 BGP - 雷云加速, server: 120.232.140.78, port: 47761, type: trojan, password: a6efb976-9d6b-42b1-a62a-b83c3af18152, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 土耳其 JS - 雷云加速, server: tuk.ijsfq.xyz, port: 34420, type: trojan, password: a6efb976-9d6b-42b1-a62a-b83c3af18152, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 法兰克福BGP 解锁GPT 2X - 雷云加速, server: 120.232.140.78, port: 47161, type: trojan, password: a6efb976-9d6b-42b1-a62a-b83c3af18152, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: qpVrxzGPhRey6NA3, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: fea29b3c-7375-3a55-9197-3431e2bb1767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: fea29b3c-7375-3a55-9197-3431e2bb1767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: xFf2naARlqVPda8D, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 730c077b-b225-379e-a431-66b90b41dacd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 730c077b-b225-379e-a431-66b90b41dacd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：29 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 🇦🇺 GCP-AU1-20230218 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 25238, type: trojan, password: f4526ec4-a5ff-3ba9-9cc0-05a08a9da37c, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
