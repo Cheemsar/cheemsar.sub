@@ -13,7 +13,6 @@ proxies:
 - {name: 🇯🇵 高级隧道 - 日本 03 - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
 - {name: 🇯🇵 高级隧道 - 日本 04 - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
 - {name: 🇯🇵 高级隧道 - 日本 05 - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇯🇵 高级隧道 - 日本 06 - V2Link, server: host-jp-06.v2link.cloud, port: 30606, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
 - {name: 🇹🇼 高级隧道 - 台湾 01 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
 - {name: 🇹🇼 高级隧道 - 台湾 02 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
 - {name: 🇹🇼 电信优化 - 台湾 03 - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
