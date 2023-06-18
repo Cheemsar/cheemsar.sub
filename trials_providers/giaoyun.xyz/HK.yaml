@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 308641b6-9ebf-4c85-9505-a46a157544a7, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: 308641b6-9ebf-4c85-9505-a46a157544a7, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: 308641b6-9ebf-4c85-9505-a46a157544a7, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 308641b6-9ebf-4c85-9505-a46a157544a7, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 308641b6-9ebf-4c85-9505-a46a157544a7, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: 308641b6-9ebf-4c85-9505-a46a157544a7, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 9c1c0d2a-72f5-42f0-85be-3c663165fd17, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 25288, type: trojan, password: 9c1c0d2a-72f5-42f0-85be-3c663165fd17, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 36483, type: trojan, password: 9c1c0d2a-72f5-42f0-85be-3c663165fd17, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 9c1c0d2a-72f5-42f0-85be-3c663165fd17, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 9c1c0d2a-72f5-42f0-85be-3c663165fd17, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港11 - giao云, server: 66hk.tfzhc.top, port: 22581, type: trojan, password: 9c1c0d2a-72f5-42f0-85be-3c663165fd17, sni: 66hk.tfzhc.top, skip-cert-verify: true, udp: true}
