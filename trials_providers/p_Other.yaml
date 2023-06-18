@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 780eb112-d2fc-4436-8805-cdcada2f8130, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: d1d45a5d-f87e-4324-94f9-a596353c3ca3, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 6fdd08c1-722d-4d1e-95bf-3a5269dacd64, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: c9b5765c-314b-451c-80e5-1feec8523f7c, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 距离下次重置剩余：1 天 - KKCloud看看云☁️, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: f2b4df97-70e8-4f2a-bdcf-a70570942d87, udp: true}
 - {name: '[官网] kkcloud.xyz - KKCloud看看云☁️', server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: f2b4df97-70e8-4f2a-bdcf-a70570942d87, udp: true}
@@ -17,9 +17,9 @@ proxies:
 - {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 85b8bb70-deb1-4c7e-bdf8-5647e0d34758, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：12 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 5355ee54-2a20-4652-b2b6-a454ed1c2e8d, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 5355ee54-2a20-4652-b2b6-a454ed1c2e8d, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 4d3f22d7-dc4b-4154-9a7a-b4104875c22b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 4d3f22d7-dc4b-4154-9a7a-b4104875c22b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 4d3f22d7-dc4b-4154-9a7a-b4104875c22b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: db8953d8-9af4-4b26-80c2-2ed41e532844, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: db8953d8-9af4-4b26-80c2-2ed41e532844, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: db8953d8-9af4-4b26-80c2-2ed41e532844, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: ★★ 请先购买3元试用  Please buy a trial first.★★ - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11108, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 125715:WEOSTA, obfs-param: '3a753125715.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 125717:iQJ9Ri, obfs-param: '3852a125717.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 不能使动动小手更新更新订阅！ - IKUN机场, server: a5.zwtg888.com, port: 4563, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: a5.zwtg888.com}}, udp: true}
