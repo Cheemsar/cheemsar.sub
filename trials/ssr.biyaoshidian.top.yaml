@@ -10,11 +10,15 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -22,11 +26,23 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇺🇸 US000 - NovaLive
-  - 🇺🇸 US180|CN2GIA - NovaLive
-  - 🇺🇸 US181|CN2GIA - NovaLive
+  - 🇭🇰 香港 Ali2 *3 - 独孤乐天
+  - 🇭🇰 香港 Ali3 *3 - 独孤乐天
+  - 🇭🇰 香港 Ali6 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS2 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS2 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS6 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS6 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 CS4 *5 - 独孤乐天
+  - 🇯🇵 日本 CS5 *5 - 独孤乐天
+  - 🇯🇵 日本 kagoya *3 - 独孤乐天
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇵🇭 菲律宾 IPC *3 - 独孤乐天
+  - 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -42,14 +58,18 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇯🇵 ‍日本
@@ -61,38 +81,80 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇯🇵 ‍日本
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
-- name: 🇺🇸 ‍美国
+  - 🇭🇰 香港 Ali2 *3 - 独孤乐天
+  - 🇭🇰 香港 Ali3 *3 - 独孤乐天
+  - 🇭🇰 香港 Ali6 *3 - 独孤乐天
+- name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇺🇸 US000 - NovaLive
-  - 🇺🇸 US180|CN2GIA - NovaLive
-  - 🇺🇸 US181|CN2GIA - NovaLive
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS2 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS2 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS6 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS6 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 CS4 *5 - 独孤乐天
+  - 🇯🇵 日本 CS5 *5 - 独孤乐天
+  - 🇯🇵 日本 kagoya *3 - 独孤乐天
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id005
+  - 🇵🇭 菲律宾 IPC *3 - 独孤乐天
+  - 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id003
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id004
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id005
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: ee25d99f-f574-3676-b666-177af271081d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 3.114.7.199, port: 443, type: trojan, password: ee25d99f-f574-3676-b666-177af271081d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: ee25d99f-f574-3676-b666-177af271081d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: ee25d99f-f574-3676-b666-177af271081d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: ee25d99f-f574-3676-b666-177af271081d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS2 *3 - 独孤乐天, server: jp-2.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS2 *3 IPv6 - 独孤乐天, server: jp6-2.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS6 *3 - 独孤乐天, server: nhk-1.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS6 *3 IPv6 - 独孤乐天, server: nhk6-1.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 CS4 *5 - 独孤乐天, server: nhk-4.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 CS5 *5 - 独孤乐天, server: nhk-5.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 kagoya *3 - 独孤乐天, server: jp-4.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇵🇭 菲律宾 IPC *3 - 独孤乐天, server: nph-1.biyaoshidian.top, port: 443, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
+- {name: 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天, server: ph-2.biyaoshidian.top, port: 443, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
+- {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
+- {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.biyaoshidian.top, port: 5062, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.biyaoshidian.top, port: 5061, type: vmess, uuid: d001e511-d866-3a91-a3a6-47b8041d6d68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
