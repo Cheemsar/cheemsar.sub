@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 高级隧道 - 韩国 01 - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇰🇷 高级隧道 - 韩国 02 - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇬🇧 高级隧道 - 英国 01 - V2Link, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇩🇪 高级隧道 - 德国 01 - V2Link, server: host-045.crazyspeed.xyz, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇳🇱 高级隧道 - 荷兰 01 - V2Link, server: host-050.crazyspeed.xyz, port: 34906, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇦🇺 高级隧道 - 悉尼 01 - V2Link, server: host-051.crazyspeed.xyz, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇧🇷 高级隧道 - 圣保罗 - V2Link, server: host-052.crazyspeed.xyz, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇮🇳 高级隧道 - 印度三 - V2Link, server: host-053.crazyspeed.xyz, port: 10911, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇷🇺 高级隧道 - 俄罗斯 - V2Link, server: host-054.crazyspeed.xyz, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
-- {name: 🇹🇷 高级隧道 - 土耳其 - V2Link, server: host-055.crazyspeed.xyz, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: 327695f1-04db-4825-885e-93072cd71566, udp: true}
+- {name: 🇰🇷 高级隧道 - 韩国 01 - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇰🇷 高级隧道 - 韩国 02 - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇬🇧 高级隧道 - 英国 01 - V2Link, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇩🇪 高级隧道 - 德国 01 - V2Link, server: host-045.crazyspeed.xyz, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇳🇱 高级隧道 - 荷兰 01 - V2Link, server: host-050.crazyspeed.xyz, port: 34906, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇦🇺 高级隧道 - 悉尼 01 - V2Link, server: host-051.crazyspeed.xyz, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇧🇷 高级隧道 - 圣保罗 - V2Link, server: host-052.crazyspeed.xyz, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇮🇳 高级隧道 - 印度三 - V2Link, server: host-053.crazyspeed.xyz, port: 10911, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇷🇺 高级隧道 - 俄罗斯 - V2Link, server: host-054.crazyspeed.xyz, port: 10071, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
+- {name: 🇹🇷 高级隧道 - 土耳其 - V2Link, server: host-055.crazyspeed.xyz, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: 99479289-b838-438e-9cfd-60c74274e49f, udp: true}
