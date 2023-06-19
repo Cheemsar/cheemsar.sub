@@ -46,10 +46,10 @@ proxies:
 - {name: 🇸🇬 SGP 新加坡 | 奈飞 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 47906, type: vmess, uuid: c044ad87-89d4-3582-b2b2-5cd27adcb85e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇸🇬 VIP 新加坡 JS - 雷云加速, server: yn.ijsfq.xyz, port: 47663, type: trojan, password: a0db3ef1-ec01-4731-9133-803defd09ce5, sni: yn.ijsfq.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 轻量 CF - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: a0db3ef1-ec01-4731-9133-803defd09ce5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: a7rYa9J8aK8PjfEw, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: a7rYa9J8aK8PjfEw, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: a7rYa9J8aK8PjfEw, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: a7rYa9J8aK8PjfEw, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: Mm9LPpoPhxgKtsTg, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: Mm9LPpoPhxgKtsTg, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: Mm9LPpoPhxgKtsTg, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: Mm9LPpoPhxgKtsTg, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20299, type: trojan, password: 88eefc34-4c58-39b7-b3a9-eb09ea1bb292, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 17806, type: trojan, password: 88eefc34-4c58-39b7-b3a9-eb09ea1bb292, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 30712, type: trojan, password: 88eefc34-4c58-39b7-b3a9-eb09ea1bb292, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
