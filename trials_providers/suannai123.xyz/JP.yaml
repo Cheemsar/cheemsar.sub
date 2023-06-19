@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP 日本 | 隧道节点 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 47988, type: vmess, uuid: 383427b8-3447-3a08-9f06-605ace2731ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇯🇵 JP 日本 | 隧道节点 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 47988, type: vmess, uuid: c044ad87-89d4-3582-b2b2-5cd27adcb85e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
