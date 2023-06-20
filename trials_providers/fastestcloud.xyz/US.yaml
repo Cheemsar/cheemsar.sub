@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 48000, type: trojan, password: ae8cacee-ff43-4cf6-bbd7-896a7e5c2214, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: ae8cacee-ff43-4cf6-bbd7-896a7e5c2214, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: ae8cacee-ff43-4cf6-bbd7-896a7e5c2214, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: ae8cacee-ff43-4cf6-bbd7-896a7e5c2214, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd01.jcnode.top, port: 48004, type: trojan, password: ae8cacee-ff43-4cf6-bbd7-896a7e5c2214, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 48000, type: trojan, password: 00cf2d49-8b7e-4b0c-9ce8-c656ae9b1a48, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: 00cf2d49-8b7e-4b0c-9ce8-c656ae9b1a48, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: 00cf2d49-8b7e-4b0c-9ce8-c656ae9b1a48, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: 00cf2d49-8b7e-4b0c-9ce8-c656ae9b1a48, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd01.jcnode.top, port: 48004, type: trojan, password: 00cf2d49-8b7e-4b0c-9ce8-c656ae9b1a48, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
