@@ -380,9 +380,9 @@ proxies:
 - {name: 🇺🇸 美国-优化1 - NanBei, server: ydyh.nanbei.info, port: 26904, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇺🇸 美国-优化2 - NanBei, server: ydyh.nanbei.info, port: 26910, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇺🇸 美国| 隧道 | 1X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10019, type: vmess, uuid: a0020925-fbce-377b-b4a3-87828fd9488a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: d0782399-ab1a-307a-9fdd-50ad4fbd3d0b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: d0782399-ab1a-307a-9fdd-50ad4fbd3d0b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: d0782399-ab1a-307a-9fdd-50ad4fbd3d0b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 85e3fe65-ef73-331d-86d6-9091ae35ca4a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 85e3fe65-ef73-331d-86d6-9091ae35ca4a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 85e3fe65-ef73-331d-86d6-9091ae35ca4a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国1｜超级线路｜推特解锁 - Tadm科學基地, server: hk-1.kfc0.icu, port: 20050, type: vmess, uuid: 14a449c9-7c46-481d-bbd2-8e964d62d2c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国2｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20055, type: vmess, uuid: 14a449c9-7c46-481d-bbd2-8e964d62d2c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 新加坡01｜广州移动｜美国奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20045, type: vmess, uuid: 14a449c9-7c46-481d-bbd2-8e964d62d2c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -450,4 +450,4 @@ proxies:
 - {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: e5221575-fcbc-462e-ba03-57a6fc0393c0, udp: true}
 - {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: e5221575-fcbc-462e-ba03-57a6fc0393c0, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US-IEPL-B-2 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: trojan, password: e5221575-fcbc-462e-ba03-57a6fc0393c0, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 0cdf9958-f087-368d-affc-7a5f27a02931, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: ab7d8d62-ee82-3e95-bd44-e8fb93eec7e3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
