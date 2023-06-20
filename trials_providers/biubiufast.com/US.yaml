@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国|高速美国SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 23332, type: ss, cipher: chacha20-ietf-poly1305, password: c4bdc144-2033-4b28-a29e-9793108364f7, udp: true}
-- {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36332, type: ss, cipher: chacha20-ietf-poly1305, password: c4bdc144-2033-4b28-a29e-9793108364f7, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36334, type: ss, cipher: chacha20-ietf-poly1305, password: c4bdc144-2033-4b28-a29e-9793108364f7, udp: true}
-- {name: 🇺🇸 美国 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36331, type: trojan, password: c4bdc144-2033-4b28-a29e-9793108364f7, sni: sfo4.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36333, type: trojan, password: c4bdc144-2033-4b28-a29e-9793108364f7, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|高速美国SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 23332, type: ss, cipher: chacha20-ietf-poly1305, password: 5950f2f3-b442-4d2d-a4ea-e0ccd2b1c740, udp: true}
+- {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36332, type: ss, cipher: chacha20-ietf-poly1305, password: 5950f2f3-b442-4d2d-a4ea-e0ccd2b1c740, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36334, type: ss, cipher: chacha20-ietf-poly1305, password: 5950f2f3-b442-4d2d-a4ea-e0ccd2b1c740, udp: true}
+- {name: 🇺🇸 美国 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36331, type: trojan, password: 5950f2f3-b442-4d2d-a4ea-e0ccd2b1c740, sni: sfo4.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36333, type: trojan, password: 5950f2f3-b442-4d2d-a4ea-e0ccd2b1c740, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
