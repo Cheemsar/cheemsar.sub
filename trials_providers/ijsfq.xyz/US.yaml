@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 VIP 美国芝加哥 HK - 雷云加速, server: zjg.ijsfq.xyz, port: 47692, type: trojan, password: a0db3ef1-ec01-4731-9133-803defd09ce5, sni: zjg.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 VIP6 洛杉矶YN 解锁GPT 2X - 雷云加速, server: sarz.ijsfq.xyz, port: 47664, type: trojan, password: a0db3ef1-ec01-4731-9133-803defd09ce5, sni: sarz.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国圣何塞 CF - 雷云加速, server: ehe.ijsfq.xyz, port: 443, type: vmess, uuid: a0db3ef1-ec01-4731-9133-803defd09ce5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ehe.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: ehe.ijsfq.xyz}}, udp: true}
+- {name: 🇺🇸 VIP 美国芝加哥 HK - 雷云加速, server: zjg.ijsfq.xyz, port: 47692, type: trojan, password: 3b3de2f3-2d54-494c-82df-fd047e4fa260, sni: zjg.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 VIP6 洛杉矶YN 解锁GPT 2X - 雷云加速, server: sarz.ijsfq.xyz, port: 47664, type: trojan, password: 3b3de2f3-2d54-494c-82df-fd047e4fa260, sni: sarz.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国圣何塞 CF - 雷云加速, server: ehe.ijsfq.xyz, port: 443, type: vmess, uuid: 3b3de2f3-2d54-494c-82df-fd047e4fa260, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ehe.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: ehe.ijsfq.xyz}}, udp: true}
