@@ -277,19 +277,7 @@ sub_url  https://dy.akuakiss.com/api/v1/client/subscribe?token=8e03d1ef0fe753e89
 time  2023-06-21 14:39:35.322120+08:00
 type  v2board
 
-[vpiv.app]
-auto_invite  F
-banned_domains  linshiyou.com  smartnator.com  psnator.com
-buy  pass
-email  atblsibh87@mail.wvwvw.tech
-last_checkin  2023-06-21 14:14:17.067931+08:00
-name  糖果
-node_n  60
-sub_info  0B  1.082G  2023-06-21 15:14:16+08:00  (剩余 1.082G 0:34:00.476960)
-sub_url  https://sub1.itg.best:30443/link/OYQixcSgbZroPNty?sub=1
-time  2023-06-21 14:14:19.338581+08:00
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(gzfmfxj833@tmpbox.net): HTTPSConnectionPool(host='vpiv.app', port=443): Read timed out. (read timeout=10)
+
 
 [suannai123.xyz]
 auto_invite  F
