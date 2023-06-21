@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 VIP 新加坡 JS - 雷云加速, server: yn.ijsfq.xyz, port: 47663, type: trojan, password: 3b3de2f3-2d54-494c-82df-fd047e4fa260, sni: yn.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 轻量 CF - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: 3b3de2f3-2d54-494c-82df-fd047e4fa260, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}
+- {name: 🇸🇬 VIP 新加坡 JS - 雷云加速, server: yn.ijsfq.xyz, port: 47663, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: yn.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 轻量 CF - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: af0f2a59-de2e-4085-b2d0-279df9141cfa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}
