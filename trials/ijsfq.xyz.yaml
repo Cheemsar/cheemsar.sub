@@ -44,8 +44,8 @@ proxy-groups:
   - 🇺🇸 VIP 美国芝加哥 HK - 雷云加速
   - 🇺🇸 VIP6 洛杉矶YN 解锁GPT 2X - 雷云加速
   - 🇺🇸 美国圣何塞 CF - 雷云加速
-  - 🇮🇳 印度 BGP - 雷云加速
   - 🇹🇷 土耳其 JS - 雷云加速
+  - 🇮🇳 印度 BGP - 雷云加速
   - 🇩🇪 法兰克福BGP 解锁GPT 2X - 雷云加速
 - name: 🛩️ ‍墙内
   type: select
@@ -151,8 +151,8 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id008
-  - 🇮🇳 印度 BGP - 雷云加速
   - 🇹🇷 土耳其 JS - 雷云加速
+  - 🇮🇳 印度 BGP - 雷云加速
   - 🇩🇪 法兰克福BGP 解锁GPT 2X - 雷云加速
 - name: 👆🏻 ‍指定
   type: select
@@ -185,10 +185,10 @@ proxies:
 - {name: 🇹🇼 VIP 台湾YN 解锁流媒体 1.5X - 雷云加速, server: sarz.ijsfq.xyz, port: 55667, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: sarz.ijsfq.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 VIP 香港JS 解锁流媒体 1.8X - 雷云加速, server: js2.ijsfq.xyz, port: 45436, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: js.76po.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 VIP6 洛杉矶YN 解锁GPT 2X - 雷云加速, server: sarz.ijsfq.xyz, port: 47664, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: sarz.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 BGP - 雷云加速, server: 120.232.140.78, port: 47761, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 v6 BGP - 雷云加速, server: 120.232.140.78, port: 55669, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 HZ - 雷云加速, server: xg2.ijsfq.xyz, port: 45437, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 土耳其 JS - 雷云加速, server: tuk.ijsfq.xyz, port: 34420, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 BGP - 雷云加速, server: 120.232.140.78, port: 47761, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 v6 BGP - 雷云加速, server: 120.232.140.78, port: 55669, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 法兰克福BGP 解锁GPT 2X - 雷云加速, server: 120.232.140.78, port: 47161, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 BJ - 雷云加速, server: jpn.ijsfq.xyz, port: 32920, type: trojan, password: af0f2a59-de2e-4085-b2d0-279df9141cfa, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 v6 CF - 雷云加速, server: hkv6.ijsfq.xyz, port: 443, type: vmess, uuid: af0f2a59-de2e-4085-b2d0-279df9141cfa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkv6.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkv6.ijsfq.xyz}}, udp: true}
