@@ -47,6 +47,7 @@ proxy-groups:
   - 🇩🇪 德国-优化1 - NanBei
   - 🇩🇪 德国-优化2 - NanBei
   - 🇰🇷 韩国-优化1 - NanBei
+  - 🇰🇷 韩国-优化1 - NanBei 2
   - 🇦🇪 迪拜-优化1 - NanBei
   - 🇦🇪 迪拜-优化2 - NanBei
 - name: 🛩️ ‍墙内
@@ -138,6 +139,7 @@ proxy-groups:
   - 🇩🇪 德国-优化1 - NanBei
   - 🇩🇪 德国-优化2 - NanBei
   - 🇰🇷 韩国-优化1 - NanBei
+  - 🇰🇷 韩国-优化1 - NanBei 2
   - 🇦🇪 迪拜-优化1 - NanBei
   - 🇦🇪 迪拜-优化2 - NanBei
 - name: 👆🏻 ‍指定
@@ -178,6 +180,7 @@ proxies:
 - {name: 🇭🇰 香港-优化1 - NanBei, server: ydyh.nanbei.info, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇭🇰 香港-优化2 - NanBei, server: ydyh.nanbei.info, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇰🇷 韩国-优化1 - NanBei, server: ydyh.nanbei.info, port: 26913, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
+- {name: 🇰🇷 韩国-优化1 - NanBei 2, server: ydyh.nanbei.info, port: 26913, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇦🇪 迪拜-优化1 - NanBei, server: ydyh.nanbei.info, port: 26914, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇦🇪 迪拜-优化2 - NanBei, server: ydyh.nanbei.info, port: 26914, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 rules:
