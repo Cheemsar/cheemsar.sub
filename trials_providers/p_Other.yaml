@@ -11,8 +11,8 @@ proxies:
 - {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 51b1c562-88ed-343f-8cbc-27c2d3aebc36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：26 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 距离下次重置剩余：19 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
-- {name: 距离下次重置剩余：9 天 - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：9 天 - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：9 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 78722144-7068-46ea-8477-5e9e28fa872e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 78722144-7068-46ea-8477-5e9e28fa872e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 37876a4a-e05d-4ea5-be72-c9b4fed77af5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}

@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港大带宽1｜解锁奈飞 - Tadm科學基地, server: ct1.kfc0.icu, port: 20049, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港大带宽2｜解锁奈飞 - Tadm科學基地, server: ct2.kfc0.icu, port: 20049, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港大带宽3｜解锁奈飞 - Tadm科學基地, server: ct3.kfc0.icu, port: 20049, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 新台北1｜国内中继｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20052, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 新台北2｜国内中继｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20052, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20040, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20041, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港03｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20043, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾彰化｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20042, type: vmess, uuid: 188dd5a0-4e3c-44a2-9723-03bee838efc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港大带宽1｜解锁奈飞 - Tadm科學基地, server: ct1.kfc0.icu, port: 20049, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港大带宽2｜解锁奈飞 - Tadm科學基地, server: ct2.kfc0.icu, port: 20049, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港大带宽3｜解锁奈飞 - Tadm科學基地, server: ct3.kfc0.icu, port: 20049, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 新台北1｜国内中继｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20052, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 新台北2｜国内中继｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20052, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20040, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20041, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港03｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20043, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾彰化｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20042, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
