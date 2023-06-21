@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国1｜超级线路｜推特解锁 - Tadm科學基地, server: hk-1.kfc0.icu, port: 20050, type: vmess, uuid: 71781f48-b420-4a5d-b985-772025d76423, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国2｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20055, type: vmess, uuid: 71781f48-b420-4a5d-b985-772025d76423, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 新加坡01｜广州移动｜美国奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20045, type: vmess, uuid: 71781f48-b420-4a5d-b985-772025d76423, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国1｜超级线路｜推特解锁 - Tadm科學基地, server: hk-1.kfc0.icu, port: 20050, type: vmess, uuid: 79f24c35-8778-42df-b836-a430cfa83326, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20055, type: vmess, uuid: 79f24c35-8778-42df-b836-a430cfa83326, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 新加坡01｜广州移动｜美国奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20045, type: vmess, uuid: 79f24c35-8778-42df-b836-a430cfa83326, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
