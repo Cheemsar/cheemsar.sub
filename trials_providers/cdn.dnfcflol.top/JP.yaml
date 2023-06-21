@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 混合日本02｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20051, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本混合｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20044, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本东京3｜广州移动｜解锁奈飞 - Tadm科學基地, server: gzyd.kfc0.icu, port: 20054, type: vmess, uuid: ca3a342e-cf6e-4449-8546-35d4d726bee5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 混合日本02｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20051, type: vmess, uuid: 140df63c-0eae-4e10-896f-96d6b1da60af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本混合｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20044, type: vmess, uuid: 140df63c-0eae-4e10-896f-96d6b1da60af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本东京3｜广州移动｜解锁奈飞 - Tadm科學基地, server: gzyd.kfc0.icu, port: 20054, type: vmess, uuid: 140df63c-0eae-4e10-896f-96d6b1da60af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
