@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：8 天 - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 1a93fadb-158e-47d4-904d-bf87af60cd5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 1a93fadb-158e-47d4-904d-bf87af60cd5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：8 天 - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 36e5336d-530a-4b6e-8550-6aceef6232b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 36e5336d-530a-4b6e-8550-6aceef6232b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
