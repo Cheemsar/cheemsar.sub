@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 距离下次重置剩余：8 天 - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 36e5336d-530a-4b6e-8550-6aceef6232b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 36e5336d-530a-4b6e-8550-6aceef6232b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 负载均衡 1｜随机优先｜高速节点 - Tadm科學基地, server: sj.kfc0.icu, port: 26002, type: vmess, uuid: 36e5336d-530a-4b6e-8550-6aceef6232b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 负载均衡 2｜随机优先｜高速节点 - Tadm科學基地, server: sj.kfc0.icu, port: 26003, type: vmess, uuid: 36e5336d-530a-4b6e-8550-6aceef6232b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国01｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20048, type: vmess, uuid: 36e5336d-530a-4b6e-8550-6aceef6232b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其｜50m带宽｜steam专用 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20057, type: vmess, uuid: 36e5336d-530a-4b6e-8550-6aceef6232b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
