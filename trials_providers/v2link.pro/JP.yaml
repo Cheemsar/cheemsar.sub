@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 高级隧道 - 日本 01 - V2Link, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: 8b700878-e133-4a2c-9b01-8a512c21e8c9, udp: true}
-- {name: 🇯🇵 高级隧道 - 日本 02 - V2Link, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: 8b700878-e133-4a2c-9b01-8a512c21e8c9, udp: true}
-- {name: 🇯🇵 高级隧道 - 日本 03 - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 8b700878-e133-4a2c-9b01-8a512c21e8c9, udp: true}
-- {name: 🇯🇵 高级隧道 - 日本 04 - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 8b700878-e133-4a2c-9b01-8a512c21e8c9, udp: true}
-- {name: 🇯🇵 高级隧道 - 日本 05 - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 8b700878-e133-4a2c-9b01-8a512c21e8c9, udp: true}
+- {name: 🇯🇵 高级隧道 - 日本 01 - V2Link, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: 691e03eb-e2e5-4cfc-a28b-45de8aa64d1d, udp: true}
+- {name: 🇯🇵 高级隧道 - 日本 02 - V2Link, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: 691e03eb-e2e5-4cfc-a28b-45de8aa64d1d, udp: true}
+- {name: 🇯🇵 高级隧道 - 日本 03 - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 691e03eb-e2e5-4cfc-a28b-45de8aa64d1d, udp: true}
+- {name: 🇯🇵 高级隧道 - 日本 04 - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 691e03eb-e2e5-4cfc-a28b-45de8aa64d1d, udp: true}
+- {name: 🇯🇵 高级隧道 - 日本 05 - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 691e03eb-e2e5-4cfc-a28b-45de8aa64d1d, udp: true}

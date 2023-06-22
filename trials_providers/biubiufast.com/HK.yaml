@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港|香港高速SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 22332, type: ss, cipher: chacha20-ietf-poly1305, password: d4b463d7-7e6b-459a-b1d4-65f8203f23bc, udp: true}
-- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10222, type: ss, cipher: chacha20-ietf-poly1305, password: d4b463d7-7e6b-459a-b1d4-65f8203f23bc, udp: true}
-- {name: 🇭🇰 香港 | 高速香港3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 22331, type: trojan, password: d4b463d7-7e6b-459a-b1d4-65f8203f23bc, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10221, type: trojan, password: d4b463d7-7e6b-459a-b1d4-65f8203f23bc, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|香港高速SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 22332, type: ss, cipher: chacha20-ietf-poly1305, password: 2803ea63-8fed-4e2f-987d-06a74ae5da69, udp: true}
+- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10222, type: ss, cipher: chacha20-ietf-poly1305, password: 2803ea63-8fed-4e2f-987d-06a74ae5da69, udp: true}
+- {name: 🇭🇰 香港 | 高速香港3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 22331, type: trojan, password: 2803ea63-8fed-4e2f-987d-06a74ae5da69, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10221, type: trojan, password: 2803ea63-8fed-4e2f-987d-06a74ae5da69, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
