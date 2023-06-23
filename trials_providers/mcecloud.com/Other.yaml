@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇷🇺 Lv.1 | 俄罗斯 |IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21911, type: vmess, uuid: 52155c78-7c24-3054-9ed4-0729ad3c0e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇦🇷 Lv.1 | 阿根廷 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21914, type: vmess, uuid: 52155c78-7c24-3054-9ed4-0729ad3c0e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 Lv.1 | 俄罗斯 |IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21911, type: vmess, uuid: 5580f2b1-1f14-3fb2-9085-c6f34f52cd20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇷 Lv.1 | 阿根廷 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21914, type: vmess, uuid: 5580f2b1-1f14-3fb2-9085-c6f34f52cd20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
