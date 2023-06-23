@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk01.qiaqia.win, port: 8791, type: vmess, uuid: 05a75ef8-bd52-3c26-8b07-8f2d8e971bc5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk01.qiaqia.win}}, udp: true}
-- {name: 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk02.qiaqia.win, port: 8972, type: vmess, uuid: 05a75ef8-bd52-3c26-8b07-8f2d8e971bc5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk02.qiaqia.win}}, udp: true}
-- {name: 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk03.qiaqia.win, port: 8973, type: vmess, uuid: 05a75ef8-bd52-3c26-8b07-8f2d8e971bc5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk03.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk01.qiaqia.win, port: 8791, type: vmess, uuid: 5e5e3763-80b8-32bb-9047-f32cfec1b8ab, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk01.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk02.qiaqia.win, port: 8972, type: vmess, uuid: 5e5e3763-80b8-32bb-9047-f32cfec1b8ab, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk02.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk03.qiaqia.win, port: 8973, type: vmess, uuid: 5e5e3763-80b8-32bb-9047-f32cfec1b8ab, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk03.qiaqia.win}}, udp: true}
