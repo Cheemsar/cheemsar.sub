@@ -196,18 +196,18 @@ proxies:
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 175 - 紫云VPN服务商, server: 104.16.36.33, port: 8080, type: vmess, uuid: 2e4d17c5-1a30-342c-8e7a-31f878e33f37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ams.369777.xyz}}, udp: true}
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 176 - 紫云VPN服务商, server: 104.20.12.28, port: 8080, type: vmess, uuid: 2e4d17c5-1a30-342c-8e7a-31f878e33f37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ams.369777.xyz}}, udp: true}
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 177 - 紫云VPN服务商, server: 104.16.182.18, port: 8080, type: vmess, uuid: 2e4d17c5-1a30-342c-8e7a-31f878e33f37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ams.369777.xyz}}, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: jPy7pUHVgD1IqUmi, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 28e96c9b-079b-3a1c-8aa3-1f5a0753d776, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 28e96c9b-079b-3a1c-8aa3-1f5a0753d776, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: KgHhza95YcqF378s, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: c5b12d9c-8523-3df3-9233-0de2929bfc0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: c5b12d9c-8523-3df3-9233-0de2929bfc0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 本站网址：www.cryxr.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 6dcf236e-dd2c-4437-8b75-223ed2576d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 本站网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 6dcf236e-dd2c-4437-8b75-223ed2576d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 本站网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 6dcf236e-dd2c-4437-8b75-223ed2576d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
@@ -256,7 +256,7 @@ proxies:
 - {name: 🇩🇪 vip1 德国-02 - FastFly, server: gzyd01.jcnode.top, port: 49004, type: trojan, password: a697379a-de0f-4cd7-87da-3f337f153724, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-03 - FastFly, server: gzdx.jcnode.top, port: 47000, type: trojan, password: a697379a-de0f-4cd7-87da-3f337f153724, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-04 - FastFly, server: gzyd01.jcnode.top, port: 47000, type: trojan, password: a697379a-de0f-4cd7-87da-3f337f153724, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 126031:66ntII, obfs-param: 'f185a126031.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 126033:XGfUdj, obfs-param: '5a9f6126033.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: f5c01e9d-386e-4aa3-9656-ad2bf00cb84d, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: ca-01.v1vip.top, port: 31015, type: trojan, password: f5c01e9d-386e-4aa3-9656-ad2bf00cb84d, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: gb-01.v1vip.top, port: 31016, type: trojan, password: f5c01e9d-386e-4aa3-9656-ad2bf00cb84d, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
