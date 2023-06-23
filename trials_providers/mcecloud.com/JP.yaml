@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 Lv.1 | 日本 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21311, type: vmess, uuid: e85028c1-6f09-3e05-b6ff-852ae7c0ed4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 Lv.1 | 日本 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20311, type: vmess, uuid: e85028c1-6f09-3e05-b6ff-852ae7c0ed4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Lv.1 | 日本 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21311, type: vmess, uuid: 4fcce1dd-1553-358b-9776-9627621a0d93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Lv.1 | 日本 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20311, type: vmess, uuid: 4fcce1dd-1553-358b-9776-9627621a0d93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
