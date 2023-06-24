@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 VIP 日本 HK - 雷云加速, server: 125.124.34.181, port: 47662, type: trojan, password: 6538e156-04d4-47ef-ac5e-f449ee86c0a9, sni: jpn2.ijsfq.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 v6 BGP - 雷云加速, server: 120.232.140.78, port: 55669, type: trojan, password: 6538e156-04d4-47ef-ac5e-f449ee86c0a9, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 BJ - 雷云加速, server: jpn.ijsfq.xyz, port: 32920, type: trojan, password: 6538e156-04d4-47ef-ac5e-f449ee86c0a9, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 VIP 日本 HK - 雷云加速, server: 125.124.34.181, port: 47662, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: jpn2.ijsfq.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 v6 BGP - 雷云加速, server: 120.232.140.78, port: 55669, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 BJ - 雷云加速, server: jpn.ijsfq.xyz, port: 32920, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
