@@ -43,7 +43,6 @@ proxy-groups:
   - 🇸🇬 Asia 新加坡06 | 1.0x | V1 - 酸奶
   - 🇸🇬 Asia 新加坡07 | 解锁chatpgt | 1.0x | V1 - 酸奶
   - 🇸🇬 Asia 新加坡08 | 解锁chatpgt | 1.0x | V1 - 酸奶
-  - 🇸🇬 SGP 新加坡 | 奈飞 | 3.0x | V1 - 酸奶
   - 🇯🇵 JP 日本 | 隧道节点 | 3.0x | V1 - 酸奶
   - 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶
   - 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶
@@ -137,7 +136,6 @@ proxy-groups:
   - 🇸🇬 Asia 新加坡06 | 1.0x | V1 - 酸奶
   - 🇸🇬 Asia 新加坡07 | 解锁chatpgt | 1.0x | V1 - 酸奶
   - 🇸🇬 Asia 新加坡08 | 解锁chatpgt | 1.0x | V1 - 酸奶
-  - 🇸🇬 SGP 新加坡 | 奈飞 | 3.0x | V1 - 酸奶
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -200,7 +198,6 @@ proxies:
 - {name: 🇫🇷 FR 法国 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 18953, type: vmess, uuid: fe34e170-048d-386f-ac7b-20c57fcec18a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇯🇵 JP 日本 | 隧道节点 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 47988, type: vmess, uuid: fe34e170-048d-386f-ac7b-20c57fcec18a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇰🇷 Korea 韩国   | 隧道 | 3.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48095, type: vmess, uuid: fe34e170-048d-386f-ac7b-20c57fcec18a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz2.shynia.top}}, udp: true}
-- {name: 🇸🇬 SGP 新加坡 | 奈飞 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 47906, type: vmess, uuid: fe34e170-048d-386f-ac7b-20c57fcec18a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶, server: 165.154.253.74, port: 80, type: vmess, uuid: fe34e170-048d-386f-ac7b-20c57fcec18a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
 - {name: 🇹🇼 UC 台湾02 | 解锁台湾流媒体 | 5.0x | V1 - 酸奶, server: zz.shynia.top, port: 10009, type: vmess, uuid: fe34e170-048d-386f-ac7b-20c57fcec18a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 15617, type: vmess, uuid: fe34e170-048d-386f-ac7b-20c57fcec18a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
