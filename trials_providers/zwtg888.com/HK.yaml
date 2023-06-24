@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 延迟高≠网速慢（后港） - IKUN机场, server: s4.zwtg888.com, port: 8886, type: vmess, uuid: 597cc6d7-8baa-337b-aa41-e5047bdeceaf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: s4.zwtg888.com, network: grpc, grpc-opts: {grpc-service-name: mygrpc}, udp: true}
