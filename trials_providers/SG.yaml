@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: ae49c458-5d74-34f5-b6f1-a5ea1f6d06d1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: dbb4450b-6427-3ecf-bc92-ab40ab0da10e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 Lv.1| 新加坡 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21411, type: vmess, uuid: e6ba1dae-7b40-34b3-868f-11efa64993a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
 - {name: 🇸🇬 B新加坡01 | 隧道 | 1X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10007, type: vmess, uuid: 18c4f0a2-93f2-363b-8790-35521e8855a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
 - {name: 🇸🇬 B新加坡02 | 隧道 | 1X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10023, type: vmess, uuid: 18c4f0a2-93f2-363b-8790-35521e8855a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
@@ -75,3 +75,4 @@ proxies:
 - {name: 🇸🇬 SG-4 - 小白云, server: sg4.iepl.cooc.icu, port: 35108, type: trojan, password: a042f057-a9c4-4c21-a0be-d9f9580b4cd1, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 VIP 新加坡 JS - 雷云加速, server: yn.ijsfq.xyz, port: 47663, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: yn.ijsfq.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 轻量 CF - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: b611fc50-f3a7-4237-853c-79cd34d213d6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}
+- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 37131, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}

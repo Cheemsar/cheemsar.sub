@@ -10,11 +10,17 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -22,11 +28,23 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇺🇸 US000 - NovaLive
-  - 🇺🇸 US180|CN2GIA - NovaLive
-  - 🇺🇸 US181|CN2GIA - NovaLive
+  - 🇭🇰 香港|香港高速SS3（会员） - BIUBIU FAST
+  - 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST
+  - 🇭🇰 香港 | 高速香港3（会员） - BIUBIU FAST
+  - 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST
+  - 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST
+  - 🇯🇵 日本 | 直连3 - BIUBIU FAST
+  - 🇯🇵 日本|直连SS3 - BIUBIU FAST
+  - 🇯🇵 日本|高速日本SS3（会员） - BIUBIU FAST
+  - 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST
+  - 🇯🇵 日本| 高速日本3（会员） - BIUBIU FAST
+  - 🇺🇸 美国|高速美国SS3（会员） - BIUBIU FAST
+  - 🇺🇸 美国|高速SS（会员） - BIUBIU FAST
+  - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST
+  - 🇺🇸 美国 | 高速（会员） - BIUBIU FAST
+  - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST
+  - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST
+  - 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -42,16 +60,22 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -61,38 +85,89 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇯🇵 ‍日本
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
-- name: 🇺🇸 ‍美国
+  - 🇭🇰 香港|香港高速SS3（会员） - BIUBIU FAST
+  - 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST
+  - 🇭🇰 香港 | 高速香港3（会员） - BIUBIU FAST
+  - 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST
+- name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇺🇸 US000 - NovaLive
-  - 🇺🇸 US180|CN2GIA - NovaLive
-  - 🇺🇸 US181|CN2GIA - NovaLive
+  - 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
+  - 🇯🇵 日本 | 直连3 - BIUBIU FAST
+  - 🇯🇵 日本|直连SS3 - BIUBIU FAST
+  - 🇯🇵 日本|高速日本SS3（会员） - BIUBIU FAST
+  - 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST
+  - 🇯🇵 日本| 高速日本3（会员） - BIUBIU FAST
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id005
+  - 🇺🇸 美国|高速美国SS3（会员） - BIUBIU FAST
+  - 🇺🇸 美国|高速SS（会员） - BIUBIU FAST
+  - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST
+  - 🇺🇸 美国 | 高速（会员） - BIUBIU FAST
+  - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id006
+  - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST
+  - 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: 5816198e-c8e6-3d0e-b51a-3bdca24a84d9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: 5816198e-c8e6-3d0e-b51a-3bdca24a84d9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 5816198e-c8e6-3d0e-b51a-3bdca24a84d9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 5816198e-c8e6-3d0e-b51a-3bdca24a84d9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 5816198e-c8e6-3d0e-b51a-3bdca24a84d9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 5d797aae-70f2-4ab1-842e-edd585380100, udp: true}
+- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 29322, type: ss, cipher: chacha20-ietf-poly1305, password: 5d797aae-70f2-4ab1-842e-edd585380100, udp: true}
+- {name: 🇭🇰 香港|香港高速SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 22332, type: ss, cipher: chacha20-ietf-poly1305, password: 5d797aae-70f2-4ab1-842e-edd585380100, udp: true}
+- {name: 🇺🇸 美国|高速美国SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 23332, type: ss, cipher: chacha20-ietf-poly1305, password: 5d797aae-70f2-4ab1-842e-edd585380100, udp: true}
+- {name: 🇯🇵 日本|高速日本SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 21332, type: ss, cipher: chacha20-ietf-poly1305, password: 5d797aae-70f2-4ab1-842e-edd585380100, udp: true}
+- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10222, type: ss, cipher: chacha20-ietf-poly1305, password: 5d797aae-70f2-4ab1-842e-edd585380100, udp: true}
+- {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36332, type: ss, cipher: chacha20-ietf-poly1305, password: 5d797aae-70f2-4ab1-842e-edd585380100, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36334, type: ss, cipher: chacha20-ietf-poly1305, password: 5d797aae-70f2-4ab1-842e-edd585380100, udp: true}
+- {name: 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10321, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 | 高速香港3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 22331, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 29321, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 37131, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 10221, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 高速（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36331, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: sfo4.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST, server: 2ce9e9be27040dc8f6f40ed966c687ebf706c308.zjcu1.zzcloud.top, port: 36333, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本| 高速日本3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 21331, type: trojan, password: 5d797aae-70f2-4ab1-842e-edd585380100, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
