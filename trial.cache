@@ -177,19 +177,6 @@ sub_url  https://nanbei.cloud/api/v1/client/subscribe?token=661e8253a8c5d4ac45d0
 time  2023-06-10 13:43:52.287802+08:00
 type  v2board
 
-[zwtg888.com]
-auto_invite  F
-buy  shop=1
-email  nqtsickn493@gmail.com
-last_checkin  2023-06-23 00:37:47.423043+08:00
-name  IKUN机场
-node_n  14
-sub_info  12.34G  976.6T  2023-12-07 17:10:41+08:00  (剩余 976.6T 166 days, 19:17:55.062788)
-sub_url  https://zwtg888.com/link/0BWzc0nUDRlxwxJR?sub=3
-time  2023-06-10 17:10:42.818501+08:00
-type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='zwtg888.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f629826af50>: Failed to resolve 'zwtg888.com' ([Errno -5] No address associated with hostname)"))
-更新旧订阅失败  HTTPSConnectionPool(host='zwtg888.com', port=443): Max retries exceeded with url: /link/0BWzc0nUDRlxwxJR?sub=3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6290ac9750>: Failed to resolve 'zwtg888.com' ([Errno -5] No address associated with hostname)"))
 
 [vipxgyun.com]
 auto_invite  F
