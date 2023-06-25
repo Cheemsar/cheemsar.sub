@@ -206,7 +206,6 @@ proxies:
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: MXpbe6xTFksHk94t, udp: true}
 - {name: 🇵🇭 菲律宾 IPC *3 - 独孤乐天, server: nph-1.biyaoshidian.top, port: 443, type: vmess, uuid: 19edcb6c-dc28-32cb-b0bd-c331ef5a81dd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
 - {name: 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天, server: ph-2.biyaoshidian.top, port: 443, type: vmess, uuid: 19edcb6c-dc28-32cb-b0bd-c331ef5a81dd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
-- {name: 🇲🇳 【I】蒙古 普通 A - MN - SockBoom, server: n170.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 810899:2KOtrB, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇮🇳 印度-优化1 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇮🇳 印度-优化2 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇨🇦 加拿大-优化1 - NanBei, server: ydyh.nanbei.info, port: 26902, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
@@ -312,6 +311,7 @@ proxies:
 - {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: dced5f29-8627-4840-bbae-03ff9df5fb33, udp: true}
 - {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: dced5f29-8627-4840-bbae-03ff9df5fb33, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: dced5f29-8627-4840-bbae-03ff9df5fb33, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇲🇳 【I】蒙古 普通 A - MN - SockBoom, server: n170.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 810901:HOSGmp, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇹🇷 土耳其 JS - 雷云加速, server: tuk.ijsfq.xyz, port: 34420, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度 BGP - 雷云加速, server: 120.232.140.78, port: 47761, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 法兰克福BGP 解锁GPT 2X - 雷云加速, server: 120.232.140.78, port: 47161, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}

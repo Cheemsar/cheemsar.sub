@@ -117,45 +117,45 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.com/HK.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.link/HK.yaml
     interval: 180
-    path: trials_providers/sockboom.com/HK.yaml
+    path: trials_providers/sockboom.link/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.com/SG.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.link/SG.yaml
     interval: 180
-    path: trials_providers/sockboom.com/SG.yaml
+    path: trials_providers/sockboom.link/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.com/JP.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.link/JP.yaml
     interval: 180
-    path: trials_providers/sockboom.com/JP.yaml
+    path: trials_providers/sockboom.link/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.com/US.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.link/US.yaml
     interval: 180
-    path: trials_providers/sockboom.com/US.yaml
+    path: trials_providers/sockboom.link/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.com/p_All_Other.yaml
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/sockboom.link/p_All_Other.yaml
     interval: 180
-    path: trials_providers/sockboom.com/p_All_Other.yaml
+    path: trials_providers/sockboom.link/p_All_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
