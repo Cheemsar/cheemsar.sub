@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国| 隧道 | 1X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10019, type: vmess, uuid: 18c4f0a2-93f2-363b-8790-35521e8855a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
+- {name: 🇺🇸 美国| 隧道 | 1X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10019, type: vmess, uuid: d5849164-6946-3dd2-b335-8885a7191e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}

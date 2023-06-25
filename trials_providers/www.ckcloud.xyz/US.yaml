@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28000, type: vmess, uuid: 1f5f4e9e-d15e-4d29-8bdc-e91b9b3f58f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28000, type: vmess, uuid: 1f5f4e9e-d15e-4d29-8bdc-e91b9b3f58f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28001, type: vmess, uuid: 1f5f4e9e-d15e-4d29-8bdc-e91b9b3f58f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28001, type: vmess, uuid: 1f5f4e9e-d15e-4d29-8bdc-e91b9b3f58f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28003, type: trojan, password: 1f5f4e9e-d15e-4d29-8bdc-e91b9b3f58f9, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28003, type: trojan, password: 1f5f4e9e-d15e-4d29-8bdc-e91b9b3f58f9, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28000, type: vmess, uuid: ff0383e7-6fd8-42e8-94c4-5ea533974cea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28000, type: vmess, uuid: ff0383e7-6fd8-42e8-94c4-5ea533974cea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28001, type: vmess, uuid: ff0383e7-6fd8-42e8-94c4-5ea533974cea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28001, type: vmess, uuid: ff0383e7-6fd8-42e8-94c4-5ea533974cea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28003, type: trojan, password: ff0383e7-6fd8-42e8-94c4-5ea533974cea, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28003, type: trojan, password: ff0383e7-6fd8-42e8-94c4-5ea533974cea, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
