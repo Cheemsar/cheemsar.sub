@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: ad000e23-9319-3d1d-b6aa-04d97564657c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: ad000e23-9319-3d1d-b6aa-04d97564657c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph1.wzgmail.com, port: 33245, type: vmess, uuid: ad000e23-9319-3d1d-b6aa-04d97564657c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.wzgmail.com}}, udp: true}
+- {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36016, type: vmess, uuid: 35183c79-806f-364a-94cd-2304d274ef89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: 42.7.24.12, port: 36017, type: vmess, uuid: 35183c79-806f-364a-94cd-2304d274ef89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph1.wzgmail.com, port: 33245, type: vmess, uuid: 35183c79-806f-364a-94cd-2304d274ef89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: ph1.wzgmail.com}}, udp: true}
