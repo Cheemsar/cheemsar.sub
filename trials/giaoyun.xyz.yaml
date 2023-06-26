@@ -149,17 +149,17 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 🇯🇵 日本1 - giao云, server: 624jp.ljydw.top, port: 4433, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 624jp.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 45288, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 56483, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 7fdb8021-97b0-4295-b45c-09096fae37b9, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 624jp.ljydw.top, port: 4433, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 624jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 330sg02.ljydw.top, port: 45288, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 330sg02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 330hk01.ljydw.top, port: 56483, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 330hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 443, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: e14b0e89-c014-429f-afe6-0303f1d0c71f, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

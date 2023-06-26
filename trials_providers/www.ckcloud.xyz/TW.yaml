@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24002, type: trojan, password: ff0383e7-6fd8-42e8-94c4-5ea533974cea, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24002, type: trojan, password: ff0383e7-6fd8-42e8-94c4-5ea533974cea, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24001, type: vmess, uuid: ff0383e7-6fd8-42e8-94c4-5ea533974cea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24001, type: vmess, uuid: ff0383e7-6fd8-42e8-94c4-5ea533974cea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24003, type: trojan, password: ff0383e7-6fd8-42e8-94c4-5ea533974cea, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24003, type: trojan, password: ff0383e7-6fd8-42e8-94c4-5ea533974cea, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24002, type: trojan, password: a42a6f57-4abd-4020-afce-eb77858d3427, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24002, type: trojan, password: a42a6f57-4abd-4020-afce-eb77858d3427, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24001, type: vmess, uuid: a42a6f57-4abd-4020-afce-eb77858d3427, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24001, type: vmess, uuid: a42a6f57-4abd-4020-afce-eb77858d3427, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 24003, type: trojan, password: a42a6f57-4abd-4020-afce-eb77858d3427, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24003, type: trojan, password: a42a6f57-4abd-4020-afce-eb77858d3427, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}

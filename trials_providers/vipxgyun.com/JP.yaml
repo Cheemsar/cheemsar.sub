@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 | 隧道 | 1X |  - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10020, type: vmess, uuid: d5849164-6946-3dd2-b335-8885a7191e10, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
+- {name: 🇯🇵 日本 | 隧道 | 1X |  - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10020, type: vmess, uuid: 03a580fc-f532-3709-b532-3e9001bd7d02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
