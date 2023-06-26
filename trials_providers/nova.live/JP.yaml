@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: 23e90fd0-591c-3dc3-8cc8-013071c15f3a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: 23e90fd0-591c-3dc3-8cc8-013071c15f3a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: f4f9e3b7-28b8-3b70-806c-503efa484a7b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: f4f9e3b7-28b8-3b70-806c-503efa484a7b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
