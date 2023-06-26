@@ -35,6 +35,7 @@ proxy-groups:
   - 🇭🇰 vip1 香港-01 - FastFly
   - 🇭🇰 vip1 香港-02 - FastFly
   - 🇭🇰 vip3 香港-04 - FastFly
+  - 🇭🇰 vip3 香港-04-测试 - FastFly
   - 🇭🇰 vip1 香港-05 - FastFly
   - 🇭🇰 vip1 香港-06 - FastFly
   - 🇭🇰 vip1 香港-09 - FastFly
@@ -128,6 +129,7 @@ proxy-groups:
   - 🇭🇰 vip1 香港-01 - FastFly
   - 🇭🇰 vip1 香港-02 - FastFly
   - 🇭🇰 vip3 香港-04 - FastFly
+  - 🇭🇰 vip3 香港-04-测试 - FastFly
   - 🇭🇰 vip1 香港-05 - FastFly
   - 🇭🇰 vip1 香港-06 - FastFly
   - 🇭🇰 vip1 香港-09 - FastFly
@@ -158,6 +160,7 @@ proxy-groups:
   - 🇭🇰 vip1 香港-01 - FastFly
   - 🇭🇰 vip1 香港-02 - FastFly
   - 🇭🇰 vip3 香港-04 - FastFly
+  - 🇭🇰 vip3 香港-04-测试 - FastFly
   - 🇭🇰 vip1 香港-05 - FastFly
   - 🇭🇰 vip1 香港-06 - FastFly
   - 🇭🇰 vip1 香港-09 - FastFly
@@ -251,6 +254,7 @@ proxies:
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: gzdx.jcnode.top, port: 40004, type: trojan, password: 38b0ee9e-28f1-49c5-b56e-8f5e6febda0c, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: gzyd.jcnode.top, port: 40004, type: trojan, password: 38b0ee9e-28f1-49c5-b56e-8f5e6febda0c, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip3 香港-04 - FastFly, server: gzyd02.jcnode.top, port: 40004, type: trojan, password: 38b0ee9e-28f1-49c5-b56e-8f5e6febda0c, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 vip3 香港-04-测试 - FastFly, server: gzdx.jcnode.top, port: 24863, type: trojan, password: 38b0ee9e-28f1-49c5-b56e-8f5e6febda0c, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-05 - FastFly, server: gzdx.jcnode.top, port: 40000, type: trojan, password: 38b0ee9e-28f1-49c5-b56e-8f5e6febda0c, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-06 - FastFly, server: gzyd.jcnode.top, port: 40000, type: trojan, password: 38b0ee9e-28f1-49c5-b56e-8f5e6febda0c, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-09 - FastFly, server: gzdx.jcnode.top, port: 40003, type: trojan, password: 38b0ee9e-28f1-49c5-b56e-8f5e6febda0c, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
