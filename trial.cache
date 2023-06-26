@@ -211,30 +211,7 @@ sub_url  https://www.cryxr1.com/api/v1/client/subscribe?token=a67777517c173afb8f
 time  2023-06-26 13:41:51.454718+08:00
 type  v2board
 
-[ijsfq.xyz]
-buy  pass
-email  fsblqlgfo416@tmpnator.live
-name  雷云加速
-node_n  15
-sub_info  0B  1G  2023-06-25 09:55:37+08:00  (剩余 1G 1:57:53.312887)
-sub_url  https://2.ijsfq.xyz/api/v1/client/subscribe?token=5b303a9658683f3cc20171674baafa45
-time  2023-06-24 09:55:39.469387+08:00
-type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='ijsfq.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3168d03a30>, 'Connection to ijsfq.xyz timed out. (connect timeout=10)'))
 
-[mcecloud.com]
-auto_invite  F
-buy  pass
-email  oxjwbgl983@gmail.com
-last_checkin  2023-06-26 13:44:32.752082+08:00
-name  至云互联
-node_n  10
-sub_info  0B  2.082G  2023-06-24 13:52:05+08:00  (剩余 2.082G 0:45:26.812678)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/P03xymrsCjVgJELJ?sub=3
-time  2023-06-26 13:44:33.496609+08:00
-type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
 
 [www.crew.icu]
 buy  pass
