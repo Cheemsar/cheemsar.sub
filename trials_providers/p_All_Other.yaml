@@ -194,16 +194,16 @@ proxies:
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 175 - 紫云VPN服务商, server: 104.16.36.33, port: 8080, type: vmess, uuid: 31e2cfbc-a789-3e17-a24a-c4a0ae1d5b3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ams.369777.xyz}}, udp: true}
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 176 - 紫云VPN服务商, server: 104.20.12.28, port: 8080, type: vmess, uuid: 31e2cfbc-a789-3e17-a24a-c4a0ae1d5b3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ams.369777.xyz}}, udp: true}
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 177 - 紫云VPN服务商, server: 104.16.182.18, port: 8080, type: vmess, uuid: 31e2cfbc-a789-3e17-a24a-c4a0ae1d5b3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ams.369777.xyz}}, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: DwmkQ9J9yFhJXPcS, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: PMZ5hXrLYz9LRUkj, udp: true}
 - {name: 🇵🇭 菲律宾 IPC *3 - 独孤乐天, server: nph-1.biyaoshidian.top, port: 443, type: vmess, uuid: 9ccf5652-7808-3bfe-9511-e7a29a22ee6c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
 - {name: 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天, server: ph-2.biyaoshidian.top, port: 443, type: vmess, uuid: 9ccf5652-7808-3bfe-9511-e7a29a22ee6c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
 - {name: 🇮🇳 印度-优化1 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
