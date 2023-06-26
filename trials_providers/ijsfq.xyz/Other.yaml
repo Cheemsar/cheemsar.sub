@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇷 土耳其 JS - 雷云加速, server: tuk.ijsfq.xyz, port: 34420, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 BGP - 雷云加速, server: 120.232.140.78, port: 47761, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 法兰克福BGP 解锁GPT 2X - 雷云加速, server: 120.232.140.78, port: 47161, type: trojan, password: b611fc50-f3a7-4237-853c-79cd34d213d6, sni: 279088.download.windowsupdate.com, skip-cert-verify: true, udp: true}
