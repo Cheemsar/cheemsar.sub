@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 34001, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
+- {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34001, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
 - {name: 🇺🇸 美国 | 高速美国（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 33003, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, sni: sfo4.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 | 高速（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 33013, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
