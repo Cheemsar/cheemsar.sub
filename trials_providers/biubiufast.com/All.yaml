@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港| 直连 - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5203, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
@@ -10,3 +9,7 @@ proxies:
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
 - {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 34001, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: gz.cm.bbcc.cyou, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
+- {name: 🇭🇰 香港 | 高速香港（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 32003, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, sni: hk5.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 31003, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 高速美国（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 33003, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, sni: sfo4.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 高速（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 33013, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}

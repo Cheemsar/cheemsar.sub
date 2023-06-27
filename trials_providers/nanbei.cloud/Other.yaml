@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：13 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
+- {name: 距离下次重置剩余：12 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇮🇳 印度-优化1 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇮🇳 印度-优化2 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇨🇦 加拿大-优化1 - NanBei, server: ydyh.nanbei.info, port: 26902, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
