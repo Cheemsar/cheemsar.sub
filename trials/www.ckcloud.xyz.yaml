@@ -32,8 +32,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港01_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -124,8 +122,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港01_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -151,8 +147,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港01_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -242,8 +236,6 @@ proxy-groups:
 proxies:
 - {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22000, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 22000, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20002, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20002, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港01_1【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20000, type: vmess, uuid: d6001218-8e1e-413b-b062-bb43df335c91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港02_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20000, type: vmess, uuid: d6001218-8e1e-413b-b062-bb43df335c91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20005, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}

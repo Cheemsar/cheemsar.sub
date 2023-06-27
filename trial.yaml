@@ -81,8 +81,6 @@ proxy-groups:
   - 🇭🇰 香港5 - giao云
   - 🇭🇰 香港8 - giao云
   - 🇭🇰 香港9 - giao云
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港01_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -1315,8 +1313,6 @@ proxy-groups:
   - 🇭🇰 香港5 - giao云
   - 🇭🇰 香港8 - giao云
   - 🇭🇰 香港9 - giao云
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港01_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -1597,8 +1593,6 @@ proxy-groups:
   - 🇭🇰 香港5 - giao云
   - 🇭🇰 香港8 - giao云
   - 🇭🇰 香港9 - giao云
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港01_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02_1【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -3421,11 +3415,11 @@ proxies:
 - {name: 日本B🇯🇵 - 探索者, server: 603gyc.xn--vhq72yulenv8b.com, port: 56551, type: vmess, uuid: 06380a77-d591-4ccd-8208-232174ffa177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603gyc.xn--vhq72yulenv8b.com}}, udp: true}
 - {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: 06380a77-d591-4ccd-8208-232174ffa177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜日本005🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: 06380a77-d591-4ccd-8208-232174ffa177, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: af4a1ccf-0c17-3a01-b76f-27c47aec875e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: af4a1ccf-0c17-3a01-b76f-27c47aec875e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: af4a1ccf-0c17-3a01-b76f-27c47aec875e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: af4a1ccf-0c17-3a01-b76f-27c47aec875e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: af4a1ccf-0c17-3a01-b76f-27c47aec875e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 9d0e1a8d-7352-3f7b-93b1-8c188aee22b1, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 9d0e1a8d-7352-3f7b-93b1-8c188aee22b1, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 9d0e1a8d-7352-3f7b-93b1-8c188aee22b1, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: 9d0e1a8d-7352-3f7b-93b1-8c188aee22b1, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: 9d0e1a8d-7352-3f7b-93b1-8c188aee22b1, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 86fe52ba-94b1-3783-98da-712fd48f9d61, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: 86fe52ba-94b1-3783-98da-712fd48f9d61, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
 - {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.biyaoshidian.top, port: 5062, type: vmess, uuid: 86fe52ba-94b1-3783-98da-712fd48f9d61, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
@@ -3496,8 +3490,6 @@ proxies:
 - {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28001, type: vmess, uuid: d6001218-8e1e-413b-b062-bb43df335c91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28003, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28003, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20002, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20002, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港01_1【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20000, type: vmess, uuid: d6001218-8e1e-413b-b062-bb43df335c91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港02_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20000, type: vmess, uuid: d6001218-8e1e-413b-b062-bb43df335c91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20005, type: trojan, password: d6001218-8e1e-413b-b062-bb43df335c91, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
