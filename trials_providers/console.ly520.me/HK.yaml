@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 26475, type: vmess, uuid: d671124e-c745-4bed-8550-d2b44fb93bcd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 26475, type: vmess, uuid: d343a896-c373-44e4-9bf4-a627a5cb9df8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
