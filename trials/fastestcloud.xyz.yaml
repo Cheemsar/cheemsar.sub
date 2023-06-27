@@ -63,8 +63,6 @@ proxy-groups:
   - 🇺🇸 vip1 美国-04 - FastFly
   - 🇺🇸 vip1 美国-05 - FastFly
   - 🇺🇸 vip1 美国-11 - FastFly
-  - 🇺🇸 vip1 美国-14 - FastFly
-  - 🇺🇸 vip1 美国-15 - FastFly
   - 🇰🇷 vip1 韩国-01 - FastFly
   - 🇻🇳 vip1 越南-01 - FastFly
   - 🇻🇳 vip2 越南-02 - FastFly
@@ -206,8 +204,6 @@ proxy-groups:
   - 🇺🇸 vip1 美国-04 - FastFly
   - 🇺🇸 vip1 美国-05 - FastFly
   - 🇺🇸 vip1 美国-11 - FastFly
-  - 🇺🇸 vip1 美国-14 - FastFly
-  - 🇺🇸 vip1 美国-15 - FastFly
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -282,8 +278,6 @@ proxies:
 - {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 48000, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: 7c68ad87-dbd9-40c5-8226-905712405c5b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd01.jcnode.top, port: 48004, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 vip1 印度-01 - FastFly, server: gzdx.jcnode.top, port: 49000, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺 vip1 澳大利亚-01 - FastFly, server: gzdx.jcnode.top, port: 49001, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 vip1 德国-01 - FastFly, server: gzdx.jcnode.top, port: 49004, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}

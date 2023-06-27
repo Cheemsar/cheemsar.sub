@@ -811,8 +811,6 @@ proxy-groups:
   - 🇺🇸 vip1 美国-04 - FastFly
   - 🇺🇸 vip1 美国-05 - FastFly
   - 🇺🇸 vip1 美国-11 - FastFly
-  - 🇺🇸 vip1 美国-14 - FastFly
-  - 🇺🇸 vip1 美国-15 - FastFly
   - 🇺🇸 Vip1-3.广州1-美国A | 倍率x2 - 糖果
   - 🇺🇸 Vip1-3.广州1-美国B | 倍率x2 - 糖果
   - 🇺🇸 Vip1-3.广州1-美国C | 倍率x2 - 糖果
@@ -2343,8 +2341,6 @@ proxy-groups:
   - 🇺🇸 vip1 美国-04 - FastFly
   - 🇺🇸 vip1 美国-05 - FastFly
   - 🇺🇸 vip1 美国-11 - FastFly
-  - 🇺🇸 vip1 美国-14 - FastFly
-  - 🇺🇸 vip1 美国-15 - FastFly
   - 🇺🇸 Vip1-3.广州1-美国A | 倍率x2 - 糖果
   - 🇺🇸 Vip1-3.广州1-美国B | 倍率x2 - 糖果
   - 🇺🇸 Vip1-3.广州1-美国C | 倍率x2 - 糖果
@@ -3418,11 +3414,11 @@ proxies:
 - {name: 日本B🇯🇵 - 探索者, server: 603gyc.xn--vhq72yulenv8b.com, port: 56551, type: vmess, uuid: b1ebea27-5236-4db3-91e5-493445e1f398, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603gyc.xn--vhq72yulenv8b.com}}, udp: true}
 - {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: b1ebea27-5236-4db3-91e5-493445e1f398, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜日本005🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: b1ebea27-5236-4db3-91e5-493445e1f398, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 75f4ed18-6bf2-36df-afa2-86d380ebfe15, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 75f4ed18-6bf2-36df-afa2-86d380ebfe15, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 75f4ed18-6bf2-36df-afa2-86d380ebfe15, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: 75f4ed18-6bf2-36df-afa2-86d380ebfe15, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: 75f4ed18-6bf2-36df-afa2-86d380ebfe15, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: d870326c-2189-33f3-96dd-c9c86008493c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: d870326c-2189-33f3-96dd-c9c86008493c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: d870326c-2189-33f3-96dd-c9c86008493c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: d870326c-2189-33f3-96dd-c9c86008493c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: d870326c-2189-33f3-96dd-c9c86008493c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 86fe52ba-94b1-3783-98da-712fd48f9d61, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: 86fe52ba-94b1-3783-98da-712fd48f9d61, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
 - {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.biyaoshidian.top, port: 5062, type: vmess, uuid: 86fe52ba-94b1-3783-98da-712fd48f9d61, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
@@ -3529,8 +3525,6 @@ proxies:
 - {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 48000, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: 7c68ad87-dbd9-40c5-8226-905712405c5b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 48003, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-14 - FastFly, server: gzdx.jcnode.top, port: 48004, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-15 - FastFly, server: gzyd01.jcnode.top, port: 48004, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: us05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: gzdx.jcnode.top, port: 40004, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: gzyd.jcnode.top, port: 40004, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip3 香港-04 - FastFly, server: gzyd02.jcnode.top, port: 40004, type: trojan, password: 7c68ad87-dbd9-40c5-8226-905712405c5b, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
