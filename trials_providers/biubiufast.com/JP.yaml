@@ -3,5 +3,3 @@
 proxies:
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
-- {name: 🇯🇵 日本|高速日本SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 21332, type: ss, cipher: chacha20-ietf-poly1305, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, udp: true}
-- {name: 🇯🇵 日本| 高速日本3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 21331, type: trojan, password: 0451544c-8758-4bb5-a2ee-74bcfaedb1d9, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
