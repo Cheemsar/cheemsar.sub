@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: 139.226.136.165, port: 35612, type: ss, cipher: chacha20-ietf-poly1305, password: 52282431-d389-4211-bf13-5d7479c2ed7a, udp: true}
-- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: 111.38.40.132, port: 45581, type: ss, cipher: chacha20-ietf-poly1305, password: 52282431-d389-4211-bf13-5d7479c2ed7a, udp: true}
+- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: 139.226.136.165, port: 35612, type: ss, cipher: chacha20-ietf-poly1305, password: 8a7ad17a-671c-4a24-b99a-20a7771c9a96, udp: true}
+- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: 111.38.40.132, port: 45581, type: ss, cipher: chacha20-ietf-poly1305, password: 8a7ad17a-671c-4a24-b99a-20a7771c9a96, udp: true}
