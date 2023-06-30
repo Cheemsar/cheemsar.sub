@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 15617, type: vmess, uuid: d66220a3-781f-3f3d-87d1-385cb259eb9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
-- {name: 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 35673, type: vmess, uuid: d66220a3-781f-3f3d-87d1-385cb259eb9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 15617, type: vmess, uuid: 86ec034b-a721-37d9-9f7b-ba600f4d3432, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 35673, type: vmess, uuid: 86ec034b-a721-37d9-9f7b-ba600f4d3432, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
