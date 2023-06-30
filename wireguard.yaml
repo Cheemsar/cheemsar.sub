@@ -1,0 +1,62 @@
+mixed-port: 7896
+allow-lan: false
+mode: rule
+log-level: info
+external-controller: '127.0.0.1:9097'
+dns:
+    enable: true
+    listen: '127.0.0.1:35353'
+    ipv6: true
+    default-nameserver: [223.5.5.5, 114.114.114.114]
+    enhanced-mode: fake-ip
+    fake-ip-range: 198.18.0.1/16
+    fake-ip-filter: ['*.lan', 'stun.*.*.*', 'stun.*.*', time.windows.com, time.nist.gov, time.apple.com, time.asia.apple.com, '*.ntp.org.cn', '*.openwrt.pool.ntp.org', time1.cloud.tencent.com, time.ustc.edu.cn, pool.ntp.org, ntp.ubuntu.com, ntp.aliyun.com, ntp1.aliyun.com, ntp2.aliyun.com, ntp3.aliyun.com, ntp4.aliyun.com, ntp5.aliyun.com, ntp6.aliyun.com, ntp7.aliyun.com, time1.aliyun.com, time2.aliyun.com, time3.aliyun.com, time4.aliyun.com, time5.aliyun.com, time6.aliyun.com, time7.aliyun.com, '*.time.edu.cn', time1.apple.com, time2.apple.com, time3.apple.com, time4.apple.com, time5.apple.com, time6.apple.com, time7.apple.com, time1.google.com, time2.google.com, time3.google.com, time4.google.com, music.163.com, '*.music.163.com', '*.126.net', musicapi.taihe.com, music.taihe.com, songsearch.kugou.com, trackercdn.kugou.com, '*.kuwo.cn', api-jooxtt.sanook.com, api.joox.com, joox.com, y.qq.com, '*.y.qq.com', streamoc.music.tc.qq.com, mobileoc.music.tc.qq.com, isure.stream.qqmusic.qq.com, dl.stream.qqmusic.qq.com, aqqmusic.tc.qq.com, amobile.music.tc.qq.com, '*.xiami.com', '*.music.migu.cn', music.migu.cn, '*.msftconnecttest.com', '*.msftncsi.com', localhost.ptlogin2.qq.com, '*.*.*.srv.nintendo.net', '*.*.stun.playstation.net', 'xbox.*.*.microsoft.com', '*.ipv6.microsoft.com', '*.*.xboxlive.com', speedtest.cros.wr.pvp.net]
+    nameserver: [223.6.6.6, 180.76.76.76, 'https://223.6.6.6/dns-query', 'https://rubyfish.cn/dns-query', 'https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+    fallback: [119.29.29.29, 114.114.115.115, 'https://dns.rubyfish.cn/dns-query', 'tls://8.8.4.4', 'tls://1.0.0.1:853', 'https://cloudflare-dns.com/dns-query', 'https://dns.google/dns-query']
+    fallback-filter: { geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 127.0.0.1/32], domain: [+.google.com, +.facebook.com, +.twitter.com, +.youtube.com, +.xn--ngstr-lra8j.com, +.google.cn, +.googleapis.cn, +.googleapis.com, +.gvt1.com] }
+proxies:
+    - { name: wgcf, type: wireguard, server: engage.nanocat.me, port: 2408, ip: 172.16.0.2, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, private-key: gP2qlmKCV6vrB44LaXTBJPDKp3puDF+qVte87f4JF0U=, udp: true, reserved: [130,107,86], remote-dns-resolve: true, dns: [162.159.36.1]}
+
+proxy-groups:
+    - { name: Best VPN!, type: select, proxies: [wgcf] }
+
+rules:
+    - 'IP-CIDR,91.108.4.0/22,Best VPN!,no-resolve'
+    - 'IP-CIDR,91.108.8.0/21,Best VPN!,no-resolve'
+    - 'IP-CIDR,91.108.16.0/22,Best VPN!,no-resolve'
+    - 'IP-CIDR,91.108.56.0/22,Best VPN!,no-resolve'
+    - 'IP-CIDR,149.154.160.0/20,Best VPN!,no-resolve'
+    - 'IP-CIDR6,2001:67c:4e8::/48,Best VPN!,no-resolve'
+    - 'IP-CIDR6,2001:b28:f23d::/48,Best VPN!,no-resolve'
+    - 'IP-CIDR6,2001:b28:f23f::/48,Best VPN!,no-resolve'
+    - 'IP-CIDR,120.232.181.162/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,120.241.147.226/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,120.253.253.226/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,120.253.255.162/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,120.253.255.34/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,120.253.255.98/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,180.163.150.162/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,180.163.150.34/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,180.163.151.162/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,180.163.151.34/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,203.208.39.0/24,Best VPN!,no-resolve'
+    - 'IP-CIDR,203.208.40.0/24,Best VPN!,no-resolve'
+    - 'IP-CIDR,203.208.41.0/24,Best VPN!,no-resolve'
+    - 'IP-CIDR,203.208.43.0/24,Best VPN!,no-resolve'
+    - 'IP-CIDR,203.208.50.0/24,Best VPN!,no-resolve'
+    - 'IP-CIDR,220.181.174.162/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,220.181.174.226/32,Best VPN!,no-resolve'
+    - 'IP-CIDR,220.181.174.34/32,Best VPN!,no-resolve'
+    - 'DOMAIN,injections.adguard.org,DIRECT'
+    - 'DOMAIN,local.adguard.org,DIRECT'
+    - 'DOMAIN-SUFFIX,local,DIRECT'
+    - 'IP-CIDR,127.0.0.0/8,DIRECT'
+    - 'IP-CIDR,172.16.0.0/12,DIRECT'
+    - 'IP-CIDR,192.168.0.0/16,DIRECT'
+    - 'IP-CIDR,10.0.0.0/8,DIRECT'
+    - 'IP-CIDR,17.0.0.0/8,DIRECT'
+    - 'IP-CIDR,100.64.0.0/10,DIRECT'
+    - 'IP-CIDR,224.0.0.0/4,DIRECT'
+    - 'IP-CIDR6,fe80::/10,DIRECT'
+    - 'GEOIP,CN,DIRECT'
+    - 'MATCH,Best VPN!'
