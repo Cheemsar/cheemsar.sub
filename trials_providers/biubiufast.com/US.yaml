@@ -3,5 +3,3 @@
 proxies:
 - {name: 🇺🇸 美国|高速SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34001, type: ss, cipher: chacha20-ietf-poly1305, password: 83cdaa76-d7d1-46cb-a0fa-ad1661e3041f, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 83cdaa76-d7d1-46cb-a0fa-ad1661e3041f, udp: true}
-- {name: 🇺🇸 美国 | 高速美国（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 33003, type: trojan, password: 83cdaa76-d7d1-46cb-a0fa-ad1661e3041f, sni: sfo4.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 高速（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 33013, type: trojan, password: 83cdaa76-d7d1-46cb-a0fa-ad1661e3041f, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
