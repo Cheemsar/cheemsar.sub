@@ -218,18 +218,18 @@ proxies:
 - {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 126440:lftVcr, obfs-param: 'af46c126440.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 距离下次重置剩余：16 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 🇦🇺 GCP-AU1-20230218 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: hwLGxyBOz5lA2xoQ, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: a8cca54b-ae99-3425-880a-8143c00c6f7e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: a8cca54b-ae99-3425-880a-8143c00c6f7e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: az.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: az.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: az.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: az.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: az.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: Gh9Nc0C57LB4a8ry, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: e8316a83-5528-3e5c-af34-1b730ee223e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: e8316a83-5528-3e5c-af34-1b730ee223e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 aga韩国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16386, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6732:zvsO1m, obfs-param: 5eb756732.download.windowsupdate.com, udp: true}
 - {name: 🇦🇿 AZ01转移动-1 - cloudtu, server: yt201.jdxx1.com, port: 15985, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6732:zvsO1m, obfs-param: 5eb756732.download.windowsupdate.com, udp: true}
 - {name: 🇦🇿 AZ01转移动-2 - cloudtu, server: tz69.jdxx1.com, port: 15986, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6732:zvsO1m, obfs-param: 5eb756732.download.windowsupdate.com, udp: true}
