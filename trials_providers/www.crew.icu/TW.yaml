@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.223.220, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 7243d244-3782-44a0-af02-ef3de22df321, udp: true}
-- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 7243d244-3782-44a0-af02-ef3de22df321, udp: true}
-- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 211.139.211.41, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 7243d244-3782-44a0-af02-ef3de22df321, udp: true}
+- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.223.220, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 11490d65-5ec9-4b10-a7bc-7d8a39ef4e5a, udp: true}
+- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 11490d65-5ec9-4b10-a7bc-7d8a39ef4e5a, udp: true}
+- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 211.139.211.41, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 11490d65-5ec9-4b10-a7bc-7d8a39ef4e5a, udp: true}
