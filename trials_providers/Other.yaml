@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：30 天 - FastFly, server: gzdx.jcnode.top, port: 43000, type: trojan, password: b8d1bd6b-3736-4554-af0a-6f373163f966, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：29 天 - FastFly, server: gzdx.jcnode.top, port: 43000, type: trojan, password: b8d1bd6b-3736-4554-af0a-6f373163f966, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: b8d1bd6b-3736-4554-af0a-6f373163f966, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 vip1 韩国-01 - FastFly, server: gzdx.jcnode.top, port: 48834, type: trojan, password: b8d1bd6b-3736-4554-af0a-6f373163f966, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 49003, type: trojan, password: b8d1bd6b-3736-4554-af0a-6f373163f966, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -12,7 +12,7 @@ proxies:
 - {name: 🇩🇪 vip1 德国-02 - FastFly, server: gzyd01.jcnode.top, port: 49004, type: trojan, password: b8d1bd6b-3736-4554-af0a-6f373163f966, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-03 - FastFly, server: gzdx.jcnode.top, port: 47000, type: trojan, password: b8d1bd6b-3736-4554-af0a-6f373163f966, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-04 - FastFly, server: gzyd01.jcnode.top, port: 47000, type: trojan, password: b8d1bd6b-3736-4554-af0a-6f373163f966, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：30 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: f0b5fa91-4a86-406d-b9ce-ccd70c9a42a3, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：29 天 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: f0b5fa91-4a86-406d-b9ce-ccd70c9a42a3, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: f0b5fa91-4a86-406d-b9ce-ccd70c9a42a3, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22000, type: trojan, password: f0b5fa91-4a86-406d-b9ce-ccd70c9a42a3, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 22000, type: trojan, password: f0b5fa91-4a86-406d-b9ce-ccd70c9a42a3, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -215,8 +215,8 @@ proxies:
 - {name: 🇻🇳 越南 Vietnam-L2 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11107, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
 - {name: 🇰🇷 韩国 Korea-L3 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11115, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
 - {name: 🇲🇾 马来西亚 Malaysia-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11118, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 126486:AywbNE, obfs-param: 'b8a70126486.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: 距离下次重置剩余：16 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 126487:YsP8So, obfs-param: '44725126487.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 距离下次重置剩余：15 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 🇦🇺 GCP-AU1-20230218 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 🇮🇳 印度01 - Cyanmori, server: az.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: zquIQAZS0KDgbuen, udp: true}
 - {name: 🇮🇳 印度02 - Cyanmori, server: az.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: zquIQAZS0KDgbuen, udp: true}
@@ -307,7 +307,7 @@ proxies:
 - {name: 🇫🇷 FR 法国 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 18953, type: vmess, uuid: ace1e3a3-7d83-3f21-832a-ae551d20c67f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇰🇷 Korea 韩国   | 隧道 | 3.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48095, type: vmess, uuid: ace1e3a3-7d83-3f21-832a-ae551d20c67f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz2.shynia.top}}, udp: true}
 - {name: 测试节点勿连 - 酸奶, server: 4.193.132.54, port: 37771, type: vmess, uuid: ace1e3a3-7d83-3f21-832a-ae551d20c67f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
-- {name: 距离下次重置剩余：9 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
+- {name: 距离下次重置剩余：8 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇮🇳 印度-优化1 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇮🇳 印度-优化2 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇨🇦 加拿大-优化1 - NanBei, server: ydyh.nanbei.info, port: 26902, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
