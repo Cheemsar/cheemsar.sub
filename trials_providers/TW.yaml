@@ -33,8 +33,8 @@ proxies:
 - {name: 🇹🇼 GCP-TW1-20230218 - Kangaroo✦Network, server: tw1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.enuotime.com}}, udp: true}
 - {name: 🇹🇼 GCP-TW2-20230218 - Kangaroo✦Network, server: tw2.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.enuotime.com}}, udp: true}
 - {name: 🇹🇼 GCP-TW3-20230218 - Kangaroo✦Network, server: tw3.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.enuotime.com}}, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: zquIQAZS0KDgbuen, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: zquIQAZS0KDgbuen, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: mw1fgKx5Nh2YHZO7, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: mw1fgKx5Nh2YHZO7, udp: true}
 - {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 9c44587c-2deb-4d50-889f-4e0c8e1c5ab5, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 443, type: trojan, password: 9c44587c-2deb-4d50-889f-4e0c8e1c5ab5, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 9c44587c-2deb-4d50-889f-4e0c8e1c5ab5, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
