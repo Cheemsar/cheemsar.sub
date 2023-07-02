@@ -27,10 +27,10 @@ proxies:
 - {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20129, type: trojan, password: 8af41371-a740-3802-9883-e1d31b0d096e, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20130, type: trojan, password: 8af41371-a740-3802-9883-e1d31b0d096e, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 Singapore-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: NZRpxZCNhJ3f1304, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: NZRpxZCNhJ3f1304, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: NZRpxZCNhJ3f1304, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: NZRpxZCNhJ3f1304, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: nKBIfMhNUMbuI2bF, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: nKBIfMhNUMbuI2bF, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: nKBIfMhNUMbuI2bF, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: nKBIfMhNUMbuI2bF, udp: true}
 - {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 443, type: trojan, password: 1e026094-eac8-4089-a954-94e7a0ba7fec, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 B新加坡01 | 隧道 | 1X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10007, type: vmess, uuid: 9de12dea-8712-30a5-af68-1b66cd77924a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
 - {name: 🇸🇬 B新加坡02 | 隧道 | 1X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10023, type: vmess, uuid: 9de12dea-8712-30a5-af68-1b66cd77924a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
