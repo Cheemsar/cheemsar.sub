@@ -74,5 +74,5 @@ proxies:
 - {name: 🇸🇬 Asia 新加坡08 | 解锁chatpgt | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48035, type: vmess, uuid: d37bb620-d303-3fd7-942b-d2e402e752f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
 - {name: 🇸🇬 新加坡-优化1 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇸🇬 新加坡-优化2 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
-- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: 536aff3f-7c40-41a2-88c2-38a7a90ad440, udp: true}
+- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: 9e6da2bc-1c53-4e3a-90a5-57f47f8c95ec, udp: true}
 - {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26458, type: vmess, uuid: 53c62b07-9681-44fc-be56-fb2b8080193c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

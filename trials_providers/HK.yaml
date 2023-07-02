@@ -199,9 +199,9 @@ proxies:
 - {name: 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe4.fmmmz1.com, port: 80, type: vmess, uuid: d37bb620-d303-3fd7-942b-d2e402e752f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe4.fmmmz1.com}}, udp: true}
 - {name: 🇭🇰 香港-优化1 - NanBei, server: ydyh.nanbei.info, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇭🇰 香港-优化2 - NanBei, server: ydyh.nanbei.info, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
-- {name: 🇭🇰 香港| 直连 - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5203, type: trojan, password: 536aff3f-7c40-41a2-88c2-38a7a90ad440, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|直连SS - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 536aff3f-7c40-41a2-88c2-38a7a90ad440, udp: true}
-- {name: 🇭🇰 香港|香港高速SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 32004, type: ss, cipher: chacha20-ietf-poly1305, password: 536aff3f-7c40-41a2-88c2-38a7a90ad440, udp: true}
-- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 536aff3f-7c40-41a2-88c2-38a7a90ad440, udp: true}
-- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 536aff3f-7c40-41a2-88c2-38a7a90ad440, udp: true}
+- {name: 🇭🇰 香港| 直连 - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5203, type: trojan, password: 9e6da2bc-1c53-4e3a-90a5-57f47f8c95ec, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|直连SS - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 9e6da2bc-1c53-4e3a-90a5-57f47f8c95ec, udp: true}
+- {name: 🇭🇰 香港|香港高速SS3（会员） - BIUBIU FAST, server: pyjy.biubiufast.quest, port: 32004, type: ss, cipher: chacha20-ietf-poly1305, password: 9e6da2bc-1c53-4e3a-90a5-57f47f8c95ec, udp: true}
+- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 9e6da2bc-1c53-4e3a-90a5-57f47f8c95ec, udp: true}
+- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 9e6da2bc-1c53-4e3a-90a5-57f47f8c95ec, udp: true}
 - {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 26475, type: vmess, uuid: 53c62b07-9681-44fc-be56-fb2b8080193c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
