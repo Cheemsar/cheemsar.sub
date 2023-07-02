@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬新加坡 01｜专线 - 全球上网, server: sg1.amazonwebservicesss.com, port: 80, type: vmess, uuid: 18d68b29-de36-4c44-aed7-9aaa09513878, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aws-china-media/QAcTKp3Ic-M.mp4, headers: {Host: media.amazonwebservices.com}}, udp: true}
+- {name: 🇸🇬新加坡 02｜专线 - 全球上网, server: sg2.amazonwebservicesss.com, port: 80, type: vmess, uuid: 18d68b29-de36-4c44-aed7-9aaa09513878, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aws-china-media/QAcTKp3Ic-M.mp4, headers: {Host: media.amazonwebservices.com}}, udp: true}
+- {name: 🇸🇬新加坡 03｜专线 - 全球上网, server: sg3.amazonwebservicesss.com, port: 80, type: vmess, uuid: 18d68b29-de36-4c44-aed7-9aaa09513878, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aws-china-media/QAcTKp3Ic-M.mp4, headers: {Host: media.amazonwebservices.com}}, udp: true}
+- {name: 🇸🇬新加坡 04｜专线 - 全球上网, server: sg4.amazonwebservicesss.com, port: 80, type: vmess, uuid: 18d68b29-de36-4c44-aed7-9aaa09513878, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aws-china-media/QAcTKp3Ic-M.mp4, headers: {Host: media.amazonwebservices.com}}, udp: true}
