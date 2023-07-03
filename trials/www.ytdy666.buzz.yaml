@@ -9,43 +9,7 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id001
-  - 🇭🇰 aga香港游戏节点 - cloudtu
-  - 🇭🇰 HKT解锁 - cloudtu
-  - 🇭🇰 香港HKT转移动G口1 - cloudtu
-  - 🇭🇰 香港HKT转移动G口2 - cloudtu
-  - 🇭🇰 香港HKT转移动G口3 - cloudtu
-  - 🇭🇰 香港HKT转移动G口4 - cloudtu
-  - 🇭🇰 香港HKT转移动G口5 - cloudtu
-  - 🇯🇵 AZ日本隧道转移动1 - cloudtu
-  - 🇯🇵 AZ日本隧道转移动2 - cloudtu
-  - 🇯🇵 AZ日本隧道转移动4 - cloudtu
-  - 🇺🇸 aga美国游戏节点 - cloudtu
-  - 🇺🇸 AZ美国隧道转移动3 - cloudtu
-  - 🇰🇷 aga韩国游戏节点 - cloudtu
-  - 🇦🇿 AZ01转移动-1 - cloudtu
-  - 🇦🇿 AZ01转移动-2 - cloudtu
-  - 🇦🇿 AZ01转移动-3 - cloudtu
-  - 🇦🇿 AZ02转移动-1 - cloudtu
-  - 🇦🇿 AZ02转移动-2 - cloudtu
-  - 🇦🇿 AZ02转移动-3 - cloudtu
-  - 🇰🇷 AZ韩国隧道转移动5 - cloudtu
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -61,21 +25,11 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
-  - 🇯🇵 ‍日本
-  - 👆🏻 ‍指定
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -84,86 +38,27 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 aga香港游戏节点 - cloudtu
-  - 🇭🇰 HKT解锁 - cloudtu
-  - 🇭🇰 香港HKT转移动G口1 - cloudtu
-  - 🇭🇰 香港HKT转移动G口2 - cloudtu
-  - 🇭🇰 香港HKT转移动G口3 - cloudtu
-  - 🇭🇰 香港HKT转移动G口4 - cloudtu
-  - 🇭🇰 香港HKT转移动G口5 - cloudtu
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇯🇵 AZ日本隧道转移动1 - cloudtu
-  - 🇯🇵 AZ日本隧道转移动2 - cloudtu
-  - 🇯🇵 AZ日本隧道转移动4 - cloudtu
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇺🇸 aga美国游戏节点 - cloudtu
-  - 🇺🇸 AZ美国隧道转移动3 - cloudtu
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id005
-  - 🇰🇷 aga韩国游戏节点 - cloudtu
-  - 🇦🇿 AZ01转移动-1 - cloudtu
-  - 🇦🇿 AZ01转移动-2 - cloudtu
-  - 🇦🇿 AZ01转移动-3 - cloudtu
-  - 🇦🇿 AZ02转移动-1 - cloudtu
-  - 🇦🇿 AZ02转移动-2 - cloudtu
-  - 🇦🇿 AZ02转移动-3 - cloudtu
-  - 🇰🇷 AZ韩国隧道转移动5 - cloudtu
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id004
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id005
 proxies:
-- {name: 🇺🇸 aga美国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16387, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇰🇷 aga韩国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16386, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 aga香港游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16385, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇦🇿 AZ01转移动-1 - cloudtu, server: yt201.jdxx1.com, port: 15985, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇦🇿 AZ01转移动-2 - cloudtu, server: tz69.jdxx1.com, port: 15986, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇦🇿 AZ01转移动-3 - cloudtu, server: tz69.jdxx1.com, port: 15987, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇦🇿 AZ02转移动-1 - cloudtu, server: tz69.jdxx1.com, port: 16085, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇦🇿 AZ02转移动-2 - cloudtu, server: tz69.jdxx1.com, port: 16086, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇦🇿 AZ02转移动-3 - cloudtu, server: tz69.jdxx1.com, port: 16087, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 AZ日本隧道转移动1 - cloudtu, server: yt201.jdxx1.com, port: 16486, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 AZ日本隧道转移动2 - cloudtu, server: yt201.jdxx1.com, port: 16487, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 AZ日本隧道转移动4 - cloudtu, server: yt201.jdxx1.com, port: 16489, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇰🇷 AZ韩国隧道转移动5 - cloudtu, server: yt201.jdxx1.com, port: 16490, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 HKT解锁 - cloudtu, server: yt201.jdxx1.com, port: 16390, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口1 - cloudtu, server: yt201.jdxx1.com, port: 15886, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口2 - cloudtu, server: yt201.jdxx1.com, port: 15887, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口3 - cloudtu, server: yt201.jdxx1.com, port: 15888, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口4 - cloudtu, server: yt201.jdxx.xyz, port: 15889, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
-- {name: 🇭🇰 香港HKT转移动G口5 - cloudtu, server: yt201.jdxx1.com, port: 15890, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: aga美国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16387, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: aga韩国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16386, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: aga香港游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16385, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ01转移动-1 - cloudtu, server: yt201.jdxx1.com, port: 15985, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ01转移动-2 - cloudtu, server: tz69.jdxx1.com, port: 15986, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ01转移动-3 - cloudtu, server: tz69.jdxx1.com, port: 15987, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ02转移动-1 - cloudtu, server: tz69.jdxx1.com, port: 16085, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ02转移动-2 - cloudtu, server: tz69.jdxx1.com, port: 16086, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ02转移动-3 - cloudtu, server: tz69.jdxx1.com, port: 16087, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ日本隧道转移动1 - cloudtu, server: yt201.jdxx1.com, port: 16486, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ日本隧道转移动2 - cloudtu, server: yt201.jdxx1.com, port: 16487, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ日本隧道转移动4 - cloudtu, server: yt201.jdxx1.com, port: 16489, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: AZ韩国隧道转移动5 - cloudtu, server: yt201.jdxx1.com, port: 16490, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: HKT解锁 - cloudtu, server: yt201.jdxx1.com, port: 16390, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: 香港HKT转移动G口1 - cloudtu, server: yt201.jdxx1.com, port: 15886, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: 香港HKT转移动G口2 - cloudtu, server: yt201.jdxx1.com, port: 15887, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: 香港HKT转移动G口3 - cloudtu, server: yt201.jdxx1.com, port: 15888, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: 香港HKT转移动G口4 - cloudtu, server: yt201.jdxx.xyz, port: 15889, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: 香港HKT转移动G口5 - cloudtu, server: yt201.jdxx1.com, port: 15890, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
