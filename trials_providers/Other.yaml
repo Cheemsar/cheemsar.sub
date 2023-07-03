@@ -374,7 +374,7 @@ proxies:
 - {name: 🇫🇷 FR 法国 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 18953, type: vmess, uuid: 9e0ff624-e19a-3d66-b2c9-c6382622c493, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇰🇷 Korea 韩国   | 隧道 | 3.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48095, type: vmess, uuid: 9e0ff624-e19a-3d66-b2c9-c6382622c493, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz2.shynia.top}}, udp: true}
 - {name: 测试节点勿连 - 酸奶, server: 4.193.132.54, port: 37771, type: vmess, uuid: 9e0ff624-e19a-3d66-b2c9-c6382622c493, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
-- {name: 距离下次重置剩余：7 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
+- {name: 距离下次重置剩余：6 天 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇮🇳 印度-优化1 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇮🇳 印度-优化2 - NanBei, server: ydyh.nanbei.info, port: 26901, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇨🇦 加拿大-优化1 - NanBei, server: ydyh.nanbei.info, port: 26902, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
