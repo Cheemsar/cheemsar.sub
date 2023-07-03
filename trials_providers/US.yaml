@@ -310,9 +310,9 @@ proxies:
 - {name: 🇺🇸美国中继Ⅲ-V2ray - Proxyvip, server: us-03.v3vip.top, port: 33008, type: vmess, uuid: 73ee86f6-4e1b-4cc6-882f-8224d0ca089c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-03.v4vip.top, udp: true}
 - {name: 🇺🇸美国中继Ⅳ-V2ray - Proxyvip, server: us-04.v3vip.top, port: 33009, type: vmess, uuid: 73ee86f6-4e1b-4cc6-882f-8224d0ca089c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
 - {name: 🇺🇸美国中继Ⅴ-V2ray - Proxyvip, server: us-05.v3vip.top, port: 33010, type: vmess, uuid: 73ee86f6-4e1b-4cc6-882f-8224d0ca089c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 2f4ac579-429b-3d6c-9359-c13a7f369f68, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 2f4ac579-429b-3d6c-9359-c13a7f369f68, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 2f4ac579-429b-3d6c-9359-c13a7f369f68, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 8ee6893e-3706-388c-85ec-1fdc6bec653e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 8ee6893e-3706-388c-85ec-1fdc6bec653e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 8ee6893e-3706-388c-85ec-1fdc6bec653e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20295, type: trojan, password: 8af41371-a740-3802-9883-e1d31b0d096e, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20296, type: trojan, password: 8af41371-a740-3802-9883-e1d31b0d096e, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 16895, type: trojan, password: 8af41371-a740-3802-9883-e1d31b0d096e, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
@@ -343,6 +343,8 @@ proxies:
 - {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: AjumW5XvjXagFMSL, udp: true}
 - {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: AjumW5XvjXagFMSL, udp: true}
 - {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: AjumW5XvjXagFMSL, udp: true}
+- {name: 🇺🇸 aga美国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16387, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
+- {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6765:H8G5sW, obfs-param: 3f4b46765.download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: b2e09df3-7fd7-47f5-8f57-7b7041a45c27, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 4be105dd-72c2-4970-b1dc-7da3b10e6f3e, udp: true}
 - {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 4be105dd-72c2-4970-b1dc-7da3b10e6f3e, udp: true}
