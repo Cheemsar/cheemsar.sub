@@ -67,6 +67,7 @@ proxy-groups:
   - 🇺🇸 JCBB_美国06【vip1】 - JCBB
   - 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB
   - 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB
+  - 🇰🇷 JCBB_ 韩国 03【vip1】 - JCBB
   - 🇩🇪 JCBB_德国01【vip1】 - JCBB
   - 🇩🇪 JCBB_德国02【vip1】 - JCBB
   - 🇮🇳 JCBB_ 印度01【vip1】 - JCBB
@@ -219,6 +220,7 @@ proxy-groups:
   proxies: &id008
   - 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB
   - 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB
+  - 🇰🇷 JCBB_ 韩国 03【vip1】 - JCBB
   - 🇩🇪 JCBB_德国01【vip1】 - JCBB
   - 🇩🇪 JCBB_德国02【vip1】 - JCBB
   - 🇮🇳 JCBB_ 印度01【vip1】 - JCBB
@@ -257,6 +259,7 @@ proxy-groups:
 proxies:
 - {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22000, type: trojan, password: ada8d968-dac1-4ad0-997d-538e6fc68256, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 40112, type: trojan, password: ada8d968-dac1-4ad0-997d-538e6fc68256, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 JCBB_ 韩国 03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 63300, type: trojan, password: ada8d968-dac1-4ad0-997d-538e6fc68256, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 35257, type: trojan, password: ada8d968-dac1-4ad0-997d-538e6fc68256, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港01_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 41390, type: trojan, password: ada8d968-dac1-4ad0-997d-538e6fc68256, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20005, type: trojan, password: ada8d968-dac1-4ad0-997d-538e6fc68256, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
