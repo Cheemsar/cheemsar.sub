@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 34673, type: vmess, uuid: 9e0ff624-e19a-3d66-b2c9-c6382622c493, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
-- {name: 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶, server: 165.154.253.74, port: 80, type: vmess, uuid: 9e0ff624-e19a-3d66-b2c9-c6382622c493, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
-- {name: 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶, server: zz.shynia.top, port: 10008, type: vmess, uuid: 9e0ff624-e19a-3d66-b2c9-c6382622c493, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 34673, type: vmess, uuid: 68bfcd0e-2c54-31eb-83b8-b9fcfb756e57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶, server: 165.154.253.74, port: 80, type: vmess, uuid: 68bfcd0e-2c54-31eb-83b8-b9fcfb756e57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
+- {name: 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶, server: zz.shynia.top, port: 10008, type: vmess, uuid: 68bfcd0e-2c54-31eb-83b8-b9fcfb756e57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
