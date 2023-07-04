@@ -278,5 +278,5 @@ proxies:
 - {name: 🇭🇰 香港|直连SS - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 3d0beeaf-3f9a-444b-9ce3-a3c0c85d4653, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 3d0beeaf-3f9a-444b-9ce3-a3c0c85d4653, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 3d0beeaf-3f9a-444b-9ce3-a3c0c85d4653, udp: true}
-- {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 26475, type: vmess, uuid: c8f59e94-bb5d-497d-94b6-6c8bf7cbb4fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 25512, type: vmess, uuid: c8f59e94-bb5d-497d-94b6-6c8bf7cbb4fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 香港-01 | 1.8X - 凌云网络, server: 139.226.136.165, port: 26475, type: vmess, uuid: def9215e-9240-4b2d-b4c3-5128878f1589, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 25512, type: vmess, uuid: def9215e-9240-4b2d-b4c3-5128878f1589, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
