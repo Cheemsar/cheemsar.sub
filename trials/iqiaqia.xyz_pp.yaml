@@ -11,9 +11,11 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -21,6 +23,7 @@ proxy-groups:
   tolerance: 50
   use: &id001
   - HK
+  - JP
   - US
 - name: 🛩️ ‍墙内
   type: select
@@ -47,7 +50,9 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 👆🏻🇺🇸 ‍美国
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -61,10 +66,15 @@ proxy-groups:
   tolerance: 50
   use: &id002
   - HK
-- name: 🇺🇸 ‍美国
+- name: 🇯🇵 ‍日本
   type: url-test
   tolerance: 50
   use: &id003
+  - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 50
+  use: &id004
   - US
 - name: 👆🏻 ‍指定
   type: select
@@ -72,15 +82,27 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id003
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id004
 proxy-providers:
   HK:
     type: http
     url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/iqiaqia.xyz/HK.yaml
     interval: 180
     path: trials_providers/iqiaqia.xyz/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/iqiaqia.xyz/JP.yaml
+    interval: 180
+    path: trials_providers/iqiaqia.xyz/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

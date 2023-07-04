@@ -1,6 +1,9 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp01.qiaqia.win, port: 8080, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp01.qiaqia.win}}, udp: true}
+- {name: 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp02.qiaqia.win, port: 8080, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp02.qiaqia.win}}, udp: true}
+- {name: 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp03.qiaqia.win, port: 8080, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp03.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: sus41.qiaqia.win, port: 80, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus41.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: sus49.qiaqia.win, port: 80, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus49.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: sus57.qiaqia.win, port: 80, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus57.qiaqia.win}}, udp: true}

@@ -11,9 +11,11 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -28,6 +30,9 @@ proxy-groups:
   - 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇺🇸 美国Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇺🇸 美国Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
   - 🇺🇸 美国Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
@@ -80,7 +85,9 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 👆🏻🇺🇸 ‍美国
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -101,12 +108,21 @@ proxy-groups:
   - 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
-- name: 🇺🇸 ‍美国
+- name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
+  - 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
   - 🇺🇸 美国Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇺🇸 美国Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
   - 🇺🇸 美国Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
@@ -140,10 +156,16 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id003
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id004
 proxies:
+- {name: 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp01.qiaqia.win, port: 8080, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp01.qiaqia.win}}, udp: true}
+- {name: 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp02.qiaqia.win, port: 8080, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp02.qiaqia.win}}, udp: true}
+- {name: 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp03.qiaqia.win, port: 8080, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp03.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: sus41.qiaqia.win, port: 80, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus41.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: sus49.qiaqia.win, port: 80, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus49.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: sus57.qiaqia.win, port: 80, type: vmess, uuid: 7ba43692-a7a6-3a60-b7d9-f329dbca0897, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus57.qiaqia.win}}, udp: true}
