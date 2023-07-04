@@ -3,8 +3,8 @@
 proxies:
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 29482, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 52702, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 27880, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 28474, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 59250, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 48834, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 41754, type: trojan, password: 2bdce7c5-4dcd-4af6-a015-d484890d1ccd, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01_1【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 15035, type: trojan, password: 2bdce7c5-4dcd-4af6-a015-d484890d1ccd, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 23003, type: trojan, password: 2bdce7c5-4dcd-4af6-a015-d484890d1ccd, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -74,5 +74,5 @@ proxies:
 - {name: 🇸🇬 Asia 新加坡08 | 解锁chatpgt | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48035, type: vmess, uuid: 68bfcd0e-2c54-31eb-83b8-b9fcfb756e57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
 - {name: 🇸🇬 新加坡-优化1 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇸🇬 新加坡-优化2 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
-- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: eb276403-fc6b-44c5-b2d3-a7c811008d6f, udp: true}
+- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: 3d0beeaf-3f9a-444b-9ce3-a3c0c85d4653, udp: true}
 - {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26458, type: vmess, uuid: 306486c9-ebd8-47d5-9bbf-6408ce7ce6a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 48000, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 50173, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 61802, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-12 - FastFly, server: gzyd.jcnode.top, port: 10340, type: trojan, password: b9f68387-4123-4ad0-a3a1-8f91f70f27cc, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -311,9 +311,9 @@ proxies:
 - {name: 🇺🇸美国中继Ⅲ-V2ray - Proxyvip, server: us-03.v3vip.top, port: 33008, type: vmess, uuid: 0d6b8268-7cce-46f1-97cd-4b5ab44c7d5f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-03.v4vip.top, udp: true}
 - {name: 🇺🇸美国中继Ⅳ-V2ray - Proxyvip, server: us-04.v3vip.top, port: 33009, type: vmess, uuid: 0d6b8268-7cce-46f1-97cd-4b5ab44c7d5f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
 - {name: 🇺🇸美国中继Ⅴ-V2ray - Proxyvip, server: us-05.v3vip.top, port: 33010, type: vmess, uuid: 0d6b8268-7cce-46f1-97cd-4b5ab44c7d5f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: e894f289-42a0-32aa-a448-9528a5f60cb9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: e894f289-42a0-32aa-a448-9528a5f60cb9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: e894f289-42a0-32aa-a448-9528a5f60cb9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 3ce57deb-a5f6-304d-ad74-c830ab12bb9a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 3ce57deb-a5f6-304d-ad74-c830ab12bb9a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 3ce57deb-a5f6-304d-ad74-c830ab12bb9a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20295, type: trojan, password: cdec305f-2777-359d-bba0-f70f900f408e, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20296, type: trojan, password: cdec305f-2777-359d-bba0-f70f900f408e, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 16895, type: trojan, password: cdec305f-2777-359d-bba0-f70f900f408e, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
@@ -415,7 +415,7 @@ proxies:
 - {name: 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 35673, type: vmess, uuid: 68bfcd0e-2c54-31eb-83b8-b9fcfb756e57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇺🇸 美国-优化1 - NanBei, server: ydyh.nanbei.info, port: 26904, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇺🇸 美国-优化2 - NanBei, server: ydyh.nanbei.info, port: 26910, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: eb276403-fc6b-44c5-b2d3-a7c811008d6f, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 3d0beeaf-3f9a-444b-9ce3-a3c0c85d4653, udp: true}
 - {name: 🇺🇸 美国-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26516, type: vmess, uuid: 306486c9-ebd8-47d5-9bbf-6408ce7ce6a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇺🇸 美国-02 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26469, type: vmess, uuid: 306486c9-ebd8-47d5-9bbf-6408ce7ce6a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇺🇸 美国-03 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26517, type: vmess, uuid: 306486c9-ebd8-47d5-9bbf-6408ce7ce6a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
