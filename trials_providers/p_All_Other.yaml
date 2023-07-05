@@ -15,13 +15,13 @@ proxies:
 - {name: 🇩🇪 vip1 德国-02 - FastFly, server: gzyd02.jcnode.top, port: 22122, type: trojan, password: d4c9b7fa-f599-4c04-9e34-5d2bd1c2f994, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-03 - FastFly, server: gzdx.jcnode.top, port: 59832, type: trojan, password: d4c9b7fa-f599-4c04-9e34-5d2bd1c2f994, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-04 - FastFly, server: gzyd02.jcnode.top, port: 36403, type: trojan, password: d4c9b7fa-f599-4c04-9e34-5d2bd1c2f994, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22000, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 64761, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 40112, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 63300, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 27000, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 15431, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 33830, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 JCBB_ 印度01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 18085, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 25001, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 55199, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 JCBB_ 英国01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 52758, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 26000, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 52546, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
