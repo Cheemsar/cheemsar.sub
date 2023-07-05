@@ -27,9 +27,9 @@ proxies:
 - {name: 🇮🇳 JCBB_ 印度01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 18085, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 55199, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 JCBB_ 英国01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 52758, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 26000, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24662, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 52546, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 29500, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 46541, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 29200, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 02_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 21760, type: trojan, password: 2f80bb6d-84bc-487a-9d17-3370355574f0, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
