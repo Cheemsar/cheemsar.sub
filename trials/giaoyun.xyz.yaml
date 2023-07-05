@@ -166,7 +166,7 @@ proxy-groups:
 proxies:
 - {name: 🇯🇵 日本1 - giao云, server: 624jp.ljydw.top, port: 14433, type: trojan, password: 058bfee6-a71c-47f5-b21b-0869a31e5b4e, sni: 624jp.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 058bfee6-a71c-47f5-b21b-0869a31e5b4e, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 443, type: trojan, password: 058bfee6-a71c-47f5-b21b-0869a31e5b4e, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: 058bfee6-a71c-47f5-b21b-0869a31e5b4e, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港1 - giao云, server: 703hk.ljydw.top, port: 443, type: trojan, password: 058bfee6-a71c-47f5-b21b-0869a31e5b4e, sni: 703hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 058bfee6-a71c-47f5-b21b-0869a31e5b4e, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 058bfee6-a71c-47f5-b21b-0869a31e5b4e, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
