@@ -27,7 +27,6 @@ proxies:
 - {name: 🇦🇪 迪拜 001 - 墙了个墙, server: duvip001.qlgq1.pw, port: 10443, type: trojan, password: 45a821e3-bf13-3ae2-a55c-66056e392165, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
 - {name: 🇦🇪 迪拜 002 - 墙了个墙, server: duvip001.qlgq1.pw, port: 20443, type: trojan, password: 45a821e3-bf13-3ae2-a55c-66056e392165, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
 - {name: 🇦🇪 迪拜 003 - 墙了个墙, server: duvip001.qlgq1.pw, port: 30443, type: trojan, password: 45a821e3-bf13-3ae2-a55c-66056e392165, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
-- {name: 🇨🇦 加拿大 5x - 湊 あくあのCrew, server: 123.6.102.115, port: 45222, type: trojan, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, sni: jnd.akua520.com, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: cb501cf2-2797-4e6d-b07f-cf4c96f8d050, udp: true}
 - {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: cb501cf2-2797-4e6d-b07f-cf4c96f8d050, udp: true}
 - {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: cb501cf2-2797-4e6d-b07f-cf4c96f8d050, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}

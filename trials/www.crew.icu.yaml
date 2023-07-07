@@ -15,14 +15,12 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -43,7 +41,6 @@ proxy-groups:
   - 🇯🇵 日本3 - 湊 あくあのCrew
   - 🇺🇸 美国1 - 湊 あくあのCrew
   - 🇺🇸 美国2 - 湊 あくあのCrew
-  - 🇨🇦 加拿大 5x - 湊 あくあのCrew
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -72,9 +69,7 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
@@ -140,13 +135,6 @@ proxy-groups:
   proxies: &id006
   - 🇺🇸 美国1 - 湊 あくあのCrew
   - 🇺🇸 美国2 - 湊 あくあのCrew
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id007
-  - 🇨🇦 加拿大 5x - 湊 あくあのCrew
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -165,24 +153,20 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id006
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id007
 proxies:
-- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 39.175.1.182, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: 183.56.223.220, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: 39.175.1.182, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: 183.56.223.220, port: 26482, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 139.226.136.165, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.223.220, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 211.139.211.41, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: 139.226.136.165, port: 35612, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: 183.56.223.220, port: 26006, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: 111.38.40.132, port: 45581, type: ss, cipher: chacha20-ietf-poly1305, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, udp: true}
-- {name: 🇨🇦 加拿大 5x - 湊 あくあのCrew, server: 123.6.102.115, port: 45222, type: trojan, password: 5356c91c-6147-427c-9042-a4c1229dcfd8, sni: jnd.akua520.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 39.175.1.182, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: 183.56.222.147, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: 39.175.1.182, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: 183.56.222.147, port: 26482, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 139.226.136.165, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.222.147, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: 139.226.136.165, port: 35612, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: 39.175.1.182, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
+- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: 111.38.37.16, port: 45581, type: ss, cipher: chacha20-ietf-poly1305, password: 4d772fb3-8c77-414c-ae47-abfd9034c88f, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

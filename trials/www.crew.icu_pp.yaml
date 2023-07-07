@@ -15,14 +15,12 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -32,7 +30,6 @@ proxy-groups:
   - TW
   - JP
   - US
-  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -61,9 +58,7 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
@@ -103,11 +98,6 @@ proxy-groups:
   tolerance: 50
   use: &id006
   - US
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 50
-  use: &id007
-  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -126,9 +116,6 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id006
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id007
 proxy-providers:
   HK:
     type: http
@@ -162,15 +149,6 @@ proxy-providers:
     url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/www.crew.icu/US.yaml
     interval: 180
     path: trials_providers/www.crew.icu/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/www.crew.icu/Other.yaml
-    interval: 180
-    path: trials_providers/www.crew.icu/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
