@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 1.最新官网地址 酸奶6.com 【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 96f6630d-c317-37ef-a543-daa41d4a883d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
-- {name: 2.断网超时请更新订阅【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 96f6630d-c317-37ef-a543-daa41d4a883d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
-- {name: 测试节点勿连 - 酸奶, server: 4.193.132.54, port: 37771, type: vmess, uuid: 96f6630d-c317-37ef-a543-daa41d4a883d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
+- {name: 1.最新官网地址 酸奶6.com 【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 3b6ebd8c-50ab-38ed-928b-641494e278a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
+- {name: 2.断网超时请更新订阅【勿连】 - 酸奶, server: 酸奶6.com, port: 33380, type: vmess, uuid: 3b6ebd8c-50ab-38ed-928b-641494e278a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: 酸奶6.com}}, udp: true}
+- {name: 测试节点勿连 - 酸奶, server: 4.193.132.54, port: 37771, type: vmess, uuid: 3b6ebd8c-50ab-38ed-928b-641494e278a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
