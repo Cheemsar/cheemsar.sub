@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+proxies:
+- {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydkrto-bac.bgp.skin, port: 37007, type: vmess, uuid: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 更新订阅与访问官网专用节点 - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 36007, type: ss, cipher: aes-256-gcm, password: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, udp: true}
+- {name: 🇲🇾 马来西亚-1｜流媒体 - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 36016, type: vmess, uuid: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇩 印尼-1｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 38001, type: vmess, uuid: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-1｜流媒体 - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 36011, type: vmess, uuid: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国｜流媒体 - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 36001, type: ss, cipher: aes-256-gcm, password: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, udp: true}
+- {name: 🇩🇪 德国｜流媒体 - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 36012, type: vmess, uuid: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国｜流媒体 - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 36017, type: ss, cipher: aes-256-gcm, password: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, udp: true}
+- {name: 🇨🇱 智利｜流媒体 - SAC CLOUD - 加速, server: szdx2gaijqbnt-ac.bgp.skin, port: 37017, type: ss, cipher: aes-256-gcm, password: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, udp: true}
+- {name: 🇱🇹 立陶宛｜流媒体 - SAC CLOUD - 加速, server: szdx2gaijqbnt-ac.bgp.skin, port: 37018, type: ss, cipher: aes-256-gcm, password: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, udp: true}
+- {name: 🇵🇰 巴基斯坦｜流媒体 - SAC CLOUD - 加速, server: szdx2gaijqbnt-ac.bgp.skin, port: 37010, type: vmess, uuid: d472bcae-fcdc-4fe5-ae57-515f12cc4b07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
