@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 除香港节点外 均支持GPT - SAC CLOUD - 加速, server: shdxydkrto-bac.bgp.skin, port: 37007, type: vmess, uuid: 90fdc140-0508-41f8-80eb-a3b39032934a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中国香港-2｜流媒体｜IEPL - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 36002, type: vmess, uuid: 90fdc140-0508-41f8-80eb-a3b39032934a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中国香港-7｜5G网配置后可免流 - SAC CLOUD - 加速, server: szdx2gaijqbnt-ac.bgp.skin, port: 37015, type: vmess, uuid: 90fdc140-0508-41f8-80eb-a3b39032934a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: Ihfund, headers: {Host: a.189.cn}}, udp: true}
