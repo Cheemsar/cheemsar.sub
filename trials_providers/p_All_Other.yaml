@@ -27,8 +27,9 @@ proxies:
 - {name: 🇦🇪 迪拜 001 - 墙了个墙, server: duvip001.qlgq1.pw, port: 10443, type: trojan, password: 7ae1c562-466c-3054-a245-cc9930ab1dc9, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
 - {name: 🇦🇪 迪拜 002 - 墙了个墙, server: duvip001.qlgq1.pw, port: 20443, type: trojan, password: 7ae1c562-466c-3054-a245-cc9930ab1dc9, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
 - {name: 🇦🇪 迪拜 003 - 墙了个墙, server: duvip001.qlgq1.pw, port: 30443, type: trojan, password: 7ae1c562-466c-3054-a245-cc9930ab1dc9, sni: duvip001.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: duvip001}, udp: true}
-- {name: 🇦🇪 Dubai-2 - 小白云, server: dubai.cooc.icu, port: 22301, type: ss, cipher: aes-256-gcm, password: 1f9ba054-0b57-492d-a934-bad571b159da, udp: true}
-- {name: 🇦🇪 Dubai - 小白云, server: iplc.jp.bbcc.cyou, port: 21602, type: ss, cipher: aes-256-gcm, password: 1f9ba054-0b57-492d-a934-bad571b159da, udp: true}
+- {name: 🇦🇪 Dubai-2 - 小白云, server: dubaig.cooc.icu, port: 80, type: ss, cipher: aes-256-gcm, password: 1f9ba054-0b57-492d-a934-bad571b159da, udp: true}
+- {name: 🇦🇪 Dubai-3 - 小白云, server: dubaig.cooc.icu, port: 22301, type: ss, cipher: aes-256-gcm, password: 1f9ba054-0b57-492d-a934-bad571b159da, udp: true}
+- {name: 🇦🇪 Dubai - 小白云, server: fs.cmi.cooc.icu, port: 21602, type: ss, cipher: aes-256-gcm, password: 1f9ba054-0b57-492d-a934-bad571b159da, udp: true}
 - {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 1f9ba054-0b57-492d-a934-bad571b159da, udp: true}
 - {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 1f9ba054-0b57-492d-a934-bad571b159da, udp: true}
 - {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: 1f9ba054-0b57-492d-a934-bad571b159da, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
