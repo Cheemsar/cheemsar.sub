@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: f1a42f03-cc71-46b0-adea-56f015da6adb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: f1a42f03-cc71-46b0-adea-56f015da6adb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: f1a42f03-cc71-46b0-adea-56f015da6adb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: cfcfd5f4-8004-4543-b01d-a0a68a641c0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: cfcfd5f4-8004-4543-b01d-a0a68a641c0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: cfcfd5f4-8004-4543-b01d-a0a68a641c0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 距离下次重置剩余：1 天 - SAC CLOUD - 加速, server: shdxydkrto-bac.bgp.skin, port: 37007, type: vmess, uuid: 90fdc140-0508-41f8-80eb-a3b39032934a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 节点无法使用时请更新订阅 - SAC CLOUD - 加速, server: shdxydkrto-bac.bgp.skin, port: 37007, type: vmess, uuid: 90fdc140-0508-41f8-80eb-a3b39032934a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 更新订阅与访问官网专用节点 - SAC CLOUD - 加速, server: gzdxgai2kcov-sac.bgp.skin, port: 36007, type: ss, cipher: aes-256-gcm, password: 90fdc140-0508-41f8-80eb-a3b39032934a, udp: true}
