@@ -88,10 +88,13 @@ proxy-groups:
   - 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom
   - 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港-01 | 1.8X - 凌云网络
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
@@ -1448,10 +1451,13 @@ proxy-groups:
   - 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom
   - 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港-01 | 1.8X - 凌云网络
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
@@ -1751,10 +1757,13 @@ proxy-groups:
   - 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom
   - 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
   - 🇭🇰 香港-01 | 1.8X - 凌云网络
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
@@ -3152,20 +3161,23 @@ proxies:
 - {name: 🇸🇬 【K】新加坡 普通 5 - DO - SockBoom, server: nkc.boom.skin, port: 22000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 825251:GFShql, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 6 - DO - SockBoom, server: nkd.boom.skin, port: 23000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 825251:GFShql, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 7 - DO - SockBoom, server: nke.boom.skin, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 825251:GFShql, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: f3420383-5778-33a4-a9aa-62a92791a187, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: f3420383-5778-33a4-a9aa-62a92791a187, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: f3420383-5778-33a4-a9aa-62a92791a187, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: f3420383-5778-33a4-a9aa-62a92791a187, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: f3420383-5778-33a4-a9aa-62a92791a187, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: bee68cfb-25f0-361c-8d01-ae074bc10b29, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: bee68cfb-25f0-361c-8d01-ae074bc10b29, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: bee68cfb-25f0-361c-8d01-ae074bc10b29, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: bee68cfb-25f0-361c-8d01-ae074bc10b29, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: bee68cfb-25f0-361c-8d01-ae074bc10b29, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp01.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp01.qiaqia.win}}, udp: true}
 - {name: 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp02.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp02.qiaqia.win}}, udp: true}
 - {name: 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp03.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp03.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk01.qiaqia.win, port: 8791, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk01.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: bhk01.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk01.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: bhk137.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk137.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk02.qiaqia.win, port: 8972, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk02.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: bhk02.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk02.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: bhk138.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk138.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk03.qiaqia.win, port: 8973, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk03.qiaqia.win}}, udp: true}
 - {name: 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: bhk03.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk03.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: bhk139.qiaqia.win, port: 8080, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk139.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: sus41.qiaqia.win, port: 80, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus41.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: sus49.qiaqia.win, port: 80, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus49.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: sus57.qiaqia.win, port: 80, type: vmess, uuid: 01879fec-36e6-3f47-8020-9f15a90ffa87, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus57.qiaqia.win}}, udp: true}
