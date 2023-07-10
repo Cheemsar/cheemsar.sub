@@ -213,14 +213,14 @@ proxies:
 - {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gzyd.jcnode.top, port: 53826, type: trojan, password: 9a5616f9-25dc-4cd1-b11a-bf02c2dcd4ae, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip2 台湾-07 - FastFly, server: gzyd01.jcnode.top, port: 61066, type: trojan, password: 9a5616f9-25dc-4cd1-b11a-bf02c2dcd4ae, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip3 台湾-08 - FastFly, server: gzyd02.jcnode.top, port: 61066, type: trojan, password: 9a5616f9-25dc-4cd1-b11a-bf02c2dcd4ae, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 703hk.ljydw.top, port: 443, type: trojan, password: 41cdbb1d-3f2c-40cd-8317-2a1f07f69f61, sni: 703hk.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 41cdbb1d-3f2c-40cd-8317-2a1f07f69f61, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 41cdbb1d-3f2c-40cd-8317-2a1f07f69f61, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 41cdbb1d-3f2c-40cd-8317-2a1f07f69f61, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 41cdbb1d-3f2c-40cd-8317-2a1f07f69f61, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 4433, type: trojan, password: 41cdbb1d-3f2c-40cd-8317-2a1f07f69f61, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 41cdbb1d-3f2c-40cd-8317-2a1f07f69f61, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 4433, type: trojan, password: 41cdbb1d-3f2c-40cd-8317-2a1f07f69f61, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 703hk.ljydw.top, port: 443, type: trojan, password: 13f09808-b5a8-4776-9ed8-9e40b045186b, sni: 703hk.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 13f09808-b5a8-4776-9ed8-9e40b045186b, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 13f09808-b5a8-4776-9ed8-9e40b045186b, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: 13f09808-b5a8-4776-9ed8-9e40b045186b, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: 13f09808-b5a8-4776-9ed8-9e40b045186b, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 4433, type: trojan, password: 13f09808-b5a8-4776-9ed8-9e40b045186b, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 13f09808-b5a8-4776-9ed8-9e40b045186b, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 4433, type: trojan, password: 13f09808-b5a8-4776-9ed8-9e40b045186b, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 Taiwan-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12105, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
 - {name: 🇭🇰 香港 Hongkong BGP-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
 - {name: 🇭🇰 香港 Hongkong HKT-L1 - NovaCloud, server: sh73gxpe.0xnwy1fyrtlb.com, port: 11113, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
@@ -273,9 +273,9 @@ proxies:
 - {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 61413, type: trojan, password: ae84e70d-2727-4fb5-b6dc-32bedaf15bdf, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22084, type: trojan, password: ae84e70d-2727-4fb5-b6dc-32bedaf15bdf, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 02.xn--wbr85ozt0asys8qt.net, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇹🇼 台湾 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇼 台湾 - 1x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇹🇼 台湾 - 1x - 快乐星球, server: 02.xn--wbr85ozt0asys8qt.net, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇭🇰 香港bgp - 0.5x - 快乐星球, server: hytron3.catsvpn.top, port: 33344, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: hytron3.catsvpn.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 - 0.5x - 快乐星球, server: wap.tw.catscloud.top, port: 33351, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: wap.tw.catscloud.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 0c9ae80958.download.windowsupdate.com}, udp: true}
