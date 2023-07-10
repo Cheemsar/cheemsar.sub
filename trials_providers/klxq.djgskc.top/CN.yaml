@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - bgp - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22364, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇭🇰 香港2 - bgp - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22264, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇭🇰 香港3 - bgp - 1x - 快乐星球, server: 183.56.222.147, port: 25761, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇭🇰 香港4 - bgp - 1x - 快乐星球, server: 183.56.222.147, port: 25774, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇼 台湾3 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇼 台湾4 - 1x - 快乐星球, server: 139.226.136.165, port: 25250, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 183.56.222.147, port: 25720, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇭🇰 香港bgp1 - 1x - 快乐星球, server: 183.56.222.147, port: 25760, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇹🇼 台湾 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇹🇼 台湾 - 1x - 快乐星球, server: 183.56.222.147, port: 25711, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇹🇼 台湾1 - 1x - 快乐星球, server: 139.226.136.165, port: 25250, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇭🇰 香港 - bgp - 0.5x - 快乐星球, server: hytron3.catsvpn.top, port: 33344, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: hytron3.catsvpn.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 - 0.5x - 快乐星球, server: wap.tw.catscloud.top, port: 33350, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: wap.tw.catscloud.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 - 0.5x - 快乐星球, server: wap.tw.catscloud.top, port: 33351, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: wap.tw.catscloud.top, skip-cert-verify: true, udp: true}
