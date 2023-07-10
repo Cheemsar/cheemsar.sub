@@ -101,11 +101,11 @@ proxies:
 - {name: 🇭🇰 【O】香港 普通 7 - Leaseweb - SockBoom, server: opt17.boom.skin, port: 27000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 826293:ujhJDm, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 【O】香港 普通 8 - Leaseweb - SockBoom, server: opt18.boom.skin, port: 28000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 826293:ujhJDm, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 【O】香港 普通 9 - Leaseweb - SockBoom, server: opt19.boom.skin, port: 29000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 826293:ujhJDm, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: 1a298a24-87d5-3e04-9740-4988d91916f0, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: 1a298a24-87d5-3e04-9740-4988d91916f0, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: 1a298a24-87d5-3e04-9740-4988d91916f0, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: 1a298a24-87d5-3e04-9740-4988d91916f0, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: 1a298a24-87d5-3e04-9740-4988d91916f0, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: dff3af9b-1e69-3c36-aa69-ed7c40a94444, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: dff3af9b-1e69-3c36-aa69-ed7c40a94444, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: dff3af9b-1e69-3c36-aa69-ed7c40a94444, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: dff3af9b-1e69-3c36-aa69-ed7c40a94444, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: dff3af9b-1e69-3c36-aa69-ed7c40a94444, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp01.qiaqia.win, port: 8080, type: vmess, uuid: 36c4df05-ebab-3e85-bb99-5a9104f464da, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp01.qiaqia.win}}, udp: true}
 - {name: 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp02.qiaqia.win, port: 8080, type: vmess, uuid: 36c4df05-ebab-3e85-bb99-5a9104f464da, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp02.qiaqia.win}}, udp: true}
 - {name: 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp03.qiaqia.win, port: 8080, type: vmess, uuid: 36c4df05-ebab-3e85-bb99-5a9104f464da, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp03.qiaqia.win}}, udp: true}
@@ -1118,31 +1118,23 @@ proxies:
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 56102, type: trojan, password: c16169a2-50ee-46b6-90f0-8afd980f40ff, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 65097, type: trojan, password: c16169a2-50ee-46b6-90f0-8afd980f40ff, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 183.56.222.147, port: 25720, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇭🇰 香港bgp1 - 1x - 快乐星球, server: 183.56.222.147, port: 25760, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇸🇬 新加坡 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22224, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇸🇬 新加坡 - 1x - 快乐星球, server: 183.56.222.147, port: 25714, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇸🇬 新加坡1 - 1x - 快乐星球, server: 183.56.222.147, port: 25781, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇸🇬 新加坡 - 1x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22224, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇹🇼 台湾 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇹🇼 台湾 - 1x - 快乐星球, server: 183.56.222.147, port: 25711, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇼 台湾1 - 1x - 快乐星球, server: 139.226.136.165, port: 25250, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇯🇵 日本 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22233, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇯🇵 日本 - 1x - 快乐星球, server: 139.226.136.165, port: 35873, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇯🇵 日本1 - 1x - 快乐星球, server: 139.226.136.165, port: 35205, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇯🇵 日本 - 1x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22233, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇯🇵 日本bgp - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22268, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇯🇵 日本bgp - 1x - 快乐星球, server: 139.226.136.165, port: 35859, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇯🇵 日本bgp1 - 1x - 快乐星球, server: 139.226.136.165, port: 35701, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇯🇵 日本bgp - 1x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22268, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇺🇸 美国 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22221, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇺🇸 美国 - 1x - 快乐星球, server: 183.56.222.147, port: 25717, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇺🇸 美国1 - 1x - 快乐星球, server: 183.56.222.147, port: 25789, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇺🇸 美国 - 1x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22221, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇦🇺 澳大利亚 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22231, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇦🇺 澳大利亚 - 1x - 快乐星球, server: 139.226.136.165, port: 25963, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇦🇺 澳大利亚1 - 1x - 快乐星球, server: 139.226.136.165, port: 25301, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇦🇺 澳大利亚 - 1x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22231, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇬🇧 英国 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22226, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇬🇧 英国 - 1x - 快乐星球, server: 139.226.136.165, port: 25965, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇬🇧 英国1 - 1x - 快乐星球, server: 139.226.136.165, port: 25449, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇷 土耳其 - 1x - 快乐星球, server: 183.56.222.147, port: 25712, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇷 土耳其 - 0.8x - 快乐星球, server: 183.56.222.147, port: 25406, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇬🇧 英国 - 1x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22226, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇹🇷 土耳其 - 1x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22271, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇹🇷 土耳其 - 0.8x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22271, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇭🇰 香港bgp - 0.5x - 快乐星球, server: hytron3.catsvpn.top, port: 33344, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: hytron3.catsvpn.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国 - 0.5x - 快乐星球, server: douk.catsvpn.top, port: 33345, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: douk.catsvpn.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 - 0.5x - 快乐星球, server: linodemg.catsvpn.top, port: 33352, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: linodemg.catsvpn.top, skip-cert-verify: true, udp: true}

@@ -65,7 +65,6 @@ proxies:
 - {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22084, type: trojan, password: c16169a2-50ee-46b6-90f0-8afd980f40ff, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇹🇼 台湾 - 1x - 快乐星球, server: 183.56.222.147, port: 25711, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇼 台湾1 - 1x - 快乐星球, server: 139.226.136.165, port: 25250, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇹🇼 台湾 - 0.5x - 快乐星球, server: wap.tw.catscloud.top, port: 33351, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: wap.tw.catscloud.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 6c67780964.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 6c67780964.download.windowsupdate.com}, udp: true}
