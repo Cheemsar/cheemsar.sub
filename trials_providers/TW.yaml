@@ -45,10 +45,10 @@ proxies:
 - {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gzyd.jcnode.top, port: 53826, type: trojan, password: 67a047d7-fe4f-48f1-be6a-660e7f334398, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip2 台湾-07 - FastFly, server: gzyd01.jcnode.top, port: 61066, type: trojan, password: 67a047d7-fe4f-48f1-be6a-660e7f334398, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip3 台湾-08 - FastFly, server: gzyd02.jcnode.top, port: 61066, type: trojan, password: 67a047d7-fe4f-48f1-be6a-660e7f334398, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: af280d67-8f35-4ad2-b002-3127a0e5df0b, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 4433, type: trojan, password: af280d67-8f35-4ad2-b002-3127a0e5df0b, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: af280d67-8f35-4ad2-b002-3127a0e5df0b, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 4433, type: trojan, password: af280d67-8f35-4ad2-b002-3127a0e5df0b, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1 - giao云, server: 0309tw.ljydw.top, port: 443, type: trojan, password: ee419e59-7ce2-48c3-927d-8deb7f0b872f, sni: 0309tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 4433, type: trojan, password: ee419e59-7ce2-48c3-927d-8deb7f0b872f, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: ee419e59-7ce2-48c3-927d-8deb7f0b872f, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾5 - giao云, server: 419tw.ljydw.top, port: 4433, type: trojan, password: ee419e59-7ce2-48c3-927d-8deb7f0b872f, sni: 419tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 Taiwan-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12105, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
 - {name: 🇹🇼 台湾-优化1 - NanBei, server: ydyh.nanbei.info, port: 26911, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: 🇹🇼 台湾-优化2 - NanBei, server: ydyh.nanbei.info, port: 26911, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
