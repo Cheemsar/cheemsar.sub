@@ -213,16 +213,7 @@ sub_url  https://www.qqcryxr.top/api/v1/client/subscribe?token=e1f3b3c599356e008
 time  2023-07-11 20:50:37.470050+08:00
 type  v2board
 
-[www.crew.icu]
-buy  pass
-email  aiviwnusy59@gmail.com
-name  湊 あくあのCrew
-node_n  13
-sub_info  0B  10G  2023-07-10 14:39:11+08:00  (剩余 10G 0:41:35.551788)
-sub_url  https://aqua.crew.icu/api/v1/client/subscribe?token=cbab3ec4f1615bb838573763258e918e
-time  2023-07-10 13:39:12.607932+08:00
-type  v2board
-更新旧订阅失败  {'message': '该账户已被停止使用'}
+
 
 [suannai123.xyz]
 auto_invite  F
@@ -329,8 +320,4 @@ sub_url  https://sub1.itg.best:30443/link/r8OUC4xJ8ELbitX0?sub=1
 time  2023-07-11 20:50:57.362442+08:00
 type  sspanel
 
-[huaxiajichang.cc]
-banned_domains  guerrillamail.net
-name  花夏Cloud丨花夏机场丨花夏云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(aabwcgsqj476@gmail.com): HTTPSConnectionPool(host='huaxiajichang.cc', port=443): Read timed out. (read timeout=10)
+
