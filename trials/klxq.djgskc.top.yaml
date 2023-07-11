@@ -11,16 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -35,8 +31,6 @@ proxy-groups:
   - 🇭🇰 香港bgp - 1.5x - 快乐星球
   - 🇭🇰 香港bgp - 1x - 快乐星球
   - 🇭🇰 香港bgp - 0.5x - 快乐星球
-  - 🇹🇼 台湾 - 1.5x - 快乐星球
-  - 🇹🇼 台湾 - 1x - 快乐星球
   - 🇸🇬 新加坡 - 1.5x - 快乐星球
   - 🇸🇬 新加坡 - 1x - 快乐星球
   - 🇸🇬 新加坡 - 0.5x - 快乐星球
@@ -70,14 +64,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -86,11 +76,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -110,31 +98,12 @@ proxy-groups:
   - 🇭🇰 香港bgp - 1.5x - 快乐星球
   - 🇭🇰 香港bgp - 1x - 快乐星球
   - 🇭🇰 香港bgp - 0.5x - 快乐星球
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇹🇼 台湾 - 1.5x - 快乐星球
-  - 🇹🇼 台湾 - 1x - 快乐星球
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇭🇰 香港bgp - 1.5x - 快乐星球
-  - 🇭🇰 香港bgp - 1x - 快乐星球
-  - 🇭🇰 香港bgp - 0.5x - 快乐星球
-  - 🇹🇼 台湾 - 1.5x - 快乐星球
-  - 🇹🇼 台湾 - 1x - 快乐星球
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id003
   - 🇸🇬 新加坡 - 1.5x - 快乐星球
   - 🇸🇬 新加坡 - 1x - 快乐星球
   - 🇸🇬 新加坡 - 0.5x - 快乐星球
@@ -143,7 +112,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id006
+  proxies: &id004
   - 🇯🇵 日本 - 1.5x - 快乐星球
   - 🇯🇵 日本 - 1x - 快乐星球
   - 🇯🇵 日本bgp - 1.5x - 快乐星球
@@ -153,7 +122,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id007
+  proxies: &id005
   - 🇺🇸 美国 - 1.5x - 快乐星球
   - 🇺🇸 美国 - 1x - 快乐星球
   - 🇺🇸 美国 - 0.5x - 快乐星球
@@ -162,7 +131,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id008
+  proxies: &id006
   - 🇦🇺 澳大利亚 - 1.5x - 快乐星球
   - 🇦🇺 澳大利亚 - 1x - 快乐星球
   - 🇬🇧 英国 - 1.5x - 快乐星球
@@ -177,24 +146,18 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  proxies: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id006
 proxies:
 - {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
@@ -206,8 +169,6 @@ proxies:
 - {name: 🇯🇵 日本bgp - 1x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22268, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇺🇸 美国 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22221, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇺🇸 美国 - 1x - 快乐星球, server: 02.xn--wbr85ozt0asys8qt.net, port: 22221, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇼 台湾 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇹🇼 台湾 - 1x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22259, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇦🇺 澳大利亚 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22231, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇦🇺 澳大利亚 - 1x - 快乐星球, server: 02.xn--wbr85ozt0asys8qt.net, port: 22231, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇬🇧 英国 - 1.5x - 快乐星球, server: zjyd8bq.wutao7.top, port: 22226, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
