@@ -53,7 +53,7 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 59250, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 48834, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06_1 - FastFly, server: gzdx.jcnode.top, port: 45920, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: 7b6e8074-aca9-4d0f-a54a-aff44ab4f1fc, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: 84fe09e6-dcd4-44a2-bba4-ae63ad579cfd, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 Singapore-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: 165277cd-7c22-4a07-922b-21e8a5dec949, udp: true}
 - {name: 🇸🇬 新加坡-优化1 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
