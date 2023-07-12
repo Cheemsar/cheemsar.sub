@@ -272,7 +272,7 @@ proxies:
 - {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 59486, type: vmess, uuid: 56aaead6-ed6e-4f72-86ab-52f4d9df7152, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 61413, type: trojan, password: 56aaead6-ed6e-4f72-86ab-52f4d9df7152, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22084, type: trojan, password: 56aaead6-ed6e-4f72-86ab-52f4d9df7152, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: 245c.interface.buzz, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: fae1.interface.buzz, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: e076.interface.buzz, port: 22261, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇭🇰 香港bgp - 0.5x - 快乐星球, server: hytron3.catsvpn.top, port: 33344, type: trojan, password: aec8228a-a63e-4516-ac55-615b84d63e45, sni: hytron3.catsvpn.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: bae5381008.download.windowsupdate.com}, udp: true}
