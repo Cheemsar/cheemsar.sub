@@ -31,11 +31,7 @@ proxies:
 - {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 - {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇦🇪 Dubai - 小白云, server: dubai1.cooc.icu, port: 21602, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
-- {name: GER-1 - 小白云, server: ger1.iepl.cooc.icu, port: 47103, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
-- {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
-- {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪 Dubai-1 - 小白云, server: dubai1.cooc.icu, port: 21602, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 - {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: sahng5.594888.xyz, port: 36016, type: vmess, uuid: 9df546d1-3b1d-337c-bcf7-4fb7a9100c11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: sahng1.594888.xyz, port: 36017, type: vmess, uuid: 9df546d1-3b1d-337c-bcf7-4fb7a9100c11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇵🇭 菲律宾 直连 - 爱猫论坛, server: ph.ushenyo.com, port: 1443, type: vmess, uuid: 9df546d1-3b1d-337c-bcf7-4fb7a9100c11, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: ph.ushenyo.com}}, udp: true}

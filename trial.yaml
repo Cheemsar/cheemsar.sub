@@ -981,11 +981,7 @@ proxy-groups:
   - 🇰🇷 KR-2 - 小白云
   - 🇰🇷 KR-3 - 小白云
   - 🇰🇷 KR-4 - 小白云
-  - 🇦🇪 Dubai - 小白云
-  - GER-1 - 小白云
-  - GER-2 - 小白云
-  - GER-3 - 小白云
-  - GER-4 - 小白云
+  - 🇦🇪 Dubai-1 - 小白云
   - 🇩🇪 德国｜隧道 01 - 爱猫论坛
   - 🇬🇧 英国｜隧道 01 - 爱猫论坛
   - 🇵🇭 菲律宾 直连 - 爱猫论坛
@@ -2604,11 +2600,7 @@ proxy-groups:
   - 🇰🇷 KR-2 - 小白云
   - 🇰🇷 KR-3 - 小白云
   - 🇰🇷 KR-4 - 小白云
-  - 🇦🇪 Dubai - 小白云
-  - GER-1 - 小白云
-  - GER-2 - 小白云
-  - GER-3 - 小白云
-  - GER-4 - 小白云
+  - 🇦🇪 Dubai-1 - 小白云
   - 🇩🇪 德国｜隧道 01 - 爱猫论坛
   - 🇬🇧 英国｜隧道 01 - 爱猫论坛
   - 🇵🇭 菲律宾 直连 - 爱猫论坛
@@ -3015,11 +3007,11 @@ proxies:
 - {name: 🇸🇬 【K】新加坡 普通 5 - DO - SockBoom, server: nkc.boom.skin, port: 22000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 829874:RGs8nZ, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 6 - DO - SockBoom, server: nkd.boom.skin, port: 23000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 829874:RGs8nZ, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 7 - DO - SockBoom, server: nke.boom.skin, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 829874:RGs8nZ, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: a3994b0f-cbf0-38ff-86a7-8f6a614931a5, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: a3994b0f-cbf0-38ff-86a7-8f6a614931a5, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: a3994b0f-cbf0-38ff-86a7-8f6a614931a5, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: a3994b0f-cbf0-38ff-86a7-8f6a614931a5, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: a3994b0f-cbf0-38ff-86a7-8f6a614931a5, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.154.92, port: 443, type: trojan, password: fae2769a-9321-36f2-833c-4c035531bf2f, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.113.108, port: 443, type: trojan, password: fae2769a-9321-36f2-833c-4c035531bf2f, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 34.221.63.158, port: 443, type: trojan, password: fae2769a-9321-36f2-833c-4c035531bf2f, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5457, type: trojan, password: fae2769a-9321-36f2-833c-4c035531bf2f, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3484, type: trojan, password: fae2769a-9321-36f2-833c-4c035531bf2f, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp01.qiaqia.win, port: 8080, type: vmess, uuid: f1946647-55b2-356c-94ce-655604078ef9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp01.qiaqia.win}}, udp: true}
 - {name: 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp02.qiaqia.win, port: 8080, type: vmess, uuid: f1946647-55b2-356c-94ce-655604078ef9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp02.qiaqia.win}}, udp: true}
 - {name: 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp03.qiaqia.win, port: 8080, type: vmess, uuid: f1946647-55b2-356c-94ce-655604078ef9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp03.qiaqia.win}}, udp: true}
@@ -3156,11 +3148,7 @@ proxies:
 - {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 - {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇦🇪 Dubai - 小白云, server: dubai1.cooc.icu, port: 21602, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
-- {name: GER-1 - 小白云, server: ger1.iepl.cooc.icu, port: 47103, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
-- {name: GER-2 - 小白云, server: ger2.iepl.cooc.icu, port: 47104, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
-- {name: GER-3 - 小白云, server: ger3.iepl.cooc.icu, port: 47105, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: GER-4 - 小白云, server: ger4.iepl.cooc.icu, port: 47106, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: can1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪 Dubai-1 - 小白云, server: dubai1.cooc.icu, port: 21602, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 - {name: 🇯🇵 JP-IEPL-A-1 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 - {name: 🇯🇵 JP-IEPL-A-2 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 - {name: 🇯🇵 JP-IEPL-B-3 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
