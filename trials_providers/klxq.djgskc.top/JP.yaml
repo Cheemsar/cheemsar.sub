@@ -2,6 +2,6 @@
 ---
 proxies:
 - {name: 🇯🇵 日本 - 1.5x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22233, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇯🇵 日本 - 1x - 快乐星球, server: bjck.olb8qsg.top, port: 22233, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇯🇵 日本 - 1x - 快乐星球, server: bj.jd008.tech, port: 22233, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇯🇵 日本bgp - 1.5x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22268, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇯🇵 日本bgp - 1x - 快乐星球, server: bjck.olb8qsg.top, port: 22268, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
+- {name: 🇯🇵 日本bgp - 1x - 快乐星球, server: bj.jd008.tech, port: 22268, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
