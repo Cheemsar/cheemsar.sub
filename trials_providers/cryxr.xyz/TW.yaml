@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: be534098-bfee-44d0-a83e-8a83c08bf5b6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32326, type: vmess, uuid: be534098-bfee-44d0-a83e-8a83c08bf5b6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: be534098-bfee-44d0-a83e-8a83c08bf5b6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: 34828114-9766-4e3d-ac95-8fbb2b708f6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32326, type: vmess, uuid: 34828114-9766-4e3d-ac95-8fbb2b708f6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: 34828114-9766-4e3d-ac95-8fbb2b708f6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
