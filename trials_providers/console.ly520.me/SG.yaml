@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG-01 | 1.5X - 凌云网络, server: sg-01.ly520.me, port: 8080, type: vmess, uuid: 90d43a34-c3a2-4d26-bcb0-8bbda7bfe923, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg-01.ly520.me}}, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26458, type: vmess, uuid: 90d43a34-c3a2-4d26-bcb0-8bbda7bfe923, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 SG-01 | 1.5X - 凌云网络, server: sg-01.ly520.me, port: 8080, type: vmess, uuid: 8f3ad50b-1931-4456-a711-bcb13295fc5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg-01.ly520.me}}, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26458, type: vmess, uuid: 8f3ad50b-1931-4456-a711-bcb13295fc5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
