@@ -62,6 +62,7 @@ proxy-groups:
   - 🇰🇷 KR-3 - 小白云
   - 🇰🇷 KR-4 - 小白云
   - 🇦🇪 Dubai-1 - 小白云
+  - 🇦🇪 Dubai-2 - 小白云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -192,6 +193,7 @@ proxy-groups:
   - 🇰🇷 KR-3 - 小白云
   - 🇰🇷 KR-4 - 小白云
   - 🇦🇪 Dubai-1 - 小白云
+  - 🇦🇪 Dubai-2 - 小白云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -247,6 +249,7 @@ proxies:
 - {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 - {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 - {name: 🇦🇪 Dubai-1 - 小白云, server: dubai1.cooc.icu, port: 21602, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
+- {name: 🇦🇪 Dubai-2 - 小白云, server: dubai2.cooc.icu, port: 21603, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

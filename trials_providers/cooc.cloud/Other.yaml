@@ -6,3 +6,4 @@ proxies:
 - {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: a040dcf4-2695-4756-ae56-764d27c4a552, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇦🇪 Dubai-1 - 小白云, server: dubai1.cooc.icu, port: 21602, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
+- {name: 🇦🇪 Dubai-2 - 小白云, server: dubai2.cooc.icu, port: 21603, type: ss, cipher: aes-256-gcm, password: a040dcf4-2695-4756-ae56-764d27c4a552, udp: true}
