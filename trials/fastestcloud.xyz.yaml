@@ -67,6 +67,8 @@ proxy-groups:
   - 🇯🇵 vip1 日本-05 - FastFly
   - 🇯🇵 vip1 日本-05_1 - FastFly
   - 🇯🇵 vip1 日本-06 - FastFly
+  - 🇯🇵 vip1 日本-09 - FastFly
+  - 🇯🇵 vip1 日本-10 - FastFly
   - 🇺🇸 vip1 美国-04 - FastFly
   - 🇺🇸 vip1 美国-05 - FastFly
   - 🇺🇸 vip1 美国-11 - FastFly
@@ -218,6 +220,8 @@ proxy-groups:
   - 🇯🇵 vip1 日本-05 - FastFly
   - 🇯🇵 vip1 日本-05_1 - FastFly
   - 🇯🇵 vip1 日本-06 - FastFly
+  - 🇯🇵 vip1 日本-09 - FastFly
+  - 🇯🇵 vip1 日本-10 - FastFly
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -301,6 +305,8 @@ proxies:
 - {name: 🇯🇵 vip1 日本-05 - FastFly, server: gzdx.jcnode.top, port: 47802, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-05_1 - FastFly, server: gzdx.jcnode.top, port: 15579, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: gzyd.jcnode.top, port: 20927, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-09 - FastFly, server: gzdx.jcnode.top, port: 17217, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-10 - FastFly, server: gzyd.jcnode.top, port: 51840, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gzdx.jcnode.top, port: 47492, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-01_1 - FastFly, server: gzdx.jcnode.top, port: 28606, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gzyd.jcnode.top, port: 29679, type: trojan, password: 589adf75-5601-487c-a65d-15f853de7195, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
