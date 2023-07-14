@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26516, type: vmess, uuid: 351010fe-f559-49cc-aa65-50e79a8c218b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-02 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26469, type: vmess, uuid: 351010fe-f559-49cc-aa65-50e79a8c218b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-03 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26517, type: vmess, uuid: 351010fe-f559-49cc-aa65-50e79a8c218b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26516, type: vmess, uuid: 8812aa7d-3393-4239-a9c8-170525e256e1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-02 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26469, type: vmess, uuid: 8812aa7d-3393-4239-a9c8-170525e256e1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-03 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26517, type: vmess, uuid: 8812aa7d-3393-4239-a9c8-170525e256e1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
