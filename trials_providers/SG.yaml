@@ -56,8 +56,6 @@ proxies:
 - {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: e29edef6-5d7c-4349-b070-809169acd4e2, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 Singapore-L2 - NovaCloud, server: nd94jsk0.0xnwy1fyrtlb.com, port: 12106, type: ssr, cipher: aes-256-cfb, password: iuo7tbw4ks, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 1464:J9Tfth, obfs-param: f82711464.baidu.com, udp: true}
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: f1d35a40-fdac-4c09-a070-531a5c582244, udp: true}
-- {name: 🇸🇬 新加坡-优化1 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
-- {name: 🇸🇬 新加坡-优化2 - NanBei, server: ydyh.nanbei.info, port: 26906, type: ss, cipher: chacha20-ietf-poly1305, password: 79041e42-dfb1-44c3-9551-f93f22fe3a22, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 5d10eceb-4972-3542-9ee3-8cf93f074911, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: iDtAZoGnBGqG6Utq, udp: true}
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: iDtAZoGnBGqG6Utq, udp: true}
