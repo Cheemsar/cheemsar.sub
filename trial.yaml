@@ -203,8 +203,6 @@ proxy-groups:
   - 🇭🇰 香港9 - giao云
   - 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST
   - 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST
-  - 🇭🇰 香港 | 高速香港4（会员） - BIUBIU FAST
-  - 🇭🇰 高速香港 | 高速香港2（会员） - BIUBIU FAST
   - 🇭🇰 aga香港游戏节点 - cloudtu
   - 🇭🇰 HKT解锁 - cloudtu
   - 🇭🇰 香港HKT转移动G口1 - cloudtu
@@ -473,7 +471,6 @@ proxy-groups:
   - 🇯🇵 日本 | 直连3 - BIUBIU FAST
   - 🇯🇵 日本|直连SS - BIUBIU FAST
   - 🇯🇵 日本|直连SS3 - BIUBIU FAST
-  - 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST
   - 🇯🇵 AZ日本隧道转移动1 - cloudtu
   - 🇯🇵 AZ日本隧道转移动2 - cloudtu
   - 🇯🇵 AZ日本隧道转移动4 - cloudtu
@@ -1421,8 +1418,6 @@ proxy-groups:
   - 🇭🇰 香港9 - giao云
   - 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST
   - 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST
-  - 🇭🇰 香港 | 高速香港4（会员） - BIUBIU FAST
-  - 🇭🇰 高速香港 | 高速香港2（会员） - BIUBIU FAST
   - 🇭🇰 aga香港游戏节点 - cloudtu
   - 🇭🇰 HKT解锁 - cloudtu
   - 🇭🇰 香港HKT转移动G口1 - cloudtu
@@ -1720,8 +1715,6 @@ proxy-groups:
   - 🇭🇰 香港9 - giao云
   - 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST
   - 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST
-  - 🇭🇰 香港 | 高速香港4（会员） - BIUBIU FAST
-  - 🇭🇰 高速香港 | 高速香港2（会员） - BIUBIU FAST
   - 🇭🇰 aga香港游戏节点 - cloudtu
   - 🇭🇰 HKT解锁 - cloudtu
   - 🇭🇰 香港HKT转移动G口1 - cloudtu
@@ -2002,7 +1995,6 @@ proxy-groups:
   - 🇯🇵 日本 | 直连3 - BIUBIU FAST
   - 🇯🇵 日本|直连SS - BIUBIU FAST
   - 🇯🇵 日本|直连SS3 - BIUBIU FAST
-  - 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST
   - 🇯🇵 AZ日本隧道转移动1 - cloudtu
   - 🇯🇵 AZ日本隧道转移动2 - cloudtu
   - 🇯🇵 AZ日本隧道转移动4 - cloudtu
@@ -3280,11 +3272,8 @@ proxies:
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS - BIUBIU FAST, server: jp4.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
-- {name: 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST, server: inca-me.crazys.shop, port: 23003, type: trojan, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
-- {name: 🇭🇰 香港 | 高速香港4（会员） - BIUBIU FAST, server: inca-me.crazys.shop, port: 32001, type: trojan, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 高速香港 | 高速香港2（会员） - BIUBIU FAST, server: inca-me.crazys.shop, port: 22002, type: trojan, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
 - {name: 🇰🇷 aga韩国游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16386, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 6883:barbI9, obfs-param: 194bf6883.download.windowsupdate.com, udp: true}

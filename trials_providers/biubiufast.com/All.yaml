@@ -10,6 +10,3 @@ proxies:
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, udp: true}
-- {name: 🇯🇵 日本 | 高速日本三（会员） - BIUBIU FAST, server: inca-me.crazys.shop, port: 23003, type: trojan, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 | 高速香港4（会员） - BIUBIU FAST, server: inca-me.crazys.shop, port: 32001, type: trojan, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 高速香港 | 高速香港2（会员） - BIUBIU FAST, server: inca-me.crazys.shop, port: 22002, type: trojan, password: e16ccf53-3bb4-43cb-ab13-b18ed93affe1, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
