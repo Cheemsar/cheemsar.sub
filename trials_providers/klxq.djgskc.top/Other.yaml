@@ -3,7 +3,6 @@
 proxies:
 - {name: 🇦🇺 澳大利亚 - 1.5x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22231, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇦🇺 澳大利亚 - 1x - 快乐星球, server: gzz.xn--mcss7nl5nptq.com, port: 22231, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
-- {name: 🇩🇪 德国 - 2x - 快乐星球, server: fae1.interface.buzz, port: 22288, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇩🇪 德国 - 1.5x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22288, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇩🇪 德国 - 1x - 快乐星球, server: gzz.xn--mcss7nl5nptq.com, port: 22288, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
 - {name: 🇬🇧 英国 - 1.5x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22226, type: ss, cipher: aes-128-gcm, password: aec8228a-a63e-4516-ac55-615b84d63e45, udp: true}
