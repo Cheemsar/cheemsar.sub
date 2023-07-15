@@ -2,12 +2,12 @@
 ---
 proxies:
 - {name: 🇹🇼 台湾 | YouTube免广告 | Tiktok  | 隧道 | 1X |  - 西瓜皮是真的皮, server: suidao.vipxgyun.com, port: 10014, type: vmess, uuid: 3dd2b56e-7af8-3c2e-8b83-4643e0cf38e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao.vipxgyun.com}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: 90ab03d4-ee50-40c2-ad6e-73d85ffe8027, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32326, type: vmess, uuid: 90ab03d4-ee50-40c2-ad6e-73d85ffe8027, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: 90ab03d4-ee50-40c2-ad6e-73d85ffe8027, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.222.147, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
-- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
-- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
+- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: 2f50d474-b12e-49a6-9c9e-278820f1afee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32326, type: vmess, uuid: 2f50d474-b12e-49a6-9c9e-278820f1afee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: 2f50d474-b12e-49a6-9c9e-278820f1afee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 183.56.222.147, port: 25392, type: ss, cipher: chacha20-ietf-poly1305, password: 9de12ee6-b264-4206-94ed-2a1d7316e7f4, udp: true}
+- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 9de12ee6-b264-4206-94ed-2a1d7316e7f4, udp: true}
+- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 9de12ee6-b264-4206-94ed-2a1d7316e7f4, udp: true}
 - {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: d07a9687-f1ef-40ac-a667-b0b2832cb7a0, udp: true}
 - {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: d07a9687-f1ef-40ac-a667-b0b2832cb7a0, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36018, type: vmess, uuid: 10cf11e7-58f9-34c1-b9a5-a5103e6c3907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
