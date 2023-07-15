@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: 12843089-2423-449c-8f01-b934d47c4c89, udp: true}
-- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 39.175.1.182, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: 12843089-2423-449c-8f01-b934d47c4c89, udp: true}
-- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: 183.56.222.147, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 12843089-2423-449c-8f01-b934d47c4c89, udp: true}
-- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: 39.175.1.182, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 12843089-2423-449c-8f01-b934d47c4c89, udp: true}
-- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: 183.56.222.147, port: 26482, type: ss, cipher: chacha20-ietf-poly1305, password: 12843089-2423-449c-8f01-b934d47c4c89, udp: true}
-- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 139.226.136.165, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: 12843089-2423-449c-8f01-b934d47c4c89, udp: true}
+- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
+- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 39.175.1.182, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
+- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: 183.56.222.147, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
+- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: 39.175.1.182, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
+- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: 183.56.222.147, port: 26482, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
+- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 139.226.136.165, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: cace8dbb-ebb5-4bfa-9427-9d9b85752d1b, udp: true}
