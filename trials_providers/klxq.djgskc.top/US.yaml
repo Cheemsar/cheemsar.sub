@@ -2,5 +2,4 @@
 ---
 proxies:
 - {name: 🇺🇸 美国 - 1.5x - 快乐星球, server: 01.xn--wbr85ozt0asys8qt.net, port: 22221, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
-- {name: 🇺🇸 美国 - 1x - 快乐星球, server: gzz.xn--mcss7nl5nptq.com, port: 22221, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
 - {name: 🇺🇸 美国 - 0.5x - 快乐星球, server: linodemg.catsvpn.top, port: 33362, type: trojan, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, sni: linodemg.catsvpn.top, skip-cert-verify: true, udp: true}
