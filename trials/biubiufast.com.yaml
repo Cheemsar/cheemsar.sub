@@ -137,7 +137,7 @@ proxies:
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: eb12f222-c7af-4124-bc8f-05d57b8372a5, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: eb12f222-c7af-4124-bc8f-05d57b8372a5, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: eb12f222-c7af-4124-bc8f-05d57b8372a5, udp: true}
-- {name: 🇯🇵 日本|高速日本SS4（会员） - BIUBIU FAST, server: inca-me.crazys.shop, port: 31002, type: ss, cipher: chacha20-ietf-poly1305, password: eb12f222-c7af-4124-bc8f-05d57b8372a5, udp: true}
+- {name: 🇯🇵 日本|高速日本SS4（会员） - BIUBIU FAST, server: cmcc.flyqu.com, port: 41002, type: ss, cipher: chacha20-ietf-poly1305, password: eb12f222-c7af-4124-bc8f-05d57b8372a5, udp: true}
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: eb12f222-c7af-4124-bc8f-05d57b8372a5, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: eb12f222-c7af-4124-bc8f-05d57b8372a5, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: eb12f222-c7af-4124-bc8f-05d57b8372a5, udp: true}
