@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Asia 香港02 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe2.fmmmz1.com, port: 80, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe2.fmmmz1.com}}, udp: true}
-- {name: 🇭🇰 Asia 香港03 | 隧道 | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48003, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
-- {name: 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe4.fmmmz1.com, port: 80, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe4.fmmmz1.com}}, udp: true}
+- {name: 🇭🇰 Asia 香港02 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe2.fmmmz1.com, port: 80, type: vmess, uuid: f7d15d84-2bea-34e2-b4fa-f2530aa8a2e7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe2.fmmmz1.com}}, udp: true}
+- {name: 🇭🇰 Asia 香港03 | 隧道 | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48003, type: vmess, uuid: f7d15d84-2bea-34e2-b4fa-f2530aa8a2e7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
+- {name: 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe4.fmmmz1.com, port: 80, type: vmess, uuid: f7d15d84-2bea-34e2-b4fa-f2530aa8a2e7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe4.fmmmz1.com}}, udp: true}

@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 50173, type: trojan, password: c9e02029-c5ef-463d-b9f2-b82ff2715e30, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: c9e02029-c5ef-463d-b9f2-b82ff2715e30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 61802, type: trojan, password: c9e02029-c5ef-463d-b9f2-b82ff2715e30, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-12 - FastFly, server: gzyd.jcnode.top, port: 10340, type: trojan, password: c9e02029-c5ef-463d-b9f2-b82ff2715e30, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-04 - FastFly, server: gzdx.jcnode.top, port: 50173, type: trojan, password: 9dcd0a40-a1c6-419e-ab3f-ea859f2f54f0, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: 9dcd0a40-a1c6-419e-ab3f-ea859f2f54f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 61802, type: trojan, password: 9dcd0a40-a1c6-419e-ab3f-ea859f2f54f0, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-12 - FastFly, server: gzyd.jcnode.top, port: 10340, type: trojan, password: 9dcd0a40-a1c6-419e-ab3f-ea859f2f54f0, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
