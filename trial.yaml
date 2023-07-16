@@ -896,7 +896,6 @@ proxy-groups:
   - 🇺🇸 JCBB_美国05【vip1】 - JCBB
   - 🇺🇸 JCBB_美国06【vip1】 - JCBB
   - 🇺🇸 美国 - 1.5x - 快乐星球
-  - 🇺🇸 美国 - 0.5x - 快乐星球
   - 🇺🇸 Game 美国01-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国02-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国03-标准 - AyucLouD-Services
@@ -2415,7 +2414,6 @@ proxy-groups:
   - 🇺🇸 JCBB_美国05【vip1】 - JCBB
   - 🇺🇸 JCBB_美国06【vip1】 - JCBB
   - 🇺🇸 美国 - 1.5x - 快乐星球
-  - 🇺🇸 美国 - 0.5x - 快乐星球
   - 🇺🇸 Game 美国01-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国02-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国03-标准 - AyucLouD-Services
@@ -3776,7 +3774,6 @@ proxies:
 - {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: fae1.interface.buzz, port: 22261, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
 - {name: 🇸🇬 新加坡 - 1.5x - 快乐星球, server: fae1.interface.buzz, port: 22224, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
 - {name: 🇺🇸 美国 - 1.5x - 快乐星球, server: fae1.interface.buzz, port: 22221, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
-- {name: 🇺🇸 美国 - 0.5x - 快乐星球, server: linode.us.catscloud.top, port: 33362, type: trojan, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, sni: linode.us.catscloud.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 - 0.5x - 快乐星球, server: linode2.sg1.catscloud.top, port: 33363, type: trojan, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, sni: wap.tw.catscloud.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 Game 韩国01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 803, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5b66481120.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国02-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 806, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5b66481120.download.windowsupdate.com}, udp: true}
