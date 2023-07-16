@@ -37,7 +37,7 @@ proxy-groups:
   - 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶
   - 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶
   - 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶
-  - 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 3.0x | V1 - 酸奶
   - 🇸🇬 Asia 新加坡01 | 隧道 | 1.0 x | V1 - 酸奶
   - 🇸🇬 Asia 新加坡05 | 1.0x | V1 - 酸奶
   - 🇸🇬 Asia 新加坡06 | 1.0x | V1 - 酸奶
@@ -112,7 +112,7 @@ proxy-groups:
   proxies: &id003
   - 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶
   - 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶
-  - 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 3.0x | V1 - 酸奶
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -124,7 +124,7 @@ proxy-groups:
   - 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶
   - 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶
   - 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶
-  - 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶
+  - 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 3.0x | V1 - 酸奶
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -199,7 +199,7 @@ proxies:
 - {name: 🇯🇵 JP 日本 | 隧道节点 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 47988, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇰🇷 Korea 韩国   | 隧道 | 3.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48095, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz2.shynia.top}}, udp: true}
 - {name: 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶, server: 165.154.253.74, port: 80, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
-- {name: 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 5.0x | V1 - 酸奶, server: zz.shynia.top, port: 10008, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: zz.shynia.top}}, udp: true}
+- {name: 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 3.0x | V1 - 酸奶, server: hinet.fmmmz1.com, port: 37777, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: hinet.fmmmz1.com}}, udp: true}
 - {name: 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 15617, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 - {name: 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 35673, type: vmess, uuid: 1f6c948d-bb30-37a2-a29f-cab97327fcae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
 rules:
