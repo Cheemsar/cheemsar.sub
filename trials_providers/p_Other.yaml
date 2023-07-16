@@ -15,5 +15,5 @@ proxies:
 - {name: 距离下次重置剩余：1 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 8d4b91ae-21d6-4276-b5ad-bc8d6734d9f1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: daa7bdf6-4450-3f5a-9288-ae517f5b4180, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: daa7bdf6-4450-3f5a-9288-ae517f5b4180, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：15 天 - JCBB, server: gzyd.jcnode.top, port: 16242, type: trojan, password: 17a1cdd0-1786-4fc8-a9b6-3a433074dfb5, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 16242, type: trojan, password: 17a1cdd0-1786-4fc8-a9b6-3a433074dfb5, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：15 天 - JCBB, server: gzyd01.jcnode.top, port: 13096, type: trojan, password: 17a1cdd0-1786-4fc8-a9b6-3a433074dfb5, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd01.jcnode.top, port: 13096, type: trojan, password: 17a1cdd0-1786-4fc8-a9b6-3a433074dfb5, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
