@@ -133,16 +133,6 @@ sub_url  https://sub.proxy-vip.xyz/api/v1/client/subscribe?token=df275a0d70ac952
 time  2023-07-16 19:14:00.453532+08:00
 type  v2board
 
-[console.ly520.me]
-buy  pass
-email  hjpxeoo783@gmail.com
-name  凌云网络
-node_n  14
-sub_info  0B  1G  2023-07-17 01:11:55+08:00  (剩余 1G 0:59:49.452367)
-sub_url  https://console.ly520.me/api/v1/client/subscribe?token=440494fc8bf958717a64e309510c05c4
-time  2023-07-17 00:11:56.712604+08:00
-type  v2board
-更新旧订阅失败  (https://console.ly520.me/api/v1/client/subscribe?token=440494fc8bf958717a64e309510c05c4): 403 Forbidden '{\n "message": "token is error"\n}'
 
 [vipxgyun.com]
 auto_invite  F
