@@ -33,7 +33,6 @@ proxy-groups:
   - 🇸🇬 新加坡 - 1.5x - 快乐星球
   - 🇸🇬 新加坡 - 1x - 快乐星球
   - 🇯🇵 日本 - 1.5x - 快乐星球
-  - 🇯🇵 日本 - 1x - 快乐星球
   - 🇯🇵 日本bgp - 1.5x - 快乐星球
   - 🇯🇵 日本bgp - 1x - 快乐星球
   - 🇺🇸 美国 - 1.5x - 快乐星球
@@ -109,7 +108,6 @@ proxy-groups:
   tolerance: 50
   proxies: &id004
   - 🇯🇵 日本 - 1.5x - 快乐星球
-  - 🇯🇵 日本 - 1x - 快乐星球
   - 🇯🇵 日本bgp - 1.5x - 快乐星球
   - 🇯🇵 日本bgp - 1x - 快乐星球
 - name: 🇺🇸 ‍美国
@@ -158,7 +156,6 @@ proxies:
 - {name: 🇸🇬 新加坡 - 1.5x - 快乐星球, server: e076.interface.buzz, port: 22224, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
 - {name: 🇸🇬 新加坡 - 1x - 快乐星球, server: guangzhou.xn--mcss7nl5nptq.com, port: 22224, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
 - {name: 🇯🇵 日本 - 1.5x - 快乐星球, server: e076.interface.buzz, port: 22233, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
-- {name: 🇯🇵 日本 - 1x - 快乐星球, server: guangzhou.xn--mcss7nl5nptq.com, port: 22233, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
 - {name: 🇯🇵 日本bgp - 1.5x - 快乐星球, server: e076.interface.buzz, port: 22268, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
 - {name: 🇯🇵 日本bgp - 1x - 快乐星球, server: guangzhou.xn--mcss7nl5nptq.com, port: 22268, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}
 - {name: 🇺🇸 美国 - 1.5x - 快乐星球, server: e076.interface.buzz, port: 22221, type: ss, cipher: aes-128-gcm, password: 862a0f15-7bbd-4889-a251-efdd4fd6a3c2, udp: true}

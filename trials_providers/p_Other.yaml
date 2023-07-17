@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: a21fe6cd-358a-407a-8c19-ec21c7aad4c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: a21fe6cd-358a-407a-8c19-ec21c7aad4c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: a21fe6cd-358a-407a-8c19-ec21c7aad4c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 127207:TOxd9e, obfs-param: 'dc373127207.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: a5381413-8e0f-4e43-bd78-e38597c82d7b, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
@@ -14,7 +14,7 @@ proxies:
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 325aeb9d-09c9-443d-ab58-6141ee9955b9, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 官网网址：qhcy.cc  qhcy.me - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
 - {name: 官方TG售后讨论频道：https://t.me/Qhcygfpd - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 79dcae26-d1e6-3bb6-ba63-92c2c4989a07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 79dcae26-d1e6-3bb6-ba63-92c2c4989a07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 8aa7cc39-d55b-300d-8d1e-8357f594d75a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 8aa7cc39-d55b-300d-8d1e-8357f594d75a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：14 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 94dda6d7-7c2e-456e-aaa1-c8c42f06fad3, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 94dda6d7-7c2e-456e-aaa1-c8c42f06fad3, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
