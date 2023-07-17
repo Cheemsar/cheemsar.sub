@@ -28,33 +28,14 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 🇭🇰 【IEPL-香港-0A】流媒体解锁 - 探索者
-  - 🇭🇰 【IEPL-香港-0B】流媒体解锁 - 探索者
-  - 【IEPL-香港🇭🇰-02】流媒体解锁 - 探索者
-  - 🇭🇰 【IEPL-香港-03】流媒体解锁 - 探索者
-  - 【IEPL-香港🇭🇰-04】流媒体解锁 - 探索者
-  - 🇹🇼 SVIP|台湾0A|2倍率 - 探索者
-  - 🇹🇼 SVIP|台湾0B|2倍率 - 探索者
-  - 🇹🇼 SVIP|台湾0C|2倍率 - 探索者
-  - VIP|新加坡🇸🇬02-5Gbps - 探索者
-  - VIP|新加坡🇸🇬03-5Gbps - 探索者
-  - VIP|新加坡🇸🇬04-5Gbps - 探索者
-  - VIP|新加坡🇸🇬05-5Gbps - 探索者
-  - VIP|新加坡🇸🇬06-5Gbps - 探索者
-  - 日本A🇯🇵 - 探索者
-  - 日本B🇯🇵 - 探索者
-  - VIP｜日本004🇯🇵—5Gbps - 探索者
-  - 极速｜日本005🇯🇵—5Gbps - 探索者
-  - 极速｜日本006🇯🇵—5Gbps - 探索者
-  - 极速｜美国🇺🇸E - 探索者
-  - 极速｜美国🇺🇸F - 探索者
-  - 极速｜美国🇺🇸K - 探索者
-  - 极速｜美国🇺🇸L - 探索者
-  - 极速|美国0006🇺🇸 - 探索者
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -103,131 +84,119 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id002
-  - 🇭🇰 【IEPL-香港-0A】流媒体解锁 - 探索者
-  - 🇭🇰 【IEPL-香港-0B】流媒体解锁 - 探索者
-  - 【IEPL-香港🇭🇰-02】流媒体解锁 - 探索者
-  - 🇭🇰 【IEPL-香港-03】流媒体解锁 - 探索者
-  - 【IEPL-香港🇭🇰-04】流媒体解锁 - 探索者
+  use: &id002
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id003
-  - 🇹🇼 SVIP|台湾0A|2倍率 - 探索者
-  - 🇹🇼 SVIP|台湾0B|2倍率 - 探索者
-  - 🇹🇼 SVIP|台湾0C|2倍率 - 探索者
+  use: &id003
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id004
-  - 🇭🇰 【IEPL-香港-0A】流媒体解锁 - 探索者
-  - 🇭🇰 【IEPL-香港-0B】流媒体解锁 - 探索者
-  - 【IEPL-香港🇭🇰-02】流媒体解锁 - 探索者
-  - 🇭🇰 【IEPL-香港-03】流媒体解锁 - 探索者
-  - 【IEPL-香港🇭🇰-04】流媒体解锁 - 探索者
-  - 🇹🇼 SVIP|台湾0A|2倍率 - 探索者
-  - 🇹🇼 SVIP|台湾0B|2倍率 - 探索者
-  - 🇹🇼 SVIP|台湾0C|2倍率 - 探索者
+  use: &id004
+  - HK
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id005
-  - VIP|新加坡🇸🇬02-5Gbps - 探索者
-  - VIP|新加坡🇸🇬03-5Gbps - 探索者
-  - VIP|新加坡🇸🇬04-5Gbps - 探索者
-  - VIP|新加坡🇸🇬05-5Gbps - 探索者
-  - VIP|新加坡🇸🇬06-5Gbps - 探索者
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id006
-  - 日本A🇯🇵 - 探索者
-  - 日本B🇯🇵 - 探索者
-  - VIP｜日本004🇯🇵—5Gbps - 探索者
-  - 极速｜日本005🇯🇵—5Gbps - 探索者
-  - 极速｜日本006🇯🇵—5Gbps - 探索者
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id007
-  - 极速｜美国🇺🇸E - 探索者
-  - 极速｜美国🇺🇸F - 探索者
-  - 极速｜美国🇺🇸K - 探索者
-  - 极速｜美国🇺🇸L - 探索者
-  - 极速|美国0006🇺🇸 - 探索者
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id008
-  - 🌞🌞网址：www.qqcryxr.com - 探索者
-  - 🌞🌞网址：www.cryxr2.com - 探索者
-  - 🌞🌞网址：www.cryxr3.com - 探索者
+  use: &id008
+  - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id004
+  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  use: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
-proxies:
-- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🇭🇰 【IEPL-香港-0A】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34643, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🇭🇰 【IEPL-香港-0B】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34644, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 【IEPL-香港🇭🇰-02】流媒体解锁 - 探索者, server: 603diyb.donghui.tech, port: 32336, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇭🇰 【IEPL-香港-03】流媒体解锁 - 探索者, server: 603diyb.donghui.tech, port: 36712, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 【IEPL-香港🇭🇰-04】流媒体解锁 - 探索者, server: 603diyb.donghui.tech, port: 32327, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP|新加坡🇸🇬02-5Gbps - 探索者, server: 603diya.donghui.tech, port: 34639, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: VIP|新加坡🇸🇬03-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32323, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP|新加坡🇸🇬04-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32324, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP|新加坡🇸🇬05-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32325, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP|新加坡🇸🇬06-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32334, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 日本A🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34650, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 日本B🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本005🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本006🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32335, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜美国🇺🇸E - 探索者, server: gdgda.donghui.tech, port: 47893, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdgda.donghui.tech}}, udp: true}
-- {name: 极速｜美国🇺🇸F - 探索者, server: gdgda.donghui.tech, port: 47892, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdgda.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32326, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜美国🇺🇸K - 探索者, server: 603gyc.xn--vhq72yulenv8b.com, port: 56561, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603gyc.xn--vhq72yulenv8b.com}}, udp: true}
-- {name: 极速｜美国🇺🇸L - 探索者, server: 603gyc.xn--vhq72yulenv8b.com, port: 56562, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603gyc.xn--vhq72yulenv8b.com}}, udp: true}
-- {name: 极速|美国0006🇺🇸 - 探索者, server: 603gyc.xn--vhq72yulenv8b.com, port: 56557, type: vmess, uuid: 6e292281-627e-4c88-9b1c-0b27f4c96f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603gyc.xn--vhq72yulenv8b.com}}, udp: true}
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/qhcy.cc/HK.yaml
+    interval: 180
+    path: trials_providers/qhcy.cc/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/qhcy.cc/TW.yaml
+    interval: 180
+    path: trials_providers/qhcy.cc/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/qhcy.cc/SG.yaml
+    interval: 180
+    path: trials_providers/qhcy.cc/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/qhcy.cc/JP.yaml
+    interval: 180
+    path: trials_providers/qhcy.cc/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/qhcy.cc/US.yaml
+    interval: 180
+    path: trials_providers/qhcy.cc/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_Other:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/qhcy.cc/p_All_Other.yaml
+    interval: 180
+    path: trials_providers/qhcy.cc/p_All_Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
