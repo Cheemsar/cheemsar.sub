@@ -295,7 +295,7 @@ proxy-groups:
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
   - 🇹🇼 台湾5 - giao云
-  - 🇹🇼 🇨🇳台湾-直连A - 青花瓷云qhcy.cc
+  - 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc
   - 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc
   - 🇹🇼 GCP-TW1-20230218 - Kangaroo✦Network
   - 🇹🇼 GCP-TW2-20230218 - Kangaroo✦Network
@@ -1530,7 +1530,7 @@ proxy-groups:
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
   - 🇹🇼 台湾5 - giao云
-  - 🇹🇼 🇨🇳台湾-直连A - 青花瓷云qhcy.cc
+  - 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc
   - 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc
   - 🇹🇼 GCP-TW1-20230218 - Kangaroo✦Network
   - 🇹🇼 GCP-TW2-20230218 - Kangaroo✦Network
@@ -1826,7 +1826,7 @@ proxy-groups:
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
   - 🇹🇼 台湾5 - giao云
-  - 🇹🇼 🇨🇳台湾-直连A - 青花瓷云qhcy.cc
+  - 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc
   - 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc
   - 🇹🇼 GCP-TW1-20230218 - Kangaroo✦Network
   - 🇹🇼 GCP-TW2-20230218 - Kangaroo✦Network
@@ -3315,7 +3315,7 @@ proxies:
 - {name: 🇰🇷首尔-中转D - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 11483, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵东京-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 29011, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
 - {name: 🇯🇵东京-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 38611, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳台湾-直连A - 青花瓷云qhcy.cc, server: qhcy-tw.qhcy.me, port: 30553, type: trojan, password: 69670540-5947-4d93-8cdc-1ddab15842a3, sni: qhcy-tw.qhcy.me, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 33944, type: trojan, password: 69670540-5947-4d93-8cdc-1ddab15842a3, sni: qhcy-tw.qhcy.me, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc, server: qhcy-tw-v18.qhcy.me, port: 17701, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: qhcy-tw-v18.qhcy.me, network: ws, ws-opts: {path: /, headers: {Host: qhcy-tw-v18.qhcy.me}}, udp: true}
 - {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 37389, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 19204, type: ss, cipher: aes-128-gcm, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
