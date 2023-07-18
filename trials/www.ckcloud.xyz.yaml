@@ -55,7 +55,6 @@ proxy-groups:
   - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 04【vip1】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 04_1【vip1】 - JCBB
   - 🇯🇵 JCBB_日本01【vip1】 - JCBB
   - 🇯🇵 JCBB_日本02【vip1】 - JCBB
   - 🇯🇵 JCBB_日本03【vip1】 - JCBB
@@ -190,7 +189,6 @@ proxy-groups:
   - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 04【vip1】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 04_1【vip1】 - JCBB
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -297,7 +295,6 @@ proxies:
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 21425, type: trojan, password: 0d5fed9f-1eb2-459e-b6ba-d833d0d33407, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 20707, type: trojan, password: 0d5fed9f-1eb2-459e-b6ba-d833d0d33407, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 18716, type: trojan, password: 0d5fed9f-1eb2-459e-b6ba-d833d0d33407, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 JCBB_ 新加坡 04_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 56915, type: trojan, password: 0d5fed9f-1eb2-459e-b6ba-d833d0d33407, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 38381, type: vmess, uuid: 0d5fed9f-1eb2-459e-b6ba-d833d0d33407, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28204, type: vmess, uuid: 0d5fed9f-1eb2-459e-b6ba-d833d0d33407, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28001, type: vmess, uuid: 0d5fed9f-1eb2-459e-b6ba-d833d0d33407, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}

@@ -9,4 +9,3 @@ proxies:
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: 4e9caa0f-5044-4b62-8943-0473198847a1, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 4e9caa0f-5044-4b62-8943-0473198847a1, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 4e9caa0f-5044-4b62-8943-0473198847a1, udp: true}
-- {name: 🇭🇰 香港 | 高速香港4（会员） - BIUBIU FAST, server: gs1.biubiufast.quest, port: 32001, type: trojan, password: 4e9caa0f-5044-4b62-8943-0473198847a1, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
