@@ -275,16 +275,6 @@ sub_url  https://sub1.itg.best:30443/link/SXi9i2yN1OM3BX0f?sub=1
 time  2023-07-18 23:37:09.632793+08:00
 type  sspanel
 
-[www.crew.icu]
-buy  pass
-email  xohjcxbjx63@gmail.com
-name  湊 あくあのCrew
-node_n  13
-sub_info  0B  10G  2023-07-18 21:47:10+08:00  (剩余 10G 0:07:32.519782)
-sub_url  https://dy.aqua520.com/api/v1/client/subscribe?token=0be53a25437880b00e144fdaba9bf343
-time  2023-07-18 20:47:11.900436+08:00
-type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='www.crew.icu', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=0be53a25437880b00e144fdaba9bf343 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1fac339810>, 'Connection to www.crew.icu timed out. (connect timeout=10)'))
 
 [console.ly520.me]
 buy  pass
