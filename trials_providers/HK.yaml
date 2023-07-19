@@ -169,9 +169,9 @@ proxies:
 - {name: 🇭🇰 香港3 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: e668d7f8-3943-4091-a106-45454283776c, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: e668d7f8-3943-4091-a106-45454283776c, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 443, type: trojan, password: e668d7f8-3943-4091-a106-45454283776c, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 9aa737d4-6696-4787-a6b6-03ad35a0c9e5, udp: true}
-- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 9aa737d4-6696-4787-a6b6-03ad35a0c9e5, udp: true}
-- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: zhe-c.crazys.shop, port: 32102, type: trojan, password: 9aa737d4-6696-4787-a6b6-03ad35a0c9e5, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 1c12e949-4c81-417a-a725-f4d8a57e5ea9, udp: true}
+- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 1c12e949-4c81-417a-a725-f4d8a57e5ea9, udp: true}
+- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: zhe-c.crazys.shop, port: 32102, type: trojan, password: 1c12e949-4c81-417a-a725-f4d8a57e5ea9, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 37389, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 19204, type: ss, cipher: aes-128-gcm, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
 - {name: 🇭🇰香港-中转C - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 26921, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
