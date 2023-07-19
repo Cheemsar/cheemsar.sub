@@ -53,7 +53,7 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 59250, type: trojan, password: d54d5cc0-0071-4ca1-9c2a-2a174578f161, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 48834, type: trojan, password: d54d5cc0-0071-4ca1-9c2a-2a174578f161, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-06_1 - FastFly, server: gzdx.jcnode.top, port: 45920, type: trojan, password: d54d5cc0-0071-4ca1-9c2a-2a174578f161, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: 318ccef1-d3cf-4145-8ecd-2c26647f5b48, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: e668d7f8-3943-4091-a106-45454283776c, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: 9aa737d4-6696-4787-a6b6-03ad35a0c9e5, udp: true}
 - {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: zhe-c.crazys.shop, port: 32104, type: trojan, password: 9aa737d4-6696-4787-a6b6-03ad35a0c9e5, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 10918, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
