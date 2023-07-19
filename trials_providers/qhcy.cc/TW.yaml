@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 33944, type: trojan, password: 69670540-5947-4d93-8cdc-1ddab15842a3, sni: qhcy-tw.qhcy.me, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc, server: qhcy-tw-v18.qhcy.me, port: 443, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: qhcy-tw-v18.qhcy.me, network: ws, ws-opts: {path: /, headers: {Host: qhcy-tw-v18.qhcy.me}}, udp: true}
+- {name: 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc, server: qhcy-tw-v18.qhcy.me, port: 13445, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: qhcy-tw-v18.qhcy.me, network: ws, ws-opts: {path: /, headers: {Host: qhcy-tw-v18.qhcy.me}}, udp: true}
