@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP-IEPL-A-1 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 8dd6ebf5-73f6-42da-9d86-51766c0428e5, udp: true}
-- {name: 🇯🇵 JP-IEPL-A-2 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 8dd6ebf5-73f6-42da-9d86-51766c0428e5, udp: true}
-- {name: 🇯🇵 JP-IEPL-B-3 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: 8dd6ebf5-73f6-42da-9d86-51766c0428e5, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP-IEPL-B-4 - 小白云, server: jp4.iepl.cooc.icu, port: 18881, type: trojan, password: 8dd6ebf5-73f6-42da-9d86-51766c0428e5, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP-IEPL-A-5 - 小白云, server: jp5.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 8dd6ebf5-73f6-42da-9d86-51766c0428e5, udp: true}
+- {name: 🇯🇵 JP-IEPL-A-1 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
+- {name: 🇯🇵 JP-IEPL-A-2 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
+- {name: 🇯🇵 JP-IEPL-B-3 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP-IEPL-B-4 - 小白云, server: jp4.iepl.cooc.icu, port: 18881, type: trojan, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP-IEPL-A-5 - 小白云, server: jp5.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
