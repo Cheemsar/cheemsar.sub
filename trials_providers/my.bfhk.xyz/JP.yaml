@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵日本 📽️「东京」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: 04f99c34-4658-4fa1-861c-660ac254763d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jpa01, headers: {Host: jpa01.galenet.online}}, udp: true}
