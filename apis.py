@@ -180,7 +180,7 @@ class Session(requests.Session):
     def put(self, url='', data=None, **kwargs) -> Response:
         return self.request('PUT', url, data, **kwargs)
 
-    def request(self, method: str, url: str = '', data=None, timeout=10, allow_redirects=None, **kwargs):
+    def request(self, method: str, url: str = '', data=None, timeout=30, allow_redirects=None, **kwargs):
         method = method.upper()
         url = urljoin(self.__base, url.split('#', 1)[0])
         kwargs.update(data=data, timeout=timeout, allow_redirects=False)
