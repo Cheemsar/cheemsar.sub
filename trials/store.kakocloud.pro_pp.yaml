@@ -13,34 +13,29 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 🇭🇰 香港1-1 - 湊 あくあのCrew
-  - 🇭🇰 香港1-2 - 湊 あくあのCrew
-  - 🇭🇰 香港1-3 - 湊 あくあのCrew
-  - 🇭🇰 香港2-1 - 湊 あくあのCrew
-  - 🇭🇰 香港2-2 - 湊 あくあのCrew
-  - 🇭🇰 香港2-3 - 湊 あくあのCrew
-  - 🇹🇼 台湾1 - 湊 あくあのCrew
-  - 🇹🇼 台湾2 - 湊 あくあのCrew
-  - 🇹🇼 台湾3 - 湊 あくあのCrew
-  - 🇯🇵 日本2 - 湊 あくあのCrew
-  - 🇯🇵 日本3 - 湊 あくあのCrew
-  - 🇺🇸 美国1 - 湊 あくあのCrew
-  - 🇺🇸 美国2 - 湊 あくあのCrew
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -69,11 +64,15 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -85,88 +84,119 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id002
-  - 🇭🇰 香港1-1 - 湊 あくあのCrew
-  - 🇭🇰 香港1-2 - 湊 あくあのCrew
-  - 🇭🇰 香港1-3 - 湊 あくあのCrew
-  - 🇭🇰 香港2-1 - 湊 あくあのCrew
-  - 🇭🇰 香港2-2 - 湊 あくあのCrew
-  - 🇭🇰 香港2-3 - 湊 あくあのCrew
+  use: &id002
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id003
-  - 🇹🇼 台湾1 - 湊 あくあのCrew
-  - 🇹🇼 台湾2 - 湊 あくあのCrew
-  - 🇹🇼 台湾3 - 湊 あくあのCrew
+  use: &id003
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id004
-  - 🇭🇰 香港1-1 - 湊 あくあのCrew
-  - 🇭🇰 香港1-2 - 湊 あくあのCrew
-  - 🇭🇰 香港1-3 - 湊 あくあのCrew
-  - 🇭🇰 香港2-1 - 湊 あくあのCrew
-  - 🇭🇰 香港2-2 - 湊 あくあのCrew
-  - 🇭🇰 香港2-3 - 湊 あくあのCrew
-  - 🇹🇼 台湾1 - 湊 あくあのCrew
-  - 🇹🇼 台湾2 - 湊 あくあのCrew
-  - 🇹🇼 台湾3 - 湊 あくあのCrew
+  use: &id004
+  - HK
+  - TW
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  tolerance: 50
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id005
-  - 🇯🇵 日本2 - 湊 あくあのCrew
-  - 🇯🇵 日本3 - 湊 あくあのCrew
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id006
-  - 🇺🇸 美国1 - 湊 あくあのCrew
-  - 🇺🇸 美国2 - 湊 あくあのCrew
+  use: &id007
+  - US
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 50
+  use: &id008
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id004
+  use: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id005
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id006
-proxies:
-- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 112.65.27.58, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: 39.175.1.182, port: 25867, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: 111.38.37.16, port: 25775, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: 39.175.1.182, port: 25393, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: 111.38.37.16, port: 25776, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 112.65.27.58, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 111.38.37.16, port: 25777, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 112.65.27.58, port: 26192, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇯🇵 日本2 - 湊 あくあのCrew, server: 112.65.27.58, port: 35612, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: 39.175.1.182, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
-- {name: 🇯🇵 日本3 - 湊 あくあのCrew, server: 111.38.37.16, port: 45581, type: ss, cipher: chacha20-ietf-poly1305, password: 4e3dd0de-ff78-452e-a49f-0e1a88dacab7, udp: true}
+  use: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/HK.yaml
+    interval: 180
+    path: trials_providers/store.kakocloud.pro/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/TW.yaml
+    interval: 180
+    path: trials_providers/store.kakocloud.pro/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/SG.yaml
+    interval: 180
+    path: trials_providers/store.kakocloud.pro/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/JP.yaml
+    interval: 180
+    path: trials_providers/store.kakocloud.pro/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/US.yaml
+    interval: 180
+    path: trials_providers/store.kakocloud.pro/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/Other.yaml
+    interval: 180
+    path: trials_providers/store.kakocloud.pro/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
