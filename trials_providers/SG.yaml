@@ -69,10 +69,10 @@ proxies:
 - {name: 🇸🇬 kk云_新加坡_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 30c7962c-0578-4439-b822-d080be6f64d3, udp: true}
 - {name: 🇸🇬 kk云_新加坡_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 30c7962c-0578-4439-b822-d080be6f64d3, udp: true}
 - {name: 🇸🇬 kk云_新加坡_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, type: ss, cipher: chacha20-ietf-poly1305, password: 30c7962c-0578-4439-b822-d080be6f64d3, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: eMnZNzeF0BeMSwNs, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: eMnZNzeF0BeMSwNs, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: eMnZNzeF0BeMSwNs, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: eMnZNzeF0BeMSwNs, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: az.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: JWivJjkOB0tEAFsQ, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: az.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: JWivJjkOB0tEAFsQ, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: az.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: JWivJjkOB0tEAFsQ, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: az.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: JWivJjkOB0tEAFsQ, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 41754, type: trojan, password: ee8591ea-9e08-4eaf-9990-3b1eb75c237e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01_1【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 15035, type: trojan, password: ee8591ea-9e08-4eaf-9990-3b1eb75c237e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 21425, type: trojan, password: ee8591ea-9e08-4eaf-9990-3b1eb75c237e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}

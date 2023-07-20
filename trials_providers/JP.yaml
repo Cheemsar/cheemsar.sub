@@ -105,10 +105,10 @@ proxies:
 - {name: 🇯🇵 kk云_日本_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 13677, type: ss, cipher: chacha20-ietf-poly1305, password: 30c7962c-0578-4439-b822-d080be6f64d3, udp: true}
 - {name: 🇯🇵 kk云_日本_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: 30c7962c-0578-4439-b822-d080be6f64d3, udp: true}
 - {name: 🇯🇵 kk云_日本 公益 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 30c7962c-0578-4439-b822-d080be6f64d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: jpcheap.mikuproxy.pro}}, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: eMnZNzeF0BeMSwNs, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: eMnZNzeF0BeMSwNs, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: eMnZNzeF0BeMSwNs, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: eMnZNzeF0BeMSwNs, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: az.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: JWivJjkOB0tEAFsQ, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: az.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: JWivJjkOB0tEAFsQ, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: az.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: JWivJjkOB0tEAFsQ, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: az.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: JWivJjkOB0tEAFsQ, udp: true}
 - {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 31550, type: trojan, password: ee8591ea-9e08-4eaf-9990-3b1eb75c237e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 40212, type: trojan, password: ee8591ea-9e08-4eaf-9990-3b1eb75c237e, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 44891, type: trojan, password: ee8591ea-9e08-4eaf-9990-3b1eb75c237e, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
