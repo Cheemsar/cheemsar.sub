@@ -36,14 +36,13 @@ proxy-groups:
   - 🇭🇰香港-中转B - 青花瓷云qhcy.cc
   - 🇭🇰香港-中转C - 青花瓷云qhcy.cc
   - 🇭🇰香港-中转D - 青花瓷云qhcy.cc
-  - 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc
   - 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc
   - 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc
   - 🇸🇬新加坡-中转B - 青花瓷云qhcy.cc
   - 🇯🇵东京-中转A - 青花瓷云qhcy.cc
   - 🇯🇵东京-中转B - 青花瓷云qhcy.cc
   - 🇺🇸拉斯维加斯-直连B - 青花瓷云qhcy.cc
-  - 🇺🇸弗吉尼亚-直连测试 - 青花瓷云qhcy.cc
+  - 🇺🇸弗吉尼亚-中转 - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc
   - 🇺🇸纽约-中转A - 青花瓷云qhcy.cc
@@ -115,7 +114,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc
   - 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc
 - name: 🇨🇳 ‍中国
   type: url-test
@@ -127,7 +125,6 @@ proxy-groups:
   - 🇭🇰香港-中转B - 青花瓷云qhcy.cc
   - 🇭🇰香港-中转C - 青花瓷云qhcy.cc
   - 🇭🇰香港-中转D - 青花瓷云qhcy.cc
-  - 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc
   - 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc
 - name: 🇸🇬 ‍新加坡
   type: url-test
@@ -152,7 +149,7 @@ proxy-groups:
   tolerance: 50
   proxies: &id007
   - 🇺🇸拉斯维加斯-直连B - 青花瓷云qhcy.cc
-  - 🇺🇸弗吉尼亚-直连测试 - 青花瓷云qhcy.cc
+  - 🇺🇸弗吉尼亚-中转 - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc
   - 🇺🇸纽约-中转A - 青花瓷云qhcy.cc
@@ -194,13 +191,12 @@ proxy-groups:
   proxies: *id008
 proxies:
 - {name: 🇦🇪迪拜-解锁 - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 15282, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸拉斯维加斯-直连B - 青花瓷云qhcy.cc, server: qhcy-us-vegas.qhcy.me, port: 13777, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: qhcy-us-vegas.qhcy.me, network: ws, ws-opts: {path: /, headers: {Host: qhcy-us-vegas.qhcy.me}}, udp: true}
-- {name: 🇺🇸弗吉尼亚-直连测试 - 青花瓷云qhcy.cc, server: qhcy-virginia-t3.qhcy.me, port: 34709, type: trojan, password: 69670540-5947-4d93-8cdc-1ddab15842a3, sni: qhcy-virginia-t3.qhcy.me, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸拉斯维加斯-直连B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 10280, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸弗吉尼亚-中转 - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 27040, type: trojan, password: 69670540-5947-4d93-8cdc-1ddab15842a3, sni: qhcy-virginia-t3.qhcy.me, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 26641, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 49113, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸纽约-中转A - 青花瓷云qhcy.cc, server: js.cm.bbcc.cyou, port: 11783, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸纽约-中转B - 青花瓷云qhcy.cc, server: js.cm.bbcc.cyou, port: 27230, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳台湾-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 33944, type: trojan, password: 69670540-5947-4d93-8cdc-1ddab15842a3, sni: qhcy-tw.qhcy.me, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc, server: qhcy-tw-v18.qhcy.me, port: 13445, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: qhcy-tw-v18.qhcy.me, network: ws, ws-opts: {path: /, headers: {Host: qhcy-tw-v18.qhcy.me}}, udp: true}
 - {name: 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 10918, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 32359, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
