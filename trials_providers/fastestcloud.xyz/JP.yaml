@@ -2,11 +2,9 @@
 ---
 proxies:
 - {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 19390, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp001.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-01_1 - FastFly, server: gzdx.jcnode.top, port: 40716, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp001.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 27897, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp001.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip3 日本-04 - FastFly, server: gzyd02.jcnode.top, port: 49072, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp001.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-05 - FastFly, server: gzdx.jcnode.top, port: 47802, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-05_1 - FastFly, server: gzdx.jcnode.top, port: 15579, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: gzyd.jcnode.top, port: 20927, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-09 - FastFly, server: gzdx.jcnode.top, port: 17217, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-10 - FastFly, server: gzyd.jcnode.top, port: 51840, type: trojan, password: 7c134d10-7eae-4908-954e-8b9e853bb92d, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
