@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 🇨🇳台湾-直连B - 青花瓷云qhcy.cc, server: qhcy-tw-v18.qhcy.me, port: 13445, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: qhcy-tw-v18.qhcy.me, network: ws, ws-opts: {path: /, headers: {Host: qhcy-tw-v18.qhcy.me}}, udp: true}
+- {name: 🇹🇼 🇨🇳台湾-中转 - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 43864, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
