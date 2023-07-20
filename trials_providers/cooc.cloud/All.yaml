@@ -30,5 +30,3 @@ proxies:
 - {name: 🇸🇬 SG-4 - 小白云, server: sg4.iepl.cooc.icu, port: 35108, type: trojan, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
 - {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
-- {name: 🇦🇪 Dubai-1 - 小白云, server: dubai1.cooc.icu, port: 21602, type: ss, cipher: aes-256-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
-- {name: 🇦🇪 Dubai-2 - 小白云, server: dubai2.cooc.icu, port: 21603, type: ss, cipher: aes-256-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
