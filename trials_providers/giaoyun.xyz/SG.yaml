@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡1 - giao云, server: 530sg.ljydw.top, port: 4433, type: trojan, password: e1e310bf-f82d-423f-8e46-92058d4ad238, sni: 530sg.ljydw.top, skip-cert-verify: true, udp: true}
