@@ -113,7 +113,7 @@ proxies:
 - {name: 🇺🇸 vip1 美国-05 - FastFly, server: gzdx.jcnode.top, port: 48002, type: vmess, uuid: 721aa175-6902-4aeb-990c-26952d7821e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gzdx.jcnode.top, port: 61802, type: trojan, password: 721aa175-6902-4aeb-990c-26952d7821e8, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-12 - FastFly, server: gzyd.jcnode.top, port: 10340, type: trojan, password: 721aa175-6902-4aeb-990c-26952d7821e8, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: d68845a6-c838-412e-b5e6-1e27484e4c6a, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 525ojh.ljydw.top, port: 443, type: trojan, password: 3301b7e5-cb81-42da-9c6a-3f696b4aa7d0, sni: 525ojh.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: aa4072c6-a416-45e6-a31a-a96e2a7c5ce1, udp: true}
 - {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST, server: zhe-c.crazys.shop, port: 32103, type: trojan, password: aa4072c6-a416-45e6-a31a-a96e2a7c5ce1, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸拉斯维加斯-直连B - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 10280, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

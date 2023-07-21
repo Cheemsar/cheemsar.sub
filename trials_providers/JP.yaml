@@ -85,7 +85,7 @@ proxies:
 - {name: 🇯🇵 vip1 日本-14 - FastFly, server: gzyd.jcnode.top, port: 55248, type: trojan, password: 721aa175-6902-4aeb-990c-26952d7821e8, sni: jp04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-15 - FastFly, server: gzyd01.jcnode.top, port: 17529, type: trojan, password: 721aa175-6902-4aeb-990c-26952d7821e8, sni: jp04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-16 - FastFly, server: gzyd02.jcnode.top, port: 17529, type: trojan, password: 721aa175-6902-4aeb-990c-26952d7821e8, sni: jp04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: d68845a6-c838-412e-b5e6-1e27484e4c6a, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 3301b7e5-cb81-42da-9c6a-3f696b4aa7d0, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: aa4072c6-a416-45e6-a31a-a96e2a7c5ce1, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: aa4072c6-a416-45e6-a31a-a96e2a7c5ce1, udp: true}
 - {name: 🇯🇵 日本|高速日本SS4（会员） - BIUBIU FAST, server: cmcc.flyqu.com, port: 41002, type: ss, cipher: chacha20-ietf-poly1305, password: aa4072c6-a416-45e6-a31a-a96e2a7c5ce1, udp: true}
