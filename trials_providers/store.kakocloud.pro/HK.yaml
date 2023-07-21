@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 kk云_香港家宽_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 75c5a738-4354-49db-94f6-d92ea09cc3f2, udp: true}
-- {name: 🇭🇰 kk云_香港家宽_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 75c5a738-4354-49db-94f6-d92ea09cc3f2, udp: true}
-- {name: 🇭🇰 kk云_香港家宽_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26913, type: ss, cipher: chacha20-ietf-poly1305, password: 75c5a738-4354-49db-94f6-d92ea09cc3f2, udp: true}
-- {name: 🇭🇰 kk云_深港专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 25289, type: ss, cipher: chacha20-ietf-poly1305, password: 75c5a738-4354-49db-94f6-d92ea09cc3f2, udp: true}
-- {name: 🇭🇰 kk云_香港 公益 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 75c5a738-4354-49db-94f6-d92ea09cc3f2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: hkcheap.mikuproxy.pro}}, udp: true}
+- {name: 🇭🇰 kk云_香港家宽_移动 t 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: f5c5c549-638e-4114-84a8-a12dc2b2faa1, udp: true}
+- {name: 🇭🇰 kk云_香港家宽_联通 t 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: f5c5c549-638e-4114-84a8-a12dc2b2faa1, udp: true}
+- {name: 🇭🇰 kk云_香港家宽_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26913, type: ss, cipher: chacha20-ietf-poly1305, password: f5c5c549-638e-4114-84a8-a12dc2b2faa1, udp: true}
+- {name: 🇭🇰 kk云_深港专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 25289, type: ss, cipher: chacha20-ietf-poly1305, password: f5c5c549-638e-4114-84a8-a12dc2b2faa1, udp: true}
+- {name: 🇭🇰 kk云_香港 公益 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: f5c5c549-638e-4114-84a8-a12dc2b2faa1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: hkcheap.mikuproxy.pro}}, udp: true}
