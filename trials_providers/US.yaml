@@ -399,11 +399,11 @@ proxies:
 - {name: 🇺🇸 kk云_美国_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26999, type: ss, cipher: chacha20-ietf-poly1305, password: ffb19efc-6613-40b2-9f79-6c582db2e3aa, udp: true}
 - {name: 🇺🇸 kk云_美国 公益 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: ffb19efc-6613-40b2-9f79-6c582db2e3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uscheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: uscheap.mikuproxy.pro}}, udp: true}
 - {name: 🇺🇸 kk云_美国 免费 0x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: ffb19efc-6613-40b2-9f79-6c582db2e3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree.mikuproxy.pro}}, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: az.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: az.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: az.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: az.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: az.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 38381, type: vmess, uuid: c84821ec-48e8-43c4-99d5-6092d0e9f2a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28204, type: vmess, uuid: c84821ec-48e8-43c4-99d5-6092d0e9f2a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 28001, type: vmess, uuid: c84821ec-48e8-43c4-99d5-6092d0e9f2a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}

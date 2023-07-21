@@ -204,12 +204,12 @@ proxies:
 - {name: 🇭🇰 kk云_香港家宽_电信 t 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26913, type: ss, cipher: chacha20-ietf-poly1305, password: ffb19efc-6613-40b2-9f79-6c582db2e3aa, udp: true}
 - {name: 🇭🇰 kk云_深港专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 25289, type: ss, cipher: chacha20-ietf-poly1305, password: ffb19efc-6613-40b2-9f79-6c582db2e3aa, udp: true}
 - {name: 🇭🇰 kk云_香港 公益 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: ffb19efc-6613-40b2-9f79-6c582db2e3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: hkcheap.mikuproxy.pro}}, udp: true}
-- {name: 🇭🇰 香港01 - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: JqBoOw8D0sfxRLdQ, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: gz.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: 8vs4MDW0VagXCc1D, udp: true}
 - {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 35257, type: trojan, password: c84821ec-48e8-43c4-99d5-6092d0e9f2a6, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港01_1【vip1】 - JCBB, server: gzdx.jcnode.top, port: 41390, type: trojan, password: c84821ec-48e8-43c4-99d5-6092d0e9f2a6, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 49486, type: trojan, password: c84821ec-48e8-43c4-99d5-6092d0e9f2a6, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}

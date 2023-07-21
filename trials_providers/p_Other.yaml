@@ -17,7 +17,7 @@ proxies:
 - {name: 官网网址：qhcy.cc  qhcy.me - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
 - {name: 官方TG售后讨论频道：https://t.me/Qhcygfpd - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
 - {name: 距离下次重置剩余：27 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 457b160a-306f-34d1-980f-5e1c94585156, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 457b160a-306f-34d1-980f-5e1c94585156, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: dc4aa0a8-c461-3d65-b4c8-5b6bf888671b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: dc4aa0a8-c461-3d65-b4c8-5b6bf888671b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：10 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: c84821ec-48e8-43c4-99d5-6092d0e9f2a6, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: c84821ec-48e8-43c4-99d5-6092d0e9f2a6, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
