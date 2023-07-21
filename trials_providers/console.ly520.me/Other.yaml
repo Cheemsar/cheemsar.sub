@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 22033fdc-41e6-4ff6-a55f-7a7f3099c618, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 26468, type: vmess, uuid: 22033fdc-41e6-4ff6-a55f-7a7f3099c618, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇦🇺 澳大利亚-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 26519, type: vmess, uuid: 22033fdc-41e6-4ff6-a55f-7a7f3099c618, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇬🇧 英国-01 | 1.3X - 凌云网络, server: 139.226.136.165, port: 27598, type: vmess, uuid: 22033fdc-41e6-4ff6-a55f-7a7f3099c618, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇩🇪 德国-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26521, type: vmess, uuid: 22033fdc-41e6-4ff6-a55f-7a7f3099c618, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇳🇱 荷兰-01 | 1.3X - 凌云网络, server: 139.226.136.165, port: 26522, type: vmess, uuid: 22033fdc-41e6-4ff6-a55f-7a7f3099c618, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 71211288-7ce8-4978-bef3-0ed9bc57754c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 26468, type: vmess, uuid: 71211288-7ce8-4978-bef3-0ed9bc57754c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇦🇺 澳大利亚-01 | 1.2X - 凌云网络, server: 139.226.136.165, port: 26519, type: vmess, uuid: 71211288-7ce8-4978-bef3-0ed9bc57754c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇬🇧 英国-01 | 1.3X - 凌云网络, server: 139.226.136.165, port: 27598, type: vmess, uuid: 71211288-7ce8-4978-bef3-0ed9bc57754c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇩🇪 德国-01 | 1.5X - 凌云网络, server: 139.226.136.165, port: 26521, type: vmess, uuid: 71211288-7ce8-4978-bef3-0ed9bc57754c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇳🇱 荷兰-01 | 1.3X - 凌云网络, server: 139.226.136.165, port: 26522, type: vmess, uuid: 71211288-7ce8-4978-bef3-0ed9bc57754c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
