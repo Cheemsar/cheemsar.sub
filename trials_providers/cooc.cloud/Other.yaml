@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
-- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, udp: true}
-- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: 2612b6c9-e35a-49fe-a5cd-7c2a22eddc82, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: f6f13fe6-1f21-4349-9667-04dc93a1d592, udp: true}
+- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: f6f13fe6-1f21-4349-9667-04dc93a1d592, udp: true}
+- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: f6f13fe6-1f21-4349-9667-04dc93a1d592, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: f6f13fe6-1f21-4349-9667-04dc93a1d592, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
