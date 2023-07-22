@@ -211,7 +211,7 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 香港bgp - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇭🇰 香港bgp - 2x - 快乐星球, server: 9ef2.foamddns.online, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 1x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇸🇬 新加坡 - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22224, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
