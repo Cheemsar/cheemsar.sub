@@ -233,6 +233,8 @@ proxies:
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: az.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: JUf58nPknzN00oWL, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: az.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: JUf58nPknzN00oWL, udp: true}
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: az.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: JUf58nPknzN00oWL, udp: true}
+- {name: 迈阿密-1 - 小黑云, server: sdyd.ygdyf.com, port: 54953, type: vmess, uuid: 26e1a8b0-b884-3e9b-9404-f4551591c3e1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 小黑云 - ss中转测试 - 小黑云, server: sdyd.ygdyf.com, port: 54158, type: ss, cipher: aes-128-gcm, password: bC8wParCBqd3cJ8K, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 64761, type: trojan, password: de61cdee-cbff-4f71-8806-4c6e8a5f3309, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 40112, type: trojan, password: de61cdee-cbff-4f71-8806-4c6e8a5f3309, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 JCBB_ 韩国 03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 63300, type: trojan, password: de61cdee-cbff-4f71-8806-4c6e8a5f3309, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}

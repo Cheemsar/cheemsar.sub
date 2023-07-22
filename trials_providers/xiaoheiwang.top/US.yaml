@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 纽约-1 - 小黑云, server: sdyd.ygdyf.com, port: 60000, type: vmess, uuid: 26e1a8b0-b884-3e9b-9404-f4551591c3e1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
