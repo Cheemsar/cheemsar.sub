@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：9 天 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: 1c5ed332-e78b-418c-8c03-6cf5d152d085, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
+- {name: 距离下次重置剩余：8 天 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: 1c5ed332-e78b-418c-8c03-6cf5d152d085, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}

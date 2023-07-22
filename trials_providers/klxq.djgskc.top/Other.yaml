@@ -1,16 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇦🇺 澳大利亚 - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22231, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇦🇺 澳大利亚 - 1.5x - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22231, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇦🇺 澳大利亚 - 1x - 快乐星球, server: 1x.turn.catscloud.top, port: 22231, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇩🇪 德国 - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22288, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇩🇪 德国 - 1.5x - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22288, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇩🇪 德国 - 1x - 快乐星球, server: 1x.turn.catscloud.top, port: 22288, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇫🇷 法国 - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22291, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇫🇷 法国 - 1.5x - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22291, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇫🇷 法国 - 1x - 快乐星球, server: 1x.turn.catscloud.top, port: 22291, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇬🇧 英国 - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22226, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇬🇧 英国 - 1.5x - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22226, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇬🇧 英国 - 1x - 快乐星球, server: 1x.turn.catscloud.top, port: 22226, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
-- {name: 🇹🇷 土耳其 - 1x - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22271, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇦🇺 澳大利亚 - 1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22231, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇦🇺 澳大利亚 - 2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22231, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇦🇺 澳大利亚 - 3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22231, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇩🇪 德国 - 1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22288, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇩🇪 德国 - 2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22288, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇩🇪 德国 - 3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22288, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇫🇷 法国 - 1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22291, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇫🇷 法国 - 2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22291, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇫🇷 法国 - 3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22291, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇬🇧 英国 - 1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22226, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇬🇧 英国 - 2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22226, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇬🇧 英国 - 3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22226, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇹🇷 土耳其 - 3 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22271, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
