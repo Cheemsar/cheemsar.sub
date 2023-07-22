@@ -593,6 +593,7 @@ proxies:
 - {name: 🇭🇰 香港1 - giao云, server: 720hk1.ljydw.top, port: 443, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 720hk1.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港2 - giao云, server: 720hk2.ljydw.top, port: 443, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 720hk2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3 - giao云, server: 720hk3.ljydw.top, port: 443, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 720hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 722jp.ljydw.top, port: 443, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 722jp.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 4433, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}
@@ -1181,7 +1182,7 @@ proxies:
 - {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 62684, type: vmess, uuid: a062aca8-3966-481b-810b-9b278e280447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 56102, type: trojan, password: a062aca8-3966-481b-810b-9b278e280447, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 65097, type: trojan, password: a062aca8-3966-481b-810b-9b278e280447, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港bgp - 2x - 快乐星球, server: 9ef2.foamddns.online, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇭🇰 香港bgp - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 1x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇸🇬 新加坡 - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22224, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}

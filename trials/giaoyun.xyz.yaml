@@ -37,6 +37,7 @@ proxy-groups:
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
   - 🇹🇼 台湾5 - giao云
+  - 🇯🇵 日本1 - giao云
   - 🇯🇵 日本 - giao云
   - 🇺🇸 美国 - giao云
 - name: 🛩️ ‍墙内
@@ -123,6 +124,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id005
+  - 🇯🇵 日本1 - giao云
   - 🇯🇵 日本 - giao云
 - name: 🇺🇸 ‍美国
   type: url-test
@@ -153,6 +155,7 @@ proxies:
 - {name: 🇭🇰 香港1 - giao云, server: 720hk1.ljydw.top, port: 443, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 720hk1.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港2 - giao云, server: 720hk2.ljydw.top, port: 443, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 720hk2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3 - giao云, server: 720hk3.ljydw.top, port: 443, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 720hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 722jp.ljydw.top, port: 443, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 722jp.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港8 - giao云, server: 511hk01.ljydw.top, port: 4433, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 511hk01.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港9 - giao云, server: 511hk05.ljydw.top, port: 4433, type: trojan, password: 70c35615-ef45-4c72-8378-87f66a5ccf0b, sni: 511hk05.ljydw.top, skip-cert-verify: true, udp: true}

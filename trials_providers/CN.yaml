@@ -298,7 +298,7 @@ proxies:
 - {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: gzdx.jcnode.top, port: 59486, type: vmess, uuid: a062aca8-3966-481b-810b-9b278e280447, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 61413, type: trojan, password: a062aca8-3966-481b-810b-9b278e280447, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22084, type: trojan, password: a062aca8-3966-481b-810b-9b278e280447, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港bgp - 2x - 快乐星球, server: 9ef2.foamddns.online, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
+- {name: 🇭🇰 香港bgp - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇭🇰 香港bgp - 1.5x - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇭🇰 香港bgp - 1x - 快乐星球, server: 1x.turn.catscloud.top, port: 22261, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
 - {name: 🇹🇼 台湾 - 2x - 快乐星球, server: 2x.turn.catscloud.top, port: 22259, type: ss, cipher: aes-128-gcm, password: 5ee5c087-7a4d-4049-921c-baa811162fa6, udp: true}
