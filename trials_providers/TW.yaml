@@ -6,6 +6,10 @@ proxies:
 - {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: a1ab6712-0499-4201-89ad-6eb1f7b74eb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32326, type: vmess, uuid: a1ab6712-0499-4201-89ad-6eb1f7b74eb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: a1ab6712-0499-4201-89ad-6eb1f7b74eb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇹🇼 台湾 01 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: ce59206a-f972-4e41-949d-a1483fb3c198, udp: true}
+- {name: 🇹🇼 台湾 02 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: ce59206a-f972-4e41-949d-a1483fb3c198, udp: true}
+- {name: 🇹🇼 台湾 03 - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: ce59206a-f972-4e41-949d-a1483fb3c198, udp: true}
+- {name: 🇹🇼 台湾 04 - V2Link, server: host-024.crazyspeed.xyz, port: 21004, type: ss, cipher: chacha20-ietf-poly1305, password: ce59206a-f972-4e41-949d-a1483fb3c198, udp: true}
 - {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: 111.38.37.16, port: 25777, type: ss, cipher: chacha20-ietf-poly1305, password: 3b524ef4-fba1-47b5-a0d5-0f5a02397241, udp: true}
 - {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: 39.175.1.182, port: 27302, type: ss, cipher: chacha20-ietf-poly1305, password: 3b524ef4-fba1-47b5-a0d5-0f5a02397241, udp: true}
 - {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: 112.65.27.58, port: 26192, type: ss, cipher: chacha20-ietf-poly1305, password: 3b524ef4-fba1-47b5-a0d5-0f5a02397241, udp: true}
