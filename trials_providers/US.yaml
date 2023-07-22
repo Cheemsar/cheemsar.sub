@@ -64,8 +64,8 @@ proxies:
 - {name: 🇺🇸 美国 硅谷103 - 墙了个墙, server: svvip102.qlgq1.pw, port: 30443, type: trojan, password: 6887f7ac-79f2-3ce9-b2c9-3e2dd46b3862, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
 - {name: 🇺🇸 美国 硅谷104 - 墙了个墙, server: svvip102.qlgq1.pw, port: 40443, type: trojan, password: 6887f7ac-79f2-3ce9-b2c9-3e2dd46b3862, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
 - {name: 🇺🇸 美国 硅谷105 - 墙了个墙, server: svvip102.qlgq1.pw, port: 50443, type: trojan, password: 6887f7ac-79f2-3ce9-b2c9-3e2dd46b3862, sni: svvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: svvip102}, udp: true}
-- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: e039c94e-830f-47e1-a5cb-425873debb87, udp: true}
-- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: 39.175.1.182, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: e039c94e-830f-47e1-a5cb-425873debb87, udp: true}
+- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: 139.226.136.165, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 95ab7a17-a77e-455d-92d2-35f062cb941c, udp: true}
+- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: 39.175.1.182, port: 26206, type: ss, cipher: chacha20-ietf-poly1305, password: 95ab7a17-a77e-455d-92d2-35f062cb941c, udp: true}
 - {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: f6f13fe6-1f21-4349-9667-04dc93a1d592, udp: true}
 - {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: f6f13fe6-1f21-4349-9667-04dc93a1d592, udp: true}
 - {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: f6f13fe6-1f21-4349-9667-04dc93a1d592, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
