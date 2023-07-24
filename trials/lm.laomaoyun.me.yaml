@@ -243,7 +243,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id008
-  - 距离下次重置剩余：28 天 - 老猫云
+  - 距离下次重置剩余：27 天 - 老猫云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -269,7 +269,7 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 距离下次重置剩余：28 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 距离下次重置剩余：27 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
 - {name: 🇭🇰 香港 01----永久域名：老猫.com - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
 - {name: 🇭🇰 香港 02 - 老猫云, server: cn1.laomao2.xyz, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
 - {name: 🇭🇰 香港 03 - 老猫云, server: cn1.laomao2.xyz, port: 30003, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}

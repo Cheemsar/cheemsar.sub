@@ -7,3 +7,4 @@ proxies:
 - {name: 迈阿密-1 - 小黑云, server: sdyd.ygdyf.com, port: 51576, type: vmess, uuid: 5ba7d89c-b40d-324a-ac70-ec716ffd381c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 -1 - 小黑云, server: sdyd.ygdyf.com, port: 51454, type: vmess, uuid: 5ba7d89c-b40d-324a-ac70-ec716ffd381c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
 - {name: 小黑云 - ss中转测试 - 小黑云, server: sdyd.ygdyf.com, port: 54158, type: ss, cipher: aes-128-gcm, password: oLRnqwKwNTADdoIm, udp: true}
+- {name: 🇸🇬 小黑云 - 新加坡SS - 小黑云, server: sdyd.ygdyf.com, port: 54243, type: ss, cipher: aes-128-gcm, password: oLRnqwKwNTADdoIm, udp: true}
