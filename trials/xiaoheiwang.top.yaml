@@ -32,6 +32,7 @@ proxy-groups:
   - 🇸🇬 小黑云 - 新加坡SS - 小黑云
   - 🇯🇵 日本-1 - 小黑云
   - 🇺🇸 纽约-1 - 小黑云
+  - 🇹🇷 土耳其-1 - 小黑云
   - 🇫🇷 法国-1 - 小黑云
   - 迈阿密-1 - 小黑云
   - 小黑云 - ss中转测试 - 小黑云
@@ -109,6 +110,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id006
+  - 🇹🇷 土耳其-1 - 小黑云
   - 🇫🇷 法国-1 - 小黑云
   - 迈阿密-1 - 小黑云
   - 小黑云 - ss中转测试 - 小黑云
@@ -131,13 +133,14 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 🇯🇵 日本-1 - 小黑云, server: sdyd.ygdyf.com, port: 51170, type: vmess, uuid: 5ba7d89c-b40d-324a-ac70-ec716ffd381c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
-- {name: 🇫🇷 法国-1 - 小黑云, server: sdyd.ygdyf.com, port: 54084, type: vmess, uuid: 5ba7d89c-b40d-324a-ac70-ec716ffd381c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
-- {name: 🇺🇸 纽约-1 - 小黑云, server: sdyd.ygdyf.com, port: 60000, type: vmess, uuid: 5ba7d89c-b40d-324a-ac70-ec716ffd381c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 迈阿密-1 - 小黑云, server: sdyd.ygdyf.com, port: 51576, type: vmess, uuid: 5ba7d89c-b40d-324a-ac70-ec716ffd381c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 -1 - 小黑云, server: sdyd.ygdyf.com, port: 51454, type: vmess, uuid: 5ba7d89c-b40d-324a-ac70-ec716ffd381c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
-- {name: 小黑云 - ss中转测试 - 小黑云, server: sdyd.ygdyf.com, port: 54158, type: ss, cipher: aes-128-gcm, password: oLRnqwKwNTADdoIm, udp: true}
-- {name: 🇸🇬 小黑云 - 新加坡SS - 小黑云, server: sdyd.ygdyf.com, port: 54243, type: ss, cipher: aes-128-gcm, password: oLRnqwKwNTADdoIm, udp: true}
+- {name: 🇹🇷 土耳其-1 - 小黑云, server: sdyd.ygdyf.com, port: 52352, type: vmess, uuid: e1fc184a-ad13-382d-bf8a-68ffe9001e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
+- {name: 🇯🇵 日本-1 - 小黑云, server: sdyd.ygdyf.com, port: 51170, type: vmess, uuid: e1fc184a-ad13-382d-bf8a-68ffe9001e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
+- {name: 🇫🇷 法国-1 - 小黑云, server: sdyd.ygdyf.com, port: 54084, type: vmess, uuid: e1fc184a-ad13-382d-bf8a-68ffe9001e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
+- {name: 🇺🇸 纽约-1 - 小黑云, server: sdyd.ygdyf.com, port: 60000, type: vmess, uuid: e1fc184a-ad13-382d-bf8a-68ffe9001e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 迈阿密-1 - 小黑云, server: sdyd.ygdyf.com, port: 51576, type: vmess, uuid: e1fc184a-ad13-382d-bf8a-68ffe9001e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 -1 - 小黑云, server: sdyd.ygdyf.com, port: 51454, type: vmess, uuid: e1fc184a-ad13-382d-bf8a-68ffe9001e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
+- {name: 小黑云 - ss中转测试 - 小黑云, server: sdyd.ygdyf.com, port: 54158, type: ss, cipher: aes-128-gcm, password: TMLsIkBwiSdfGUED, udp: true}
+- {name: 🇸🇬 小黑云 - 新加坡SS - 小黑云, server: sdyd.ygdyf.com, port: 54243, type: ss, cipher: aes-128-gcm, password: TMLsIkBwiSdfGUED, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

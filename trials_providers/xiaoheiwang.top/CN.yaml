@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 -1 - 小黑云, server: sdyd.ygdyf.com, port: 51454, type: vmess, uuid: 5ba7d89c-b40d-324a-ac70-ec716ffd381c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
+- {name: 🇭🇰 香港 -1 - 小黑云, server: sdyd.ygdyf.com, port: 51454, type: vmess, uuid: e1fc184a-ad13-382d-bf8a-68ffe9001e54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sdyd.ygdyf.com}}, udp: true}
