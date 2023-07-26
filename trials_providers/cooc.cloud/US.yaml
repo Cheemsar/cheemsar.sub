@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: e2b806a0-aa1d-4549-99e1-15bfcaef19de, udp: true}
-- {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: e2b806a0-aa1d-4549-99e1-15bfcaef19de, udp: true}
-- {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: e2b806a0-aa1d-4549-99e1-15bfcaef19de, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US-IEPL-B-2 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: trojan, password: e2b806a0-aa1d-4549-99e1-15bfcaef19de, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 698d8e03-fe43-4df4-9dc0-76d2f7f5156a, udp: true}
+- {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 698d8e03-fe43-4df4-9dc0-76d2f7f5156a, udp: true}
+- {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: 698d8e03-fe43-4df4-9dc0-76d2f7f5156a, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US-IEPL-B-2 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: trojan, password: 698d8e03-fe43-4df4-9dc0-76d2f7f5156a, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}

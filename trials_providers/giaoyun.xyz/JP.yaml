@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本1 - giao云, server: 722jp.ljydw.top, port: 4433, type: trojan, password: 53c37a62-c71e-4b7d-999c-e2406a26c8c7, sni: 722jp.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 53c37a62-c71e-4b7d-999c-e2406a26c8c7, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - giao云, server: 722jp.ljydw.top, port: 4433, type: trojan, password: 01424e36-ed7e-46b9-9f74-b2db98c4496a, sni: 722jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 01424e36-ed7e-46b9-9f74-b2db98c4496a, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}
