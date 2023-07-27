@@ -302,11 +302,7 @@ sub_url  https://cfcloud.cyou/api/v1/client/subscribe?token=8d5a8ea64a753b356ee3
 time  2023-07-23 15:16:33.684619+08:00
 type  v2board
 
-[ayucloud.services]
-auth_path  user
-name  AyucLouD-Services
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(kcjfzjb841@disbox.org): 邮箱后缀已被拉黑
+
 
 [proxyvip.xyz]
 buy  pass
@@ -318,7 +314,4 @@ sub_url  https://sub.proxy-vip.xyz/api/v1/client/subscribe?token=4cd7317c64d81b7
 time  2023-07-27 08:57:21.895415+08:00
 type  v2board
 
-[cn.v2link.dev]
-name  V2Link
-type  v2board
-更新订阅链接/续费续签失败  注册失败(qwusnmgv720@gmail.com): 注册频繁，请等待 60 分钟后再次尝试
+
