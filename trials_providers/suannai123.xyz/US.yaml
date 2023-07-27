@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 USA 美国01 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 15617, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
-- {name: 🇺🇸 USA 美国02 | 隧道 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 35673, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}

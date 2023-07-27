@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 Asia 香港02 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe2.fmmmz1.com, port: 80, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe2.fmmmz1.com}}, udp: true}
-- {name: 🇭🇰 Asia 香港04 | youtube免广告 | 1.0x | V1 - 酸奶, server: adobe4.fmmmz1.com, port: 80, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe4.fmmmz1.com}}, udp: true}
-- {name: 🇹🇼 Asia 香港09 | 解锁台湾流媒体 | 奈飞 | 3.0x | V1 - 酸奶, server: zz.shynia.top, port: 34673, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz.shynia.top}}, udp: true}
-- {name: 🇹🇼 UC 台湾01 | tiktok | Youtube免广告 | 3.0x | V1 - 酸奶, server: 165.154.253.74, port: 80, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}
-- {name: 🇹🇼 UC 台湾02 | 台湾解锁流媒体 | 3.0x | V1 - 酸奶, server: hinet.fmmmz1.com, port: 37777, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: hinet.fmmmz1.com}}, udp: true}

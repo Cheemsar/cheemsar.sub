@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 Asia 新加坡01 | 隧道 | 1.0 x | V1 - 酸奶, server: zz2.shynia.top, port: 48001, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
-- {name: 🇸🇬 Asia 新加坡03 | 隧道 | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48003, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
-- {name: 🇸🇬 Asia 新加坡05 | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48005, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
-- {name: 🇸🇬 Asia 新加坡06 | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48015, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
-- {name: 🇸🇬 Asia 新加坡07 | 解锁chatpgt | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48025, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
-- {name: 🇸🇬 Asia 新加坡08 | 解锁chatpgt | 1.0x | V1 - 酸奶, server: zz2.shynia.top, port: 48035, type: vmess, uuid: b1c690af-a3e2-3167-aa6a-159fcca9d28f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: zz2.shynia.top}}, udp: true}
