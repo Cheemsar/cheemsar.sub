@@ -1,1 +1,393 @@
-dmxlc3M6Ly9kYjZmNzQyYy05ZGEyLTQ1MjUtYjk4Ni1mZTI4ZThkZjJmYjNAMTMyLjE0NS45MC4xNjc6ODA/ZW5jcnlwdGlvbj1ub25lJnNlY3VyaXR5PW5vbmUmc25pPWhvcml6b24xMjMxLnBwLnVhJmZwPWNocm9tZSZ0eXBlPXdzJmhvc3Q9aG9yaXpvbi5hcHBlbmdpbmUxOTk1LndvcmtlcnMuZGV2JnBhdGg9JTJGI2NmLWhvcml6b24tODANCg==
+port: 7890
+socks-port: 7891
+allow-lan: false
+bind-address: '*'
+mode: rule
+log-level: info
+# meta only
+geodata-mode: true
+global-client-fingerprint: chrome
+tcp-concurrent: true
+
+ipv6: false
+external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  default-nameserver:
+    - 119.29.29.29
+    - 119.28.28.28
+    - 223.5.5.5
+    - 114.114.114.114
+  nameserver:
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - localhost.ptlogin2.qq.com
+    - '+.srv.nintendo.net'
+    - '+.stun.playstation.net'
+    - '+.msftconnecttest.com'
+    - '+.msftncsi.com'
+    - '+.xboxlive.com'
+    - 'msftconnecttest.com'
+    - 'xbox.*.microsoft.com'
+    - '*.battlenet.com.cn'
+    - '*.battlenet.com'
+    - '*.blzstatic.cn'
+    - '*.battle.net'
+  
+proxies:
+  - type: vless
+    name: cf-alibaba
+    server: 45.64.23.25
+    port: 443
+    uuid: db6f742c-9da2-4525-b986-fe28e8df2fb3
+    network: ws
+    tls: true
+    skip-cert-verify: true
+    udp: true
+    sni: appengine1995.link
+    client-fingerprint: chrome
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        host: appengine1995.link  
+
+  - type: vless
+    name: cf-horizon
+    server: 45.64.23.25
+    port: 443
+    uuid: db6f742c-9da2-4525-b986-fe28e8df2fb3
+    network: ws
+    tls: true
+    sni: horizon1231.pp.ua
+    udp: false
+    client-fingerprint: chrome
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        host: horizon1231.pp.ua
+
+  - type: vless
+    name: cf-horizon-80
+    server: 132.145.90.167
+    port: 80
+    uuid: db6f742c-9da2-4525-b986-fe28e8df2fb3
+    network: ws
+    tls: false
+    udp: false
+    client-fingerprint: chrome
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        host: horizon.appengine1995.workers.dev   
+
+  - type: vless
+    name: cf-oracle
+    server: 146.56.40.191
+    port: 443
+    uuid: db6f742c-9da2-4525-b986-fe28e8df2fb3
+    network: ws
+    tls: true
+    skip-cert-verify: true
+    udp: true
+    sni: horizon1231.link
+    client-fingerprint: chrome
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        host: horizon1231.link  
+
+
+  - name: sj
+    type: vless
+    server: sj.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "sj.252798.xyz"
+  - name: jp
+    type: vless
+    server: jp.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "jp.252798.xyz"
+  - name: sj1
+    type: vless
+    server: sj.alichen.top
+    port: 1443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "sj.alichen.top"
+  - name: jp1
+    type: vless
+    server: jp.alichen.top
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "jp.alichen.top"
+  - name: hka
+    type: vless
+    server: hka.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "hka.252798.xyz"
+  - name: kr
+    type: vless
+    server: kr.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "kr.252798.xyz"
+  - name: la
+    type: vless
+    server: la.alichen.top
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "la.alichen.top"
+      grpc-multi-mode: true      
+  - name: la-hyse
+    type: hysteria
+    server: la.alichen.top
+    port: 5666
+    auth_str: "9448new"
+    protocol: wechat-video
+    up: "30 Mbps"
+    down: "200 Mbps"
+    alpn:
+      - h3
+    fast-open: true
+  - name: sj-hyse
+    type: hysteria
+    server: sj.alichen.top
+    port: 5566
+    auth_str: "9448new"
+    protocol: wechat-video
+    up: "30 Mbps"
+    down: "200 Mbps"
+    alpn:
+      - h3
+    fast-open: true
+  - name: la-tuic
+    server: la.alichen.top
+    port: 7443
+    type: tuic
+    uuid: 37d59edb-6e4f-43ff-a439-ee87f0216de8
+    password: foobar
+    heartbeat-interval: 10000
+    alpn: [h3]
+    udp-relay-mode: quic
+    congestion-controller: bbr
+    disable-sni: true
+    reduce-rtt: true
+    request-timeout: 8000
+    fast-open: true
+  - name: sj1-tuic
+    server: sj.alichen.top
+    port: 7443
+    type: tuic
+    uuid: 37d59edb-6e4f-43ff-a439-ee87f0216de8
+    password: foobar
+    heartbeat-interval: 10000
+    alpn: [h3]
+    udp-relay-mode: quic
+    congestion-controller: bbr
+    disable-sni: true
+    reduce-rtt: true
+    request-timeout: 8000
+    fast-open: true
+  - name: jp1-vision
+    type: vless
+    server: jp.alichen.top
+    port: 2443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    udp: true
+    network: tcp
+    flow: xtls-rprx-vision
+    reality-opts:
+      public-key: IrFtV1hpCd7EZGxlJKMMrhMe8gjzFgwnrsmu2_tTPDg
+      short-id: "bb1212"
+    client-fingerprint: chrome
+  - name: jp-vision
+    type: vless
+    server: jp.252798.xyz
+    port: 2443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    udp: true
+    network: grpc
+    flow: 
+    grpc-opts:
+      grpc-service-name: "vision"
+      grpc-multi-mode: true
+    reality-opts:
+      public-key: IrFtV1hpCd7EZGxlJKMMrhMe8gjzFgwnrsmu2_tTPDg
+      short-id: "bb1212"
+    client-fingerprint: chrome
+  - name: kr-vision
+    type: vless
+    server: kr.252798.xyz
+    port: 2443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    udp: true
+    network: tcp
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+  - name: sj-vision
+    type: vless
+    server: sj.252798.xyz
+    port: 2443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    udp: true
+    network: tcp
+    flow: xtls-rprx-vision
+    reality-opts:
+      public-key: IrFtV1hpCd7EZGxlJKMMrhMe8gjzFgwnrsmu2_tTPDg
+      short-id: "bb1212"
+    client-fingerprint: chrome
+  - name: sj1-vision
+    type: vless
+    server: sj.alichen.top
+    port: 2443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    udp: true
+    network: tcp
+    flow: xtls-rprx-vision
+    reality-opts:
+      public-key: IrFtV1hpCd7EZGxlJKMMrhMe8gjzFgwnrsmu2_tTPDg
+      short-id: "bb1212"
+    client-fingerprint: chrome
+  - name: kr-shadowtls
+    type: ss
+    server: 193.122.124.191
+    port: 7443
+    cipher: 2022-blake3-aes-128-gcm
+    password: rObhdH4a89qzQa8oAgMycQ==
+    plugin: shadow-tls
+    plugin-opts:
+        host: "addons.mozilla.org"
+        password: rObhdH4a89qzQa8oAgMycQ==
+        version: 3
+        client-fingerprint: chrome
+  - name: sj1-shadowtls
+    type: ss
+    server: 171.22.130.57
+    port: 4443
+    cipher: 2022-blake3-aes-128-gcm
+    password: rObhdH4a89qzQa8oAgMycQ==
+    plugin: shadow-tls
+    plugin-opts:
+        host: "addons.mozilla.org"
+        password: rObhdH4a89qzQa8oAgMycQ==
+        version: 3
+        client-fingerprint: chrome
+          
+                   
+proxy-groups:
+  - name: "PROXY"
+    type: select
+    proxies:
+      - hka
+      - kr
+      - sj
+      - la
+      - jp
+      - jp1
+      - la-tuic
+      - sj1-tuic
+      - la-hyse
+      - sj-hyse
+      - jp1-vision
+      - jp-vision
+      - kr-vision
+      - sj-vision
+      - sj1-vision
+      - kr-shadowtls
+      - sj1-shadowtls
+
+      - cf-alibaba
+      - cf-horizon
+      - cf-horizon-80
+      - cf-oracle
+rule-providers:
+  reject:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    path: ./ruleset/reject.yaml
+    interval: 86400
+  cncidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt"
+    path: ./ruleset/cncidr.yaml
+    interval: 86400
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
+    path: ./ruleset/lancidr.yaml
+    interval: 86400
+  applications:
+    type: http
+    behavior: classical
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
+    path: ./ruleset/applications.yaml
+    interval: 86400
+rules:
+  - RULE-SET,reject,REJECT
+  - RULE-SET,lancidr,DIRECT
+  - RULE-SET,cncidr,DIRECT
+  - RULE-SET,applications,DIRECT
+  - GEOSITE,category-ads-all,REJECT
+  - GEOSITE,icloud@cn,DIRECT
+  - GEOSITE,apple@cn,DIRECT
+  - GEOSITE,apple-cn,DIRECT
+  - GEOSITE,microsoft@cn,DIRECT
+  - GEOSITE,facebook,PROXY
+  - GEOSITE,youtube,PROXY
+  - GEOSITE,gfw,PROXY
+  - GEOSITE,greatfire,PROXY
+  - GEOSITE,geolocation-cn,DIRECT
+  - GEOSITE,geolocation-!cn,PROXY
+  - GEOIP,telegram,PROXY,no-resolve
+  - GEOIP,private,DIRECT,no-resolve
+  - GEOIP,cn,DIRECT
+  - MATCH,PROXY
+
