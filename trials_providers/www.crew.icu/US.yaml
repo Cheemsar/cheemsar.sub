@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 57438, type: ss, cipher: chacha20-ietf-poly1305, password: c24655d4-1b3e-4c99-bec4-9d39ba9aea97, udp: true}
-- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: hz.xzyunjiasu.icu, port: 14025, type: ss, cipher: chacha20-ietf-poly1305, password: c24655d4-1b3e-4c99-bec4-9d39ba9aea97, udp: true}
+- {name: 🇺🇸 美国1 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 57438, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3f3f81-d032-4367-93a5-c3e0ac7105e5, udp: true}
+- {name: 🇺🇸 美国2 - 湊 あくあのCrew, server: hz.xzyunjiasu.icu, port: 14025, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3f3f81-d032-4367-93a5-c3e0ac7105e5, udp: true}
