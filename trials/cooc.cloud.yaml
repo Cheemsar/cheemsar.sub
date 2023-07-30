@@ -32,27 +32,21 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 HK-IEPL-A-1 - 小白云
-  - 🇭🇰 HK-IEPL-A-2 - 小白云
-  - 🇭🇰 HK-IEPL-A-3 - 小白云
-  - 🇭🇰 HK-IEPL-A-4 - 小白云
-  - 🇭🇰 HK-IEPL-A-5 - 小白云
-  - 🇭🇰 HK-IEPL-B-6 - 小白云
-  - 🇭🇰 HK-IEPL-B-7 - 小白云
-  - 🇭🇰 HK-IEPL-B-8 - 小白云
-  - 🇭🇰 HK-IEPL-B-9 - 小白云
-  - 🇭🇰 HK-IEPL-B-0 - 小白云
+  - 🇭🇰 1-香港-华东 - 小白云
+  - 🇭🇰 2-香港-华南 - 小白云
+  - 🇭🇰 3-香港-华北 - 小白云
+  - 🇭🇰 4-香港-备用 - 小白云
+  - 🇭🇰 5-香港-备用 - 小白云
   - 🇹🇼 TW-1 - 小白云
   - 🇹🇼 TW-2 - 小白云
   - 🇸🇬 SG-1 - 小白云
   - 🇸🇬 SG-2 - 小白云
   - 🇸🇬 SG-3 - 小白云
   - 🇸🇬 SG-4 - 小白云
-  - 🇯🇵 JP-IEPL-A-1 - 小白云
-  - 🇯🇵 JP-IEPL-A-2 - 小白云
-  - 🇯🇵 JP-IEPL-B-3 - 小白云
-  - 🇯🇵 JP-IEPL-B-4 - 小白云
-  - 🇯🇵 JP-IEPL-A-5 - 小白云
+  - 🇯🇵 6-日本-华东 - 小白云
+  - 🇯🇵 7-日本-华南 - 小白云
+  - 🇯🇵 8-日本-华北 - 小白云
+  - 🇯🇵 9-日本-备用 - 小白云
   - 🇺🇸 US-IEPL-A-1 - 小白云
   - 🇺🇸 US-IEPL-A-2 - 小白云
   - 🇺🇸 US-IEPL-B-1 - 小白云
@@ -113,16 +107,11 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇭🇰 HK-IEPL-A-1 - 小白云
-  - 🇭🇰 HK-IEPL-A-2 - 小白云
-  - 🇭🇰 HK-IEPL-A-3 - 小白云
-  - 🇭🇰 HK-IEPL-A-4 - 小白云
-  - 🇭🇰 HK-IEPL-A-5 - 小白云
-  - 🇭🇰 HK-IEPL-B-6 - 小白云
-  - 🇭🇰 HK-IEPL-B-7 - 小白云
-  - 🇭🇰 HK-IEPL-B-8 - 小白云
-  - 🇭🇰 HK-IEPL-B-9 - 小白云
-  - 🇭🇰 HK-IEPL-B-0 - 小白云
+  - 🇭🇰 1-香港-华东 - 小白云
+  - 🇭🇰 2-香港-华南 - 小白云
+  - 🇭🇰 3-香港-华北 - 小白云
+  - 🇭🇰 4-香港-备用 - 小白云
+  - 🇭🇰 5-香港-备用 - 小白云
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -137,16 +126,11 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇭🇰 HK-IEPL-A-1 - 小白云
-  - 🇭🇰 HK-IEPL-A-2 - 小白云
-  - 🇭🇰 HK-IEPL-A-3 - 小白云
-  - 🇭🇰 HK-IEPL-A-4 - 小白云
-  - 🇭🇰 HK-IEPL-A-5 - 小白云
-  - 🇭🇰 HK-IEPL-B-6 - 小白云
-  - 🇭🇰 HK-IEPL-B-7 - 小白云
-  - 🇭🇰 HK-IEPL-B-8 - 小白云
-  - 🇭🇰 HK-IEPL-B-9 - 小白云
-  - 🇭🇰 HK-IEPL-B-0 - 小白云
+  - 🇭🇰 1-香港-华东 - 小白云
+  - 🇭🇰 2-香港-华南 - 小白云
+  - 🇭🇰 3-香港-华北 - 小白云
+  - 🇭🇰 4-香港-备用 - 小白云
+  - 🇭🇰 5-香港-备用 - 小白云
   - 🇹🇼 TW-1 - 小白云
   - 🇹🇼 TW-2 - 小白云
 - name: 🇸🇬 ‍新加坡
@@ -165,11 +149,10 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id006
-  - 🇯🇵 JP-IEPL-A-1 - 小白云
-  - 🇯🇵 JP-IEPL-A-2 - 小白云
-  - 🇯🇵 JP-IEPL-B-3 - 小白云
-  - 🇯🇵 JP-IEPL-B-4 - 小白云
-  - 🇯🇵 JP-IEPL-A-5 - 小白云
+  - 🇯🇵 6-日本-华东 - 小白云
+  - 🇯🇵 7-日本-华南 - 小白云
+  - 🇯🇵 8-日本-华北 - 小白云
+  - 🇯🇵 9-日本-备用 - 小白云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -215,35 +198,29 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 HK-IEPL-A-1 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇭🇰 HK-IEPL-A-2 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇭🇰 HK-IEPL-A-3 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇭🇰 HK-IEPL-A-4 - 小白云, server: hk4.iepl.cooc.icu, port: 24881, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇭🇰 HK-IEPL-A-5 - 小白云, server: hk5.iepl.cooc.icu, port: 25881, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇭🇰 HK-IEPL-B-6 - 小白云, server: hk6.iepl.cooc.icu, port: 26881, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: hk.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-IEPL-B-7 - 小白云, server: hk7.iepl.cooc.icu, port: 26781, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: hk.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-IEPL-B-8 - 小白云, server: hk8.iepl.cooc.icu, port: 28881, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: hk.tro.second.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-IEPL-B-9 - 小白云, server: hk9.iepl.cooc.icu, port: 29881, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: hk.tro.second.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-IEPL-B-0 - 小白云, server: hk0.iepl.cooc.icu, port: 20881, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: hk.tro.second.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP-IEPL-A-1 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇯🇵 JP-IEPL-A-2 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇯🇵 JP-IEPL-B-3 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP-IEPL-B-4 - 小白云, server: jp4.iepl.cooc.icu, port: 18881, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP-IEPL-A-5 - 小白云, server: jp5.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US-IEPL-B-2 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG-1 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇸🇬 SG-2 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇸🇬 SG-3 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG-4 - 小白云, server: sg4.iepl.cooc.icu, port: 35108, type: trojan, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
-- {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 607c62c0-cbdc-4e2a-9618-1fb1ea71cca6, udp: true}
+- {name: 🇭🇰 1-香港-华东 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇭🇰 2-香港-华南 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇭🇰 3-香港-华北 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇭🇰 4-香港-备用 - 小白云, server: hk4.iepl.cooc.icu, port: 24881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇭🇰 5-香港-备用 - 小白云, server: hk6.iepl.cooc.icu, port: 26881, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: hk.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 6-日本-华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇯🇵 7-日本-华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇯🇵 8-日本-华北 - 小白云, server: jp5.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇯🇵 9-日本-备用 - 小白云, server: jp3.iepl.cooc.icu, port: 47102, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: jp.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US-IEPL-A-1 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇺🇸 US-IEPL-A-2 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇺🇸 US-IEPL-B-1 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US-IEPL-B-2 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇰🇷 KR-2 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR-4 - 小白云, server: kr4.iepl.cooc.icu, port: 35104, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG-1 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇸🇬 SG-2 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇸🇬 SG-3 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG-4 - 小白云, server: sg4.iepl.cooc.icu, port: 35108, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: sg1.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -4179,7 +4156,6 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
-- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞
