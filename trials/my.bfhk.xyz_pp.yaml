@@ -12,11 +12,9 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -46,9 +44,7 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇯🇵 ‍日本
@@ -70,11 +66,6 @@ proxy-groups:
   tolerance: 50
   use: &id003
   - US
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 50
-  use: &id004
-  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -84,9 +75,6 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id003
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id004
 proxy-providers:
   JP:
     type: http
@@ -102,15 +90,6 @@ proxy-providers:
     url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/my.bfhk.xyz/US.yaml
     interval: 180
     path: trials_providers/my.bfhk.xyz/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/my.bfhk.xyz/Other.yaml
-    interval: 180
-    path: trials_providers/my.bfhk.xyz/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本 📽️「东京」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: 08e16558-0a92-41c4-87a9-92eb5c1ef633, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jpa01, headers: {Host: jpa01.galenet.online}}, udp: true}
+- {name: 🇯🇵日本 📽️「东京」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: f84ee551-6ad2-4b56-aa04-31a46c5df90b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jpa01, headers: {Host: jpa01.galenet.online}}, udp: true}
