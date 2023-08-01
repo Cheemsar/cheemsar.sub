@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 25238, type: trojan, password: 16510183-46fb-30ce-8747-3cdb40c00014, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 11215, type: trojan, password: 16510183-46fb-30ce-8747-3cdb40c00014, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 45168, type: trojan, password: 16510183-46fb-30ce-8747-3cdb40c00014, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 50355, type: trojan, password: 16510183-46fb-30ce-8747-3cdb40c00014, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 25238, type: trojan, password: 39fe37ee-5e36-3bf8-9fd2-e55353cc526c, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 11215, type: trojan, password: 39fe37ee-5e36-3bf8-9fd2-e55353cc526c, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 45168, type: trojan, password: 39fe37ee-5e36-3bf8-9fd2-e55353cc526c, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 50355, type: trojan, password: 39fe37ee-5e36-3bf8-9fd2-e55353cc526c, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}

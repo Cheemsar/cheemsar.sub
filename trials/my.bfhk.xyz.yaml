@@ -10,11 +10,11 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -22,10 +22,11 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇯🇵日本 📽️「东京」 - 北方航空
+  - 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空
   - 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空
   - 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空
-  - 🇺🇸美国 🌐「圣何塞」 - 北方航空
+  - 🇷🇴罗马尼亚 🆗「 卢戈日」 - 北方航空
+  - 🇷🇴罗马尼亚 🌐 - 北方航空
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -48,10 +49,10 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -60,36 +61,38 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇯🇵日本 📽️「东京」 - 北方航空
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id003
+  proxies: &id002
+  - 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空
   - 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空
   - 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空
-  - 🇺🇸美国 🌐「圣何塞」 - 北方航空
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id003
+  - 🇷🇴罗马尼亚 🆗「 卢戈日」 - 北方航空
+  - 🇷🇴罗马尼亚 🌐 - 北方航空
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🎏 ‍其他
   type: select
   proxies: *id003
 proxies:
+- {name: 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: f84ee551-6ad2-4b56-aa04-31a46c5df90b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
 - {name: 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: f84ee551-6ad2-4b56-aa04-31a46c5df90b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
 - {name: 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: f84ee551-6ad2-4b56-aa04-31a46c5df90b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
-- {name: 🇺🇸美国 🌐「圣何塞」 - 北方航空, server: js.bfyun.eu.org, port: 2087, type: vmess, uuid: f84ee551-6ad2-4b56-aa04-31a46c5df90b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-02.bfyun.eu.org, network: grpc, grpc-opts: {grpc-service-name: us-02.bfyun.eu.org}, udp: true}
-- {name: 🇯🇵日本 📽️「东京」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: f84ee551-6ad2-4b56-aa04-31a46c5df90b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jpa01, headers: {Host: jpa01.galenet.online}}, udp: true}
+- {name: 🇷🇴罗马尼亚 🆗「 卢戈日」 - 北方航空, server: gercdn.bh8189.eu.org, port: 2052, type: vmess, uuid: f84ee551-6ad2-4b56-aa04-31a46c5df90b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /eurro, headers: {Host: eurro.galenet.online}}, udp: true}
+- {name: 🇷🇴罗马尼亚 🌐 - 北方航空, server: rozl.bfyun.eu.org, port: 2087, type: vmess, uuid: f84ee551-6ad2-4b56-aa04-31a46c5df90b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eurro.galenet.online, network: grpc, grpc-opts: {grpc-service-name: eurro.galenet.online}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
