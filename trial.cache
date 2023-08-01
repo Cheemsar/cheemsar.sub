@@ -11,18 +11,7 @@ sub_url  http://13.230.136.48:8080/link/KzfFGcWrNay5tLdJ?sub=3
 time  2023-08-01 09:05:29.673430+08:00
 type  sspanel
 
-[cooc.cloud]
-banned_domains  tmpeml.com
-buy  pass
-email  coblpvywp171@gmail.com
-name  小白云
-node_n  21
-sub_info  9.66M  5G  2023-08-01 09:03:03+08:00  (剩余 4.991G -1 day, 23:56:36.029032)
-sub_url  https://cooc.cloud/api/v1/client/subscribe?token=45fdedd03789fef311761b56821b1a0b
-time  2023-07-30 09:03:03.626484+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱验证码超时(qvofppz215@tmpeml.com)
+
 
 [cyanmori.com]
 auto_invite  F
@@ -284,23 +273,8 @@ sub_url  https://sub.bee-v2link.top/api/v1/client/subscribe?token=a6540c68ca5b9d
 time  2023-07-29 08:58:47.752385+08:00
 type  v2board
 
-[www.ckcloud.xyz]
-buy  pass
-email  kpibiasa588@gmail.com
-name  JCBB
-node_n  59
-sub_info  26.35M  1G  2023-07-31 13:24:44+08:00  (剩余 997.6M -1 day, 4:19:07.394307)
-sub_url  https://www.jcbb.info/api/v1/client/subscribe?token=d0e08c29541056c95becb8cd94deea1c
-time  2023-07-30 13:24:46.006811+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(vhqlwosl95@gmail.com): 注册频繁，请等待 3600 分钟后再次尝试
 
-[klxq.djgskc.top]
-banned_domains  tmail.ws
-name  快乐星球
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(lkpyqfkhk512@tmail.ws)
+
 
 [store.kakocloud.pro]
 buy  pass
