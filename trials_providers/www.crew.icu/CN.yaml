@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 112.65.27.152, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
-- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 40627, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
-- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: hz.xzyunjiasu.icu, port: 22856, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
-- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 58443, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
-- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: hz.xzyunjiasu.icu, port: 52534, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
-- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 112.65.27.152, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
-- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: hz.xzyunjiasu.icu, port: 39602, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
-- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 43645, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
-- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: bj.xzyunjiasu.icu, port: 45700, type: ss, cipher: chacha20-ietf-poly1305, password: e816dfac-696a-419c-a6d3-0cf5583178c7, udp: true}
+- {name: 🇭🇰 香港1-1 - 湊 あくあのCrew, server: 112.65.27.152, port: 26191, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}
+- {name: 🇭🇰 香港1-2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 40627, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}
+- {name: 🇭🇰 香港1-3 - 湊 あくあのCrew, server: hz.xzyunjiasu.icu, port: 22856, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}
+- {name: 🇭🇰 香港2-1 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 58443, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}
+- {name: 🇭🇰 香港2-2 - 湊 あくあのCrew, server: hz.xzyunjiasu.icu, port: 52534, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}
+- {name: 🇭🇰 香港2-3 - 湊 あくあのCrew, server: 112.65.27.152, port: 27297, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}
+- {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: hz.xzyunjiasu.icu, port: 39602, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}
+- {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 43645, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}
+- {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: bj.xzyunjiasu.icu, port: 45700, type: ss, cipher: chacha20-ietf-poly1305, password: 8bc0eb6c-c0a9-4188-a625-567ccdf25652, udp: true}

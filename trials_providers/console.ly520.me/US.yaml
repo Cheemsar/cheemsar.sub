@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 112.65.27.152, port: 26033, type: vmess, uuid: c15f0d49-7f8c-4f22-ad57-8e951bc56108, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 112.65.27.152, port: 26035, type: vmess, uuid: c15f0d49-7f8c-4f22-ad57-8e951bc56108, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 112.65.27.179, port: 26033, type: vmess, uuid: 8f9034f1-beec-4a9f-bc1e-85bf20a4b6e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 112.65.27.179, port: 26035, type: vmess, uuid: 8f9034f1-beec-4a9f-bc1e-85bf20a4b6e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
