@@ -118,13 +118,13 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: db5272f1-d85c-4859-8b23-ad11d74706ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: 112.65.27.179, port: 36028, type: vmess, uuid: db5272f1-d85c-4859-8b23-ad11d74706ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: 112.65.27.179, port: 36020, type: vmess, uuid: db5272f1-d85c-4859-8b23-ad11d74706ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: 112.65.27.179, port: 36021, type: vmess, uuid: db5272f1-d85c-4859-8b23-ad11d74706ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 112.65.27.179, port: 26025, type: vmess, uuid: db5272f1-d85c-4859-8b23-ad11d74706ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 112.65.27.179, port: 26033, type: vmess, uuid: db5272f1-d85c-4859-8b23-ad11d74706ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 112.65.27.179, port: 26035, type: vmess, uuid: db5272f1-d85c-4859-8b23-ad11d74706ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 13fde454-af39-42c8-b2f8-50e91532ee84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: 112.65.27.179, port: 36028, type: vmess, uuid: 13fde454-af39-42c8-b2f8-50e91532ee84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: 112.65.27.179, port: 36020, type: vmess, uuid: 13fde454-af39-42c8-b2f8-50e91532ee84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: 112.65.27.179, port: 36021, type: vmess, uuid: 13fde454-af39-42c8-b2f8-50e91532ee84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 112.65.27.179, port: 26025, type: vmess, uuid: 13fde454-af39-42c8-b2f8-50e91532ee84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 112.65.27.179, port: 26033, type: vmess, uuid: 13fde454-af39-42c8-b2f8-50e91532ee84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 112.65.27.179, port: 26035, type: vmess, uuid: 13fde454-af39-42c8-b2f8-50e91532ee84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
