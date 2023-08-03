@@ -144,7 +144,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/cryxr.xyz/HK.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cryxr.xyz/HK.yaml
     interval: 180
     path: trials_providers/cryxr.xyz/HK.yaml
     health-check:
@@ -153,7 +153,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/cryxr.xyz/TW.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cryxr.xyz/TW.yaml
     interval: 180
     path: trials_providers/cryxr.xyz/TW.yaml
     health-check:
@@ -162,7 +162,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/cryxr.xyz/SG.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cryxr.xyz/SG.yaml
     interval: 180
     path: trials_providers/cryxr.xyz/SG.yaml
     health-check:
@@ -171,7 +171,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/cryxr.xyz/JP.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cryxr.xyz/JP.yaml
     interval: 180
     path: trials_providers/cryxr.xyz/JP.yaml
     health-check:
@@ -180,7 +180,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/cryxr.xyz/US.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cryxr.xyz/US.yaml
     interval: 180
     path: trials_providers/cryxr.xyz/US.yaml
     health-check:
@@ -189,7 +189,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/cryxr.xyz/Other.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cryxr.xyz/Other.yaml
     interval: 180
     path: trials_providers/cryxr.xyz/Other.yaml
     health-check:

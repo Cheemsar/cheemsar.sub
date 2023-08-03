@@ -80,7 +80,7 @@ proxy-groups:
 proxy-providers:
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/cfcloud.cyou/TW.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cfcloud.cyou/TW.yaml
     interval: 180
     path: trials_providers/cfcloud.cyou/TW.yaml
     health-check:
@@ -89,7 +89,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/cfcloud.cyou/US.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cfcloud.cyou/US.yaml
     interval: 180
     path: trials_providers/cfcloud.cyou/US.yaml
     health-check:

@@ -119,7 +119,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/www.crew.icu/HK.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/www.crew.icu/HK.yaml
     interval: 180
     path: trials_providers/www.crew.icu/HK.yaml
     health-check:
@@ -128,7 +128,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/www.crew.icu/TW.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/www.crew.icu/TW.yaml
     interval: 180
     path: trials_providers/www.crew.icu/TW.yaml
     health-check:
@@ -137,7 +137,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/www.crew.icu/JP.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/www.crew.icu/JP.yaml
     interval: 180
     path: trials_providers/www.crew.icu/JP.yaml
     health-check:
@@ -146,7 +146,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/www.crew.icu/US.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/www.crew.icu/US.yaml
     interval: 180
     path: trials_providers/www.crew.icu/US.yaml
     health-check:

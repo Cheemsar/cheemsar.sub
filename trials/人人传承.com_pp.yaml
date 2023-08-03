@@ -145,7 +145,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/HK.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/人人传承.com/HK.yaml
     interval: 180
     path: trials_providers/人人传承.com/HK.yaml
     health-check:
@@ -154,7 +154,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/TW.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/人人传承.com/TW.yaml
     interval: 180
     path: trials_providers/人人传承.com/TW.yaml
     health-check:
@@ -163,7 +163,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/SG.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/人人传承.com/SG.yaml
     interval: 180
     path: trials_providers/人人传承.com/SG.yaml
     health-check:
@@ -172,7 +172,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/JP.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/人人传承.com/JP.yaml
     interval: 180
     path: trials_providers/人人传承.com/JP.yaml
     health-check:
@@ -181,7 +181,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/US.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/人人传承.com/US.yaml
     interval: 180
     path: trials_providers/人人传承.com/US.yaml
     health-check:
@@ -190,7 +190,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/人人传承.com/Other.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/人人传承.com/Other.yaml
     interval: 180
     path: trials_providers/人人传承.com/Other.yaml
     health-check:
