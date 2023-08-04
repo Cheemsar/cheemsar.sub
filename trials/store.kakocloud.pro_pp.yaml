@@ -147,7 +147,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/HK.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/store.kakocloud.pro/HK.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/HK.yaml
     health-check:
@@ -156,7 +156,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/TW.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/store.kakocloud.pro/TW.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/TW.yaml
     health-check:
@@ -165,7 +165,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/SG.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/store.kakocloud.pro/SG.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/SG.yaml
     health-check:
@@ -174,7 +174,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/JP.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/store.kakocloud.pro/JP.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/JP.yaml
     health-check:
@@ -183,7 +183,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/US.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/store.kakocloud.pro/US.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/US.yaml
     health-check:
@@ -192,7 +192,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/Other.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/store.kakocloud.pro/Other.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/Other.yaml
     health-check:
@@ -201,7 +201,7 @@ proxy-providers:
       interval: 30
   p_All_CN:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/store.kakocloud.pro/p_All_CN.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/store.kakocloud.pro/p_All_CN.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/p_All_CN.yaml
     health-check:

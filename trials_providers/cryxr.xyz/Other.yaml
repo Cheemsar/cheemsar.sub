@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: f1c5050f-88a9-4105-b098-24a7d76b1b56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: f1c5050f-88a9-4105-b098-24a7d76b1b56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🌞🌞网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: f1c5050f-88a9-4105-b098-24a7d76b1b56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: 02ccaaec-03f7-4f52-8e36-003dc217f64c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 02ccaaec-03f7-4f52-8e36-003dc217f64c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 02ccaaec-03f7-4f52-8e36-003dc217f64c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
