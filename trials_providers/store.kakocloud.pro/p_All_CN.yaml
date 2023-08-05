@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴 唯云专线&巴巴多斯&澳门节点上线！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 8d1b94fc-f51b-4b55-ad2a-40bb7c52b7a0, udp: true}
-- {name: 🇲🇴 kk云_澳门 1.7x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 22165, type: vmess, uuid: 8d1b94fc-f51b-4b55-ad2a-40bb7c52b7a0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
+- {name: 🇲🇴 唯云专线&巴巴多斯&澳门节点上线！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: d63a5c06-c67e-4d17-9a1e-6199c5e5cc0f, udp: true}
+- {name: 🇲🇴 kk云_澳门 1.7x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 22165, type: vmess, uuid: d63a5c06-c67e-4d17-9a1e-6199c5e5cc0f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
