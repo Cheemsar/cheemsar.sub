@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 0cf81f7a-c4d4-4dd9-8500-62e013356246, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: zhe-c.crazys.shop, port: 32103, type: trojan, password: 0cf81f7a-c4d4-4dd9-8500-62e013356246, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: e1c851f7-ed40-4f8e-be2b-7c0d81a62604, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: zhe-c.crazys.shop, port: 32103, type: trojan, password: e1c851f7-ed40-4f8e-be2b-7c0d81a62604, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
