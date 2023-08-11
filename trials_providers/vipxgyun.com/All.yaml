@@ -1,6 +1,16 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇹🇼 台湾 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19821, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19822, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 A香港01 | 直连 | 奈飞解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 44034, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
 - {name: 🇭🇰 A香港02 | 直连 | 奈飞解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 18682, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
 - {name: 🇭🇰 A香港03 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 60778, type: vmess, uuid: 33fb3e80-8cb5-3d4b-94e2-dbce0ae03257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}

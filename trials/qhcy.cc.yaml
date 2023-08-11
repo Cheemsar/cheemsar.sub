@@ -43,8 +43,11 @@ proxy-groups:
   - 🇯🇵东京-中转A - 青花瓷云qhcy.cc
   - 🇯🇵东京-中转B - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc
+  - 🇺🇸洛杉矶-直连A - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc
+  - 🇺🇸洛杉矶-直连B - 青花瓷云qhcy.cc
   - 🇺🇸纽约-中转A - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连A - 青花瓷云qhcy.cc
   - 🇺🇸纽约-中转B - 青花瓷云qhcy.cc
   - 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc
   - 🇰🇭 柬埔寨IPv6-直连 - 青花瓷云qhcy.cc
@@ -152,8 +155,11 @@ proxy-groups:
   tolerance: 50
   proxies: &id007
   - 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc
+  - 🇺🇸洛杉矶-直连A - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc
+  - 🇺🇸洛杉矶-直连B - 青花瓷云qhcy.cc
   - 🇺🇸纽约-中转A - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连A - 青花瓷云qhcy.cc
   - 🇺🇸纽约-中转B - 青花瓷云qhcy.cc
 - name: 🎏 ‍其他
   type: url-test
@@ -194,25 +200,28 @@ proxy-groups:
 proxies:
 - {name: 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 15282, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 26641, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸洛杉矶-直连A - 青花瓷云qhcy.cc, server: la1.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: la1.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /la1, headers: {Host: la1.q5wrff7jtkdg23.top}}, udp: true}
 - {name: 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 49113, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸洛杉矶-直连B - 青花瓷云qhcy.cc, server: la-b.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: la-b.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /la2, headers: {Host: la-b.q5wrff7jtkdg23.top}}, udp: true}
 - {name: 🇺🇸纽约-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 43684, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸纽约-直连A - 青花瓷云qhcy.cc, server: nyc1.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nyc1.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /nyc1, headers: {Host: nyc1.q5wrff7jtkdg23.top}}, udp: true}
 - {name: 🇺🇸纽约-中转B - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 23987, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 10918, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 32359, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡-直连vmess - 青花瓷云qhcy.cc, server: sg2.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg2.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sg2, headers: {Host: sg2.q5wrff7jtkdg23.top}}, udp: true}
 - {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: rhdgsea.396pay.cn, port: 37389, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 19204, type: ss, cipher: aes-128-gcm, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇭🇰香港-中转C - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 26921, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇭🇰香港-中转D - 青花瓷云qhcy.cc, server: rhdgsea.396pay.cn, port: 37286, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
+- {name: 🇭🇰香港-中转C - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 26921, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
+- {name: 🇭🇰香港-中转D - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 37286, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
 - {name: 🇹🇼 🇨🇳台湾IPV6-直连 - 青花瓷云qhcy.cc, server: twv6.q5wrff7jtkdg23.top, port: 13058, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇲🇴 澳门IPv6-直连 - 青花瓷云qhcy.cc, server: mo1.q5wrff7jtkdg23.top, port: 11357, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇭 柬埔寨IPv6-直连 - 青花瓷云qhcy.cc, server: kh1.q5wrff7jtkdg23.top, port: 13549, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷首尔-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 10211, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷首尔-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 16597, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转C - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 17133, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转D - 青花瓷云qhcy.cc, server: rhdgsea.396pay.cn, port: 11483, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷首尔-中转C - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 32483, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷首尔-中转D - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 11483, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵东京-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 29011, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇯🇵东京-中转B - 青花瓷云qhcy.cc, server: rhdgsea.396pay.cn, port: 38611, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵东京-中转B - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 38611, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
