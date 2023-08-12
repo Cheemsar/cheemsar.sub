@@ -3,9 +3,9 @@
 proxies:
 - {name: 官网网址：qhcy.cc  qhcy.me - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
 - {name: 官方TG售后讨论频道：https://t.me/Qhcygfpd - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 15282, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 15281, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇭 柬埔寨IPv6-直连 - 青花瓷云qhcy.cc, server: kh1.q5wrff7jtkdg23.top, port: 13549, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 10211, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 16597, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转C - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 32483, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转D - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 11483, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷首尔-中转A - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 10210, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷首尔-中转B - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 16596, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷首尔-中转C - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 32482, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷首尔-中转D - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 11482, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

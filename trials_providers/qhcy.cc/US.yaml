@@ -1,10 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 26641, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 26640, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸洛杉矶-直连A - 青花瓷云qhcy.cc, server: la1.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: la1.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /la1, headers: {Host: la1.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 49113, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 49112, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸洛杉矶-直连B - 青花瓷云qhcy.cc, server: la-b.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: la-b.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /la2, headers: {Host: la-b.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇺🇸纽约-中转A - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 43684, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸纽约-中转A - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 43683, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸纽约-直连A - 青花瓷云qhcy.cc, server: nyc1.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nyc1.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /nyc1, headers: {Host: nyc1.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇺🇸纽约-中转B - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 23987, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸纽约-中转B - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 23986, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸纽约-直连B - 青花瓷云qhcy.cc, server: nyc2.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nyc2.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /nyc2, headers: {Host: nyc2.q5wrff7jtkdg23.top}}, udp: true}
