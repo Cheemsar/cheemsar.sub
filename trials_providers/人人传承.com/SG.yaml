@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gg.58n.net, port: 20299, client-fingerprint: chrome, type: trojan, password: dca1f635-7c0c-338a-9eb1-f68b865937d1, tfo: false, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gg.58n.net, port: 17806, client-fingerprint: chrome, type: trojan, password: dca1f635-7c0c-338a-9eb1-f68b865937d1, tfo: false, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gg.58n.net, port: 30712, client-fingerprint: chrome, type: trojan, password: dca1f635-7c0c-338a-9eb1-f68b865937d1, tfo: false, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gg.58n.net, port: 20129, client-fingerprint: chrome, type: trojan, password: dca1f635-7c0c-338a-9eb1-f68b865937d1, tfo: false, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gg.58n.net, port: 20130, client-fingerprint: chrome, type: trojan, password: dca1f635-7c0c-338a-9eb1-f68b865937d1, tfo: false, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gg.58n.net, port: 20299, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gg.58n.net, port: 17806, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gg.58n.net, port: 30712, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gg.58n.net, port: 20129, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gg.58n.net, port: 20130, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
