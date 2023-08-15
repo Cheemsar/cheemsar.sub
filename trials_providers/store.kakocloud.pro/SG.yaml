@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 55918800-6085-4f11-a8a3-57c91ae0b8dd, udp: true}
-- {name: 🇸🇬 新加坡 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 55918800-6085-4f11-a8a3-57c91ae0b8dd, udp: true}
-- {name: 🇸🇬 新加坡 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, type: ss, cipher: chacha20-ietf-poly1305, password: 55918800-6085-4f11-a8a3-57c91ae0b8dd, udp: true}
-- {name: 🇸🇬 新加坡 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 55918800-6085-4f11-a8a3-57c91ae0b8dd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgcheap.mikuproxy.pro}}, udp: true}
+- {name: 🇸🇬 新加坡 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 39a2c231-1ca9-47be-9c77-f29edc23429c, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 39a2c231-1ca9-47be-9c77-f29edc23429c, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 39a2c231-1ca9-47be-9c77-f29edc23429c, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, client-fingerprint: chrome, type: vmess, uuid: 39a2c231-1ca9-47be-9c77-f29edc23429c, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sgcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgcheap.mikuproxy.pro}}, udp: true}

@@ -13,8 +13,8 @@ proxies:
 - {name: 🇫🇷 法国 - V2Link, server: host-047.crazyspeed.xyz, port: 34903, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
 - {name: 🇮🇹 意大利 - V2Link, server: host-048.crazyspeed.xyz, port: 34904, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
 - {name: 🇪🇸 西班牙 - V2Link, server: host-049.crazyspeed.xyz, port: 34905, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
-- {name: 🇦🇺 悉尼 - V2Link, server: host-051.crazyspeed.xyz, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
-- {name: 🇧🇷 圣保罗 - V2Link, server: host-052.crazyspeed.xyz, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
+- {name: 🇦🇺 澳大利亚 - V2Link, server: host-051.crazyspeed.xyz, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
+- {name: 🇧🇷 巴西 - V2Link, server: host-052.crazyspeed.xyz, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
 - {name: 🇷🇺 俄罗斯 - V2Link, server: host-054.crazyspeed.xyz, port: 20071, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
 - {name: 🇹🇷 土耳其 - V2Link, server: host-055.crazyspeed.xyz, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
 - {name: 🇷🇴 罗马尼亚 - V2Link, server: host-056.crazyspeed.xyz, port: 19002, type: ss, cipher: chacha20-ietf-poly1305, password: aff7b0e6-18ed-4749-bcec-4035f0613392, udp: true}
