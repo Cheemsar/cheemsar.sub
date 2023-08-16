@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.58n.net, port: 17629, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.58n.net, port: 59021, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.58n.net, port: 21247, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.58n.net, port: 33323, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.58n.net, port: 36821, type: trojan, password: d0102866-230e-3602-9ea4-c7461b8f87da, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.58n.net, port: 17629, type: trojan, password: fc5c516c-c4b9-374e-82fd-ce9b148d185b, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.58n.net, port: 59021, type: trojan, password: fc5c516c-c4b9-374e-82fd-ce9b148d185b, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.58n.net, port: 21247, type: trojan, password: fc5c516c-c4b9-374e-82fd-ce9b148d185b, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.58n.net, port: 33323, type: trojan, password: fc5c516c-c4b9-374e-82fd-ce9b148d185b, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.58n.net, port: 36821, type: trojan, password: fc5c516c-c4b9-374e-82fd-ce9b148d185b, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
