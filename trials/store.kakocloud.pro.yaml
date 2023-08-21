@@ -10,19 +10,11 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -32,58 +24,9 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 香港家宽 01 1x - Kako Cloud
-  - 🇭🇰 香港家宽 02 1x - Kako Cloud
-  - 🇭🇰 香港家宽 03 1x - Kako Cloud
-  - 🇭🇰 深港专线iepl_10x - Kako Cloud
-  - 🇭🇰 唯云莞港iplc 15x - Kako Cloud
-  - 🇹🇼 台湾家宽 01 1x - Kako Cloud
-  - 🇹🇼 台湾家宽 02 1x - Kako Cloud
-  - 🇹🇼 台湾家宽 03 1x - Kako Cloud
-  - 🇹🇼 深台专线iepl_10x - Kako Cloud
-  - 🇹🇼 唯云莞台iplc 15x - Kako Cloud
-  - 🇸🇬 新加坡 01 1x - Kako Cloud
-  - 🇸🇬 新加坡 02 1x - Kako Cloud
-  - 🇸🇬 新加坡 03 1x - Kako Cloud
-  - 🇸🇬 新加坡 0.025x - Kako Cloud
-  - 🇯🇵 日本 01 1x - Kako Cloud
-  - 🇯🇵 日本 02 1x - Kako Cloud
-  - 🇯🇵 日本 03 1x - Kako Cloud
-  - 🇺🇸 美国 01 1x - Kako Cloud
-  - 🇺🇸 美国 02 1x - Kako Cloud
-  - 🇺🇸 美国 03 1x - Kako Cloud
-  - 🇺🇸 美国 0.025x - Kako Cloud
-  - 🇺🇸 美国 0x - Kako Cloud
-  - 🇮🇸 南极🌏&冰岛❄&爱沙尼亚🌍节点上线！ - Kako Cloud
-  - 🇮🇳 印度 01 1x - Kako Cloud
-  - 🇮🇳 印度 02 1x - Kako Cloud
-  - 🇮🇳 印度 03 1x - Kako Cloud
-  - 🇹🇷 土耳其 01 1x - Kako Cloud
-  - 🇹🇷 土耳其 02 1x - Kako Cloud
-  - 🇹🇷 土耳其 03 1x - Kako Cloud
-  - 🇩🇪 德国 01 1x - Kako Cloud
-  - 🇩🇪 德国 02 1x - Kako Cloud
-  - 🇩🇪 德国 03 1x - Kako Cloud
-  - 以下为冷门/公益节点 - Kako Cloud
-  - 巴巴多斯 1.5x - Kako Cloud
-  - 🇬🇧 英国 1.2x - Kako Cloud
-  - 🇰🇷 韩国 1.2x - Kako Cloud
-  - 🇦🇷 阿根廷 1.5x - Kako Cloud
-  - 🇿🇦 南非 1.5x - Kako Cloud
-  - 🇮🇸 冰岛 2.5x - Kako Cloud
-  - 🇪🇪 爱沙尼亚 2.5x - Kako Cloud
-  - 🇪🇨 厄瓜多尔 1.5x - Kako Cloud
-  - 伊拉克家宽 3x - Kako Cloud
-  - 🇰🇭 柬埔寨 1.5x - Kako Cloud
-  - 🇰🇵 朝鲜 1.5x - Kako Cloud
-  - 🇲🇲 缅甸 1.5x - Kako Cloud
-  - 🇧🇳 文莱 1.5x - Kako Cloud
-  - 东帝汶 1.5x - Kako Cloud
-  - 南极 2x - Kako Cloud
-  - 🇩🇪 德国 0.025x - Kako Cloud
-  - 🇳🇱 荷兰 0.025x - Kako Cloud
-  - 🇦🇺 悉尼 0.025x - Kako Cloud
-  - 🇲🇴 澳门 1.7x - Kako Cloud
+  - 🇸🇬 新加坡 01 - Kako Cloud
+  - 🇺🇸 美国 01 - Kako Cloud
+  - 🇺🇸 美国 02 - Kako Cloud
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -99,14 +42,8 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -115,13 +52,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -130,187 +63,45 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 香港家宽 01 1x - Kako Cloud
-  - 🇭🇰 香港家宽 02 1x - Kako Cloud
-  - 🇭🇰 香港家宽 03 1x - Kako Cloud
-  - 🇭🇰 深港专线iepl_10x - Kako Cloud
-  - 🇭🇰 唯云莞港iplc 15x - Kako Cloud
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇹🇼 台湾家宽 01 1x - Kako Cloud
-  - 🇹🇼 台湾家宽 02 1x - Kako Cloud
-  - 🇹🇼 台湾家宽 03 1x - Kako Cloud
-  - 🇹🇼 深台专线iepl_10x - Kako Cloud
-  - 🇹🇼 唯云莞台iplc 15x - Kako Cloud
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇭🇰 香港家宽 01 1x - Kako Cloud
-  - 🇭🇰 香港家宽 02 1x - Kako Cloud
-  - 🇭🇰 香港家宽 03 1x - Kako Cloud
-  - 🇭🇰 深港专线iepl_10x - Kako Cloud
-  - 🇭🇰 唯云莞港iplc 15x - Kako Cloud
-  - 🇹🇼 台湾家宽 01 1x - Kako Cloud
-  - 🇹🇼 台湾家宽 02 1x - Kako Cloud
-  - 🇹🇼 台湾家宽 03 1x - Kako Cloud
-  - 🇹🇼 深台专线iepl_10x - Kako Cloud
-  - 🇹🇼 唯云莞台iplc 15x - Kako Cloud
-  - 🇲🇴 澳门 1.7x - Kako Cloud
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
-  - 🇸🇬 新加坡 01 1x - Kako Cloud
-  - 🇸🇬 新加坡 02 1x - Kako Cloud
-  - 🇸🇬 新加坡 03 1x - Kako Cloud
-  - 🇸🇬 新加坡 0.025x - Kako Cloud
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id006
-  - 🇯🇵 日本 01 1x - Kako Cloud
-  - 🇯🇵 日本 02 1x - Kako Cloud
-  - 🇯🇵 日本 03 1x - Kako Cloud
+  proxies: &id002
+  - 🇸🇬 新加坡 01 - Kako Cloud
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id007
-  - 🇺🇸 美国 01 1x - Kako Cloud
-  - 🇺🇸 美国 02 1x - Kako Cloud
-  - 🇺🇸 美国 03 1x - Kako Cloud
-  - 🇺🇸 美国 0.025x - Kako Cloud
-  - 🇺🇸 美国 0x - Kako Cloud
+  proxies: &id003
+  - 🇺🇸 美国 01 - Kako Cloud
+  - 🇺🇸 美国 02 - Kako Cloud
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id008
-  - 🇮🇸 南极🌏&冰岛❄&爱沙尼亚🌍节点上线！ - Kako Cloud
-  - 🇮🇳 印度 01 1x - Kako Cloud
-  - 🇮🇳 印度 02 1x - Kako Cloud
-  - 🇮🇳 印度 03 1x - Kako Cloud
-  - 🇹🇷 土耳其 01 1x - Kako Cloud
-  - 🇹🇷 土耳其 02 1x - Kako Cloud
-  - 🇹🇷 土耳其 03 1x - Kako Cloud
-  - 🇩🇪 德国 01 1x - Kako Cloud
-  - 🇩🇪 德国 02 1x - Kako Cloud
-  - 🇩🇪 德国 03 1x - Kako Cloud
-  - 以下为冷门/公益节点 - Kako Cloud
-  - 巴巴多斯 1.5x - Kako Cloud
-  - 🇬🇧 英国 1.2x - Kako Cloud
-  - 🇰🇷 韩国 1.2x - Kako Cloud
-  - 🇦🇷 阿根廷 1.5x - Kako Cloud
-  - 🇿🇦 南非 1.5x - Kako Cloud
-  - 🇮🇸 冰岛 2.5x - Kako Cloud
-  - 🇪🇪 爱沙尼亚 2.5x - Kako Cloud
-  - 🇪🇨 厄瓜多尔 1.5x - Kako Cloud
-  - 伊拉克家宽 3x - Kako Cloud
-  - 🇰🇭 柬埔寨 1.5x - Kako Cloud
-  - 🇰🇵 朝鲜 1.5x - Kako Cloud
-  - 🇲🇲 缅甸 1.5x - Kako Cloud
-  - 🇧🇳 文莱 1.5x - Kako Cloud
-  - 东帝汶 1.5x - Kako Cloud
-  - 南极 2x - Kako Cloud
-  - 🇩🇪 德国 0.025x - Kako Cloud
-  - 🇳🇱 荷兰 0.025x - Kako Cloud
-  - 🇦🇺 悉尼 0.025x - Kako Cloud
+  proxies: &id004
+  - 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
+  proxies: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id004
 proxies:
-- {name: 🇮🇸 南极🌏&冰岛❄&爱沙尼亚🌍节点上线！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇭🇰 香港家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇭🇰 香港家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇭🇰 香港家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26913, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇹🇼 台湾家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 12044, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇹🇼 台湾家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 10239, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇹🇼 台湾家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇯🇵 日本 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 31657, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇯🇵 日本 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 13677, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇯🇵 日本 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇸🇬 新加坡 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇸🇬 新加坡 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇸🇬 新加坡 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇮🇳 印度 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26657, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇮🇳 印度 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 55637, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇮🇳 印度 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 21394, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇺🇸 美国 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26998, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇺🇸 美国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 46255, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇺🇸 美国 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26999, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇹🇷 土耳其 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 22603, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇹🇷 土耳其 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22603, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇹🇷 土耳其 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 22602, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇩🇪 德国 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 41962, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇩🇪 德国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 47750, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇩🇪 德国 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 41963, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇭🇰 深港专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 25289, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇹🇼 深台专线iepl_10x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 35897, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇭🇰 唯云莞港iplc 15x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 55384, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇹🇼 唯云莞台iplc 15x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 以下为冷门/公益节点 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: test.test.test, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: Dont.Connect.Me}}, udp: true}
-- {name: 巴巴多斯 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 12534, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇬🇧 英国 1.2x - Kako Cloud, server: others2.proxy.kk-proxy.pro, port: 38463, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇰🇷 韩国 1.2x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 43339, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇦🇷 阿根廷 1.5x - Kako Cloud, server: others3.proxy.kk-proxy.pro, port: 26472, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇿🇦 南非 1.5x - Kako Cloud, server: others3.proxy.kk-proxy.pro, port: 18698, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇮🇸 冰岛 2.5x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 31513, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇪🇪 爱沙尼亚 2.5x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 35258, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇪🇨 厄瓜多尔 1.5x - Kako Cloud, server: others3.proxy.kk-proxy.pro, port: 24852, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 伊拉克家宽 3x - Kako Cloud, server: others4.proxy.kk-proxy.pro, port: 50383, type: ss, cipher: chacha20-ietf-poly1305, password: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, udp: true}
-- {name: 🇲🇴 澳门 1.7x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 22165, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
-- {name: 🇰🇭 柬埔寨 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 37281, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jpzlm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: jpzlm.mikuproxy.pro}}, udp: true}
-- {name: 🇰🇵 朝鲜 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 17271, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nklm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: nklm.mikuproxy.pro}}, udp: true}
-- {name: 🇲🇲 缅甸 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 25963, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: mdlm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: mdlm.mikuproxy.pro}}, udp: true}
-- {name: 🇧🇳 文莱 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 28868, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: wllm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: wllm.mikuproxy.pro}}, udp: true}
-- {name: 东帝汶 1.5x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 51509, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ddwlm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: ddwlm.mikuproxy.pro}}, udp: true}
-- {name: 南极 2x - Kako Cloud, server: others.proxy.kk-proxy.pro, port: 45276, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: njlm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: njlm.mikuproxy.pro}}, udp: true}
-- {name: 🇸🇬 新加坡 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgcheap.mikuproxy.pro}}, udp: true}
-- {name: 🇩🇪 德国 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: frcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: frcheap.mikuproxy.pro}}, udp: true}
-- {name: 🇳🇱 荷兰 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nlcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: nlcheap.mikuproxy.pro}}, udp: true}
-- {name: 🇦🇺 悉尼 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sydcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sydcheap.mikuproxy.pro}}, udp: true}
-- {name: 🇺🇸 美国 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uscheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: uscheap.mikuproxy.pro}}, udp: true}
-- {name: 🇺🇸 美国 0x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 7fabbd5a-f73a-4df1-8ed8-73e1dcfcde53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree.mikuproxy.pro}}, udp: true}
+- {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: a9d2f9fe-8ad5-47eb-a95e-3fab8b209fbe, udp: true}
+- {name: 🇸🇬 新加坡 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 31659, type: ss, cipher: chacha20-ietf-poly1305, password: a9d2f9fe-8ad5-47eb-a95e-3fab8b209fbe, udp: true}
+- {name: 🇺🇸 美国 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 55928, type: ss, cipher: chacha20-ietf-poly1305, password: a9d2f9fe-8ad5-47eb-a95e-3fab8b209fbe, udp: true}
+- {name: 🇺🇸 美国 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54455, type: ss, cipher: chacha20-ietf-poly1305, password: a9d2f9fe-8ad5-47eb-a95e-3fab8b209fbe, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -4246,6 +4037,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞
