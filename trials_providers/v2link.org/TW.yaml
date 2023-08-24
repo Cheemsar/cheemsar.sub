@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 - 台北 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 9a26b529-0126-43e8-a9ba-9615e35c166f, udp: true}
-- {name: 🇹🇼 台湾 - 台北 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 9a26b529-0126-43e8-a9ba-9615e35c166f, udp: true}
-- {name: 🇹🇼 台湾 - 台北 C - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 9a26b529-0126-43e8-a9ba-9615e35c166f, udp: true}
+- {name: 🇹🇼 台湾 - 台北 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a26b529-0126-43e8-a9ba-9615e35c166f, tfo: false, udp: true}
+- {name: 🇹🇼 台湾 - 台北 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a26b529-0126-43e8-a9ba-9615e35c166f, tfo: false, udp: true}
+- {name: 🇹🇼 台湾 - 台北 C - V2Link, server: host-023.crazyspeed.xyz, port: 21003, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a26b529-0126-43e8-a9ba-9615e35c166f, tfo: false, udp: true}
