@@ -38,8 +38,8 @@ proxy-groups:
   - 🇭🇰 香港 - 极速 D - V2Link
   - 🇭🇰 香港 - 极速 E - V2Link
   - 🇭🇰 香港 - 极速 F - V2Link
-  - 🇹🇼 台湾 - 台北 A - V2Link
-  - 🇹🇼 台湾 - 台北 B - V2Link
+  - 🇹🇼 台湾 - 宜兰 A - V2Link
+  - 🇹🇼 台湾 - 彰化 B - V2Link
   - 🇹🇼 台湾 - 台北 C - V2Link
   - 🇸🇬 新加坡 A - V2Link
   - 🇸🇬 新加坡 B - V2Link
@@ -136,8 +136,8 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇹🇼 台湾 - 台北 A - V2Link
-  - 🇹🇼 台湾 - 台北 B - V2Link
+  - 🇹🇼 台湾 - 宜兰 A - V2Link
+  - 🇹🇼 台湾 - 彰化 B - V2Link
   - 🇹🇼 台湾 - 台北 C - V2Link
 - name: 🇨🇳 ‍中国
   type: url-test
@@ -151,8 +151,8 @@ proxy-groups:
   - 🇭🇰 香港 - 极速 D - V2Link
   - 🇭🇰 香港 - 极速 E - V2Link
   - 🇭🇰 香港 - 极速 F - V2Link
-  - 🇹🇼 台湾 - 台北 A - V2Link
-  - 🇹🇼 台湾 - 台北 B - V2Link
+  - 🇹🇼 台湾 - 宜兰 A - V2Link
+  - 🇹🇼 台湾 - 彰化 B - V2Link
   - 🇹🇼 台湾 - 台北 C - V2Link
 - name: 🇸🇬 ‍新加坡
   type: url-test
@@ -245,8 +245,8 @@ proxies:
 - {name: 🇯🇵 日本 - 东京 A - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
 - {name: 🇯🇵 日本 - 大版 B - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
 - {name: 🇯🇵 日本 - 东京 B - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
-- {name: 🇹🇼 台湾 - 台北 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
-- {name: 🇹🇼 台湾 - 台北 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
+- {name: 🇹🇼 台湾 - 宜兰 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
+- {name: 🇹🇼 台湾 - 彰化 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
 - {name: 🇹🇼 台湾 - 台北 C - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
 - {name: 🇰🇷 韩国 - 首尔 R - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
 - {name: 🇰🇷 韩国 - 首尔 X - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1e5a3e-66c6-4daf-9dfd-cbe7acad537a, udp: true}
