@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36009, type: vmess, uuid: 33ccdb23-d82e-3c34-bf0c-8872d1faeeea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.54, port: 36010, type: vmess, uuid: 33ccdb23-d82e-3c34-bf0c-8872d1faeeea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.54, port: 36021, type: vmess, uuid: 33ccdb23-d82e-3c34-bf0c-8872d1faeeea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.594888.xyz, port: 2443, type: vmess, uuid: 33ccdb23-d82e-3c34-bf0c-8872d1faeeea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.594888.xyz}}, udp: true}
-- {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.594888.xyz, port: 443, type: vmess, uuid: 33ccdb23-d82e-3c34-bf0c-8872d1faeeea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.594888.xyz}}, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36009, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.54, port: 36010, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.54, port: 36021, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.594888.xyz, port: 2443, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.594888.xyz}}, udp: true}
+- {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.594888.xyz, port: 443, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.594888.xyz}}, udp: true}
