@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, client-fingerprint: chrome, type: trojan, password: 0b7554db-81d1-42e5-8355-adeb81b7c65f, tfo: false, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, client-fingerprint: chrome, type: trojan, password: 0b7554db-81d1-42e5-8355-adeb81b7c65f, tfo: false, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 07b3e7b6-ef4b-4602-9029-13320acd9ebc, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 07b3e7b6-ef4b-4602-9029-13320acd9ebc, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
