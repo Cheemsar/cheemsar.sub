@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26912, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇭🇰 香港家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22704, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇭🇰 香港家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26913, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇹🇼 台湾家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 12044, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇹🇼 台湾家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 10239, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇹🇼 台湾家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 12045, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇭🇰 深港专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 40570, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇹🇼 深台专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 17652, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇭🇰 唯云莞港iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 43193, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇹🇼 唯云莞台iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 42331, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, tfo: false, udp: true}
-- {name: 🇲🇴 澳门 1.7x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 22165, client-fingerprint: chrome, type: vmess, uuid: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
+- {name: 🇭🇰 香港家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇭🇰 香港家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇭🇰 香港家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26913, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇹🇼 台湾家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 12044, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇹🇼 台湾家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 10239, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇹🇼 台湾家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇭🇰 深港专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 40570, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇹🇼 深台专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 17652, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇭🇰 唯云莞港iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 43193, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇹🇼 唯云莞台iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 42331, type: ss, cipher: chacha20-ietf-poly1305, password: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, udp: true}
+- {name: 🇲🇴 澳门 1.7x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 22165, type: vmess, uuid: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}

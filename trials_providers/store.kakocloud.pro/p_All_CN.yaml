@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴 澳门 1.7x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 22165, client-fingerprint: chrome, type: vmess, uuid: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
+- {name: 🇲🇴 澳门 1.7x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 22165, type: vmess, uuid: 65c4d553-3357-4eb4-9ff6-10f0b5f544fe, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: molm.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: molm.mikuproxy.pro}}, udp: true}
