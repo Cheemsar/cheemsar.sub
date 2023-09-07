@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: ace253f1-f08f-474a-94fb-c6ec23db1717, udp: true}
-- {name: 🇸🇬 新加坡 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: ace253f1-f08f-474a-94fb-c6ec23db1717, udp: true}
-- {name: 🇸🇬 新加坡 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, type: ss, cipher: chacha20-ietf-poly1305, password: ace253f1-f08f-474a-94fb-c6ec23db1717, udp: true}
-- {name: 🇸🇬 新加坡 免费 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54790, type: ss, cipher: chacha20-ietf-poly1305, password: ace253f1-f08f-474a-94fb-c6ec23db1717, udp: true}
-- {name: 🇸🇬 新加坡 免费 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 42423, type: ss, cipher: chacha20-ietf-poly1305, password: ace253f1-f08f-474a-94fb-c6ec23db1717, udp: true}
-- {name: 🇸🇬 新加坡 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: ace253f1-f08f-474a-94fb-c6ec23db1717, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgcheap.mikuproxy.pro}}, udp: true}
+- {name: 🇸🇬 新加坡 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 963989fc-d4a6-4683-a27d-59aa2a2a2638, udp: true}
+- {name: 🇸🇬 新加坡 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 963989fc-d4a6-4683-a27d-59aa2a2a2638, udp: true}
+- {name: 🇸🇬 新加坡 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, type: ss, cipher: chacha20-ietf-poly1305, password: 963989fc-d4a6-4683-a27d-59aa2a2a2638, udp: true}
+- {name: 🇸🇬 新加坡 免费 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 54790, type: ss, cipher: chacha20-ietf-poly1305, password: 963989fc-d4a6-4683-a27d-59aa2a2a2638, udp: true}
+- {name: 🇸🇬 新加坡 免费 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 42423, type: ss, cipher: chacha20-ietf-poly1305, password: 963989fc-d4a6-4683-a27d-59aa2a2a2638, udp: true}
+- {name: 🇸🇬 新加坡 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 963989fc-d4a6-4683-a27d-59aa2a2a2638, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgcheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgcheap.mikuproxy.pro}}, udp: true}
