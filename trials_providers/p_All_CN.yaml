@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇲🇴 澳门IPv6-直连 - 青花瓷云qhcy.cc, server: mo1.q5wrff7jtkdg23.top, port: 11357, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇲🇴 澳门 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 19889, type: ss, cipher: chacha20-ietf-poly1305, password: 9ae64821-0988-439d-8092-5ff799110672, udp: true}
+- {name: 🇲🇴 澳门 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 19889, type: ss, cipher: chacha20-ietf-poly1305, password: 183356fb-75f8-4418-82cf-fa3ab97e43e0, udp: true}
