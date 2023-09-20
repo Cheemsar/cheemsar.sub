@@ -1,5 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网网址：qhcy.cc  qhcy.me - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 官方TG售后讨论频道：https://t.me/Qhcygfpd - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
+- {name: 官方TG售后通知频道：https://t.me/Qhcygf - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}

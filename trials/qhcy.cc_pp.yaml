@@ -11,16 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -31,12 +27,10 @@ proxy-groups:
   tolerance: 50
   use: &id001
   - HK
-  - TW
   - SG
   - JP
   - US
   - p_All_Other
-  - p_All_CN
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -52,14 +46,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -68,11 +58,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -88,37 +76,25 @@ proxy-groups:
   tolerance: 50
   use: &id002
   - HK
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  tolerance: 50
-  use: &id003
-  - TW
-- name: 🇨🇳 ‍中国
-  type: url-test
-  tolerance: 50
-  use: &id004
-  - HK
-  - TW
-  - p_All_CN
 - name: 🇸🇬 ‍新加坡
   type: url-test
   tolerance: 50
-  use: &id005
+  use: &id003
   - SG
 - name: 🇯🇵 ‍日本
   type: url-test
   tolerance: 50
-  use: &id006
+  use: &id004
   - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 50
-  use: &id007
+  use: &id005
   - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 50
-  use: &id008
+  use: &id006
   - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
@@ -126,39 +102,24 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  use: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  use: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  use: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  use: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
+  use: *id006
 proxy-providers:
   HK:
     type: http
     url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/qhcy.cc/HK.yaml
     interval: 180
     path: trials_providers/qhcy.cc/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/qhcy.cc/TW.yaml
-    interval: 180
-    path: trials_providers/qhcy.cc/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -195,15 +156,6 @@ proxy-providers:
     url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/qhcy.cc/p_All_Other.yaml
     interval: 180
     path: trials_providers/qhcy.cc/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_CN:
-    type: http
-    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/qhcy.cc/p_All_CN.yaml
-    interval: 180
-    path: trials_providers/qhcy.cc/p_All_CN.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -246,11 +198,17 @@ rules:
 - DOMAIN-SUFFIX,kgithub.com,DIRECT
 - DOMAIN,raw.me.cd,🛩️ ‍墙内
 - DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
+- DOMAIN,3.7.cr,🛩️ ‍墙内
+- DOMAIN,7.7.cr,🛩️ ‍墙内
+- DOMAIN,note.7.cr,🛩️ ‍墙内
 - DOMAIN,dd.al,🛩️ ‍墙内
 - DOMAIN,all.bz,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,ghproxy.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
@@ -7213,9 +7171,6 @@ rules:
 - DOMAIN-SUFFIX,hao123img.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jomodns.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,yunjiasu-cdn.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battle.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battlenet.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,blizzard.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amemv.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguaimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguastatic.com,🛩️ ‍墙内

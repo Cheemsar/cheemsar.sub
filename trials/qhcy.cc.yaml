@@ -11,16 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -33,36 +29,29 @@ proxy-groups:
   tolerance: 50
   proxies: &id001
   - 🇭🇰香港-中转A - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转B - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转C - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转D - 青花瓷云qhcy.cc
-  - 🇹🇼 🇨🇳台湾IPV6-直连 - 青花瓷云qhcy.cc
   - 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc
   - 🇸🇬新加坡-直连A - 青花瓷云qhcy.cc
-  - 🇸🇬新加坡-中转B - 青花瓷云qhcy.cc
-  - 🇸🇬新加坡-直连B - 青花瓷云qhcy.cc
+  - 🇸🇬新加坡-直连B-优化 - 青花瓷云qhcy.cc
   - 🇸🇬新加坡-直连C - 青花瓷云qhcy.cc
+  - 🇸🇬新加坡-直连D-优化 - 青花瓷云qhcy.cc
+  - 🇸🇬新加坡-直连E - 青花瓷云qhcy.cc
+  - 🇸🇬新加坡-直连F-优化 - 青花瓷云qhcy.cc
   - 🇯🇵东京-中转A - 青花瓷云qhcy.cc
   - 🇯🇵东京-直连A - 青花瓷云qhcy.cc
-  - 🇯🇵东京-中转B - 青花瓷云qhcy.cc
-  - 🇯🇵东京-直连B - 青花瓷云qhcy.cc
-  - 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc
+  - 🇯🇵东京-直连B-优化 - 青花瓷云qhcy.cc
+  - 🇯🇵东京-直连C - 青花瓷云qhcy.cc
+  - 🇯🇵东京-直连D-优化 - 青花瓷云qhcy.cc
+  - 🇺🇸德克萨斯-中转A - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-直连A - 青花瓷云qhcy.cc
-  - 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc
-  - 🇺🇸洛杉矶-直连B - 青花瓷云qhcy.cc
+  - 🇺🇸洛杉矶-直连B-优化 - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-直连C - 青花瓷云qhcy.cc
-  - 🇺🇸加州-直连A - 青花瓷云qhcy.cc
-  - 🇺🇸纽约-中转A - 青花瓷云qhcy.cc
-  - 🇺🇸纽约-直连A - 青花瓷云qhcy.cc
-  - 🇺🇸纽约-中转B - 青花瓷云qhcy.cc
-  - 🇺🇸纽约-直连B - 青花瓷云qhcy.cc
-  - 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc
-  - 🇰🇭 柬埔寨IPv6-直连 - 青花瓷云qhcy.cc
-  - 🇰🇷首尔-中转A - 青花瓷云qhcy.cc
-  - 🇰🇷首尔-中转B - 青花瓷云qhcy.cc
-  - 🇰🇷首尔-中转C - 青花瓷云qhcy.cc
-  - 🇰🇷首尔-中转D - 青花瓷云qhcy.cc
-  - 🇲🇴 澳门IPv6-直连 - 青花瓷云qhcy.cc
+  - 🇺🇸杉矶-直连D-优化 - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连E - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连F-优化 - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连C - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连D-优化 - 青花瓷云qhcy.cc
+  - 🇻🇳 越南IPV6-移动优化 - 青花瓷云qhcy.cc
+  - 🇦🇷阿根廷-直连 - 青花瓷云qhcy.cc
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -78,14 +67,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -94,11 +79,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -116,133 +99,96 @@ proxy-groups:
   tolerance: 50
   proxies: &id002
   - 🇭🇰香港-中转A - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转B - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转C - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转D - 青花瓷云qhcy.cc
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇹🇼 🇨🇳台湾IPV6-直连 - 青花瓷云qhcy.cc
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇭🇰香港-中转A - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转B - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转C - 青花瓷云qhcy.cc
-  - 🇭🇰香港-中转D - 青花瓷云qhcy.cc
-  - 🇹🇼 🇨🇳台湾IPV6-直连 - 青花瓷云qhcy.cc
-  - 🇲🇴 澳门IPv6-直连 - 青花瓷云qhcy.cc
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id003
   - 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc
   - 🇸🇬新加坡-直连A - 青花瓷云qhcy.cc
-  - 🇸🇬新加坡-中转B - 青花瓷云qhcy.cc
-  - 🇸🇬新加坡-直连B - 青花瓷云qhcy.cc
+  - 🇸🇬新加坡-直连B-优化 - 青花瓷云qhcy.cc
   - 🇸🇬新加坡-直连C - 青花瓷云qhcy.cc
+  - 🇸🇬新加坡-直连D-优化 - 青花瓷云qhcy.cc
+  - 🇸🇬新加坡-直连E - 青花瓷云qhcy.cc
+  - 🇸🇬新加坡-直连F-优化 - 青花瓷云qhcy.cc
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id006
+  proxies: &id004
   - 🇯🇵东京-中转A - 青花瓷云qhcy.cc
   - 🇯🇵东京-直连A - 青花瓷云qhcy.cc
-  - 🇯🇵东京-中转B - 青花瓷云qhcy.cc
-  - 🇯🇵东京-直连B - 青花瓷云qhcy.cc
+  - 🇯🇵东京-直连B-优化 - 青花瓷云qhcy.cc
+  - 🇯🇵东京-直连C - 青花瓷云qhcy.cc
+  - 🇯🇵东京-直连D-优化 - 青花瓷云qhcy.cc
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id007
-  - 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc
+  proxies: &id005
+  - 🇺🇸德克萨斯-中转A - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-直连A - 青花瓷云qhcy.cc
-  - 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc
-  - 🇺🇸洛杉矶-直连B - 青花瓷云qhcy.cc
+  - 🇺🇸洛杉矶-直连B-优化 - 青花瓷云qhcy.cc
   - 🇺🇸洛杉矶-直连C - 青花瓷云qhcy.cc
-  - 🇺🇸加州-直连A - 青花瓷云qhcy.cc
-  - 🇺🇸纽约-中转A - 青花瓷云qhcy.cc
-  - 🇺🇸纽约-直连A - 青花瓷云qhcy.cc
-  - 🇺🇸纽约-中转B - 青花瓷云qhcy.cc
-  - 🇺🇸纽约-直连B - 青花瓷云qhcy.cc
+  - 🇺🇸杉矶-直连D-优化 - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连E - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连F-优化 - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连C - 青花瓷云qhcy.cc
+  - 🇺🇸纽约-直连D-优化 - 青花瓷云qhcy.cc
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id008
-  - 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc
-  - 🇰🇭 柬埔寨IPv6-直连 - 青花瓷云qhcy.cc
-  - 🇰🇷首尔-中转A - 青花瓷云qhcy.cc
-  - 🇰🇷首尔-中转B - 青花瓷云qhcy.cc
-  - 🇰🇷首尔-中转C - 青花瓷云qhcy.cc
-  - 🇰🇷首尔-中转D - 青花瓷云qhcy.cc
+  proxies: &id006
+  - 🇻🇳 越南IPV6-移动优化 - 青花瓷云qhcy.cc
+  - 🇦🇷阿根廷-直连 - 青花瓷云qhcy.cc
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  proxies: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id006
 proxies:
-- {name: 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 15281, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸洛杉矶-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 26640, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸洛杉矶-直连A - 青花瓷云qhcy.cc, server: la1.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: la1.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /la1, headers: {Host: la1.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇺🇸洛杉矶-中转B - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 49112, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸洛杉矶-直连B - 青花瓷云qhcy.cc, server: la-b.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: la-b.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /la2, headers: {Host: la-b.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇺🇸洛杉矶-直连C - 青花瓷云qhcy.cc, server: us-la-c.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-la-c.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /lac, headers: {Host: us-la-c.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇺🇸加州-直连A - 青花瓷云qhcy.cc, server: us-ca.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-ca.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /ca, headers: {Host: us-ca.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇺🇸纽约-中转A - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 43683, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸纽约-直连A - 青花瓷云qhcy.cc, server: nyc1.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nyc1.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /nyc1, headers: {Host: nyc1.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇺🇸纽约-中转B - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 23986, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸纽约-直连B - 青花瓷云qhcy.cc, server: nyc2.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nyc2.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /nyc2, headers: {Host: nyc2.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 10917, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡-直连A - 青花瓷云qhcy.cc, server: sg-v32.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-v32.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sgv32, headers: {Host: sg-v32.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇸🇬新加坡-中转B - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 32358, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡-直连B - 青花瓷云qhcy.cc, server: sg-v33.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-v33.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sgv33, headers: {Host: sg-v33.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇸🇬新加坡-直连C - 青花瓷云qhcy.cc, server: sg2.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg2.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sg2, headers: {Host: sg2.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 37388, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港-中转B - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 47680, type: ss, cipher: aes-128-gcm, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇭🇰香港-中转C - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 26920, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇭🇰香港-中转D - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 37286, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇹🇼 🇨🇳台湾IPV6-直连 - 青花瓷云qhcy.cc, server: twv6.q5wrff7jtkdg23.top, port: 13058, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇲🇴 澳门IPv6-直连 - 青花瓷云qhcy.cc, server: mo1.q5wrff7jtkdg23.top, port: 11357, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇭 柬埔寨IPv6-直连 - 青花瓷云qhcy.cc, server: kh1.q5wrff7jtkdg23.top, port: 13549, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转A - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 10210, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转B - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 16596, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转C - 青花瓷云qhcy.cc, server: bwcko7z.olb8qsg.top, port: 32482, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转D - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 11482, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵东京-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 29010, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇯🇵东京-直连A - 青花瓷云qhcy.cc, server: tyo-v38.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v38.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /tyov38, headers: {Host: tyo-v38.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇯🇵东京-中转B - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 38610, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵东京-直连B - 青花瓷云qhcy.cc, server: tyo-v39.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v39.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /tyov39, headers: {Host: tyo-v39.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇺🇸德克萨斯-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 18132, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
+- {name: 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 48944, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
+- {name: 🇭🇰香港-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 40311, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
+- {name: 🇯🇵东京-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 35976, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
+- {name: 🇺🇸洛杉矶-直连A - 青花瓷云qhcy.cc, server: la1-1.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: la1-1.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /la1-1, headers: {Host: la1-1.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇺🇸洛杉矶-直连B-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: la1-1.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇺🇸洛杉矶-直连C - 青花瓷云qhcy.cc, server: la-b.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: la-b.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /la2, headers: {Host: la-b.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇺🇸杉矶-直连D-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: la-b.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇺🇸纽约-直连E - 青花瓷云qhcy.cc, server: nyc1.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nyc1.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /nyc1, headers: {Host: nyc1.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇺🇸纽约-直连F-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nyc1, headers: {Host: nyc1.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇺🇸纽约-直连C - 青花瓷云qhcy.cc, server: nyc2.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nyc2.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /nyc2, headers: {Host: nyc2.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇺🇸纽约-直连D-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: nyc2.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇸🇬新加坡-直连A - 青花瓷云qhcy.cc, server: sg-v32.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-v32.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sgv32, headers: {Host: sg-v32.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇸🇬新加坡-直连B-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg-v32.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇸🇬新加坡-直连C - 青花瓷云qhcy.cc, server: sg-v33.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-v33.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sgv33, headers: {Host: sg-v33.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇸🇬新加坡-直连D-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg-v33.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇸🇬新加坡-直连E - 青花瓷云qhcy.cc, server: sg2.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg2.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sg2, headers: {Host: sg2.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇸🇬新加坡-直连F-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg2.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇻🇳 越南IPV6-移动优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 6678, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵东京-直连A - 青花瓷云qhcy.cc, server: tyo-v38.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v38.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /tyov38, headers: {Host: tyo-v38.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇯🇵东京-直连B-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tyo-v38.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇯🇵东京-直连C - 青花瓷云qhcy.cc, server: tyo-v39.q5wrf7jtkd23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v39.q5wrf7jtkd23.top, network: ws, ws-opts: {path: /tyov39, headers: {Host: tyo-v39.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇯🇵东京-直连D-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tyo-v39.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇦🇷阿根廷-直连 - 青花瓷云qhcy.cc, server: ar.q5wrf7jtkd23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ar.q5wrf7jtkd23.top, network: ws, ws-opts: {path: /ar, headers: {Host: ar.q5wrf7jtkd23.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -281,11 +227,17 @@ rules:
 - DOMAIN-SUFFIX,kgithub.com,DIRECT
 - DOMAIN,raw.me.cd,🛩️ ‍墙内
 - DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
+- DOMAIN,3.7.cr,🛩️ ‍墙内
+- DOMAIN,7.7.cr,🛩️ ‍墙内
+- DOMAIN,note.7.cr,🛩️ ‍墙内
 - DOMAIN,dd.al,🛩️ ‍墙内
 - DOMAIN,all.bz,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,ghproxy.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
@@ -7248,9 +7200,6 @@ rules:
 - DOMAIN-SUFFIX,hao123img.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jomodns.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,yunjiasu-cdn.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battle.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battlenet.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,blizzard.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amemv.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguaimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguastatic.com,🛩️ ‍墙内

@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 29482, type: trojan, password: 3b3ff06e-5cc5-4ea7-8daa-667322506d1a, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：10 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 4b255d93-24bd-4ea9-bf9e-932c40816917, udp: true}

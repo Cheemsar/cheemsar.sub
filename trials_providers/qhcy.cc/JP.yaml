@@ -1,7 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵东京-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 29010, type: ss, cipher: chacha20-ietf-poly1305, password: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, udp: true}
-- {name: 🇯🇵东京-直连A - 青花瓷云qhcy.cc, server: tyo-v38.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v38.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /tyov38, headers: {Host: tyo-v38.q5wrff7jtkdg23.top}}, udp: true}
-- {name: 🇯🇵东京-中转B - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 38610, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵东京-直连B - 青花瓷云qhcy.cc, server: tyo-v39.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 972b0144-f3b7-44e0-8725-4c0dd8b039ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v39.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /tyov39, headers: {Host: tyo-v39.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇯🇵东京-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 35976, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
+- {name: 🇯🇵东京-直连A - 青花瓷云qhcy.cc, server: tyo-v38.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v38.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /tyov38, headers: {Host: tyo-v38.q5wrff7jtkdg23.top}}, udp: true}
+- {name: 🇯🇵东京-直连B-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tyo-v38.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇯🇵东京-直连C - 青花瓷云qhcy.cc, server: tyo-v39.q5wrf7jtkd23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v39.q5wrf7jtkd23.top, network: ws, ws-opts: {path: /tyov39, headers: {Host: tyo-v39.q5wrf7jtkd23.top}}, udp: true}
+- {name: 🇯🇵东京-直连D-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tyo-v39.q5wrf7jtkd23.top}}, udp: true}

@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: sahng4.594888.xyz, port: 36011, client-fingerprint: chrome, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: sahng2.594888.xyz, port: 36013, client-fingerprint: chrome, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本动态 - 爱猫论坛, server: ips.henyo.us, port: 1443, client-fingerprint: chrome, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: ips.henyo.us}}, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: sahng4.594888.xyz, port: 36011, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: sahng2.594888.xyz, port: 36013, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本动态 - 爱猫论坛, server: ips.henyo.us, port: 1443, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: ips.henyo.us}}, udp: true}
