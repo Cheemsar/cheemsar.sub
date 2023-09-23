@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26912, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, tfo: false, udp: true}
-- {name: 🇭🇰 香港家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22704, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, tfo: false, udp: true}
-- {name: 🇭🇰 香港家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26913, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, tfo: false, udp: true}
-- {name: 🇭🇰 深港专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 40570, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, tfo: false, udp: true}
-- {name: 🇭🇰 唯云莞港iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 43193, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, tfo: false, udp: true}
+- {name: 🇭🇰 香港家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, udp: true}
+- {name: 🇭🇰 香港家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, udp: true}
+- {name: 🇭🇰 香港家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26913, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, udp: true}
+- {name: 🇭🇰 深港专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 40570, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, udp: true}
+- {name: 🇭🇰 唯云莞港iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 43193, type: ss, cipher: chacha20-ietf-poly1305, password: 2cc9d30c-024a-415e-8929-d377f9834e9f, udp: true}
