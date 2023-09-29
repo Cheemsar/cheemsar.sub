@@ -235,11 +235,17 @@ rules:
 - DOMAIN-SUFFIX,kgithub.com,DIRECT
 - DOMAIN,raw.me.cd,🛩️ ‍墙内
 - DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
+- DOMAIN,3.7.cr,🛩️ ‍墙内
+- DOMAIN,7.7.cr,🛩️ ‍墙内
+- DOMAIN,note.7.cr,🛩️ ‍墙内
 - DOMAIN,dd.al,🛩️ ‍墙内
 - DOMAIN,all.bz,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,ghproxy.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
@@ -4132,7 +4138,6 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
-- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞
@@ -7203,9 +7208,6 @@ rules:
 - DOMAIN-SUFFIX,hao123img.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jomodns.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,yunjiasu-cdn.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battle.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battlenet.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,blizzard.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amemv.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguaimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguastatic.com,🛩️ ‍墙内

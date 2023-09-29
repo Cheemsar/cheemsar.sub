@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 - 新北 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 48f7cd4e-4ccb-45ca-82ea-aa058695695d, udp: true}
-- {name: 🇹🇼 台湾 - 彰化 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 48f7cd4e-4ccb-45ca-82ea-aa058695695d, udp: true}
+- {name: 🇹🇼 台湾 - 新北 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
+- {name: 🇹🇼 台湾 - 彰化 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}

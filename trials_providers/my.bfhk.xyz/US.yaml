@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: ae68e0a0-6a2c-46ab-b03a-8d995ab2183b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
-- {name: 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: ae68e0a0-6a2c-46ab-b03a-8d995ab2183b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
-- {name: 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: ae68e0a0-6a2c-46ab-b03a-8d995ab2183b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 0b5a33f4-8912-4b65-b74b-e78300ceba8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: 0b5a33f4-8912-4b65-b74b-e78300ceba8e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
+- {name: 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: 0b5a33f4-8912-4b65-b74b-e78300ceba8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
