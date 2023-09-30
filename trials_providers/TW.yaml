@@ -1,17 +1,17 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: XkuVsW6suVR8Yk73, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: XkuVsW6suVR8Yk73, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: XkuVsW6suVR8Yk73, tfo: false, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: XkuVsW6suVR8Yk73, tfo: false, udp: true}
 - {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: js.xzyunjiasu.icu, port: 39602, type: ss, cipher: chacha20-ietf-poly1305, password: 5ddfcd35-d0f8-4646-afd1-3e9766e46eb8, udp: true}
 - {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 43645, type: ss, cipher: chacha20-ietf-poly1305, password: 5ddfcd35-d0f8-4646-afd1-3e9766e46eb8, udp: true}
 - {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: sz.xzyunjiasu.icu, port: 45700, type: ss, cipher: chacha20-ietf-poly1305, password: 5ddfcd35-d0f8-4646-afd1-3e9766e46eb8, udp: true}
-- {name: 🇹🇼 vip1 台湾-01-SS - FastFly, server: gzdx.jcnode.top, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: 65213457-cff2-4347-825e-fb95ec85530a, udp: true}
-- {name: 🇹🇼 vip1 台湾-02-SS - FastFly, server: gzyd.jcnode.top, port: 46957, type: ss, cipher: chacha20-ietf-poly1305, password: 65213457-cff2-4347-825e-fb95ec85530a, udp: true}
-- {name: 🇹🇼 vip1 台湾-03-SS - FastFly, server: gzdx01.jcnode.top, port: 24007, type: ss, cipher: chacha20-ietf-poly1305, password: 65213457-cff2-4347-825e-fb95ec85530a, udp: true}
-- {name: 🇹🇼 vip1 台湾-06-SS - FastFly, server: gzdx.jcnode.top, port: 29574, type: ss, cipher: chacha20-ietf-poly1305, password: 65213457-cff2-4347-825e-fb95ec85530a, udp: true}
-- {name: 🇹🇼 vip1 台湾-07-SS - FastFly, server: gzyd.jcnode.top, port: 64759, type: ss, cipher: chacha20-ietf-poly1305, password: 65213457-cff2-4347-825e-fb95ec85530a, udp: true}
-- {name: 🇹🇼 vip1 台湾-08-SS - FastFly, server: gzdx01.jcnode.top, port: 26065, type: ss, cipher: chacha20-ietf-poly1305, password: 65213457-cff2-4347-825e-fb95ec85530a, udp: true}
+- {name: 🇹🇼 vip1 台湾-01-SS - FastFly, server: gzdx.jcnode.top, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: ada8afaa-001d-4f6f-9c47-f81a31bfd3d4, udp: true}
+- {name: 🇹🇼 vip1 台湾-02-SS - FastFly, server: gzyd.jcnode.top, port: 46957, type: ss, cipher: chacha20-ietf-poly1305, password: ada8afaa-001d-4f6f-9c47-f81a31bfd3d4, udp: true}
+- {name: 🇹🇼 vip1 台湾-03-SS - FastFly, server: gzdx01.jcnode.top, port: 24007, type: ss, cipher: chacha20-ietf-poly1305, password: ada8afaa-001d-4f6f-9c47-f81a31bfd3d4, udp: true}
+- {name: 🇹🇼 vip1 台湾-06-SS - FastFly, server: gzdx.jcnode.top, port: 29574, type: ss, cipher: chacha20-ietf-poly1305, password: ada8afaa-001d-4f6f-9c47-f81a31bfd3d4, udp: true}
+- {name: 🇹🇼 vip1 台湾-07-SS - FastFly, server: gzyd.jcnode.top, port: 64759, type: ss, cipher: chacha20-ietf-poly1305, password: ada8afaa-001d-4f6f-9c47-f81a31bfd3d4, udp: true}
+- {name: 🇹🇼 vip1 台湾-08-SS - FastFly, server: gzdx01.jcnode.top, port: 26065, type: ss, cipher: chacha20-ietf-poly1305, password: ada8afaa-001d-4f6f-9c47-f81a31bfd3d4, udp: true}
 - {name: 🇹🇼 台湾 01 - 老猫云, server: cn1.laomao2.xyz, port: 30301, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
 - {name: 🇹🇼 Vip1-5.广州1-台湾A | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6030, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 129371:jBflyq, obfs-param: '98e23129371.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇹🇼 Vip1-5.广州1-台湾B | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6044, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 129371:jBflyq, obfs-param: '98e23129371.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
@@ -27,11 +27,11 @@ proxies:
 - {name: 🇹🇼 台湾1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22259, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
 - {name: 🇹🇼 台湾2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22259, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
 - {name: 🇹🇼 台湾3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22259, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
-- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.58n.net, port: 17629, type: trojan, password: f3fdcd76-d669-3a4e-8cdb-31658a3b10ff, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.58n.net, port: 59021, type: trojan, password: f3fdcd76-d669-3a4e-8cdb-31658a3b10ff, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.58n.net, port: 21247, type: trojan, password: f3fdcd76-d669-3a4e-8cdb-31658a3b10ff, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.58n.net, port: 33323, type: trojan, password: f3fdcd76-d669-3a4e-8cdb-31658a3b10ff, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.58n.net, port: 36821, type: trojan, password: f3fdcd76-d669-3a4e-8cdb-31658a3b10ff, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.58n.net, port: 17629, type: trojan, password: e79e2375-7bb4-3450-953e-9fadba0f3d02, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gg.58n.net, port: 59021, type: trojan, password: e79e2375-7bb4-3450-953e-9fadba0f3d02, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gg.58n.net, port: 21247, type: trojan, password: e79e2375-7bb4-3450-953e-9fadba0f3d02, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gg.58n.net, port: 33323, type: trojan, password: e79e2375-7bb4-3450-953e-9fadba0f3d02, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gg.58n.net, port: 36821, type: trojan, password: e79e2375-7bb4-3450-953e-9fadba0f3d02, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: d63ee83634.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d63ee83634.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d63ee83634.download.windowsupdate.com}, udp: true}
