@@ -24,7 +24,7 @@ proxy-groups:
   use: &id001
   - TW
   - JP
-  - p_All_Other
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -77,7 +77,7 @@ proxy-groups:
   type: url-test
   tolerance: 50
   use: &id004
-  - p_All_Other
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -109,11 +109,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/kan.gar.ooo/p_All_Other.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/kan.gar.ooo/Other.yaml
     interval: 180
-    path: trials_providers/kan.gar.ooo/p_All_Other.yaml
+    path: trials_providers/kan.gar.ooo/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -153,9 +153,7 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kgithub.com,DIRECT
-- DOMAIN,raw.me.cd,🛩️ ‍墙内
-- DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,kkgithub.com,DIRECT
 - DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
 - DOMAIN,3.7.cr,🛩️ ‍墙内
@@ -1838,7 +1836,6 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,ai.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞

@@ -38,7 +38,7 @@ proxy-groups:
   - 🇭🇰 香港 - 极速 D - V2Link
   - 🇭🇰 香港 - 极速 E - V2Link
   - 🇭🇰 香港 - 极速 F - V2Link
-  - 🇹🇼 台湾 - 新北 A - V2Link
+  - 🇹🇼 台湾 - 家宽 A - V2Link
   - 🇹🇼 台湾 - 彰化 B - V2Link
   - 🇸🇬 新加坡 A - V2Link
   - 🇸🇬 新加坡 B - V2Link
@@ -134,7 +134,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇹🇼 台湾 - 新北 A - V2Link
+  - 🇹🇼 台湾 - 家宽 A - V2Link
   - 🇹🇼 台湾 - 彰化 B - V2Link
 - name: 🇨🇳 ‍中国
   type: url-test
@@ -148,7 +148,7 @@ proxy-groups:
   - 🇭🇰 香港 - 极速 D - V2Link
   - 🇭🇰 香港 - 极速 E - V2Link
   - 🇭🇰 香港 - 极速 F - V2Link
-  - 🇹🇼 台湾 - 新北 A - V2Link
+  - 🇹🇼 台湾 - 家宽 A - V2Link
   - 🇹🇼 台湾 - 彰化 B - V2Link
 - name: 🇸🇬 ‍新加坡
   type: url-test
@@ -240,7 +240,7 @@ proxies:
 - {name: 🇯🇵 日本 - 东京 A - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
 - {name: 🇯🇵 日本 - 东京 B - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
 - {name: 🇯🇵 日本 - 东京 C - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
-- {name: 🇹🇼 台湾 - 新北 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
+- {name: 🇹🇼 台湾 - 家宽 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
 - {name: 🇹🇼 台湾 - 彰化 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
 - {name: 🇰🇷 韩国 - 首尔 R - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
 - {name: 🇰🇷 韩国 - 首尔 X - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 25e66217-b1ee-453a-a2c7-ebc6c03681d1, udp: true}
@@ -302,9 +302,7 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kgithub.com,DIRECT
-- DOMAIN,raw.me.cd,🛩️ ‍墙内
-- DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,kkgithub.com,DIRECT
 - DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
 - DOMAIN,3.7.cr,🛩️ ‍墙内
@@ -1987,7 +1985,6 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,ai.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
