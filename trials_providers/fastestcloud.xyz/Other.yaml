@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：28 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: d1d0e16d-e2ab-4633-bf25-4aa44a4daa41, udp: true}
+- {name: 距离下次重置剩余：27 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: d1d0e16d-e2ab-4633-bf25-4aa44a4daa41, udp: true}
 - {name: 🇻🇳 vip1 越南-01-SS - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: d1d0e16d-e2ab-4633-bf25-4aa44a4daa41, udp: true}
 - {name: 🇻🇳 vip1 越南-02-SS - FastFly, server: gzyd.jcnode.top, port: 33534, type: ss, cipher: chacha20-ietf-poly1305, password: d1d0e16d-e2ab-4633-bf25-4aa44a4daa41, udp: true}
 - {name: 🇻🇳 vip1 越南-03-SS - FastFly, server: gzdx01.jcnode.top, port: 23761, type: ss, cipher: chacha20-ietf-poly1305, password: d1d0e16d-e2ab-4633-bf25-4aa44a4daa41, udp: true}
