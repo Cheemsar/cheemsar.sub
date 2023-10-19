@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 KR / CM | 移动 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: d86db99f-aa94-4aa9-b991-67ffdd0d2f57, udp: true}
-- {name: 🇰🇷 KR / CU | 联通 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: d86db99f-aa94-4aa9-b991-67ffdd0d2f57, udp: true}
-- {name: 🇰🇷 KR / CT | 电信 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: ss, cipher: aes-128-gcm, password: d86db99f-aa94-4aa9-b991-67ffdd0d2f57, udp: true}
-- {name: 🇻🇳 越南 / 华东 | 原生·Pro - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: d86db99f-aa94-4aa9-b991-67ffdd0d2f57, udp: true}
-- {name: 🇻🇳 越南 / 华南 | 原生·Pro - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: d86db99f-aa94-4aa9-b991-67ffdd0d2f57, udp: true}
+- {name: 🇰🇷 KR / CM | 移动 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: c3829a09-ae6b-4701-8607-2215156530b8, udp: true}
+- {name: 🇰🇷 KR / CU | 联通 - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: c3829a09-ae6b-4701-8607-2215156530b8, udp: true}
+- {name: 🇰🇷 KR / CT | 电信 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, type: ss, cipher: aes-128-gcm, password: c3829a09-ae6b-4701-8607-2215156530b8, udp: true}
+- {name: 🇻🇳 越南 / 华东 | 原生·Pro - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: c3829a09-ae6b-4701-8607-2215156530b8, udp: true}
+- {name: 🇻🇳 越南 / 华南 | 原生·Pro - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: c3829a09-ae6b-4701-8607-2215156530b8, udp: true}
