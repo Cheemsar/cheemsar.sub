@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US / CM | 移动 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: f2da512b-01dc-4d22-b3b8-29d6dcf2ebf6, udp: true}
-- {name: 🇺🇸 US / CU | 联通 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: f2da512b-01dc-4d22-b3b8-29d6dcf2ebf6, udp: true}
-- {name: 🇺🇸 US / CT | 电信 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: f2da512b-01dc-4d22-b3b8-29d6dcf2ebf6, udp: true}
-- {name: 🇺🇸 美国 / 华东 | 原生·Pro - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-128-gcm, password: f2da512b-01dc-4d22-b3b8-29d6dcf2ebf6, udp: true}
-- {name: 🇺🇸 美国 / 华南 | 原生·Pro - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-128-gcm, password: f2da512b-01dc-4d22-b3b8-29d6dcf2ebf6, udp: true}
+- {name: 🇺🇸 US / CM | 移动 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 54870499-1114-44e8-89c3-bf02b4e05744, udp: true}
+- {name: 🇺🇸 US / CU | 联通 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 54870499-1114-44e8-89c3-bf02b4e05744, udp: true}
+- {name: 🇺🇸 US / CT | 电信 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 54870499-1114-44e8-89c3-bf02b4e05744, udp: true}
+- {name: 🇺🇸 美国 / 华东 | 原生·Pro - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-128-gcm, password: 54870499-1114-44e8-89c3-bf02b4e05744, udp: true}
+- {name: 🇺🇸 美国 / 华南 | 原生·Pro - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-128-gcm, password: 54870499-1114-44e8-89c3-bf02b4e05744, udp: true}
