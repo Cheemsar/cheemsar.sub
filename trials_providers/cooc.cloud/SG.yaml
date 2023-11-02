@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG / CM | 移动 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 2416fa61-4073-4c8c-ab31-7f7eba01144c, udp: true}
-- {name: 🇸🇬 SG / CU | 联通 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 2416fa61-4073-4c8c-ab31-7f7eba01144c, udp: true}
-- {name: 🇸🇬 SG / CT | 电信 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: ss, cipher: aes-256-gcm, password: 2416fa61-4073-4c8c-ab31-7f7eba01144c, udp: true}
+- {name: 🇸🇬 SG / CM | 移动 - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 0fdd16d2-1699-44f2-8310-10937587a025, udp: true}
+- {name: 🇸🇬 SG / CU | 联通 - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 0fdd16d2-1699-44f2-8310-10937587a025, udp: true}
+- {name: 🇸🇬 SG / CT | 电信 - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: ss, cipher: aes-256-gcm, password: 0fdd16d2-1699-44f2-8310-10937587a025, udp: true}
