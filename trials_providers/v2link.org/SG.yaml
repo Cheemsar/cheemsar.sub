@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 9bfef918-0dc5-4fbb-960c-1565dbb88790, udp: true}
-- {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 9bfef918-0dc5-4fbb-960c-1565dbb88790, udp: true}
-- {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 9bfef918-0dc5-4fbb-960c-1565dbb88790, udp: true}
+- {name: 🇸🇬 新加坡 - Netflix - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 3b51243c-2eca-41a5-8b9d-3bda706a5803, udp: true}
+- {name: 🇸🇬 新加坡 - Netflix B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 3b51243c-2eca-41a5-8b9d-3bda706a5803, udp: true}
+- {name: 🇸🇬 新加坡  - 流媒体 - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 3b51243c-2eca-41a5-8b9d-3bda706a5803, udp: true}
