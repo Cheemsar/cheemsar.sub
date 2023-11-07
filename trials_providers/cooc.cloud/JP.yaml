@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP / CM | 移动 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: eff9886e-f5f8-4ffd-b407-e057b12cd719, udp: true}
-- {name: 🇯🇵 JP / CU | 联通 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: eff9886e-f5f8-4ffd-b407-e057b12cd719, udp: true}
-- {name: 🇯🇵 JP / CT | 电信 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: eff9886e-f5f8-4ffd-b407-e057b12cd719, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华东 - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: eff9886e-f5f8-4ffd-b407-e057b12cd719, udp: true}
+- {name: 🇯🇵 JP / 日本 | 华南 - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: eff9886e-f5f8-4ffd-b407-e057b12cd719, udp: true}
+- {name: 🇯🇵 JP / 日本 | 混合 - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: eff9886e-f5f8-4ffd-b407-e057b12cd719, udp: true}
