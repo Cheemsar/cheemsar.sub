@@ -1,13 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19892, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19895, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19891, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19883, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19884, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19885, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19882, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19881, type: vmess, uuid: 9c03e6a1-d704-3bb9-a839-6d4e40066050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19891, type: vmess, uuid: fec044ba-da35-3c8f-8f50-22f160d5cacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: fec044ba-da35-3c8f-8f50-22f160d5cacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: fec044ba-da35-3c8f-8f50-22f160d5cacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: fec044ba-da35-3c8f-8f50-22f160d5cacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
