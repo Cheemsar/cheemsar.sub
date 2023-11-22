@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: a86a2acf-4f43-31f6-bb62-82dca1e1e79e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
-- {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.dugusite1.buzz, port: 5062, type: vmess, uuid: a86a2acf-4f43-31f6-bb62-82dca1e1e79e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.dugusite1.buzz, port: 5061, type: vmess, uuid: a86a2acf-4f43-31f6-bb62-82dca1e1e79e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: 008cc7da-a731-3101-b0c7-30d8897c8ec4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
+- {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.dugusite1.buzz, port: 5062, type: vmess, uuid: 008cc7da-a731-3101-b0c7-30d8897c8ec4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.dugusite1.buzz, port: 5061, type: vmess, uuid: 008cc7da-a731-3101-b0c7-30d8897c8ec4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
