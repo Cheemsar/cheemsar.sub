@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 旧网址giaoyun.xyz（挂梯访问） - giao云, server: 8.8.8.8, port: 22266, type: ss, cipher: chacha20-ietf-poly1305, password: 30a441d9-c435-4225-8879-54d638076950, udp: true}
-- {name: 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 30a441d9-c435-4225-8879-54d638076950, udp: true}
-- {name: 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 30a441d9-c435-4225-8879-54d638076950, udp: true}
-- {name: 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: 30a441d9-c435-4225-8879-54d638076950, udp: true}
-- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: 125.124.5.239, port: 10088, type: trojan, password: 30a441d9-c435-4225-8879-54d638076950, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 旧网址giaoyun.xyz（挂梯访问） - giao云, server: 8.8.8.8, port: 22266, type: ss, cipher: chacha20-ietf-poly1305, password: b8fad6b3-92b7-4a6c-bb79-4be0375498eb, udp: true}
+- {name: 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: b8fad6b3-92b7-4a6c-bb79-4be0375498eb, udp: true}
+- {name: 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: b8fad6b3-92b7-4a6c-bb79-4be0375498eb, udp: true}
+- {name: 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: b8fad6b3-92b7-4a6c-bb79-4be0375498eb, udp: true}
+- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: hz.888898.beauty, port: 10089, type: trojan, password: b8fad6b3-92b7-4a6c-bb79-4be0375498eb, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
