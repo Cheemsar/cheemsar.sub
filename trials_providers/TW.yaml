@@ -9,12 +9,12 @@ proxies:
 - {name: 🇹🇼 台湾 01 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
 - {name: 🇹🇼 台湾 02 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
 - {name: 🇹🇼 台湾 03 - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 64850, type: trojan, password: abccda1b-d9e9-4580-b87b-2fa99a32b43e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 45540, type: trojan, password: abccda1b-d9e9-4580-b87b-2fa99a32b43e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 55345, type: trojan, password: abccda1b-d9e9-4580-b87b-2fa99a32b43e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 47557, type: trojan, password: abccda1b-d9e9-4580-b87b-2fa99a32b43e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 61413, type: trojan, password: abccda1b-d9e9-4580-b87b-2fa99a32b43e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 22084, type: trojan, password: abccda1b-d9e9-4580-b87b-2fa99a32b43e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 64850, type: trojan, password: 9fece556-4c5f-4719-a8b5-766e080da5f0, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 45540, type: trojan, password: 9fece556-4c5f-4719-a8b5-766e080da5f0, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 55345, type: trojan, password: 9fece556-4c5f-4719-a8b5-766e080da5f0, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 47557, type: trojan, password: 9fece556-4c5f-4719-a8b5-766e080da5f0, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 61413, type: trojan, password: 9fece556-4c5f-4719-a8b5-766e080da5f0, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 22084, type: trojan, password: 9fece556-4c5f-4719-a8b5-766e080da5f0, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22259, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
 - {name: 🇹🇼 台湾2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22259, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
 - {name: 🇹🇼 台湾3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22259, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
