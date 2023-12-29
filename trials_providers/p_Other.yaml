@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：3 天 - FastFly, server: gdct001.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 4d331600-7a71-4844-8340-09c0bdd84810, udp: true}
+- {name: 距离下次重置剩余：2 天 - FastFly, server: gdct001.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: f8679c71-8c5b-4b5e-bff0-acc5600c1844, udp: true}
 - {name: 距离下次重置剩余：2 天 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 52488d30-3306-4f8d-aaab-50c8f42a0a07, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 52488d30-3306-4f8d-aaab-50c8f42a0a07, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: fa76231b-2766-4981-8958-d147c5337111, udp: true}
