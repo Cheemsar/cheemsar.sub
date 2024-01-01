@@ -1,4 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 1c027242-13cd-4f6c-abf7-1656c405a64f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ 距离下次重置剩余：30 天 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 86b630bd-c787-40a3-817c-eacfa9c18a3f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 86b630bd-c787-40a3-817c-eacfa9c18a3f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
