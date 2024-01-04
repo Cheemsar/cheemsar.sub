@@ -41,6 +41,8 @@ proxy-groups:
   - 🇯🇵 日本 CS5 *5 - 独孤乐天
   - 🇯🇵 日本 kagoya *3 - 独孤乐天
   - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
   - 🇩🇪 德国 *3 - 独孤乐天
   - 🇩🇪 德国 *3 IPv6 - 独孤乐天
 - name: 🛩️ ‍墙内
@@ -114,6 +116,8 @@ proxy-groups:
   tolerance: 300
   proxies: &id004
   - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -152,6 +156,8 @@ proxies:
 - {name: 🇯🇵 日本 CS5 *5 - 独孤乐天, server: nhk-5.biyaoshidian.top, port: 5061, type: vmess, uuid: 1519b211-57ac-3656-9035-b9044af509ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 kagoya *3 - 独孤乐天, server: jp-4.dugusite1.buzz, port: 5061, type: vmess, uuid: 1519b211-57ac-3656-9035-b9044af509ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 1519b211-57ac-3656-9035-b9044af509ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 - 独孤乐天, server: us-2.dugusite1.buzz, port: 5061, type: vmess, uuid: 1519b211-57ac-3656-9035-b9044af509ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 1519b211-57ac-3656-9035-b9044af509ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: 1519b211-57ac-3656-9035-b9044af509ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
 - {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.dugusite1.buzz, port: 5062, type: vmess, uuid: 1519b211-57ac-3656-9035-b9044af509ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.dugusite1.buzz, port: 5061, type: vmess, uuid: 1519b211-57ac-3656-9035-b9044af509ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
