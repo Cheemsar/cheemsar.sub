@@ -9,3 +9,4 @@ proxies:
 - {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 43fb9be2-f8e5-3550-ab5a-355b31568687, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 43fb9be2-f8e5-3550-ab5a-355b31568687, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 43fb9be2-f8e5-3550-ab5a-355b31568687, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 43fb9be2-f8e5-3550-ab5a-355b31568687, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
