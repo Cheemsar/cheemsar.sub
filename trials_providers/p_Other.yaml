@@ -3,8 +3,8 @@
 proxies:
 - {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: ℹ 距离下次重置剩余：22 天 - FastFly, server: gdct001.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: f92b0291-176f-4e4c-8b5a-e5a669966ecd, udp: true}
-- {name: ℹ 距离下次重置剩余：23 天 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: fb065f19-c4ac-41db-b80c-18a92db27b88, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: fb065f19-c4ac-41db-b80c-18a92db27b88, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ 距离下次重置剩余：22 天 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 6f3df8c2-7e42-4e1d-8cfc-047f88488ca7, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 6f3df8c2-7e42-4e1d-8cfc-047f88488ca7, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 87714f19-8f64-458e-9fd5-1dee87036add, udp: true}
 - {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 87714f19-8f64-458e-9fd5-1dee87036add, udp: true}
 - {name: ℹ 距离下次重置剩余：2 天 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 35648c0e-694b-494f-ae4c-370d70df0eea, udp: true}
@@ -14,8 +14,8 @@ proxies:
 - {name: ℹ 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 08e0e90a-4ffa-3672-b42d-6b5eb8082e16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 08e0e90a-4ffa-3672-b42d-6b5eb8082e16, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 官方TG售后通知频道：https://t.me/Qhcygf - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
-- {name: ℹ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 44352455-8ca0-4cf5-bb1c-2113c2b8818c, udp: true}
-- {name: ℹ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 44352455-8ca0-4cf5-bb1c-2113c2b8818c, udp: true}
+- {name: ℹ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: cd589897-5c75-48e9-902f-e698c34e039a, udp: true}
+- {name: ℹ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: cd589897-5c75-48e9-902f-e698c34e039a, udp: true}
 - {name: 🌞🌞网址：www.yxrc.top - 探索者, server: 603diya.donghui.tech, port: 34638, type: vmess, uuid: 8e401a76-7dc9-416b-989e-9ff6c34859e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 🌞🌞网址：www.cryxr1.net - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 8e401a76-7dc9-416b-989e-9ff6c34859e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 🌞🌞网址：www.cryxr2.net - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 8e401a76-7dc9-416b-989e-9ff6c34859e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
