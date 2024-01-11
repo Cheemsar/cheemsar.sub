@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: ea80c515-6347-3a71-922a-d053c5e3446c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 - 独孤乐天, server: us-2.dugusite1.buzz, port: 5061, type: vmess, uuid: ea80c515-6347-3a71-922a-d053c5e3446c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: ea80c515-6347-3a71-922a-d053c5e3446c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: c6d6b2b2-69be-3630-a3ac-416199397e9c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 - 独孤乐天, server: us-2.dugusite1.buzz, port: 5061, type: vmess, uuid: c6d6b2b2-69be-3630-a3ac-416199397e9c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: c6d6b2b2-69be-3630-a3ac-416199397e9c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
