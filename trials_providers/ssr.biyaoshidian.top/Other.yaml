@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国 *3 - 独孤乐天, server: de-1.dugusite1.buzz, port: 5061, type: vmess, uuid: 50d1196f-f49e-3c79-83ec-ffc11f08d3a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 *3 IPv6 - 独孤乐天, server: de6-1.dugusite1.buzz, port: 5061, type: vmess, uuid: 50d1196f-f49e-3c79-83ec-ffc11f08d3a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 *3 - 独孤乐天, server: de-1.dugusite1.buzz, port: 5061, type: vmess, uuid: 04180af2-60b7-3f82-adbf-ce52ed8baa93, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 *3 IPv6 - 独孤乐天, server: de6-1.dugusite1.buzz, port: 5061, type: vmess, uuid: 04180af2-60b7-3f82-adbf-ce52ed8baa93, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
