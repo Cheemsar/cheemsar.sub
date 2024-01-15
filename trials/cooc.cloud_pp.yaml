@@ -35,8 +35,7 @@ proxy-groups:
   - SG
   - JP
   - US
-  - p_All_Other
-  - p_All_CN
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -99,7 +98,6 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-  - p_All_CN
 - name: 🇸🇬 ‍新加坡
   type: url-test
   tolerance: 100
@@ -119,7 +117,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id008
-  - p_All_Other
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -190,20 +188,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cooc.cloud/p_All_Other.yaml
+    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cooc.cloud/Other.yaml
     interval: 180
-    path: trials_providers/cooc.cloud/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_CN:
-    type: http
-    url: https://raw.kgithub.com/Cheemsar/cheemsar.sub/main/trials_providers/cooc.cloud/p_All_CN.yaml
-    interval: 180
-    path: trials_providers/cooc.cloud/p_All_CN.yaml
+    path: trials_providers/cooc.cloud/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

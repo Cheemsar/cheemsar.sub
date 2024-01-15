@@ -26,7 +26,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇭🇰香港中继Ⅰ-Trojan - Proxyvip
   - 🇭🇰香港中继Ⅱ-Trojan - Proxyvip
@@ -107,8 +107,8 @@ proxy-groups:
 - name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - 🇭🇰香港中继Ⅰ-Trojan - Proxyvip
   - 🇭🇰香港中继Ⅱ-Trojan - Proxyvip
@@ -122,8 +122,8 @@ proxy-groups:
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id003
   - 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip
   - 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip
@@ -132,8 +132,8 @@ proxy-groups:
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id004
   - 🇯🇵日本中继Ⅰ-Trojan - Proxyvip
   - 🇯🇵日本中继Ⅱ-Trojan - Proxyvip
@@ -142,8 +142,8 @@ proxy-groups:
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id005
   - 🇺🇸美国中继Ⅰ-Trojan - Proxyvip
   - 🇺🇸美国中继Ⅱ-Trojan - Proxyvip
@@ -158,7 +158,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id006
   - 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip
   - 🇬🇧英国中继Ⅰ-Trojan - Proxyvip
@@ -189,42 +189,42 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: hk-02.v1vip.top, port: 31002, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: hk-03.v1vip.top, port: 31003, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅳ-Trojan - Proxyvip, server: hk-04.v1vip.top, port: 31004, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: hk-04.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: us-01.v1vip.top, port: 31006, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: us-02.v1vip.top, port: 31007, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: us-03.v1vip.top, port: 31008, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: us-04.v1vip.top, port: 31009, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sg-01.v1vip.top, port: 31011, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.v1vip.top, port: 31012, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本中继Ⅰ-Trojan - Proxyvip, server: jp-01.v1vip.top, port: 31013, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: jp-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本中继Ⅱ-Trojan - Proxyvip, server: jp-02.v1vip.top, port: 31014, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: jp-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: ca-01.v1vip.top, port: 31015, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: gb-01.v1vip.top, port: 31016, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪德国中继Ⅰ-Trojan - Proxyvip, server: de-01.v1vip.top, port: 31017, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: de-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳印度中继Ⅰ-Trojan - Proxyvip, server: in-01.v1vip.top, port: 31018, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: in-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺澳大利亚中继Ⅰ-Trojan - Proxyvip, server: au-01.v1vip.top, port: 31019, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: au-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅰ-V2ray - Proxyvip, server: hk-01.v3vip.top, port: 33001, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-01.v4vip.top, udp: true}
-- {name: 🇭🇰香港中继Ⅱ-V2ray - Proxyvip, server: hk-02.v3vip.top, port: 33002, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-02.v4vip.top, udp: true}
-- {name: 🇭🇰香港中继Ⅲ-V2ray - Proxyvip, server: hk-03.v3vip.top, port: 33003, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-03.v4vip.top, udp: true}
-- {name: 🇭🇰香港中继Ⅳ-V2ray - Proxyvip, server: hk-04.v3vip.top, port: 33004, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
-- {name: 🇭🇰香港中继Ⅴ-V2ray - Proxyvip, server: hk-05.v3vip.top, port: 33005, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
-- {name: 🇺🇸美国中继Ⅰ-V2ray - Proxyvip, server: us-01.v3vip.top, port: 33006, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-01.v4vip.top, udp: true}
-- {name: 🇺🇸美国中继Ⅱ-V2ray - Proxyvip, server: us-02.v3vip.top, port: 33007, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-02.v4vip.top, udp: true}
-- {name: 🇺🇸美国中继Ⅲ-V2ray - Proxyvip, server: us-03.v3vip.top, port: 33008, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-03.v4vip.top, udp: true}
-- {name: 🇺🇸美国中继Ⅳ-V2ray - Proxyvip, server: us-04.v3vip.top, port: 33009, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
-- {name: 🇺🇸美国中继Ⅴ-V2ray - Proxyvip, server: us-05.v3vip.top, port: 33010, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
-- {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sg-01.v3vip.top, port: 33011, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
-- {name: 🇸🇬新加坡中继Ⅱ-V2ray - Proxyvip, server: sg-02.v3vip.top, port: 33012, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-02.v4vip.top, udp: true}
-- {name: 🇯🇵日本中继Ⅰ-V2ray - Proxyvip, server: jp-01.v3vip.top, port: 33013, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-01.v4vip.top, udp: true}
-- {name: 🇯🇵日本中继Ⅱ-V2ray - Proxyvip, server: jp-02.v3vip.top, port: 33014, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-02.v4vip.top, udp: true}
-- {name: 🇨🇦加拿大中继Ⅰ-V2ray - Proxyvip, server: ca-01.v3vip.top, port: 33015, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ca-01.v4vip.top, udp: true}
-- {name: 🇬🇧英国中继Ⅰ-V2ray - Proxyvip, server: gb-01.v3vip.top, port: 33016, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gb-01.v4vip.top, udp: true}
-- {name: 🇩🇪德国中继Ⅰ-V2ray - Proxyvip, server: de-01.v3vip.top, port: 33017, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de-01.v4vip.top, udp: true}
-- {name: 🇮🇳印度中继Ⅰ-V2ray - Proxyvip, server: in-01.v3vip.top, port: 33018, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: in-01.v4vip.top, udp: true}
-- {name: 🇦🇺澳大利亚中继Ⅰ-V2ray - Proxyvip, server: au-01.v3vip.top, port: 33019, type: vmess, uuid: e93e476e-3397-4b32-8578-4b8fd9c83de4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: au-01.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31001, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31002, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31003, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅳ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31004, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: hk-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31006, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31007, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31008, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31009, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31011, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31012, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31013, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: jp-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本中继Ⅱ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31014, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: jp-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31015, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31016, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪德国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31017, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: de-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳印度中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31018, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: in-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺澳大利亚中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31019, type: trojan, password: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, sni: au-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33001, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-01.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅱ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33002, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-02.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅲ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33003, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-03.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅳ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33004, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅴ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33005, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33006, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-01.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅱ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33007, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-02.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅲ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33008, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-03.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅳ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33009, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅴ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33010, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
+- {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33011, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
+- {name: 🇸🇬新加坡中继Ⅱ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33012, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-02.v4vip.top, udp: true}
+- {name: 🇯🇵日本中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33013, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-01.v4vip.top, udp: true}
+- {name: 🇯🇵日本中继Ⅱ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33014, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-02.v4vip.top, udp: true}
+- {name: 🇨🇦加拿大中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33015, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ca-01.v4vip.top, udp: true}
+- {name: 🇬🇧英国中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33016, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gb-01.v4vip.top, udp: true}
+- {name: 🇩🇪德国中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33017, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de-01.v4vip.top, udp: true}
+- {name: 🇮🇳印度中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33018, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: in-01.v4vip.top, udp: true}
+- {name: 🇦🇺澳大利亚中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33019, type: vmess, uuid: 88b2f508-9d89-478c-a3b7-bcf973a9c7d9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: au-01.v4vip.top, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -260,14 +260,20 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kgithub.com,DIRECT
-- DOMAIN,raw.me.cd,🛩️ ‍墙内
-- DOMAIN,sc.me.cd,🛩️ ‍墙内
-- DOMAIN,dd.al,🛩️ ‍墙内
-- DOMAIN,all.bz,🛩️ ‍墙内
+- DOMAIN-SUFFIX,kkgithub.com,DIRECT
+- DOMAIN,3.7.cr,🛩️ ‍墙内
+- DOMAIN,7.7.cr,🛩️ ‍墙内
+- DOMAIN,c.7.cr,🛩️ ‍墙内
+- DOMAIN,i.7.cr,🛩️ ‍墙内
+- DOMAIN,j.7.cr,🛩️ ‍墙内
+- DOMAIN,n.7.cr,🛩️ ‍墙内
+- DOMAIN,r.7.cr,🛩️ ‍墙内
+- DOMAIN,api.v1.mk,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
-- DOMAIN,ghproxy.com,🛩️ ‍墙内
+- DOMAIN,api.tsutsu.one,🛩️ ‍墙内
+- DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
@@ -286,6 +292,11 @@ rules:
 - DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
+- DOMAIN-SUFFIX,sigmob.cn,💩 ‍广告
+- DOMAIN,open.e.kuaishou.com,💩 ‍广告
+- DOMAIN,open.e.kuaishou.cn,💩 ‍广告
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
+- DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
@@ -696,6 +707,7 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
+- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -1936,7 +1948,8 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,ai.com,🤖 ‍OpenAI+Bing
+- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍OpenAI+Bing
+- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
@@ -1959,6 +1972,7 @@ rules:
 - DOMAIN-SUFFIX,tumbex.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,twdvd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,unsplash.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,buzzsprout.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,eu,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk,✈️ ‍起飞
 - DOMAIN-SUFFIX,jp,✈️ ‍起飞
@@ -2084,7 +2098,6 @@ rules:
 - DOMAIN-SUFFIX,6parkbbs.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,6parker.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,6parknews.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,7-zip.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,7capture.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,7cow.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,8-d.com,✈️ ‍起飞
@@ -2366,6 +2379,7 @@ rules:
 - DOMAIN-SUFFIX,babylonbee.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,backchina.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,backtotiananmen.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bad.news,✈️ ‍起飞
 - DOMAIN-SUFFIX,badiucao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,badjojo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,badoo.com,✈️ ‍起飞
@@ -2816,7 +2830,7 @@ rules:
 - DOMAIN-SUFFIX,civilhrfront.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,civiliangunner.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,civisec.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,cjb.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,civitai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ck101.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clarionproject.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,classicalguitarblog.net,✈️ ‍起飞
@@ -3682,6 +3696,7 @@ rules:
 - DOMAIN-SUFFIX,goagent.biz,✈️ ‍起飞
 - DOMAIN-SUFFIX,goagentplus.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gobet.cc,✈️ ‍起飞
+- DOMAIN-SUFFIX,godaddy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,godfootsteps.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,godns.work,✈️ ‍起飞
 - DOMAIN-SUFFIX,godoc.org,✈️ ‍起飞
@@ -4106,6 +4121,7 @@ rules:
 - DOMAIN-SUFFIX,info-graf.fr,✈️ ‍起飞
 - DOMAIN-SUFFIX,informer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,initiativesforchina.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,inkbunny.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,inkui.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,inmediahk.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,innermongolia.org,✈️ ‍起飞
@@ -4160,6 +4176,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞
@@ -4426,6 +4443,7 @@ rules:
 - DOMAIN-SUFFIX,lfpcontent.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lhakar.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,lhasocialwork.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,li.taipei,✈️ ‍起飞
 - DOMAIN-SUFFIX,liangyou.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,liangzhichuanmei.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lianyue.net,✈️ ‍起飞
@@ -4572,6 +4590,7 @@ rules:
 - DOMAIN-SUFFIX,matrix.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,matsushimakaede.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,matters.news,✈️ ‍起飞
+- DOMAIN-SUFFIX,matters.town,✈️ ‍起飞
 - DOMAIN-SUFFIX,mattwilcox.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,maturejp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mayimayi.com,✈️ ‍起飞
@@ -4703,6 +4722,7 @@ rules:
 - DOMAIN-SUFFIX,monar.ch,✈️ ‍起飞
 - DOMAIN-SUFFIX,mondex.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,moneyhome.biz,✈️ ‍起飞
+- DOMAIN-SUFFIX,monica.im,✈️ ‍起飞
 - DOMAIN-SUFFIX,monitorchina.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,monitorware.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,monlamit.org,✈️ ‍起飞
@@ -5111,7 +5131,6 @@ rules:
 - DOMAIN-SUFFIX,page.link,✈️ ‍起飞
 - DOMAIN-SUFFIX,page.tl,✈️ ‍起飞
 - DOMAIN-SUFFIX,page2rss.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,pages.dev,✈️ ‍起飞
 - DOMAIN-SUFFIX,pagodabox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,palacemoon.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,paldengyal.com,✈️ ‍起飞
@@ -7092,6 +7111,7 @@ rules:
 - DOMAIN-SUFFIX,sb-cd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,xnxx-cdn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ypncdn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,fanbox.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,amplitude.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hockeyapp.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,readdle.com,✈️ ‍起飞
@@ -7157,6 +7177,7 @@ rules:
 - DOMAIN-SUFFIX,zhenguanyu.biz,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhenguanyu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,snapdrop.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,tebex.io,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cn,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--fiqs8s,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--55qx5d,🛩️ ‍墙内
@@ -7204,6 +7225,7 @@ rules:
 - DOMAIN-SUFFIX,aliyuncdn.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyuncs.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyundrive.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,aliyundrive.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amap.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,autonavi.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dingtalk.com,🛩️ ‍墙内
@@ -7230,9 +7252,6 @@ rules:
 - DOMAIN-SUFFIX,hao123img.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jomodns.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,yunjiasu-cdn.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battle.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battlenet.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,blizzard.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amemv.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguaimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguastatic.com,🛩️ ‍墙内
@@ -7302,6 +7321,18 @@ rules:
 - DOMAIN-SUFFIX,hwccpc.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,vmall.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,vmallres.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawnfs.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawno.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawntech.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,coloros.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytap.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapcs.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapdownload.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapimage.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapmobi.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppoer.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflyink.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflyrec.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflytek.com,🛩️ ‍墙内
@@ -7468,6 +7499,7 @@ rules:
 - DOMAIN-SUFFIX,biqudu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,biquge.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bitauto.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,bosszhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,c-ctrip.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,camera360.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cdnmama.com,🛩️ ‍墙内
@@ -7582,7 +7614,6 @@ rules:
 - DOMAIN-SUFFIX,onedns.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oneplus.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,onlinedown.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,oppo.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oracle.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oschina.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ourdvs.com,🛩️ ‍墙内
@@ -7672,6 +7703,7 @@ rules:
 - DOMAIN-SUFFIX,zhaopin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhihu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhimg.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,zhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhongsou.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
