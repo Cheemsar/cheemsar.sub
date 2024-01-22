@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31015, type: trojan, password: 356e3307-c099-4eb6-bc21-871705626b69, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31016, type: trojan, password: 356e3307-c099-4eb6-bc21-871705626b69, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪德国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31017, type: trojan, password: 356e3307-c099-4eb6-bc21-871705626b69, sni: de-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳印度中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31018, type: trojan, password: 356e3307-c099-4eb6-bc21-871705626b69, sni: in-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺澳大利亚中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31019, type: trojan, password: 356e3307-c099-4eb6-bc21-871705626b69, sni: au-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦加拿大中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33015, type: vmess, uuid: 356e3307-c099-4eb6-bc21-871705626b69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ca-01.v4vip.top, udp: true}
-- {name: 🇬🇧英国中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33016, type: vmess, uuid: 356e3307-c099-4eb6-bc21-871705626b69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gb-01.v4vip.top, udp: true}
-- {name: 🇩🇪德国中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33017, type: vmess, uuid: 356e3307-c099-4eb6-bc21-871705626b69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de-01.v4vip.top, udp: true}
-- {name: 🇮🇳印度中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33018, type: vmess, uuid: 356e3307-c099-4eb6-bc21-871705626b69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: in-01.v4vip.top, udp: true}
-- {name: 🇦🇺澳大利亚中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33019, type: vmess, uuid: 356e3307-c099-4eb6-bc21-871705626b69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: au-01.v4vip.top, udp: true}
+- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31015, type: trojan, password: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31016, type: trojan, password: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪德国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31017, type: trojan, password: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, sni: de-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳印度中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31018, type: trojan, password: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, sni: in-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺澳大利亚中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31019, type: trojan, password: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, sni: au-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦加拿大中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33015, type: vmess, uuid: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ca-01.v4vip.top, udp: true}
+- {name: 🇬🇧英国中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33016, type: vmess, uuid: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gb-01.v4vip.top, udp: true}
+- {name: 🇩🇪德国中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33017, type: vmess, uuid: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de-01.v4vip.top, udp: true}
+- {name: 🇮🇳印度中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33018, type: vmess, uuid: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: in-01.v4vip.top, udp: true}
+- {name: 🇦🇺澳大利亚中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33019, type: vmess, uuid: ee3071fb-ac19-4766-aea2-267c2ccc6b1b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: au-01.v4vip.top, udp: true}
