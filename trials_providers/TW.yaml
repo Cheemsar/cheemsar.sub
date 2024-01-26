@@ -7,12 +7,12 @@ proxies:
 - {name: 🇹🇼 GCP-TW1-20240117 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: b0c75d95-eb77-4e3b-aa1d-336fefb02d33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
 - {name: 🇹🇼 GCP-TW2-20240117 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: b0c75d95-eb77-4e3b-aa1d-336fefb02d33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
 - {name: 🇹🇼 GCP-TW3-20240117 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: b0c75d95-eb77-4e3b-aa1d-336fefb02d33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gdct001.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 7486cfec-d43a-42e7-98f1-77896cf3342e, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gdct003.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 7486cfec-d43a-42e7-98f1-77896cf3342e, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: shcm002.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 7486cfec-d43a-42e7-98f1-77896cf3342e, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gdct001.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 7486cfec-d43a-42e7-98f1-77896cf3342e, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gdct003.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 7486cfec-d43a-42e7-98f1-77896cf3342e, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: shcm002.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 7486cfec-d43a-42e7-98f1-77896cf3342e, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gdct001.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: da483e23-2cb1-43c5-af47-513c3be7d546, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gdct003.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: da483e23-2cb1-43c5-af47-513c3be7d546, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: shcm002.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: da483e23-2cb1-43c5-af47-513c3be7d546, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gdct001.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: da483e23-2cb1-43c5-af47-513c3be7d546, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gdct003.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: da483e23-2cb1-43c5-af47-513c3be7d546, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: shcm002.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: da483e23-2cb1-43c5-af47-513c3be7d546, udp: true}
 - {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 9b6a2257-677f-4b8a-acf1-09a3a50b8151, udp: true}
 - {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 9b6a2257-677f-4b8a-acf1-09a3a50b8151, udp: true}
 - {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 9b6a2257-677f-4b8a-acf1-09a3a50b8151, udp: true}
