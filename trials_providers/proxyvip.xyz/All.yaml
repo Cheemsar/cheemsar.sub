@@ -1,23 +1,23 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31001, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31002, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31003, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅳ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31004, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: hk-04.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31006, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31007, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31008, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31009, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31011, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31012, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31013, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: jp-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本中继Ⅱ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31014, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: jp-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31015, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31016, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪德国中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31017, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: de-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳印度中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31018, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: in-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺澳大利亚中继Ⅰ-Trojan - Proxyvip, server: gdyyds1.76po.com, port: 31019, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: au-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31001, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31002, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31003, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅳ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31004, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: hk-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31006, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31007, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31008, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31009, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31011, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31012, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31013, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: jp-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本中继Ⅱ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31014, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: jp-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31015, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31016, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪德国中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31017, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: de-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳印度中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31018, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: in-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺澳大利亚中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31019, type: trojan, password: b848837f-a9fd-48bc-94b1-d989cca04bce, sni: au-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港中继Ⅰ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33001, type: vmess, uuid: b848837f-a9fd-48bc-94b1-d989cca04bce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-01.v4vip.top, udp: true}
 - {name: 🇭🇰香港中继Ⅱ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33002, type: vmess, uuid: b848837f-a9fd-48bc-94b1-d989cca04bce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-02.v4vip.top, udp: true}
 - {name: 🇭🇰香港中继Ⅲ-V2ray - Proxyvip, server: myyyds.76po.com, port: 33003, type: vmess, uuid: b848837f-a9fd-48bc-94b1-d989cca04bce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-03.v4vip.top, udp: true}
