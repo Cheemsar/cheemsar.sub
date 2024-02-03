@@ -5,12 +5,12 @@ proxies:
 - {name: 官方TG售后通知频道：https://t.me/Qhcygf - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
 - {name: ℹ 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: df6703d3-78dc-331c-a10f-b2aed67b6422, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: df6703d3-78dc-331c-a10f-b2aed67b6422, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 7d95e6f0-4a8e-41bb-b287-8f74eacc3c2a, udp: true}
-- {name: ℹ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 7d95e6f0-4a8e-41bb-b287-8f74eacc3c2a, udp: true}
+- {name: ℹ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: e7419262-46bf-44f3-b252-bc7611340c2d, udp: true}
+- {name: ℹ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: e7419262-46bf-44f3-b252-bc7611340c2d, udp: true}
 - {name: ℹ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 3f1814b0-a66b-4290-9488-f77a9b4c739e, udp: true}
 - {name: 距离下次重置剩余：1 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 1d878a05-063f-49e2-8a29-8ae6d53a3ceb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: cbb283e9-b2f4-4aa2-be25-83ea1356869c, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ 导航网址：https://proxyvip.github.io - Proxyvip, server: cqyyds.76po.com, port: 31001, type: trojan, password: 35077954-8335-46e8-a185-a0a6054b5ab5, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: ℹ 导航网址：https://proxyvip.github.io - Proxyvip, server: cqyyds.76po.com, port: 31001, type: trojan, password: c289f204-780b-4cc0-8eb5-5ec8f866bc7f, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 7ff16029-3d49-4d88-b2c6-b5d009d85505, udp: true}
 - {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 7ff16029-3d49-4d88-b2c6-b5d009d85505, udp: true}
 - {name: ℹ 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: 7ff16029-3d49-4d88-b2c6-b5d009d85505, udp: true}
