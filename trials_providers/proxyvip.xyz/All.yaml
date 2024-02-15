@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: ℹ 导航网址：https://proxyvip.github.io - Proxyvip, server: cqyyds.76po.com, port: 31001, type: trojan, password: f852fc0a-b2d2-41b8-aec1-4b7f934b2f58, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31001, type: trojan, password: f852fc0a-b2d2-41b8-aec1-4b7f934b2f58, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31002, type: trojan, password: f852fc0a-b2d2-41b8-aec1-4b7f934b2f58, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31003, type: trojan, password: f852fc0a-b2d2-41b8-aec1-4b7f934b2f58, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
