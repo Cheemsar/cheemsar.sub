@@ -67,7 +67,7 @@ proxy-groups:
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
-- name: 🤖 ‍OpenAI+Bing
+- name: 🤖 ‍AI
   type: select
   proxies:
   - 🎏 ‍其他
@@ -164,19 +164,19 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, udp: true}
-- {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, udp: true}
-- {name: ℹ 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, udp: true}
-- {name: 🇭🇰 香港隧道0-NF-TK-GP - giao云, server: myyyds.76po.com, port: 25981, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 1128hk.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 35351, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 1007hk1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: vip01.svip.xn--fiqa108dbd596g538d.com, port: 21228, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 1007hk2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 26982, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 1024jp9.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: vip01.svip.xn--fiqa108dbd596g538d.com, port: 10089, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 23658, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 1024sg1.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡隧道2-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 22651, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 1028sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 25987, type: ss, cipher: aes-256-gcm, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, udp: true}
-- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 26897, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 36251, type: trojan, password: 3c3e243f-5460-4393-91cd-14a381d71cb0, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: ℹ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3b1a50-f391-4e58-8991-e375518ff353, udp: true}
+- {name: ℹ 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3b1a50-f391-4e58-8991-e375518ff353, udp: true}
+- {name: ℹ 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: 1f3b1a50-f391-4e58-8991-e375518ff353, udp: true}
+- {name: 🇭🇰 香港隧道0-NF-TK-GP - giao云, server: myyyds.76po.com, port: 25981, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 1128hk.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 35351, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 1007hk1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: vip01.svip.xn--fiqa108dbd596g538d.com, port: 21228, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 1007hk2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 26982, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 1024jp9.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: vip01.svip.xn--fiqa108dbd596g538d.com, port: 10089, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 23658, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 1024sg1.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡隧道2-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 22651, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 1028sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 25987, type: ss, cipher: aes-256-gcm, password: 1f3b1a50-f391-4e58-8991-e375518ff353, udp: true}
+- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 26897, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: myyyds.76po.com, port: 36251, type: trojan, password: 1f3b1a50-f391-4e58-8991-e375518ff353, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1911,10 +1911,14 @@ rules:
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
-- DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
+- DOMAIN-SUFFIX,openai.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
+- DOMAIN-SUFFIX,bing.com,🤖 ‍AI
+- DOMAIN,copilot.microsoft.com,🤖 ‍AI
+- DOMAIN,gemini.google.com,🤖 ‍AI
+- DOMAIN-SUFFIX,claude.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,anthropic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
