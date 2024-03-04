@@ -67,20 +67,20 @@ proxies:
 - {name: 🇹🇼 🇨🇳 台湾节点2 速度炸裂（各种意义） - Cfcloud, server: gzdx.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点3 速度炸裂（各种意义） - Cfcloud, server: llp-shct.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点4 速度炸裂（各种意义） - Cfcloud, server: hzdx.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: node000001.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: ce2d72ad-09ca-43f9-9436-1bd2584bbf4c, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: node000003.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: ce2d72ad-09ca-43f9-9436-1bd2584bbf4c, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: node000005.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: ce2d72ad-09ca-43f9-9436-1bd2584bbf4c, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: node000001.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: ce2d72ad-09ca-43f9-9436-1bd2584bbf4c, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: node000003.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: ce2d72ad-09ca-43f9-9436-1bd2584bbf4c, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: node000005.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: ce2d72ad-09ca-43f9-9436-1bd2584bbf4c, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: node000001.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: bbc78ea5-ba14-4b4c-bd15-3e38d77a6cb9, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: node000003.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: bbc78ea5-ba14-4b4c-bd15-3e38d77a6cb9, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: node000005.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: bbc78ea5-ba14-4b4c-bd15-3e38d77a6cb9, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: node000001.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: bbc78ea5-ba14-4b4c-bd15-3e38d77a6cb9, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: node000003.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: bbc78ea5-ba14-4b4c-bd15-3e38d77a6cb9, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: node000005.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: bbc78ea5-ba14-4b4c-bd15-3e38d77a6cb9, udp: true}
 - {name: 🇹🇼 台湾家宽 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 12044, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 台湾家宽 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 10239, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 台湾家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 深台专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 17652, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 唯云莞台iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 42331, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: node000001.likeone.lol, port: 64850, type: trojan, password: 298c1e9f-038a-4020-8af0-d7d1babcb7dd, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: node000003.likeone.lol, port: 64850, type: trojan, password: 298c1e9f-038a-4020-8af0-d7d1babcb7dd, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB, server: node000005.likeone.lol, port: 64850, type: trojan, password: 298c1e9f-038a-4020-8af0-d7d1babcb7dd, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: node000005.likeone.lol, port: 47557, type: trojan, password: 298c1e9f-038a-4020-8af0-d7d1babcb7dd, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: node000001.likeone.lol, port: 47557, type: trojan, password: 298c1e9f-038a-4020-8af0-d7d1babcb7dd, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: node000003.likeone.lol, port: 47557, type: trojan, password: 298c1e9f-038a-4020-8af0-d7d1babcb7dd, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: node000001.likeone.lol, port: 64850, type: trojan, password: 83ee3c96-9f26-4ab4-85af-92204fa6310e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: node000003.likeone.lol, port: 64850, type: trojan, password: 83ee3c96-9f26-4ab4-85af-92204fa6310e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB, server: node000005.likeone.lol, port: 64850, type: trojan, password: 83ee3c96-9f26-4ab4-85af-92204fa6310e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB, server: node000005.likeone.lol, port: 47557, type: trojan, password: 83ee3c96-9f26-4ab4-85af-92204fa6310e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: node000001.likeone.lol, port: 47557, type: trojan, password: 83ee3c96-9f26-4ab4-85af-92204fa6310e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: node000003.likeone.lol, port: 47557, type: trojan, password: 83ee3c96-9f26-4ab4-85af-92204fa6310e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
