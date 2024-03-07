@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国隧道 - giao云, server: 101.89.110.225, port: 32521, type: trojan, password: 40e3c273-9b87-4c83-a462-f4b486093144, sni: 33us.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国隧道 - giao云, server: 101.89.110.225, port: 32521, type: trojan, password: ff993df3-6dc0-480a-91b5-24dc02ba7d4f, sni: 33us.ljydw.top, skip-cert-verify: true, udp: true}
