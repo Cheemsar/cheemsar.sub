@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本隧道1-NF-TK-GPT - giao云, server: 101.89.110.225, port: 36258, type: trojan, password: f6194b36-1ab4-4eee-9330-d756057a2ecc, sni: 33jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本隧道1-NF-TK-GPT - giao云, server: 101.89.110.225, port: 36258, type: trojan, password: f5bf4a3c-cf68-47d3-bcb7-6fb7fdc3c3e4, sni: 33jp.ljydw.top, skip-cert-verify: true, udp: true}
