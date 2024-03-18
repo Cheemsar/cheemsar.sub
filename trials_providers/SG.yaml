@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: 9sZ6LZE7SRsxS6CV, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: 9sZ6LZE7SRsxS6CV, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: 9sZ6LZE7SRsxS6CV, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: 9sZ6LZE7SRsxS6CV, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: VDThV61S2xAK38Em, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: VDThV61S2xAK38Em, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: VDThV61S2xAK38Em, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: VDThV61S2xAK38Em, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 11143, type: trojan, password: 22b34976-e179-3bd6-9d06-6c283766f222, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 21143, type: trojan, password: 22b34976-e179-3bd6-9d06-6c283766f222, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 31143, type: trojan, password: 22b34976-e179-3bd6-9d06-6c283766f222, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
@@ -30,11 +30,11 @@ proxies:
 - {name: 🇸🇬 新加坡1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22224, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
 - {name: 🇸🇬 新加坡2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22224, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
 - {name: 🇸🇬 新加坡3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22224, type: ss, cipher: aes-128-gcm, password: 91f944f4-0d02-4b78-8a5b-9c03d5441bd2, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: bc1e48e1-9531-39b2-9f34-9d97252dfb70, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: bc1e48e1-9531-39b2-9f34-9d97252dfb70, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: bc1e48e1-9531-39b2-9f34-9d97252dfb70, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: bc1e48e1-9531-39b2-9f34-9d97252dfb70, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: bc1e48e1-9531-39b2-9f34-9d97252dfb70, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 44f2e3af-9b69-3487-93cf-f753cbc2af4c, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 44f2e3af-9b69-3487-93cf-f753cbc2af4c, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 44f2e3af-9b69-3487-93cf-f753cbc2af4c, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 44f2e3af-9b69-3487-93cf-f753cbc2af4c, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 44f2e3af-9b69-3487-93cf-f753cbc2af4c, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sh.zj.my1.2.76po.com, port: 31011, type: trojan, password: 72c4b790-3ecb-4e03-aff0-96b1387af9a6, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sh.zj.my1.2.76po.com, port: 31012, type: trojan, password: 72c4b790-3ecb-4e03-aff0-96b1387af9a6, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33011, type: vmess, uuid: 72c4b790-3ecb-4e03-aff0-96b1387af9a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
@@ -67,8 +67,8 @@ proxies:
 - {name: 🇸🇬 新加坡 03 - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
 - {name: 🇸🇬 新加坡 04 - V2Link, server: host-034.crazyspeed.xyz, port: 10354, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
 - {name: 🇸🇬 新加坡 05 - V2Link, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: 92edc33b-54cf-3376-8b6a-0953089df713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: 92edc33b-54cf-3376-8b6a-0953089df713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: 29f6afab-7e89-3398-814c-a8f0797d73eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: 29f6afab-7e89-3398-814c-a8f0797d73eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 48944, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
 - {name: 🇸🇬新加坡-直连A - 青花瓷云qhcy.cc, server: sg-v32.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-v32.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sgv32, headers: {Host: sg-v32.q5wrff7jtkdg23.top}}, udp: true}
 - {name: 🇸🇬新加坡-直连B-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg-v32.q5wrf7jtkd23.top}}, udp: true}
@@ -77,6 +77,6 @@ proxies:
 - {name: 🇸🇬新加坡-直连E - 青花瓷云qhcy.cc, server: sg2.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg2.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sg2, headers: {Host: sg2.q5wrff7jtkdg23.top}}, udp: true}
 - {name: 🇸🇬新加坡-直连F-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg2.q5wrf7jtkd23.top}}, udp: true}
 - {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 58.242.130.102, port: 26025, type: vmess, uuid: c8da6dc3-6578-478a-bac5-fb1776a9b2c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: 101.89.110.225, port: 36222, type: trojan, password: 52605b9e-3e09-42d3-8fc7-f96d8e524641, sni: 36sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: 101.89.110.225, port: 36222, type: trojan, password: a4a79644-aa3f-4464-847d-ec57d9040dfb, sni: 36sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: e342b055-8576-3c08-9c76-f611b9a553d5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: e342b055-8576-3c08-9c76-f611b9a553d5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
