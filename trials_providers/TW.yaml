@@ -4,10 +4,10 @@ proxies:
 - {name: 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network, server: tw1.daishuvpn.win, port: 443, type: vmess, uuid: 152ea38c-1b7a-4c1e-b17d-8f68c9ae7366, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.daishuvpn.win}}, udp: true}
 - {name: 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network, server: tw2.daishuvpn.win, port: 443, type: vmess, uuid: 152ea38c-1b7a-4c1e-b17d-8f68c9ae7366, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.daishuvpn.win}}, udp: true}
 - {name: 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network, server: tw3.daishuvpn.win, port: 443, type: vmess, uuid: 152ea38c-1b7a-4c1e-b17d-8f68c9ae7366, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.daishuvpn.win}}, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: VDThV61S2xAK38Em, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: VDThV61S2xAK38Em, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: gz.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: VDThV61S2xAK38Em, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: gz.xiyun.co, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: VDThV61S2xAK38Em, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: YsqK1g8QWXrz0fqQ, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: YsqK1g8QWXrz0fqQ, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: gz.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: YsqK1g8QWXrz0fqQ, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: gz.xiyun.co, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: YsqK1g8QWXrz0fqQ, udp: true}
 - {name: 🇹🇼 vip1 台湾-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 9821147f-374a-4267-b9e6-2ebc2556a1c5, udp: true}
 - {name: 🇹🇼 vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 9821147f-374a-4267-b9e6-2ebc2556a1c5, udp: true}
 - {name: 🇹🇼 vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 9821147f-374a-4267-b9e6-2ebc2556a1c5, udp: true}
@@ -70,16 +70,16 @@ proxies:
 - {name: 🇹🇼 台湾家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 深台专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 17652, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 唯云莞台iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 42331, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
-- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: b019a0bc-a5a5-4968-a2fc-7004dd35b5a3, udp: true}
-- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: b019a0bc-a5a5-4968-a2fc-7004dd35b5a3, udp: true}
-- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: b019a0bc-a5a5-4968-a2fc-7004dd35b5a3, udp: true}
+- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 6afae4c3-1497-4ba1-b7bd-bee00d5652bd, udp: true}
+- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 6afae4c3-1497-4ba1-b7bd-bee00d5652bd, udp: true}
+- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 6afae4c3-1497-4ba1-b7bd-bee00d5652bd, udp: true}
 - {name: 🇹🇼 台湾 01 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
 - {name: 🇹🇼 台湾 02 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
 - {name: 🇹🇼 台湾 03 - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 29f6afab-7e89-3398-814c-a8f0797d73eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 29f6afab-7e89-3398-814c-a8f0797d73eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 101.89.110.225, port: 36529, type: trojan, password: a4a79644-aa3f-4464-847d-ec57d9040dfb, sni: 36hk.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: 101.89.110.225, port: 25871, type: trojan, password: a4a79644-aa3f-4464-847d-ec57d9040dfb, sni: 35tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: f38e3c87-c648-342e-8db9-56c72d6c5f67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: f38e3c87-c648-342e-8db9-56c72d6c5f67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 101.89.110.225, port: 36529, type: trojan, password: b6f4f433-9ab2-4e68-94e3-e36aac824801, sni: 36hk.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: 101.89.110.225, port: 25871, type: trojan, password: b6f4f433-9ab2-4e68-94e3-e36aac824801, sni: 35tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点 速度炸裂（各种意义） - Cfcloud, server: 159.27.84.110, port: 26759, type: ss, cipher: chacha20-ietf-poly1305, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点2 速度炸裂（各种意义） - Cfcloud, server: gzdx.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点3 速度炸裂（各种意义） - Cfcloud, server: llp-shct.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
