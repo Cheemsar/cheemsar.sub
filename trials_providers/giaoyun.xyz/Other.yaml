@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 永久中转页giao123.top - giao云, server: giao123.top, port: 36222, type: ss, cipher: chacha20-ietf-poly1305, password: c2419dee-33ff-4ac1-b2b7-b7181221f6b6, udp: true}
-- {name: 客户端下载giao123.top - giao云, server: 5.5.9.9, port: 6661, type: ss, cipher: chacha20-ietf-poly1305, password: c2419dee-33ff-4ac1-b2b7-b7181221f6b6, udp: true}
-- {name: ℹ️ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: c2419dee-33ff-4ac1-b2b7-b7181221f6b6, udp: true}
-- {name: 🇷🇺 俄罗斯隧道 - giao云, server: 101.89.110.225, port: 36585, type: trojan, password: c2419dee-33ff-4ac1-b2b7-b7181221f6b6, sni: 33ru.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: 101.89.110.225, port: 10081, type: trojan, password: c2419dee-33ff-4ac1-b2b7-b7181221f6b6, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 永久中转页giao123.top - giao云, server: giao123.top, port: 36222, type: ss, cipher: chacha20-ietf-poly1305, password: dad13c49-94ed-4b03-a913-ad3689f42533, udp: true}
+- {name: 客户端下载giao123.top - giao云, server: 5.5.9.9, port: 6661, type: ss, cipher: chacha20-ietf-poly1305, password: dad13c49-94ed-4b03-a913-ad3689f42533, udp: true}
+- {name: ℹ️ 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: dad13c49-94ed-4b03-a913-ad3689f42533, udp: true}
+- {name: 🇷🇺 俄罗斯隧道 - giao云, server: 101.89.110.225, port: 36585, type: trojan, password: dad13c49-94ed-4b03-a913-ad3689f42533, sni: 33ru.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: 101.89.110.225, port: 10081, type: trojan, password: dad13c49-94ed-4b03-a913-ad3689f42533, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
