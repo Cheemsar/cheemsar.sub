@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 88ec9d0b-0d54-4004-a0b7-4525b0b0d1d9, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 88ec9d0b-0d54-4004-a0b7-4525b0b0d1d9, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 88ec9d0b-0d54-4004-a0b7-4525b0b0d1d9, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 88ec9d0b-0d54-4004-a0b7-4525b0b0d1d9, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 88ec9d0b-0d54-4004-a0b7-4525b0b0d1d9, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 88ec9d0b-0d54-4004-a0b7-4525b0b0d1d9, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 14c3fefa-6b97-4480-9f98-3a36a59a3cec, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 14c3fefa-6b97-4480-9f98-3a36a59a3cec, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 14c3fefa-6b97-4480-9f98-3a36a59a3cec, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 14c3fefa-6b97-4480-9f98-3a36a59a3cec, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 14c3fefa-6b97-4480-9f98-3a36a59a3cec, udp: true}
+- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 14c3fefa-6b97-4480-9f98-3a36a59a3cec, udp: true}
