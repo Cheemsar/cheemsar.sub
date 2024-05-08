@@ -123,8 +123,8 @@ proxies:
 - {name: 🇭🇰 Video 香港C-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9052, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5635e92933.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 912, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5635e92933.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港II-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 840, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5635e92933.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: c6e00e1d-919c-4ef3-b224-90bc58cd9e31, udp: true}
-- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: c6e00e1d-919c-4ef3-b224-90bc58cd9e31, udp: true}
+- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
+- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
 - {name: 🇭🇰 香港隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 22267, type: trojan, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, sni: 418hk1.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 26881, type: trojan, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, sni: 418hk2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: WpO8xvHqxerslYle, udp: true}
