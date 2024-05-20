@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31001, type: trojan, password: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31002, type: trojan, password: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31003, type: trojan, password: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅳ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31004, type: trojan, password: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, sni: hk-04.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33001, type: vmess, uuid: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-01.v4vip.top, udp: true}
-- {name: 🇭🇰香港中继Ⅱ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33002, type: vmess, uuid: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-02.v4vip.top, udp: true}
-- {name: 🇭🇰香港中继Ⅲ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33003, type: vmess, uuid: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-03.v4vip.top, udp: true}
-- {name: 🇭🇰香港中继Ⅳ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33004, type: vmess, uuid: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
-- {name: 🇭🇰香港中继Ⅴ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33005, type: vmess, uuid: ecb2a46a-1d24-4447-bb0f-7b5af8e456a9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31001, type: trojan, password: b15cf292-c168-4f31-992f-e9b71d86c3e5, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31002, type: trojan, password: b15cf292-c168-4f31-992f-e9b71d86c3e5, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31003, type: trojan, password: b15cf292-c168-4f31-992f-e9b71d86c3e5, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅳ-Trojan - Proxyvip, server: sz.zj.my.1.76po.com, port: 31004, type: trojan, password: b15cf292-c168-4f31-992f-e9b71d86c3e5, sni: hk-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33001, type: vmess, uuid: b15cf292-c168-4f31-992f-e9b71d86c3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-01.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅱ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33002, type: vmess, uuid: b15cf292-c168-4f31-992f-e9b71d86c3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-02.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅲ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33003, type: vmess, uuid: b15cf292-c168-4f31-992f-e9b71d86c3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-03.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅳ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33004, type: vmess, uuid: b15cf292-c168-4f31-992f-e9b71d86c3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
+- {name: 🇭🇰香港中继Ⅴ-V2ray - Proxyvip, server: sz.zj.my.1.76po.com, port: 33005, type: vmess, uuid: b15cf292-c168-4f31-992f-e9b71d86c3e5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
