@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: aaf7d7f8-2b24-30e6-b8ad-ef6a1d038f6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: aaf7d7f8-2b24-30e6-b8ad-ef6a1d038f6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: 01f94fb6-bf11-3443-b41c-ae1293d8748e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: 01f94fb6-bf11-3443-b41c-ae1293d8748e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡-中转A - 青花瓷云qhcy.cc, server: lt.q5wrf7jtkd23.top, port: 48944, type: ss, cipher: chacha20-ietf-poly1305, password: 794ca05e-75b5-446f-9eeb-a87ec793f079, udp: true}
 - {name: 🇸🇬新加坡-直连A - 青花瓷云qhcy.cc, server: sg-v32.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-v32.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sgv32, headers: {Host: sg-v32.q5wrff7jtkdg23.top}}, udp: true}
 - {name: 🇸🇬新加坡-直连B-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg-v32.q5wrf7jtkd23.top}}, udp: true}
@@ -11,10 +11,10 @@ proxies:
 - {name: 🇸🇬新加坡-直连E - 青花瓷云qhcy.cc, server: sg2.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg2.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /sg2, headers: {Host: sg2.q5wrff7jtkdg23.top}}, udp: true}
 - {name: 🇸🇬新加坡-直连F-优化 - 青花瓷云qhcy.cc, server: cf-test.q5wrf7jtkd23.top, port: 2082, type: vmess, uuid: 794ca05e-75b5-446f-9eeb-a87ec793f079, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg2.q5wrf7jtkd23.top}}, udp: true}
 - {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 36222, type: trojan, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, sni: 36sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: N3cAKP3nGYfM4Jte, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: N3cAKP3nGYfM4Jte, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: N3cAKP3nGYfM4Jte, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: N3cAKP3nGYfM4Jte, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: zFGObxOJYAeHuWjt, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: zFGObxOJYAeHuWjt, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: zFGObxOJYAeHuWjt, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: zFGObxOJYAeHuWjt, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sg-01.01-vip.top, port: 31011, type: trojan, password: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.01-vip.top, port: 31012, type: trojan, password: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sg-01.03-vip.top, port: 33011, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
@@ -70,8 +70,8 @@ proxies:
 - {name: 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB, server: gcdddd0003.likeone.lol, port: 58464, type: trojan, password: 2ee319f7-1b4b-4805-9863-5d7fbc5f008b, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 58464, type: trojan, password: 2ee319f7-1b4b-4805-9863-5d7fbc5f008b, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 58464, type: trojan, password: 2ee319f7-1b4b-4805-9863-5d7fbc5f008b, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 23b70c70-7c3d-3e65-a6f5-f198128cd393, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 23b70c70-7c3d-3e65-a6f5-f198128cd393, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 48acce0e-18b3-3edb-919d-c24c1de8ab9d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 48acce0e-18b3-3edb-919d-c24c1de8ab9d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 1 - DO - SockBoom, server: nk8.boom.skin, port: 18000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025031:VEn1by, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 2 - DO - SockBoom, server: nk9.boom.skin, port: 19000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025031:VEn1by, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 3 - DO - SockBoom, server: nka.boom.skin, port: 20000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1025031:VEn1by, obfs-param: download.windowsupdate.com, udp: true}
