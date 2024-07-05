@@ -200,9 +200,9 @@ proxies:
 - {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 3a4c835b-c3fb-3a02-9a11-bb2a955a69f1, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 3a4c835b-c3fb-3a02-9a11-bb2a955a69f1, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 3a4c835b-c3fb-3a02-9a11-bb2a955a69f1, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b877f34f-c7e4-4d86-b95f-40178544ce3a, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b877f34f-c7e4-4d86-b95f-40178544ce3a, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b877f34f-c7e4-4d86-b95f-40178544ce3a, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 5f87efaf-cb82-47ca-9709-861dc876e1c9, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 5f87efaf-cb82-47ca-9709-861dc876e1c9, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 5f87efaf-cb82-47ca-9709-861dc876e1c9, udp: true}
 - {name: 🇰🇷 Game 韩国01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 803, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 7d52395892.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 806, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 7d52395892.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 913, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 7d52395892.download.windowsupdate.com}, udp: true}

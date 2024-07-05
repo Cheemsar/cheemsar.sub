@@ -701,9 +701,9 @@ proxies:
 - {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: 8e401a76-7dc9-416b-989e-9ff6c34859e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸K - 探索者, server: 603diyb.donghui.tech, port: 32338, type: vmess, uuid: 8e401a76-7dc9-416b-989e-9ff6c34859e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸L - 探索者, server: 603diya.donghui.tech, port: 34645, type: vmess, uuid: 8e401a76-7dc9-416b-989e-9ff6c34859e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b877f34f-c7e4-4d86-b95f-40178544ce3a, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b877f34f-c7e4-4d86-b95f-40178544ce3a, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b877f34f-c7e4-4d86-b95f-40178544ce3a, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 5f87efaf-cb82-47ca-9709-861dc876e1c9, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 5f87efaf-cb82-47ca-9709-861dc876e1c9, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 5f87efaf-cb82-47ca-9709-861dc876e1c9, udp: true}
 - {name: 🇺🇸 美国01 - Cfcloud, server: llp-shct.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
 - {name: 🇺🇸 美国02 - Cfcloud, server: gzdx.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点 速度炸裂（各种意义） - Cfcloud, server: 159.27.84.110, port: 26759, type: ss, cipher: chacha20-ietf-poly1305, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
