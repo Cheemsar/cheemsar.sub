@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: IWnJ0NlQU8MoCJVJ, udp: true}
-- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: IWnJ0NlQU8MoCJVJ, udp: true}
-- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: IWnJ0NlQU8MoCJVJ, udp: true}
-- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: IWnJ0NlQU8MoCJVJ, udp: true}
-- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: IWnJ0NlQU8MoCJVJ, udp: true}
-- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: IWnJ0NlQU8MoCJVJ, udp: true}
-- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: IWnJ0NlQU8MoCJVJ, udp: true}
+- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 9fJzSchyDEgY4yz1, udp: true}
+- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 9fJzSchyDEgY4yz1, udp: true}
+- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 9fJzSchyDEgY4yz1, udp: true}
+- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 9fJzSchyDEgY4yz1, udp: true}
+- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 9fJzSchyDEgY4yz1, udp: true}
+- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: 9fJzSchyDEgY4yz1, udp: true}
+- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: 9fJzSchyDEgY4yz1, udp: true}
 - {name: 🇺🇸 美国 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 26998, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇺🇸 美国 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 46255, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇺🇸 美国 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 26999, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
@@ -162,11 +162,11 @@ proxies:
 - {name: 🇺🇸 v2ray 美国阿什本节点VIP A-CDN - 紫云VPN服务商, server: amv.997755.xyz, port: 443, type: vmess, uuid: 58dcafe8-5db5-379e-9700-e652e4495acf, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: amv.997755.xyz}}, udp: true}
 - {name: 🇺🇸 v2ray 美国阿什本节点VIP B-CDN - 紫云VPN服务商, server: aab.997755.xyz, port: 443, type: vmess, uuid: 58dcafe8-5db5-379e-9700-e652e4495acf, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: aab.997755.xyz}}, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 1d878a05-063f-49e2-8a29-8ae6d53a3ceb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: b5df597d-b843-345e-bc46-e7a95ef6507d, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: b5df597d-b843-345e-bc46-e7a95ef6507d, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: b5df597d-b843-345e-bc46-e7a95ef6507d, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: 2aea24f7-a9b6-3b2f-b270-5e0acb9804b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: 2aea24f7-a9b6-3b2f-b270-5e0acb9804b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: cd5471f0-3c6f-35c8-be91-3d612ef4bede, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: cd5471f0-3c6f-35c8-be91-3d612ef4bede, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: cd5471f0-3c6f-35c8-be91-3d612ef4bede, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: 2423a5f7-16ea-373f-9a6c-c7655a089fb9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: 2423a5f7-16ea-373f-9a6c-c7655a089fb9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 7760be94-d557-3f5d-a121-2d54e417ce46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
 - {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 7760be94-d557-3f5d-a121-2d54e417ce46, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
 - {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: us-01.01-vip.top, port: 31006, type: trojan, password: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
