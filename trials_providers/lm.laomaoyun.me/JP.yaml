@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01 - 老猫云, server: 548778.laomao-53875.xyz, port: 50101, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本02 - 老猫云, server: 543428.laomao-53875.xyz, port: 50102, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本03 - 老猫云, server: 543328.laomao-53875.xyz, port: 50103, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本04 - 老猫云, server: 34258.laomao-53875.xyz, port: 50104, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本05 - 老猫云, server: 51548.laomao-53875.xyz, port: 50105, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本06 - 老猫云, server: 84158.laomao-53875.xyz, port: 50106, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本07 - 老猫云, server: 457848.laomao-53875.xyz, port: 50107, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本08 - 老猫云, server: 548718.laomao-53875.xyz, port: 50108, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本09 - 老猫云, server: 548748.laomao-53875.xyz, port: 50109, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本10 - 老猫云, server: 541778.laomao-53875.xyz, port: 50110, type: trojan, password: 14f3b2f1-9caa-4257-861a-b83348f32a37, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - 老猫云, server: 548778.laomao-53875.xyz, port: 50101, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本02 - 老猫云, server: 543428.laomao-53875.xyz, port: 50102, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03 - 老猫云, server: 543328.laomao-53875.xyz, port: 50103, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04 - 老猫云, server: 34258.laomao-53875.xyz, port: 50104, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本05 - 老猫云, server: 51548.laomao-53875.xyz, port: 50105, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本06 - 老猫云, server: 84158.laomao-53875.xyz, port: 50106, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本07 - 老猫云, server: 457848.laomao-53875.xyz, port: 50107, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本08 - 老猫云, server: 548718.laomao-53875.xyz, port: 50108, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本09 - 老猫云, server: 548748.laomao-53875.xyz, port: 50109, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本10 - 老猫云, server: 541778.laomao-53875.xyz, port: 50110, type: trojan, password: e4181814-4f20-4d92-8fbd-8d3f0c0409a8, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
