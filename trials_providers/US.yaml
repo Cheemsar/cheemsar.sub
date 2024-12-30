@@ -43,14 +43,14 @@ proxies:
 - {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: U2bbpgqQ2It3mNZs, udp: true}
 - {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: U2bbpgqQ2It3mNZs, udp: true}
 - {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: U2bbpgqQ2It3mNZs, udp: true}
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, tfo: true, type: trojan, password: dd0a3ed3-59f2-3ffb-9651-eece9ac60828, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, tfo: true, type: trojan, password: dd0a3ed3-59f2-3ffb-9651-eece9ac60828, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, tfo: true, type: trojan, password: dd0a3ed3-59f2-3ffb-9651-eece9ac60828, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, tfo: true, type: trojan, password: dd0a3ed3-59f2-3ffb-9651-eece9ac60828, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, tfo: true, type: trojan, password: dd0a3ed3-59f2-3ffb-9651-eece9ac60828, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, tfo: true, type: trojan, password: dd0a3ed3-59f2-3ffb-9651-eece9ac60828, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, tfo: true, type: trojan, password: dd0a3ed3-59f2-3ffb-9651-eece9ac60828, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, tfo: true, type: trojan, password: dd0a3ed3-59f2-3ffb-9651-eece9ac60828, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 39dc4981-9e5b-3e98-9a89-889db39d7d7d, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 39dc4981-9e5b-3e98-9a89-889db39d7d7d, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 39dc4981-9e5b-3e98-9a89-889db39d7d7d, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 39dc4981-9e5b-3e98-9a89-889db39d7d7d, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 39dc4981-9e5b-3e98-9a89-889db39d7d7d, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 39dc4981-9e5b-3e98-9a89-889db39d7d7d, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 39dc4981-9e5b-3e98-9a89-889db39d7d7d, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 39dc4981-9e5b-3e98-9a89-889db39d7d7d, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国01 - Cfcloud, server: llp-shct.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
 - {name: 🇺🇸 美国02 - Cfcloud, server: gzdx.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: 9aafa7b0-467e-44e7-b10c-b8bee09d4959, udp: true}
 - {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: 623ca04f-88d6-375d-bc81-9ac298ebfb63, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
