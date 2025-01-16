@@ -12,6 +12,7 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - DIRECT
+  - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -21,6 +22,9 @@ proxy-groups:
   - ℹ️ 您还未购买服务 - 老猫云
   - 🇱🇦 请登录laomao.biz 购买 - 老猫云
   - ℹ️ 购买后请更新订阅 - 老猫云
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -51,9 +55,6 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 proxies:
 - {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 855bcee0-e907-43ea-9bee-ab9c3c862804, udp: true}
 - {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 855bcee0-e907-43ea-9bee-ab9c3c862804, udp: true}
