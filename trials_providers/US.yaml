@@ -49,7 +49,7 @@ proxies:
 - {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
 - {name: 🇺🇸 美国 04 - V2Link, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
 - {name: 🇺🇸 美国 05 - V2Link, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: f2276c64-5ea2-40ea-acd4-29a162b83527, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: f5e9aa2d-da23-3769-b23f-d5b90bf848af, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: c6cac86d-b919-3359-b060-3beca86a588b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国隧道 - giao云, server: 101.89.150.186, port: 32521, type: trojan, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, sni: 33us.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 Game 美国01-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9873, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 05839112780.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国02-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 821, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 05839112780.download.windowsupdate.com}, udp: true}
