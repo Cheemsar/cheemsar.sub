@@ -331,6 +331,7 @@ proxy-groups:
   - 🇸🇬 新加坡 02 1x - Kako Cloud
   - 🇸🇬 新加坡 03 1x - Kako Cloud
   - 🇸🇬 新加坡-01 | 1.5X - 凌云网络
+  - 🇸🇬 [vip①]新加坡1 - MG Network
   - VIP|新加坡🇸🇬02-5Gbps - 探索者
   - VIP|新加坡🇸🇬03-5Gbps - 探索者
   - VIP|新加坡🇸🇬04-5Gbps - 探索者
@@ -410,8 +411,9 @@ proxy-groups:
   - 🇯🇵 日本-01 | 2X - 凌云网络
   - 🇯🇵 日本-02 | 2X - 凌云网络
   - 🇯🇵 日本-03 | 2X - 凌云网络
-  - 🇯🇵 [vip①]②日本 - MG Network
+  - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
+  - 🇯🇵 [vip①]日本3 - MG Network
   - 日本A🇯🇵 - 探索者
   - 日本B🇯🇵 - 探索者
   - VIP｜日本004🇯🇵—5Gbps - 探索者
@@ -768,8 +770,6 @@ proxy-groups:
   - 🇳🇱 v2ray 阿姆斯特丹节点VIP 170 - 紫云VPN服务商
   - 🇳🇱 v2ray 阿姆斯特丹节点VIP CDN - 紫云VPN服务商
   - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
-  - 🇮🇳 [vip①]印度1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
@@ -1650,6 +1650,7 @@ proxy-groups:
   - 🇸🇬 新加坡 02 1x - Kako Cloud
   - 🇸🇬 新加坡 03 1x - Kako Cloud
   - 🇸🇬 新加坡-01 | 1.5X - 凌云网络
+  - 🇸🇬 [vip①]新加坡1 - MG Network
   - VIP|新加坡🇸🇬02-5Gbps - 探索者
   - VIP|新加坡🇸🇬03-5Gbps - 探索者
   - VIP|新加坡🇸🇬04-5Gbps - 探索者
@@ -1735,8 +1736,9 @@ proxy-groups:
   - 🇯🇵 日本-01 | 2X - 凌云网络
   - 🇯🇵 日本-02 | 2X - 凌云网络
   - 🇯🇵 日本-03 | 2X - 凌云网络
-  - 🇯🇵 [vip①]②日本 - MG Network
+  - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
+  - 🇯🇵 [vip①]日本3 - MG Network
   - 日本A🇯🇵 - 探索者
   - 日本B🇯🇵 - 探索者
   - VIP｜日本004🇯🇵—5Gbps - 探索者
@@ -2105,8 +2107,6 @@ proxy-groups:
   - 🇳🇱 v2ray 阿姆斯特丹节点VIP 170 - 紫云VPN服务商
   - 🇳🇱 v2ray 阿姆斯特丹节点VIP CDN - 紫云VPN服务商
   - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
-  - 🇮🇳 [vip①]印度1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
@@ -2452,17 +2452,17 @@ proxies:
 - {name: 🇬🇧 v2ray 英国伦敦节点VIP A-CDN - 紫云VPN服务商, server: xuk.997755.xyz, port: 443, type: vmess, uuid: 58dcafe8-5db5-379e-9700-e652e4495acf, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: xuk.997755.xyz}}, udp: true}
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 170 - 紫云VPN服务商, server: 104.18.147.250, port: 443, type: vmess, uuid: 58dcafe8-5db5-379e-9700-e652e4495acf, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: std.369777.xyz}}, udp: true}
 - {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP CDN - 紫云VPN服务商, server: std.369777.xyz, port: 443, type: vmess, uuid: 58dcafe8-5db5-379e-9700-e652e4495acf, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: std.369777.xyz}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: dx.miloli.me, port: 23615, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: dx.miloli.me, port: 23612, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: ydgz.miloli.me, port: 23619, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]②日本 - MG Network', server: ydgz.miloli.me, port: 23617, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: dx.miloli.me, port: 23616, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 [vip①]印度1 - MG Network', server: ydgz.miloli.me, port: 23611, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: ydgz.miloli.me, port: 23618, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: ydgz.miloli.me, port: 23605, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: dx.miloli.me, port: 23613, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: dx.miloli.me, port: 23614, type: vmess, uuid: 48da603d-d474-3aee-8e9f-049d089a3133, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: dx.miloli.me, port: 23615, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: dx.miloli.me, port: 23616, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: dx.miloli.me, port: 23612, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: ydgz.miloli.me, port: 23619, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: ydgz.miloli.me, port: 23611, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: ydgz.miloli.me, port: 23617, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: ydgz.miloli.me, port: 23618, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: ydgz.miloli.me, port: 23605, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: dx.miloli.me, port: 23613, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: dx.miloli.me, port: 23614, type: vmess, uuid: a7f0840f-fb24-3c9d-a692-2f27c44dcfc6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 您还未购买服务 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 855bcee0-e907-43ea-9bee-ab9c3c862804, udp: true}
 - {name: 🇱🇦 请登录laomao.biz 购买 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 855bcee0-e907-43ea-9bee-ab9c3c862804, udp: true}
 - {name: ℹ️ 购买后请更新订阅 - 老猫云, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 855bcee0-e907-43ea-9bee-ab9c3c862804, udp: true}
