@@ -133,9 +133,9 @@ proxies:
 - {name: 🇩🇪德国中继Ⅰ-V2ray - Proxyvip, server: de-01.03-vip.top, port: 33017, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de-01.v4vip.top, udp: true}
 - {name: 🇮🇳印度中继Ⅰ-V2ray - Proxyvip, server: in-01.03-vip.top, port: 33018, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: in-01.v4vip.top, udp: true}
 - {name: 🇦🇺澳大利亚中继Ⅰ-V2ray - Proxyvip, server: au-01.03-vip.top, port: 33019, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: au-01.v4vip.top, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 503fa208-0689-3261-801e-d773028c4191, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1|低倍率 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 503fa208-0689-3261-801e-d773028c4191, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 503fa208-0689-3261-801e-d773028c4191, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 08d06f9b-f686-3074-b68e-f163e79034b1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1|低倍率 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 08d06f9b-f686-3074-b68e-f163e79034b1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 08d06f9b-f686-3074-b68e-f163e79034b1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
