@@ -110,7 +110,7 @@ proxies:
 - {name: 🇭🇰香港中继Ⅲ-V2ray - Proxyvip, server: hk-03.03-vip.top, port: 33003, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-03.v4vip.top, udp: true}
 - {name: 🇭🇰香港中继Ⅳ-V2ray - Proxyvip, server: hk-04.03-vip.top, port: 33004, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
 - {name: 🇭🇰香港中继Ⅴ-V2ray - Proxyvip, server: hk-05.03-vip.top, port: 33005, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-04.v4vip.top, udp: true}
-- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 62ae9a1d-44c1-3691-9ea9-5eb41eed8b2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: a39c4e3c-18a3-32d5-8de4-b7f34d6e8ccf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
