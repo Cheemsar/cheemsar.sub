@@ -31,8 +31,8 @@ proxies:
 - {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.01-vip.top, port: 31012, type: trojan, password: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡中继Ⅰ-V2ray - Proxyvip, server: sg-01.03-vip.top, port: 33011, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-01.v4vip.top, udp: true}
 - {name: 🇸🇬新加坡中继Ⅱ-V2ray - Proxyvip, server: sg-02.03-vip.top, port: 33012, type: vmess, uuid: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-02.v4vip.top, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: ee635b08-a195-38a5-b537-650558d7d772, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: ee635b08-a195-38a5-b537-650558d7d772, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 593a077d-72f3-3680-8678-710a9db73d66, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 593a077d-72f3-3680-8678-710a9db73d66, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
