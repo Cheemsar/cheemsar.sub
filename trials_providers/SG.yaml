@@ -64,8 +64,8 @@ proxies:
 - {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
 - {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
 - {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 36222, type: trojan, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, sni: 36sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 5d785453-6f65-3676-8114-4d176c6911e0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 5d785453-6f65-3676-8114-4d176c6911e0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: b71e2c27-4964-3804-9855-5db18db55663, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: b71e2c27-4964-3804-9855-5db18db55663, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 58.242.130.102, port: 26025, type: vmess, uuid: c8da6dc3-6578-478a-bac5-fb1776a9b2c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: U2bbpgqQ2It3mNZs, udp: true}
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: U2bbpgqQ2It3mNZs, udp: true}
