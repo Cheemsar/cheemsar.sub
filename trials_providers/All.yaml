@@ -712,7 +712,7 @@ proxies:
 - {name: 🇺🇸 美国 AWS2 *1 - 独孤乐天, server: us-2.dugusite3.top, port: 5061, type: vmess, uuid: 50136971-9266-3d3c-bc8d-36f2123e7e5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 50136971-9266-3d3c-bc8d-36f2123e7e5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.dugusite3.top, port: 5061, type: vmess, uuid: 50136971-9266-3d3c-bc8d-36f2123e7e5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

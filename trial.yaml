@@ -895,7 +895,7 @@ proxy-groups:
   - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
   - 🇩🇪 德国 *3 - 独孤乐天
   - 🇩🇪 德国 *3 IPv6 - 独孤乐天
-  - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
+  - ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network
   - 🇰🇷 [vip①]韩国1|低倍率 - MG Network
   - ℹ️ 您还未购买服务 - 老猫云
   - 🇱🇦 请登录laomao.biz 购买 - 老猫云
@@ -2231,7 +2231,7 @@ proxy-groups:
   - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
   - 🇩🇪 德国 *3 - 独孤乐天
   - 🇩🇪 德国 *3 IPv6 - 独孤乐天
-  - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
+  - ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network
   - 🇰🇷 [vip①]韩国1|低倍率 - MG Network
   - ℹ️ 您还未购买服务 - 老猫云
   - 🇱🇦 请登录laomao.biz 购买 - 老猫云
@@ -3059,7 +3059,7 @@ proxies:
 - {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 4cebfef0-c3e0-3982-b8f3-3c80f5680274, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 【IEPL-香港-0B】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34644, type: vmess, uuid: 8e401a76-7dc9-416b-989e-9ff6c34859e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 【IEPL-香港🇭🇰-02】流媒体解锁 - 探索者, server: 603diyb.donghui.tech, port: 32336, type: vmess, uuid: 8e401a76-7dc9-416b-989e-9ff6c34859e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
