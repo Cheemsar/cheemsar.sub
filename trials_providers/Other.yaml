@@ -251,8 +251,8 @@ proxies:
 - {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
 - {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
 - {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
-- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 25c4775c-b676-3dda-902d-d7dc1b965f0b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 25c4775c-b676-3dda-902d-d7dc1b965f0b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: a72861ca-6fca-39da-9bd9-9beb12e2f102, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: a72861ca-6fca-39da-9bd9-9beb12e2f102, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
