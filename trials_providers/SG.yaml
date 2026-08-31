@@ -67,7 +67,7 @@ proxies:
 - {name: 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 59721115755.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
 - {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 88976a30-d901-4643-99e2-9e7ed8fc70b5, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: a72861ca-6fca-39da-9bd9-9beb12e2f102, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 21a36d6b-219c-314c-81af-151560b76ad8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: x83.flybar.work, skip-cert-verify: true, udp: true}

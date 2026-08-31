@@ -74,7 +74,7 @@ proxies:
 - {name: 🇹🇼 台湾1 - 湊 あくあのCrew, server: js.xzyunjiasu.icu, port: 39602, type: ss, cipher: chacha20-ietf-poly1305, password: 5ddfcd35-d0f8-4646-afd1-3e9766e46eb8, udp: true}
 - {name: 🇹🇼 台湾2 - 湊 あくあのCrew, server: sd.xzyunjiasu.icu, port: 43645, type: ss, cipher: chacha20-ietf-poly1305, password: 5ddfcd35-d0f8-4646-afd1-3e9766e46eb8, udp: true}
 - {name: 🇹🇼 台湾3 - 湊 あくあのCrew, server: sz.xzyunjiasu.icu, port: 45700, type: ss, cipher: chacha20-ietf-poly1305, password: 5ddfcd35-d0f8-4646-afd1-3e9766e46eb8, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: a72861ca-6fca-39da-9bd9-9beb12e2f102, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 21a36d6b-219c-314c-81af-151560b76ad8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
