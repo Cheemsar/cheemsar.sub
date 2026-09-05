@@ -57,8 +57,8 @@ proxies:
 - {name: 🇹🇼 vip1 台湾-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: cff55036-89ed-41af-953f-b93bc21dc66b, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: cff55036-89ed-41af-953f-b93bc21dc66b, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-06 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 38120, type: vmess, uuid: cff55036-89ed-41af-953f-b93bc21dc66b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 26d08852-08d4-35b3-af34-b95e706841af, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 26d08852-08d4-35b3-af34-b95e706841af, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: bd5abcfb-7a55-3c8a-87f6-db10abb56baf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: bd5abcfb-7a55-3c8a-87f6-db10abb56baf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: hk-01.01-vip.top, port: 31001, type: trojan, password: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: hk-02.01-vip.top, port: 31002, type: trojan, password: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: hk-03.01-vip.top, port: 31003, type: trojan, password: d94def9c-50f4-4fc2-92d2-8a8fa75afc2e, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
