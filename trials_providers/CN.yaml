@@ -96,8 +96,8 @@ proxies:
 - {name: 🇭🇰 唯云莞港iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 43193, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 唯云莞台iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 42331, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇲🇴 澳门 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 19889, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
-- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mgjiasuyunnet.26621689.xyz, port: 23612, type: vmess, uuid: e009a8a3-e7ad-372f-888a-6445316e90e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mgjiasuyunnet.26621689.xyz, port: 23619, type: vmess, uuid: e009a8a3-e7ad-372f-888a-6445316e90e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mgjiasuyunnet.26621689.xyz, port: 23612, type: vmess, uuid: fb7402b1-4a85-397a-8fad-b7a19c03cc9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mgjiasuyunnet.26621689.xyz, port: 23619, type: vmess, uuid: fb7402b1-4a85-397a-8fad-b7a19c03cc9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 44da4684-2d43-4226-8e74-2cca7194a377, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: 44da4684-2d43-4226-8e74-2cca7194a377, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 22001, type: ss, cipher: chacha20-ietf-poly1305, password: 44da4684-2d43-4226-8e74-2cca7194a377, udp: true}

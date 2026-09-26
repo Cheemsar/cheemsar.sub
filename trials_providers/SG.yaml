@@ -13,7 +13,7 @@ proxies:
 - {name: 🇸🇬 新加坡 01 1x - Kako Cloud, server: proxy.node7.kk-proxy.pro, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇸🇬 新加坡 02 1x - Kako Cloud, server: proxy.node5.kk-proxy.pro, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇸🇬 新加坡 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 30983, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: e009a8a3-e7ad-372f-888a-6445316e90e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: fb7402b1-4a85-397a-8fad-b7a19c03cc9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 36222, type: trojan, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, sni: 36sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 623ca04f-88d6-375d-bc81-9ac298ebfb63, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 623ca04f-88d6-375d-bc81-9ac298ebfb63, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

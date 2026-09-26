@@ -72,8 +72,8 @@ proxies:
 - {name: 🇲🇲 缅甸 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 16791, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇭 泰国 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 34891, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇻🇳 越南 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 19105, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
-- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: e009a8a3-e7ad-372f-888a-6445316e90e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mgjiasuyunnet.26621689.xyz, port: 23614, type: vmess, uuid: e009a8a3-e7ad-372f-888a-6445316e90e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: fb7402b1-4a85-397a-8fad-b7a19c03cc9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mgjiasuyunnet.26621689.xyz, port: 23614, type: vmess, uuid: fb7402b1-4a85-397a-8fad-b7a19c03cc9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 44da4684-2d43-4226-8e74-2cca7194a377, udp: true}
 - {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11301, type: trojan, password: 44da4684-2d43-4226-8e74-2cca7194a377, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 永久中转页giao123.top - giao云, server: giao123.top, port: 36222, type: ss, cipher: chacha20-ietf-poly1305, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, udp: true}

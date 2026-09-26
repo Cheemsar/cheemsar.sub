@@ -19,7 +19,7 @@ proxies:
 - {name: 🇹🇼 台湾家宽 03 1x - Kako Cloud, server: hzdx.proxynode.kk-proxy.pro, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 深台专线iepl 20x - Kako Cloud, server: iplc.node2.kk-proxy.pro, port: 17652, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇹🇼 唯云莞台iplc 30x - Kako Cloud, server: iplc.node.kk-proxy.pro, port: 42331, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mgjiasuyunnet.26621689.xyz, port: 23619, type: vmess, uuid: e009a8a3-e7ad-372f-888a-6445316e90e4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mgjiasuyunnet.26621689.xyz, port: 23619, type: vmess, uuid: fb7402b1-4a85-397a-8fad-b7a19c03cc9e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾隧道1-NF-TK-GPT - giao云, server: 101.89.150.186, port: 36529, type: trojan, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, sni: 36hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: 101.89.150.186, port: 25871, type: trojan, password: 42b7dd4c-b3dd-42f7-96f0-cc9a5acdb0a9, sni: 35tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Vip1-5.广州1-台湾A | 倍率x2 - 糖果, server: cngzm01.tangguo.pro, port: 6030, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133185:KPX6AJ, obfs-param: '778b4133185.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
