@@ -2609,16 +2609,16 @@ proxies:
 - {name: 🇻🇳 越南 3x - Kako Cloud, server: others5.proxy.kk-proxy.pro, port: 19105, type: ss, cipher: chacha20-ietf-poly1305, password: a00d3057-9a69-4149-8e6a-3b14880d8b0f, udp: true}
 - {name: 🇺🇸 美国 0.025x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: a00d3057-9a69-4149-8e6a-3b14880d8b0f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uscheap.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: uscheap.mikuproxy.pro}}, udp: true}
 - {name: 🇺🇸 美国 0x - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: a00d3057-9a69-4149-8e6a-3b14880d8b0f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usfree.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: usfree.mikuproxy.pro}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mgjiasuyunnet.26621689.xyz, port: 23619, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mgjiasuyunnet.26621689.xyz, port: 23612, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mgjiasuyunnet.26621689.xyz, port: 23611, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mgjiasuyunnet.26621689.xyz, port: 23617, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mgjiasuyunnet.26621689.xyz, port: 23618, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1|低倍率 - MG Network', server: 15.mgjiasuyunnet.26621689.xyz, port: 23615, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国2|低倍率 - MG Network', server: 13.mgjiasuyunnet.26621689.xyz, port: 23613, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mgjiasuyunnet.26621689.xyz, port: 23614, type: vmess, uuid: cf48de95-6cbf-3225-a834-9bfd471cc542, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mgjiasuyunnet.26621689.xyz, port: 23619, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mgjiasuyunnet.26621689.xyz, port: 23612, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mgjiasuyunnet.26621689.xyz, port: 23616, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mgjiasuyunnet.26621689.xyz, port: 23611, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mgjiasuyunnet.26621689.xyz, port: 23617, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mgjiasuyunnet.26621689.xyz, port: 23618, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1|低倍率 - MG Network', server: 15.mgjiasuyunnet.26621689.xyz, port: 23615, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国2|低倍率 - MG Network', server: 13.mgjiasuyunnet.26621689.xyz, port: 23613, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mgjiasuyunnet.26621689.xyz, port: 23614, type: vmess, uuid: 23e12369-8093-3724-999b-1acba2b95741, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 44da4684-2d43-4226-8e74-2cca7194a377, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5205, type: ss, cipher: chacha20-ietf-poly1305, password: 44da4684-2d43-4226-8e74-2cca7194a377, udp: true}
 - {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 44da4684-2d43-4226-8e74-2cca7194a377, udp: true}
@@ -5117,6 +5117,7 @@ rules:
 - DOMAIN-SUFFIX,10musume.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,123av.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,123av.me,✈️ ‍起飞
+- DOMAIN-SUFFIX,123av.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,12bet.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,12vpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,12vpn.net,✈️ ‍起飞
@@ -5901,6 +5902,7 @@ rules:
 - DOMAIN-SUFFIX,compileheart.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,connect.facebook.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,conoha.jp,✈️ ‍起飞
+- DOMAIN-SUFFIX,console.typesafe.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,contests.twilio.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cool18.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,coolaler.com,✈️ ‍起飞
@@ -6457,6 +6459,7 @@ rules:
 - DOMAIN-SUFFIX,g.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,g0v.social,✈️ ‍起飞
 - DOMAIN-SUFFIX,g6hentai.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,ga.jspm.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,gab.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gabocorp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gagaoolala.com,✈️ ‍起飞
@@ -7267,6 +7270,7 @@ rules:
 - DOMAIN-SUFFIX,kichiku-doujinko.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,kik.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,killwall.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,kimootoko.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,kindle4rss.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,kindleren.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,kingdomsalvation.org,✈️ ‍起飞
@@ -7549,6 +7553,7 @@ rules:
 - DOMAIN-SUFFIX,minhhue.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,miningpoolhub.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ministrybooks.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,minkch.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,minzhuzhongguo.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,miraheze.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,mirdc.org.tw,✈️ ‍起飞
@@ -7610,6 +7615,7 @@ rules:
 - DOMAIN-SUFFIX,mosavi.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,motherless.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,movements.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,movie.eroterest.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,moviefap.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mpettis.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mpfinance.com,✈️ ‍起飞
@@ -7743,6 +7749,9 @@ rules:
 - DOMAIN-SUFFIX,niu.moe,✈️ ‍起飞
 - DOMAIN-SUFFIX,niusnews.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,njactb.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,njav.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,njav.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,njavtv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,nlfreevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,nmsl.website,✈️ ‍起飞
 - DOMAIN-SUFFIX,nnews.eu,✈️ ‍起飞
@@ -7992,6 +8001,7 @@ rules:
 - DOMAIN-SUFFIX,plurk.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,plus.codes,✈️ ‍起飞
 - DOMAIN-SUFFIX,pmatehunter.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,po-kaki-to.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,po2b.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,podbean.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,podcast.co,✈️ ‍起飞
@@ -9439,6 +9449,7 @@ rules:
 - DOMAIN-SUFFIX,zophar.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,zorrovpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zozotown.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,zozovideo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zpn.im,✈️ ‍起飞
 - DOMAIN-SUFFIX,zspeeder.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,zuo.la,✈️ ‍起飞
