@@ -74,7 +74,7 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, tfo: true, type: trojan, password: 5b47ee08-26ad-32d5-af78-8b517f5c2e16, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mgjiasuyunnet.26621689.xyz, port: 23612, type: vmess, uuid: 4dfd8954-fd16-31d3-9452-d84857035a2e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mgjiasuyunnet.26621689.xyz, port: 23612, type: vmess, uuid: 9bd7462d-0bd3-3ba1-9749-dd4b568547f0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 HKT｜隧道 01 - 爱猫论坛, server: 223.111.150.129, port: 36009, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 223.111.150.129, port: 36010, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 223.111.150.129, port: 36021, type: vmess, uuid: 04ab86dc-78d3-3c1c-849e-9ad9ed75ae69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
